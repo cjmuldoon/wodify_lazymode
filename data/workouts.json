@@ -1,0 +1,241 @@
+{
+  "last_updated": "2026-02-28T23:30:36",
+  "week_of": "2026-03-02",
+  "workouts": {
+    "2026-02-23": {
+      "date": "2026-02-23",
+      "day_name": "Monday",
+      "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10m calf walks\n10 Band Row, Rotate, Press\n3 Snatch Pull\n3 Hang Power Snatch\n2 mins double under practice",
+      "strength": [
+        {
+          "name": "Power Snatch",
+          "description": "1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+        },
+        {
+          "name": "Bench Press",
+          "description": "4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n06:00 6 @ 65%\n09:00 6 @ 65%\n12:00 6 @ 65%\n15:00 6 @ 65%"
+        }
+      ],
+      "metcon": {
+        "name": "CrossFit Games Open 11.1 and 14.1",
+        "type": "AMRAP",
+        "description": "10-Minute AMRAP of:\r\n30 Double-Unders\r\n15 Power Snatches, 75# / 55#",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "biceps",
+          "rear delts"
+        ],
+        "avoid": [
+          "shoulders",
+          "chest",
+          "legs",
+          "core"
+        ],
+        "reasoning": "Address pulling patterns and posterior chain balance while sparing snatches, pressing, and metcon-fatigued lower body.",
+        "suggested_exercises": [
+          "Barbell Rows 3x8",
+          "Dumbbell Curls 3x10",
+          "Rear Delt Flyes 3x12",
+          "Face Pulls 3x15"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10m calf walks\n10 Band Row, Rotate, Press\n3 Snatch Pull\n3 Hang Power Snatch\n2 mins double under practice\nPower Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBench Press | 4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n06:00 6 @ 65%\n09:00 6 @ 65%\n12:00 6 @ 65%\n15:00 6 @ 65%\nCrossFit Games Open 11.1 and 14.1 | 10-Minute AMRAP of:\r\n30 Double-Unders\r\n15 Power Snatches, 75# / 55#"
+    },
+    "2026-02-24": {
+      "date": "2026-02-24",
+      "day_name": "Tuesday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n30 second PVC Shoulde Opener\n20 second Pike Hold or Wall walk hold\n10 Scap Pull Ups\n10 Air Squats",
+      "strength": [
+        {
+          "name": "Back Squat",
+          "description": "4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 6 @ 70%\n09:00 6 @ 70%\n12:00 6 @ 70%\n15:00 6 @ 70%"
+        },
+        {
+          "name": "Shoulder Press",
+          "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "AMRAP x 8 mins\n2 Wall Walks\n10 Russian Kettlebell Swings @ 24/16kg\n5 Pull Ups\n10 Wall Balls",
+        "time_cap": "8 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "biceps",
+          "rear delts",
+          "core"
+        ],
+        "avoid": [
+          "quads",
+          "glutes",
+          "shoulders",
+          "grip"
+        ],
+        "reasoning": "Build posterior chain balance and arm hypertrophy while sparing lower body and pressing muscles from today's heavy squat/press and metcon demands.",
+        "suggested_exercises": [
+          "Barbell Rows: 3x8",
+          "Dumbbell Bicep Curls: 3x10",
+          "Face Pulls: 3x12",
+          "Ab Wheel Rollouts: 3x6-8"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n30 second PVC Shoulde Opener\n20 second Pike Hold or Wall walk hold\n10 Scap Pull Ups\n10 Air Squats\nBack Squat | 4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 6 @ 70%\n09:00 6 @ 70%\n12:00 6 @ 70%\n15:00 6 @ 70%\nShoulder Press | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nWorkout | AMRAP x 8 mins\n2 Wall Walks\n10 Russian Kettlebell Swings @ 24/16kg\n5 Pull Ups\n10 Wall Balls"
+    },
+    "2026-02-25": {
+      "date": "2026-02-25",
+      "day_name": "Wednesday",
+      "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press",
+      "strength": [
+        {
+          "name": "Clean Pull",
+          "description": "1x3 | * Throw the hips UP into the bar\n* Get Tall\n* Big Shrug + let elbows float | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+        },
+        {
+          "name": "Clean",
+          "description": "4x3 | 4 x 3\nE3MOM 15min\nBUILD 1 x 3\n00:00 3 @ 60%\nHOLD 4x3\n03:00 3 @ 70%\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "Rounds for Time",
+        "description": "5 RFT 15min cap\n10 Burpee Box Step Over\n10 Push Ups\n8 Power Cleans @ 50/35kg",
+        "time_cap": "15 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (rows)",
+          "biceps",
+          "rear delts"
+        ],
+        "avoid": [
+          "quadriceps",
+          "glutes",
+          "shoulders (anterior)",
+          "triceps"
+        ],
+        "reasoning": "Address pulling strength and arm hypertrophy while sparing lower body and pressing muscles already taxed by cleans and burpees.",
+        "suggested_exercises": [
+          "Barbell Rows: 3 x 6-8",
+          "Dumbbell Bicep Curls: 3 x 8-10",
+          "Reverse Pec Deck: 3 x 10-12",
+          "Meadows Rows: 2 x 8 per side"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\nClean Pull | 1x3 | * Throw the hips UP into the bar\n* Get Tall\n* Big Shrug + let elbows float | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nClean | 4x3 | 4 x 3\nE3MOM 15min\nBUILD 1 x 3\n00:00 3 @ 60%\nHOLD 4x3\n03:00 3 @ 70%\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\nWorkout | 5 RFT 15min cap\n10 Burpee Box Step Over\n10 Push Ups\n8 Power Cleans @ 50/35kg"
+    },
+    "2026-02-27": {
+      "date": "2026-02-27",
+      "day_name": "Friday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "CrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15)",
+        "type": "For Time",
+        "description": "For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box",
+        "time_cap": "12 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "biceps",
+          "hamstrings"
+        ],
+        "avoid": [
+          "quadriceps",
+          "glutes",
+          "shoulders",
+          "core"
+        ],
+        "reasoning": "Prioritize posterior chain balance and arm work while sparing quads/glutes/shoulders from additional volume stress.",
+        "suggested_exercises": [
+          "Barbell Rows 3x6-8",
+          "Dumbbell Curls 3x8-10",
+          "Romanian Deadlifts 3x8-10",
+          "Seal Rows 3x12-15",
+          "Hammer Curls 2x10-12"
+        ]
+      },
+      "raw_text": "CrossFit Games Open 26.1 RX'd: (Ages 16-54) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 14-lb (6kg) medicine-ball, 9 foot target, 20-inch box\nM\n: 20-lb (9kg) medicine-ball,10 foot target, 24-inch box\nPut your rep count in the comment box\nCrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box"
+    },
+    "2026-02-28": {
+      "date": "2026-02-28",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "CrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15)",
+        "type": "For Time",
+        "description": "For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box",
+        "time_cap": "12 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "biceps",
+          "shoulders (rear)"
+        ],
+        "avoid": [
+          "quads",
+          "glutes",
+          "chest",
+          "anterior shoulders"
+        ],
+        "reasoning": "Today hammers lower body and anterior chain; accessory work targets opposing muscle groups to promote balance and recovery.",
+        "suggested_exercises": [
+          "Barbell Bent-Over Rows 3x6-8",
+          "Dumbbell Curls 3x8-10",
+          "Face Pulls 3x12-15",
+          "Single-Arm Chest-Supported Dumbbell Rows 3x8-10"
+        ]
+      },
+      "raw_text": "CrossFit Games Open 26.1 RX'd: (Ages 16-54) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 14-lb (6kg) medicine-ball, 9 foot target, 20-inch box\nM\n: 20-lb (9kg) medicine-ball,10 foot target, 24-inch box\nPut your rep count in the comment box\nCrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box"
+    },
+    "2026-02-26": {
+      "date": "2026-02-26",
+      "day_name": "Thursday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats",
+      "strength": [],
+      "metcon": {
+        "name": "Workout",
+        "type": "EMOM",
+        "description": "E2MOM x 5\n30 Double Unders\n5 HSPU or Pike Push Ups\n5 T2B\nrest in time remaining\nAim for Unbroken smooth reps with fast transitions - record the time for the fastest round",
+        "time_cap": null
+      },
+      "gymnastics": [
+        "EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3 (6:00)\n10 x Beat Swing\nEMOM x 3 (9:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (12:00)\nBigger Beat Swing - Push Down on Bar\n- Put Cloth between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (15:00)\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6 (18:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nHSPU Progression (24:00 E1.5MOM x 6 -33:00)\nA) 4-6 Kipping HSPU - Focus on expolosive Kip - Aim straight up not at the wall\nB) 6 Pike HSPU\nC) 20 sec HS Hold\nDouble Under Progression\nEMOM x 8 (33:00)\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nEMOM x 5 (31:00)\nDouble Under attempts -\nDouble - single - single - single - Double\nOR aim for a smooth - controlled 30 reps every 90 seconds - relaxed shoulders & breath"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (rows)",
+          "biceps",
+          "glutes"
+        ],
+        "avoid": [
+          "shoulders",
+          "triceps",
+          "core",
+          "forearms"
+        ],
+        "reasoning": "Today heavily taxes shoulders, triceps, and grip via HSPU, T2B, and double unders. Build antagonists and posterior chain.",
+        "suggested_exercises": [
+          "Bent-over barbell rows 3x6-8",
+          "Incline dumbbell curls 3x8-10",
+          "Bulgarian split squats 3x8/side",
+          "Seal rows 2x10-12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3 (6:00)\n10 x Beat Swing\nEMOM x 3 (9:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (12:00)\nBigger Beat Swing - Push Down on Bar\n- Put Cloth between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (15:00)\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6 (18:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nHSPU Progression (24:00 E1.5MOM x 6 -33:00)\nA) 4-6 Kipping HSPU - Focus on expolosive Kip - Aim straight up not at the wall\nB) 6 Pike HSPU\nC) 20 sec HS Hold\nDouble Under Progression\nEMOM x 8 (33:00)\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nEMOM x 5 (31:00)\nDouble Under attempts -\nDouble - single - single - single - Double\nOR aim for a smooth - controlled 30 reps every 90 seconds - relaxed shoulders & breath\nWorkout | E2MOM x 5\n30 Double Unders\n5 HSPU or Pike Push Ups\n5 T2B\nrest in time remaining\nAim for Unbroken smooth reps with fast transitions - record the time for the fastest round"
+    }
+  }
+}
