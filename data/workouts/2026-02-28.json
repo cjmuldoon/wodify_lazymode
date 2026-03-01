@@ -1,0 +1,35 @@
+{
+  "date": "2026-02-28",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "CrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15)",
+    "type": "For Time",
+    "description": "For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box",
+    "time_cap": "12 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "shoulders (rear)"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "chest",
+      "anterior shoulders"
+    ],
+    "reasoning": "Today hammers lower body and anterior chain; accessory work targets opposing muscle groups to promote balance and recovery.",
+    "suggested_exercises": [
+      "Barbell Bent-Over Rows 3x6-8",
+      "Dumbbell Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Single-Arm Chest-Supported Dumbbell Rows 3x8-10"
+    ]
+  },
+  "raw_text": "CrossFit Games Open 26.1 RX'd: (Ages 16-54) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 14-lb (6kg) medicine-ball, 9 foot target, 20-inch box\nM\n: 20-lb (9kg) medicine-ball,10 foot target, 24-inch box\nPut your rep count in the comment box\nCrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15) | For Time:\n20 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jump-Overs\n40 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n66 Wall Ball Shots\n18 Medicine-Ball Box Step-Overs\n40 Wall Ball Shots\n18 Box Jump-Overs\n30 Wall Ball Shots\n18 Box Jumps Overs\n20 Wall Ball Shots\nTime Cap\n: 12 Minutes\nF\n: 10-lb (4kg) medicine-ball, 9 foot target, 20-inch box (may step up)\nM\n: 14-lb (6kg) medicine-ball,10 foot target, 24-inch box (may step up)\nPut your rep count in the comment box",
+  "siri_text": "Saturday's workout. Metcon: CrossFit Games Open 26.1: Scaled (Ages 16-54) & Scaled Teenagers (14-15). For Time, 12 min cap: 20 Wall Ball Shots, 18 Box Jump-Overs, 30 Wall Ball Shots, 18 Box Jump-Overs, 40 Wall Ball Shots. For hypertrophy, focus on back, biceps, shoulders (rear)."
+}

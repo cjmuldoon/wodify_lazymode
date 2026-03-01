@@ -63,6 +63,15 @@ def save_workouts(data: dict) -> None:
         json.dump(data, f, indent=2, ensure_ascii=False)
     logger.info("Saved %s", DATA_FILE)
 
+    # Save individual per-day files so iOS Shortcuts can fetch by date URL
+    day_dir = DATA_FILE.parent / "workouts"
+    day_dir.mkdir(parents=True, exist_ok=True)
+    for date_str, workout in data.get("workouts", {}).items():
+        day_file = day_dir / f"{date_str}.json"
+        with day_file.open("w") as f:
+            json.dump(workout, f, indent=2, ensure_ascii=False)
+    logger.info("Saved per-day files to %s", day_dir)
+
 
 def raw_text_hash(raw_text: str) -> str:
     return hashlib.sha256(raw_text.encode()).hexdigest()[:16]

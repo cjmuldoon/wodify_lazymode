@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-23",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10m calf walks\n10 Band Row, Rotate, Press\n3 Snatch Pull\n3 Hang Power Snatch\n2 mins double under practice",
+  "strength": [
+    {
+      "name": "Power Snatch",
+      "description": "1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+    },
+    {
+      "name": "Bench Press",
+      "description": "4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n06:00 6 @ 65%\n09:00 6 @ 65%\n12:00 6 @ 65%\n15:00 6 @ 65%"
+    }
+  ],
+  "metcon": {
+    "name": "CrossFit Games Open 11.1 and 14.1",
+    "type": "AMRAP",
+    "description": "10-Minute AMRAP of:\r\n30 Double-Unders\r\n15 Power Snatches, 75# / 55#",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts"
+    ],
+    "avoid": [
+      "shoulders",
+      "chest",
+      "legs",
+      "core"
+    ],
+    "reasoning": "Address pulling patterns and posterior chain balance while sparing snatches, pressing, and metcon-fatigued lower body.",
+    "suggested_exercises": [
+      "Barbell Rows 3x8",
+      "Dumbbell Curls 3x10",
+      "Rear Delt Flyes 3x12",
+      "Face Pulls 3x15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10m calf walks\n10 Band Row, Rotate, Press\n3 Snatch Pull\n3 Hang Power Snatch\n2 mins double under practice\nPower Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Keep them clean.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBench Press | 4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n06:00 6 @ 65%\n09:00 6 @ 65%\n12:00 6 @ 65%\n15:00 6 @ 65%\nCrossFit Games Open 11.1 and 14.1 | 10-Minute AMRAP of:\r\n30 Double-Unders\r\n15 Power Snatches, 75# / 55#",
+  "siri_text": "Monday's workout. Strength: Power Snatch, 1 by 3. Strength: Bench Press, 4 by 6 at 65 percent. Metcon: CrossFit Games Open 11.1 and 14.1. AMRAP 10 minutes: 30 Double-Unders, 15 Power Snatches, 75# / 55#. For hypertrophy, focus on back, biceps, rear delts."
+}
