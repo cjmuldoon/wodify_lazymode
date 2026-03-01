@@ -2,9 +2,13 @@ name: Nightly Wodify Check
 
 on:
   schedule:
-    # 12:00 UTC = 10 PM AEST (UTC+10) / 11 PM AEDT (UTC+11)
-    # Adjust to 11:00 UTC during daylight saving if needed
-    - cron: '0 12 * * *'
+    # All times AEDT (UTC+11, Oct–Apr). When clocks go back to AEST (UTC+10)
+    # in early April, add 1 to each UTC hour below.
+    #
+    # Mon–Sat: 6 PM AEDT = 07:00 UTC
+    - cron: '0 7 * * 1-6'
+    # Sunday: hourly 2 PM–11 PM AEDT = 03:00–12:00 UTC
+    - cron: '0 3-12 * * 0'
   workflow_dispatch:  # Manual trigger for testing
 
 jobs:
