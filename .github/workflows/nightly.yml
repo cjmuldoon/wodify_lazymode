@@ -35,6 +35,19 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
+      - name: Determine notify mode
+        run: |
+          DAY=$(date -u +%u)   # 1=Mon … 7=Sun
+          HOUR=$(date -u +%H)  # UTC hour (00–23)
+          INPUT_FORCE="${{ github.event.inputs.force_notify }}"
+          # Force full-week summary on the final Sunday run (12:00 UTC = 11 PM AEDT)
+          # or when manually triggered with force_notify=true
+          if [ "$INPUT_FORCE" = "true" ] || { [ "$DAY" = "7" ] && [ "$HOUR" = "12" ]; }; then
+            echo "FORCE_NOTIFY=true" >> $GITHUB_ENV
+          else
+            echo "FORCE_NOTIFY=false" >> $GITHUB_ENV
+          fi
+
       - name: Run Wodify scraper
         env:
           WODIFY_EMAIL: ${{ secrets.WODIFY_EMAIL }}
@@ -42,7 +55,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          FORCE_NOTIFY: ${{ github.event.inputs.force_notify }}
+          FORCE_NOTIFY: ${{ env.FORCE_NOTIFY }}
         run: python main.py
 
       - name: Commit updated workouts
