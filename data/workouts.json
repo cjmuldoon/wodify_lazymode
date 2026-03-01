@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-01T11:08:58",
+  "last_updated": "2026-03-01T12:16:22",
   "week_of": "2026-03-02",
   "workouts": {
     "2026-02-23": {
@@ -435,24 +435,26 @@
         "recommended_muscles": [
           "rear delts",
           "biceps",
-          "core stability"
+          "abs",
+          "calves"
         ],
         "avoid": [
           "quads",
+          "hamstrings",
           "glutes",
-          "shoulders",
-          "triceps"
+          "chest",
+          "shoulders"
         ],
-        "reasoning": "Unknown Open workout requires conservative accessory pairing; target weak-points and upper-back balance.",
+        "reasoning": "Unknown workout composition prevents precise programming; default to antagonist work and weak points to balance fatigue.",
         "suggested_exercises": [
-          "Face pulls 3x12",
-          "Dumbbell curls 3x10",
-          "Pallof press 3x8 per side",
-          "Reverse pec deck 3x12"
+          "Face pulls 3 x 12-15",
+          "Barbell curls 3 x 8-10",
+          "Cable wood chops 3 x 10/side",
+          "Seated calf raises 3 x 15-20"
         ]
       },
       "raw_text": "",
-      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, core stability."
+      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, abs."
     }
   }
 }
