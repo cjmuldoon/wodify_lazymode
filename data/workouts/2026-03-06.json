@@ -12,26 +12,24 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear deltoids",
+      "rear delts",
       "biceps",
-      "abs",
-      "glutes"
+      "core stability"
     ],
     "avoid": [
-      "quadriceps",
-      "chest",
-      "triceps",
-      "shoulders"
+      "quads",
+      "glutes",
+      "shoulders",
+      "triceps"
     ],
-    "reasoning": "Build posterior chain and arm balance without taxing today's primary movers or CNS.",
+    "reasoning": "Unknown Open workout requires conservative accessory pairing; target weak-points and upper-back balance.",
     "suggested_exercises": [
-      "Face pulls 3 x 12-15",
-      "Barbell curls 3 x 8-10",
-      "Cable wood chops 3 x 10 each side",
-      "Leg curls 3 x 12-15",
-      "Ab wheel rollouts 3 x 8-12"
+      "Face pulls 3x12",
+      "Dumbbell curls 3x10",
+      "Pallof press 3x8 per side",
+      "Reverse pec deck 3x12"
     ]
   },
   "raw_text": "",
-  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear deltoids, biceps, abs."
+  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, core stability."
 }
