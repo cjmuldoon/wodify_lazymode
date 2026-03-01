@@ -54,6 +54,52 @@ def _brief_strength(s: dict) -> str:
     return f"{name} {sr}{pct}".strip() if sr else name
 
 
+def _brief_gymnastics(g: str) -> str:
+    """
+    Summarise a gymnastics block by extracting the key skill/movement names.
+
+    Strategy:
+    - Clean the first line (strip EMOM timing prefix, parenthetical notes, leading rep counts)
+    - Also grab any short lines that look like named skill sections (contain 'Progression',
+      'Skill', 'Drill', or are short standalone titles)
+    """
+    _TIMING_PREFIX = re.compile(r"^E\d*MOM\s+x?\s*[\d.]+\s*", re.I)
+    _PAREN = re.compile(r"\s*\([^)]*\)")
+    _LEADING_NUM = re.compile(r"^\d+\s*[x×]?\s*")
+    _SKILL_HEADER = re.compile(r"progression|skill|drill", re.I)
+
+    def clean(line: str) -> str:
+        line = _TIMING_PREFIX.sub("", line)
+        line = _PAREN.sub("", line)
+        line = _LEADING_NUM.sub("", line)
+        return line.strip(" -–")
+
+    raw_lines = [l.strip() for l in g.split("\n") if l.strip()]
+    if not raw_lines:
+        return ""
+
+    key: list[str] = []
+    seen: set[str] = set()
+
+    def add(line: str) -> None:
+        c = clean(line)
+        if c and c.lower() not in seen:
+            key.append(c)
+            seen.add(c.lower())
+
+    # Always include the cleaned first line
+    add(raw_lines[0])
+
+    # Grab named skill section headers from the rest
+    for line in raw_lines[1:]:
+        if len(line) < 70 and _SKILL_HEADER.search(line):
+            add(line)
+        if len(key) >= 4:
+            break
+
+    return ", ".join(key)
+
+
 def _brief_metcon(mc: dict) -> str:
     """Format a metcon as 'Type Duration: Move1, Move2, Move3'."""
     metcon_type = mc.get("type", "Workout")
@@ -129,9 +175,7 @@ def format_new_workouts_message(new_dates: list[str], workouts: dict) -> str:
             lines.append(f"💪 {_brief_strength(s)}")
 
         for g in w.get("gymnastics") or []:
-            # Trim to first line for brevity
-            brief = g.split("\n")[0].strip()
-            lines.append(f"🤸 {brief}")
+            lines.append(f"🤸 {_brief_gymnastics(g)}")
 
         metcon = w.get("metcon")
         if metcon:

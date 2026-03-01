@@ -98,8 +98,12 @@ def build_siri_text(w: dict) -> str:
             parts.append(f"Strength: {name}.")
 
     for g in w.get("gymnastics") or []:
-        brief = g.split("\n")[0].strip()
-        parts.append(f"Gymnastics: {brief}.")
+        import re as _re
+        _tp = _re.compile(r"^E\d*MOM\s+x?\s*[\d.]+\s*", _re.I)
+        _paren = _re.compile(r"\s*\([^)]*\)")
+        _num = _re.compile(r"^\d+\s*[x×]?\s*")
+        first = _num.sub("", _paren.sub("", _tp.sub("", g.split("\n")[0]))).strip(" -–")
+        parts.append(f"Gymnastics: {first}.")
 
     mc = w.get("metcon")
     if mc:
