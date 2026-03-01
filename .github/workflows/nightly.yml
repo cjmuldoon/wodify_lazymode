@@ -9,7 +9,12 @@ on:
     - cron: '0 7 * * 1-6'
     # Sunday: hourly 2 PM–11 PM AEDT = 03:00–12:00 UTC
     - cron: '0 3-12 * * 0'
-  workflow_dispatch:  # Manual trigger for testing
+  workflow_dispatch:
+    inputs:
+      force_notify:
+        description: 'Send Telegram for all current workouts regardless of changes'
+        type: boolean
+        default: false
 
 jobs:
   check:
@@ -37,6 +42,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE_NOTIFY: ${{ github.event.inputs.force_notify }}
         run: python main.py
 
       - name: Commit updated workouts

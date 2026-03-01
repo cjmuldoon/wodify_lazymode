@@ -45,6 +45,7 @@ WODIFY_EMAIL = os.environ["WODIFY_EMAIL"]
 WODIFY_PASSWORD = os.environ["WODIFY_PASSWORD"]
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID", "")
+FORCE_NOTIFY = os.getenv("FORCE_NOTIFY", "").lower() in ("true", "1", "yes")
 # ANTHROPIC_API_KEY is read automatically by the anthropic library
 
 
@@ -241,10 +242,11 @@ async def run() -> None:
     save_workouts(updated_data)
 
     # ── Notify ─────────────────────────────────────────────────────────────────
-    if all_new_dates:
-        logger.info("New/changed dates: %s", all_new_dates)
+    notify_dates = sorted(merged_workouts.keys()) if FORCE_NOTIFY else all_new_dates
+    if notify_dates:
+        logger.info("%s dates: %s", "Force-notifying" if FORCE_NOTIFY else "New/changed", notify_dates)
         if TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID:
-            msg = format_new_workouts_message(all_new_dates, merged_workouts)
+            msg = format_new_workouts_message(notify_dates, merged_workouts)
             send_message(TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, msg)
         else:
             logger.warning("Telegram not configured — skipping notification")
