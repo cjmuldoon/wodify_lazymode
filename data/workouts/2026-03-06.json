@@ -10,7 +10,28 @@
     "time_cap": null
   },
   "gymnastics": [],
-  "hypertrophy": null,
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "biceps",
+      "abs",
+      "glutes"
+    ],
+    "avoid": [
+      "quadriceps",
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "reasoning": "Build posterior chain and arm balance without taxing today's primary movers or CNS.",
+    "suggested_exercises": [
+      "Face pulls 3 x 12-15",
+      "Barbell curls 3 x 8-10",
+      "Cable wood chops 3 x 10 each side",
+      "Leg curls 3 x 12-15",
+      "Ab wheel rollouts 3 x 8-12"
+    ]
+  },
   "raw_text": "",
-  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout."
+  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear deltoids, biceps, abs."
 }
