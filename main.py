@@ -68,6 +68,76 @@ def raw_text_hash(raw_text: str) -> str:
     return hashlib.sha256(raw_text.encode()).hexdigest()[:16]
 
 
+def build_siri_text(w: dict) -> str:
+    """Generate a natural-language string suitable for Siri to speak."""
+    import re
+    parts = []
+
+    parts.append(f"{w.get('day_name', 'Today')}'s workout.")
+
+    for s in w.get("strength") or []:
+        name = s.get("name", "")
+        desc = s.get("description", "")
+        m = re.search(r"(\d+)x(\d+)", desc)
+        if m:
+            sets, reps = m.group(1), m.group(2)
+            pcts = re.findall(r"@\s*(\d+)%", desc)
+            pct = f" at {pcts[-1]} percent" if pcts else ""
+            parts.append(f"Strength: {name}, {sets} by {reps}{pct}.")
+        else:
+            parts.append(f"Strength: {name}.")
+
+    for g in w.get("gymnastics") or []:
+        brief = g.split("\n")[0].strip()
+        parts.append(f"Gymnastics: {brief}.")
+
+    mc = w.get("metcon")
+    if mc:
+        mc_type = mc.get("type", "Workout")
+        mc_name = mc.get("name", "").strip()
+        mc_desc = mc.get("description", "")
+        time_cap = mc.get("time_cap", "")
+
+        dur = re.search(r"(\d+)[- ]?(?:min(?:ute)?s?|mins)", mc_desc, re.I)
+        if mc_type == "AMRAP" and dur:
+            label = f"AMRAP {dur.group(1)} minutes"
+        elif mc_type == "EMOM" and dur:
+            label = f"EMOM {dur.group(1)} minutes"
+        elif mc_type == "For Time" and time_cap:
+            label = f"For Time, {time_cap} cap"
+        else:
+            label = mc_type
+
+        generic = re.match(r"workout\s*$|metcon\s*$", mc_name, re.I)
+        if mc_name and not generic:
+            label = f"{mc_name}. {label}"
+
+        _SKIP = re.compile(
+            r"min(?:ute)?|sec|cap|amrap|emom|rft|for time|rounds?|"
+            r"build|hold|rest|aim|note|put your|score|@\s*\d+%",
+            re.I,
+        )
+        movements = []
+        for line in mc_desc.split("\n"):
+            line = line.strip()
+            if re.match(r"^\d+", line) and not _SKIP.search(line):
+                movements.append(line)
+            elif not re.search(r"\d", line) and not _SKIP.search(line) and len(line) > 3:
+                movements.append(line)
+
+        mc_str = f"Metcon: {label}"
+        if movements:
+            mc_str += ": " + ", ".join(movements[:5])
+        parts.append(mc_str + ".")
+
+    hyp = w.get("hypertrophy")
+    if hyp and hyp.get("recommended_muscles"):
+        muscles = ", ".join(hyp["recommended_muscles"][:3])
+        parts.append(f"For hypertrophy, focus on {muscles}.")
+
+    return " ".join(parts)
+
+
 def target_mondays() -> list[date]:
     """
     Return the Monday(s) to check.
@@ -146,6 +216,10 @@ async def run() -> None:
             new_dates_this_week.append(day_str)
 
         all_new_dates.extend(new_dates_this_week)
+
+    # ── Add/refresh siri_text for all workouts ─────────────────────────────────
+    for w in merged_workouts.values():
+        w["siri_text"] = build_siri_text(w)
 
     # ── Persist ────────────────────────────────────────────────────────────────
     from datetime import datetime
