@@ -246,12 +246,13 @@ async def run() -> None:
     save_workouts(updated_data)
 
     # ── Notify ─────────────────────────────────────────────────────────────────
-    this_monday = date.today() - timedelta(days=date.today().weekday())
-    notify_dates = (
-        sorted(d for d in merged_workouts if date.fromisoformat(d) >= this_monday)
-        if FORCE_NOTIFY
-        else all_new_dates
-    )
+    if FORCE_NOTIFY and merged_workouts:
+        # Find the Monday of the latest week that has data
+        latest = max(date.fromisoformat(d) for d in merged_workouts)
+        latest_monday = latest - timedelta(days=latest.weekday())
+        notify_dates = sorted(d for d in merged_workouts if date.fromisoformat(d) >= latest_monday)
+    else:
+        notify_dates = all_new_dates
     if notify_dates:
         logger.info("%s dates: %s", "Force-notifying" if FORCE_NOTIFY else "New/changed", notify_dates)
         if TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID:
