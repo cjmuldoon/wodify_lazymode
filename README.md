@@ -50,20 +50,101 @@ Enable **"Send Telegram for all current workouts"** to force a full Telegram not
 
 ### 4. Set up the iOS Shortcut
 
-Create a new shortcut in the iOS Shortcuts app with these actions:
+Create a new shortcut in the iOS Shortcuts app. Replace `YOUR_USERNAME` with your GitHub username throughout.
 
-1. `Format Date` — **Current Date**, Custom format: `yyyy-MM-dd`
-2. `Text` — `https://raw.githubusercontent.com/YOUR_USERNAME/wodify_lazymode/main/data/workouts/` + **Formatted Date** + `.json`
-3. `Get Contents of URL` — **Text** *(enable error handling → Continue)*
-4. `If` — **Contents of URL** contains `siri_text`
-   - `Get Dictionary from Input` — **Contents of URL**
-   - `Get Dictionary Value` — key: `siri_text`, in **Dictionary**
-   - `Show Result` — **Dictionary Value**
-   - `Otherwise`
-   - `Show Result` — `No workout posted yet for today.`
-5. `End If`
+#### Actions (in order)
 
-Add it to Siri as *"Workout"* — say *"Hey Siri, Workout"* each morning.
+**Step 1 — Receive date input from Siri**
+
+Add `Receive Input from Shortcut` → set type to **Text**
+
+This captures whatever you say after "Workout" (e.g. "Hey Siri, Workout Monday").
+
+---
+
+**Step 2 — Parse the date or fall back to today**
+
+Add `If` → **Shortcut Input** → `has any value`
+
+*Inside the If branch:*
+- `Get Dates from Input` → from **Shortcut Input**
+- `Format Date` → **Date** (result above), Format: Custom, `yyyy-MM-dd`
+- `Text` → insert **Formatted Date** magic variable *(this forces it to a plain string)*
+- `Set Variable` → Name: `TargetDate`, Value: **Text**
+
+*Inside the Otherwise branch:*
+- `Format Date` → **Current Date**, Format: Custom, `yyyy-MM-dd`
+- `Text` → insert **Formatted Date** magic variable
+- `Set Variable` → Name: `TargetDate`, Value: **Text**
+
+Add `End If`
+
+> **Note on day name parsing:** iOS date parsing is inconsistent with relative phrases.
+> "Monday" resolves to *next* Monday; "last Monday" resolves to *two* Mondays ago.
+> For current-week days use explicit dates like "3 March" or "march 3", or just say
+> "Hey Siri, Workout" with no input to get today's workout.
+
+---
+
+**Step 3 — Build the URL**
+
+Add `Text`:
+```
+https://raw.githubusercontent.com/YOUR_USERNAME/wodify_lazymode/main/data/workouts/
+```
+Then insert the **TargetDate** magic variable, then type `.json`
+
+The full text should look like:
+`https://raw.githubusercontent.com/YOUR_USERNAME/wodify_lazymode/main/data/workouts/[TargetDate].json`
+
+---
+
+**Step 4 — Fetch the workout**
+
+Add `Get Contents of URL` → URL: **Text** (from step 3)
+
+⚠️ **Important:** Enable error handling on this action so a 404 (no workout for that date) doesn't crash the shortcut.
+- Long-press the action → **Add Error Handling** → set to **Continue**
+
+---
+
+**Step 5 — Force response to text type**
+
+Add `Text` → insert **Contents of URL** magic variable
+
+*(iOS Shortcuts treats URL responses as a file/data type. Wrapping it in a Text action lets you use the "contains" condition in the next step.)*
+
+---
+
+**Step 6 — Display the result**
+
+Add `If` → **Text** (from step 5) → `contains` → type `siri_text`
+
+*Inside the If branch:*
+- `Get Dictionary from Input` → **Contents of URL**
+- `Get Dictionary Value` → Key: `siri_text`, Dictionary: **Dictionary**
+- `Show Result` → **Dictionary Value**
+
+*Inside the Otherwise branch:*
+- `Show Result` → type `No workout found for that day.`
+
+Add `End If`
+
+---
+
+#### Siri usage
+
+In the Shortcuts app, tap the shortcut's **ⓘ** button → **Add to Siri** → record the phrase *"Workout"*.
+
+| What you say | Result |
+|---|---|
+| *"Hey Siri, Workout"* | Today's workout |
+| *"Hey Siri, Workout 3 March"* | Workout for March 3 |
+| *"Hey Siri, Workout yesterday"* | Yesterday's workout |
+
+#### Sharing with gym mates
+
+Everyone at the gym follows the same programming. Share the shortcut and they can use your repo's JSON directly — no credentials or setup required on their end.
 
 ---
 
@@ -125,12 +206,6 @@ Each day in `data/workouts.json` and the per-day files follows this structure:
   "siri_text": "Tuesday's workout. Strength: Back Squat, 4 by 6 at 70 percent. ..."
 }
 ```
-
-## Sharing with gym mates
-
-Since everyone at the gym follows the same programming, others can install the iOS Shortcut pointing at your repo's JSON — no setup required on their end. The scraper credentials stay private in your GitHub Secrets.
-
----
 
 ## Local development
 
