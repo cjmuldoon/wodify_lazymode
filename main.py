@@ -246,7 +246,12 @@ async def run() -> None:
     save_workouts(updated_data)
 
     # ── Notify ─────────────────────────────────────────────────────────────────
-    notify_dates = sorted(merged_workouts.keys()) if FORCE_NOTIFY else all_new_dates
+    this_monday = date.today() - timedelta(days=date.today().weekday())
+    notify_dates = (
+        sorted(d for d in merged_workouts if date.fromisoformat(d) >= this_monday)
+        if FORCE_NOTIFY
+        else all_new_dates
+    )
     if notify_dates:
         logger.info("%s dates: %s", "Force-notifying" if FORCE_NOTIFY else "New/changed", notify_dates)
         if TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID:

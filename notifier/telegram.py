@@ -140,6 +140,11 @@ def _brief_metcon(mc: dict) -> str:
         # Movement lines start with a number (reps)
         if re.match(r"^\d+", line) and not _SKIP_RE.search(line):
             movements.append(line)
+        # EMOM "Min N: movement" lines — extract just the movement part
+        elif re.match(r"^min\s*\d+\s*:", line, re.I):
+            movement = re.sub(r"^min\s*\d+\s*:\s*", "", line, flags=re.I).strip()
+            if movement and not _SKIP_RE.search(movement):
+                movements.append(movement)
         # Or are plain named movements (no digits, not a header)
         elif not re.search(r"\d", line) and not _SKIP_RE.search(line) and len(line) > 3:
             movements.append(line)
