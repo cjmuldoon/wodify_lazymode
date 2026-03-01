@@ -208,14 +208,17 @@ async def run() -> None:
             )
 
             if new_hash == old_hash:
-                logger.info("%s unchanged — skipping", day_str)
-                # Keep existing entry (which may already have hypertrophy)
+                logger.info("%s unchanged", day_str)
+                # If existing entry is missing hypertrophy, generate it now
+                if existing_entry and existing_entry.get("hypertrophy") is None and os.getenv("ANTHROPIC_API_KEY"):
+                    logger.info("Generating missing hypertrophy for %s…", day_str)
+                    hyp = generate_hypertrophy_suggestion(existing_entry)
+                    existing_entry["hypertrophy"] = hyp
+                    merged_workouts[day_str] = existing_entry
                 continue
 
             logger.info("%s is new or changed", day_str)
 
-            # Preserve hypertrophy if raw_text didn't change much
-            # (old_hash != new_hash means content changed, so regenerate)
             parsed["hypertrophy"] = None
 
             # Generate hypertrophy suggestion
