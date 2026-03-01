@@ -16,7 +16,7 @@
     "name": "Workout",
     "type": "EMOM",
     "description": "EMOM x 3\nMin 1: 20 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
-    "time_cap": "3 min"
+    "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": null,

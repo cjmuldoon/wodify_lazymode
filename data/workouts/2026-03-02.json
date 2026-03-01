@@ -14,9 +14,9 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "For Time",
+    "type": "Rounds for Time",
     "description": "3 Rounds for time\n5 Hang Power Snatches @ 60/40kg\n10 Pull ups\n200m Run\nRest 1 minute\nTime is  when you finish your last run.\nScale Pull ups to Jumping Pull ups x 5 or Ring Rows\nRX+ @ 70/45",
-    "time_cap": "1 min"
+    "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": null,

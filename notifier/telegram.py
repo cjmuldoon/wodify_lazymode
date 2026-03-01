@@ -117,6 +117,11 @@ def _brief_metcon(mc: dict) -> str:
         label = f"For Time ({time_cap} cap)"
     elif metcon_type == "For Time":
         label = "For Time"
+    elif metcon_type == "Rounds for Time":
+        rounds = re.search(r"(\d+)\s+rounds?", desc, re.I)
+        label = f"{rounds.group(1)} Rounds For Time" if rounds else "Rounds For Time"
+        if time_cap:
+            label += f" ({time_cap} cap)"
     else:
         label = metcon_type
 
@@ -129,7 +134,8 @@ def _brief_metcon(mc: dict) -> str:
     # don't look like timing/header lines
     _SKIP_RE = re.compile(
         r"min(?:ute)?|sec|cap|amrap|emom|rft|for time|rounds?|build|hold|"
-        r"rest|aim|note|put your|score|scaled|^rx|^f:|^m:|@\s*\d+%",
+        r"rest|aim|note|put your|score|scaled|^rx\b|^f:|^m:|@\s*\d+%|"
+        r"time is|scale|rx\+",
         re.I,
     )
     movements = []

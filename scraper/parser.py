@@ -16,14 +16,21 @@ logger = logging.getLogger(__name__)
 
 _METCON_TYPE_PATTERNS = [
     (re.compile(r"\bamrap\b", re.I), "AMRAP"),
+    (re.compile(r"\brft\b|rounds?\s+for\s+time", re.I), "Rounds for Time"),  # before "for time"
     (re.compile(r"\bfor time\b", re.I), "For Time"),
     (re.compile(r"\bemom\b|every minute on the minute|e\d+mom", re.I), "EMOM"),
     (re.compile(r"\btabata\b", re.I), "Tabata"),
-    (re.compile(r"\brft\b|rounds for time", re.I), "Rounds for Time"),
     (re.compile(r"\bchipper\b", re.I), "Chipper"),
     (re.compile(r"\bdeath by\b", re.I), "Death By"),
 ]
-_TIME_CAP_RE = re.compile(r"(\d+)\s*(?:min(?:ute)?|mins?)(?:\s*cap)?", re.I)
+# Only extract time cap from lines that explicitly mention "cap"
+def _time_cap(text: str) -> str | None:
+    for line in text.split("\n"):
+        if re.search(r"\bcap\b", line, re.I):
+            m = re.search(r"(\d+)\s*(?:min(?:ute)?s?|mins?)", line, re.I)
+            if m:
+                return f"{m.group(1)} min"
+    return None
 
 _WARMUP_NAME_RE = re.compile(r"warm.?up|warmup|mobility|activation", re.I)
 _METCON_NAME_RE = re.compile(r"\bmetcon\b|workout\b", re.I)
@@ -56,11 +63,6 @@ def _detect_metcon_type(text: str) -> str | None:
         if pattern.search(text):
             return label
     return None
-
-
-def _time_cap(text: str) -> str | None:
-    m = _TIME_CAP_RE.search(text)
-    return f"{m.group(1)} min" if m else None
 
 
 def parse_workout_api(workout: dict, date_str: str) -> dict | None:
