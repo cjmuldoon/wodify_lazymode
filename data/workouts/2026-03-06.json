@@ -14,24 +14,23 @@
     "recommended_muscles": [
       "rear delts",
       "biceps",
-      "abs",
-      "calves"
+      "hamstrings",
+      "core"
     ],
     "avoid": [
       "quads",
-      "hamstrings",
-      "glutes",
       "chest",
-      "shoulders"
+      "shoulders",
+      "triceps"
     ],
-    "reasoning": "Unknown workout composition prevents precise programming; default to antagonist work and weak points to balance fatigue.",
+    "reasoning": "Build antagonist balance without interfering with the Open workout's primary demands.",
     "suggested_exercises": [
-      "Face pulls 3 x 12-15",
-      "Barbell curls 3 x 8-10",
-      "Cable wood chops 3 x 10/side",
-      "Seated calf raises 3 x 15-20"
+      "Face pulls 3x12-15",
+      "Dumbbell curls 3x8-10",
+      "Nordic curls 3x5",
+      "Pallof press 3x10/side"
     ]
   },
   "raw_text": "",
-  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, abs."
+  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, hamstrings."
 }

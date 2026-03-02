@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T12:16:22",
-  "week_of": "2026-03-02",
+  "last_updated": "2026-03-02T07:25:46",
+  "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
       "date": "2026-02-23",
@@ -254,7 +254,7 @@
         },
         {
           "name": "Bench Press",
-          "description": "4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%"
+          "description": "4x5 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%"
         }
       ],
       "metcon": {
@@ -267,27 +267,25 @@
       "hypertrophy": {
         "recommended_muscles": [
           "rear delts",
-          "biceps",
-          "core stability",
-          "upper back"
+          "triceps",
+          "core/anti-rotation"
         ],
         "avoid": [
-          "anterior delts",
-          "triceps",
+          "shoulders",
+          "chest",
           "quads",
-          "lats"
+          "back"
         ],
-        "reasoning": "Address posterior chain imbalances and horizontal pulling weakness while avoiding fatigue accumulation on snatches and pressing patterns.",
+        "reasoning": "Rear delts and triceps support shoulder health post-snatches; anti-rotation work balances pressing without competing with CNS fatigue.",
         "suggested_exercises": [
-          "Face Pulls 3x12-15",
-          "Barbell Rows 3x8 (light, strict)",
-          "Dumbbell Curls 3x10-12",
-          "Pallof Press 3x10/side",
-          "Reverse Pec Deck 3x12-15"
+          "Face Pulls: 3x12-15",
+          "Rope Tricep Extensions: 3x12-15",
+          "Pallof Press: 3x10/side",
+          "Dumbbell Reverse Pec Deck: 3x12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBench Press | 4x6 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%\nWorkout | 3 Rounds for time\n5 Hang Power Snatches @ 60/40kg\n10 Pull ups\n200m Run\nRest 1 minute\nTime is  when you finish your last run.\nScale Pull ups to Jumping Pull ups x 5 or Ring Rows\nRX+ @ 70/45",
-      "siri_text": "Monday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Bench Press, 4 by 6 at 70 percent. Metcon: Rounds for Time: 5 Hang Power Snatches @ 60/40kg, 10 Pull ups, 200m Run, Time is  when you finish your last run.. For hypertrophy, focus on rear delts, biceps, core stability."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBench Press | 4x5 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%\nWorkout | 3 Rounds for time\n5 Hang Power Snatches @ 60/40kg\n10 Pull ups\n200m Run\nRest 1 minute\nTime is  when you finish your last run.\nScale Pull ups to Jumping Pull ups x 5 or Ring Rows\nRX+ @ 70/45",
+      "siri_text": "Monday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Bench Press, 4 by 5 at 70 percent. Metcon: Rounds for Time: 5 Hang Power Snatches @ 60/40kg, 10 Pull ups, 200m Run, Time is  when you finish your last run.. For hypertrophy, focus on rear delts, triceps, core/anti-rotation."
     },
     "2026-03-03": {
       "date": "2026-03-03",
@@ -435,26 +433,25 @@
         "recommended_muscles": [
           "rear delts",
           "biceps",
-          "abs",
-          "calves"
+          "hamstrings",
+          "core"
         ],
         "avoid": [
           "quads",
-          "hamstrings",
-          "glutes",
           "chest",
-          "shoulders"
+          "shoulders",
+          "triceps"
         ],
-        "reasoning": "Unknown workout composition prevents precise programming; default to antagonist work and weak points to balance fatigue.",
+        "reasoning": "Build antagonist balance without interfering with the Open workout's primary demands.",
         "suggested_exercises": [
-          "Face pulls 3 x 12-15",
-          "Barbell curls 3 x 8-10",
-          "Cable wood chops 3 x 10/side",
-          "Seated calf raises 3 x 15-20"
+          "Face pulls 3x12-15",
+          "Dumbbell curls 3x8-10",
+          "Nordic curls 3x5",
+          "Pallof press 3x10/side"
         ]
       },
       "raw_text": "",
-      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, abs."
+      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, hamstrings."
     }
   }
 }
