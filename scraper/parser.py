@@ -45,7 +45,7 @@ def _html_to_text(html: str) -> str:
     if "<" not in html:
         return html.strip()
     text = BeautifulSoup(html, "html.parser").get_text("\n", strip=True)
-    return text.replace("\r\n", "\n").replace("\r", "\n")
+    return text.replace("\r\n", "\n").replace("\r", "\n").replace("\xa0", " ")
 
 
 def _content(comp: dict) -> str:

@@ -78,7 +78,8 @@ def raw_text_hash(raw_text: str) -> str:
     # Normalize whitespace/line-endings so minor API formatting changes
     # don't trigger spurious "workout changed" detections.
     normalized = raw_text.replace("\r\n", "\n").replace("\r", "\n")
-    normalized = "\n".join(line.rstrip() for line in normalized.split("\n"))
+    normalized = normalized.replace("\xa0", " ")   # &nbsp; → regular space
+    normalized = "\n".join(line.strip() for line in normalized.split("\n"))
     return hashlib.sha256(normalized.encode()).hexdigest()[:16]
 
 
@@ -207,7 +208,7 @@ async def run() -> None:
             new_hash = raw_text_hash(parsed["raw_text"])
             old_hash = (
                 raw_text_hash(existing_entry["raw_text"])
-                if existing_entry and existing_entry.get("raw_text")
+                if existing_entry and existing_entry.get("raw_text") is not None
                 else None
             )
 
