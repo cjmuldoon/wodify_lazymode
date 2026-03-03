@@ -13,8 +13,8 @@
   "hypertrophy": {
     "recommended_muscles": [
       "rear delts",
-      "biceps",
       "hamstrings",
+      "glutes",
       "core"
     ],
     "avoid": [
@@ -23,14 +23,14 @@
       "shoulders",
       "triceps"
     ],
-    "reasoning": "Build antagonist balance without interfering with the Open workout's primary demands.",
+    "reasoning": "The Open 26.2 placeholder likely emphasizes pressing and leg drive; target posterior chain and stabilizers to balance and prevent imbalances.",
     "suggested_exercises": [
-      "Face pulls 3x12-15",
-      "Dumbbell curls 3x8-10",
-      "Nordic curls 3x5",
-      "Pallof press 3x10/side"
+      "Dumbbell Hamstring Curls: 3 x 12–15",
+      "Face Pulls: 3 x 15–20",
+      "Bulgarian Split Squats: 3 x 10 per leg",
+      "Pallof Press: 3 x 12 per side"
     ]
   },
   "raw_text": "",
-  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, hamstrings."
+  "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, hamstrings, glutes."
 }

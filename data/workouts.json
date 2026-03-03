@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-02T07:25:46",
+  "last_updated": "2026-03-03T07:22:02",
   "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
@@ -304,35 +304,34 @@
       "metcon": {
         "name": "Workout",
         "type": "EMOM",
-        "description": "EMOM x 3\nMin 1: 20 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
+        "description": "EMOM x 3\nMin 1: 20/15 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (lats/rhomboids)",
-          "hamstrings",
+          "back",
           "biceps",
+          "hamstrings",
           "rear delts"
         ],
         "avoid": [
           "quads",
-          "anterior delts",
+          "shoulders",
           "triceps",
-          "shoulders (pressing)",
-          "erector spinae"
+          "core"
         ],
-        "reasoning": "Back squat and push press dominate quads, shoulders, triceps; row/snatches fatigue shoulders. Target opposing/supporting muscle groups.",
+        "reasoning": "Squats and pressing dominate today; accessorize antagonists and posterior chain to balance and prevent injury.",
         "suggested_exercises": [
-          "Seal rows 3x8-10",
-          "Nordic curls 3x4-5",
-          "Dumbbell pullovers 3x10-12",
-          "Face pulls 3x12-15",
-          "Barbell or seal curls 3x8-10"
+          "Barbell Rows 3x8",
+          "Incline DB Curls 3x10",
+          "Nordic Curls 3x5",
+          "Face Pulls 3x12",
+          "Seal Rows 3x10"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 DB Good Morning\nMove through each DB variation.\n2 Wall Walks or Handstand Holds\nBack Squat | 4x5 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\nPush Press | 4x5 | E3MOM 18 mins\nBUILD 2x5\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%\nWorkout | EMOM x 3\nMin 1: 20 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
-      "siri_text": "Tuesday's workout. Strength: Back Squat, 4 by 5 at 75 percent. Strength: Push Press, 4 by 5 at 70 percent. Metcon: EMOM. For hypertrophy, focus on back (lats/rhomboids), hamstrings, biceps."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 DB Good Morning\nMove through each DB variation.\n2 Wall Walks or Handstand Holds\nBack Squat | 4x5 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\nPush Press | 4x5 | E3MOM 18 mins\nBUILD 2x5\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%\nWorkout | EMOM x 3\nMin 1: 20/15 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
+      "siri_text": "Tuesday's workout. Strength: Back Squat, 4 by 5 at 75 percent. Strength: Push Press, 4 by 5 at 70 percent. Metcon: EMOM. For hypertrophy, focus on back, biceps, hamstrings."
     },
     "2026-03-04": {
       "date": "2026-03-04",
@@ -432,8 +431,8 @@
       "hypertrophy": {
         "recommended_muscles": [
           "rear delts",
-          "biceps",
           "hamstrings",
+          "glutes",
           "core"
         ],
         "avoid": [
@@ -442,16 +441,16 @@
           "shoulders",
           "triceps"
         ],
-        "reasoning": "Build antagonist balance without interfering with the Open workout's primary demands.",
+        "reasoning": "The Open 26.2 placeholder likely emphasizes pressing and leg drive; target posterior chain and stabilizers to balance and prevent imbalances.",
         "suggested_exercises": [
-          "Face pulls 3x12-15",
-          "Dumbbell curls 3x8-10",
-          "Nordic curls 3x5",
-          "Pallof press 3x10/side"
+          "Dumbbell Hamstring Curls: 3 x 12–15",
+          "Face Pulls: 3 x 15–20",
+          "Bulgarian Split Squats: 3 x 10 per leg",
+          "Pallof Press: 3 x 12 per side"
         ]
       },
       "raw_text": "",
-      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, biceps, hamstrings."
+      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, hamstrings, glutes."
     }
   }
 }
