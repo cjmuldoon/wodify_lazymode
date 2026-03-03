@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-03T07:22:02",
+  "last_updated": "2026-03-03T11:41:15",
   "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
@@ -430,27 +430,28 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "rear delts",
+          "rear deltoids",
+          "biceps",
           "hamstrings",
-          "glutes",
           "core"
         ],
         "avoid": [
-          "quads",
+          "quadriceps",
           "chest",
-          "shoulders",
-          "triceps"
+          "triceps",
+          "shoulders"
         ],
-        "reasoning": "The Open 26.2 placeholder likely emphasizes pressing and leg drive; target posterior chain and stabilizers to balance and prevent imbalances.",
+        "reasoning": "Without workout details, target antagonists and overlooked muscles to balance upper/lower and prevent imbalances.",
         "suggested_exercises": [
-          "Dumbbell Hamstring Curls: 3 x 12–15",
-          "Face Pulls: 3 x 15–20",
-          "Bulgarian Split Squats: 3 x 10 per leg",
-          "Pallof Press: 3 x 12 per side"
+          "Face pulls 3x12-15",
+          "Barbell curls 3x8-10",
+          "Nordic hamstring curls 3x5-8",
+          "Sled push (light, quads-friendly) 3x20m",
+          "Dead bugs 3x12"
         ]
       },
       "raw_text": "",
-      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear delts, hamstrings, glutes."
+      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear deltoids, biceps, hamstrings."
     }
   }
 }
