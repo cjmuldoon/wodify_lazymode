@@ -75,7 +75,11 @@ def save_workouts(data: dict) -> None:
 
 
 def raw_text_hash(raw_text: str) -> str:
-    return hashlib.sha256(raw_text.encode()).hexdigest()[:16]
+    # Normalize whitespace/line-endings so minor API formatting changes
+    # don't trigger spurious "workout changed" detections.
+    normalized = raw_text.replace("\r\n", "\n").replace("\r", "\n")
+    normalized = "\n".join(line.rstrip() for line in normalized.split("\n"))
+    return hashlib.sha256(normalized.encode()).hexdigest()[:16]
 
 
 def build_siri_text(w: dict) -> str:

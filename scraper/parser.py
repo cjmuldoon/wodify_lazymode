@@ -44,7 +44,8 @@ def _html_to_text(html: str) -> str:
     # Only parse if the string looks like HTML (has angle brackets)
     if "<" not in html:
         return html.strip()
-    return BeautifulSoup(html, "html.parser").get_text("\n", strip=True)
+    text = BeautifulSoup(html, "html.parser").get_text("\n", strip=True)
+    return text.replace("\r\n", "\n").replace("\r", "\n")
 
 
 def _content(comp: dict) -> str:
