@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-05T07:21:56",
+  "last_updated": "2026-03-05T21:06:06",
   "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
@@ -422,36 +422,37 @@
       "warm_up": null,
       "strength": [],
       "metcon": {
-        "name": "Place Holder for 26.2 Open workout",
-        "type": "Workout",
-        "description": "Place Holder for 26.2 Open workout",
-        "time_cap": null
+        "name": "CrossFit Games Open 26.2 Scaled (Ages 15-54)",
+        "type": "For Time",
+        "description": "For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 muscle-ups\nTime cap: 15 minutes\nF:\n20-lb (10-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\nM:\n35-lb (15-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\n*If capped, record rep count in the comment box",
+        "time_cap": "15 min"
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "rear deltoids",
-          "biceps",
           "hamstrings",
-          "core"
+          "glutes",
+          "rear deltoids",
+          "biceps"
         ],
         "avoid": [
-          "quadriceps",
+          "shoulders",
           "chest",
           "triceps",
-          "shoulders"
+          "quadriceps",
+          "core"
         ],
-        "reasoning": "Without workout details, target antagonists and overlooked muscles to balance upper/lower and prevent imbalances.",
+        "reasoning": "Today heavily taxes shoulders, chest, triceps, and quads; accessory work targets posterior chain and arm pulling muscles for balanced development.",
         "suggested_exercises": [
-          "Face pulls 3x12-15",
-          "Barbell curls 3x8-10",
-          "Nordic hamstring curls 3x5-8",
-          "Sled push (light, quads-friendly) 3x20m",
-          "Dead bugs 3x12"
+          "Romanian deadlifts: 3 x 6-8",
+          "Lying hamstring curls: 3 x 8-10",
+          "Face pulls: 3 x 12-15",
+          "Incline dumbbell curls: 3 x 8-10",
+          "Glute bridge holds: 3 x 10-12"
         ]
       },
-      "raw_text": "",
-      "siri_text": "Friday's workout. Metcon: Place Holder for 26.2 Open workout. Workout. For hypertrophy, focus on rear deltoids, biceps, hamstrings."
+      "raw_text": "CrossFit Games Open 26.2 RX'd: (Ages 16-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 muscle-ups\nTime cap: 15 minutes\nF:\n35-lb (15-kg) dumbbell\nM:\n50-lb (22.5-kg) dumbbell\n*If capped, record rep count in the comment box\nCrossFit Games Open 26.2 Scaled (Ages 15-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 muscle-ups\nTime cap: 15 minutes\nF:\n20-lb (10-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\nM:\n35-lb (15-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\n*If capped, record rep count in the comment box",
+      "siri_text": "Friday's workout. Metcon: CrossFit Games Open 26.2 Scaled (Ages 15-54). For Time, 15 min cap: 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches, 20 pull-ups, 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches. For hypertrophy, focus on hamstrings, glutes, rear deltoids."
     }
   }
 }
