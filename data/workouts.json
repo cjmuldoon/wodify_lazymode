@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-04T07:20:15",
+  "last_updated": "2026-03-05T07:21:56",
   "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
@@ -385,36 +385,36 @@
       "metcon": {
         "name": "Workout",
         "type": "Rounds for Time",
-        "description": "10  RFT\n5 HSPU\n10 C2B\n15 Air squats",
-        "time_cap": null
+        "description": "10 RFT - 15 minute cap\n5 HSPU\n5 C2B\n10 Air squats",
+        "time_cap": "15 min"
       },
       "gymnastics": [
         "EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSPU Progression\nEMOM x 5\n30 second HS Hold\nEMOM x 3\nTripod - Lower to Target / Eccentric/ Abmat if required\nE2MOM x 5\n5 SHSPU Box Pike Or Pike - Aim for target\nCore tight throughout"
       ],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (horizontal)",
-          "hamstrings",
-          "glutes",
-          "triceps"
+          "back hypertrophy (lats/rhomboids)",
+          "legs (quad/glute isolation)",
+          "biceps"
         ],
         "avoid": [
           "shoulders",
           "chest",
-          "quads",
-          "core"
+          "triceps",
+          "core",
+          "hamstrings"
         ],
-        "reasoning": "Today hammers vertical push/pull and quads; horizontal back and posterior chain work balances load without compounding fatigue.",
+        "reasoning": "Today hammers shoulders, core, and posterior chain; build opposing musculature and isolated leg work to balance.",
         "suggested_exercises": [
-          "Barbell Rows 3 x 6-8",
-          "Nordic Curls 3 x 5",
-          "Single-Leg RDLs 3 x 8/side",
-          "Rope Extensions 3 x 10-12",
-          "Machine Reverse Fly 3 x 12-15"
+          "Seal rows 3 x 8-10",
+          "Leg press 3 x 10-12",
+          "Dumbbell curls 3 x 10-12",
+          "Banded leg extensions 3 x 12-15",
+          "Machine rows 3 x 10-12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSPU Progression\nEMOM x 5\n30 second HS Hold\nEMOM x 3\nTripod - Lower to Target / Eccentric/ Abmat if required\nE2MOM x 5\n5 SHSPU Box Pike Or Pike - Aim for target\nCore tight throughout\nWorkout | 10  RFT\n5 HSPU\n10 C2B\n15 Air squats",
-      "siri_text": "Thursday's workout. Gymnastics: Hollow Rocks. Metcon: Rounds for Time: 5 HSPU, 10 C2B, 15 Air squats. For hypertrophy, focus on back (horizontal), hamstrings, glutes."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSPU Progression\nEMOM x 5\n30 second HS Hold\nEMOM x 3\nTripod - Lower to Target / Eccentric/ Abmat if required\nE2MOM x 5\n5 SHSPU Box Pike Or Pike - Aim for target\nCore tight throughout\nWorkout | 10 RFT - 15 minute cap\n5 HSPU\n5 C2B\n10 Air squats",
+      "siri_text": "Thursday's workout. Gymnastics: Hollow Rocks. Metcon: Rounds for Time: 5 HSPU, 5 C2B, 10 Air squats. For hypertrophy, focus on back hypertrophy (lats/rhomboids), legs (quad/glute isolation), biceps."
     },
     "2026-03-06": {
       "date": "2026-03-06",
