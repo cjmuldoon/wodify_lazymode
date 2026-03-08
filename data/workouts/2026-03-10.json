@@ -9,7 +9,7 @@
     },
     {
       "name": "Back Squat",
-      "description": "4x5 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%"
+      "description": "4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
     }
   ],
   "metcon": {
@@ -21,26 +21,24 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear delts",
-      "hamstrings",
-      "back hypertrophy",
-      "triceps"
+      "back",
+      "biceps",
+      "rear delts"
     ],
     "avoid": [
       "quads",
       "glutes",
-      "front delts",
-      "core"
+      "shoulders",
+      "forearms"
     ],
-    "reasoning": "Today heavily taxes quads, glutes, and anterior chain via snatches and squats; accessorize posterior chain and arms.",
+    "reasoning": "Today heavily taxes lower body and anterior chain; posterior chain accessory work balances without competing for recovery.",
     "suggested_exercises": [
-      "Face Pulls 3x12",
-      "Nordic Hamstring Curls 3x5",
-      "Incline Dumbbell Rows 3x8",
-      "Skull Crushers 3x10",
-      "Reverse Pec Deck 3x12"
+      "Bent-over barbell rows: 3x8",
+      "Incline dumbbell curls: 3x10",
+      "Face pulls: 3x12",
+      "Seal rows: 3x10"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 DB Good Morning\nMove through each DB variation.\n2 Wall Walks or Handstand Holds\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBack Squat | 4x5 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E3MOM 18 mins\nBUILD 2 sets\n00:00 10 @ 50%\n03:00 8 @ 60%\nHOLD 4x6\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\nWorkout | EMOM x 3\nMin 1: 20/15 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
-  "siri_text": "Tuesday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Back Squat, 4 by 5 at 75 percent. Metcon: EMOM. For hypertrophy, focus on rear delts, hamstrings, back hypertrophy."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Plate I Y T\n10 Scap Pull Ups\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 DB Good Morning\nMove through each DB variation.\n2 Wall Walks or Handstand Holds\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBack Squat | 4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nWorkout | EMOM x 3\nMin 1: 20/15 Cal Row\nMin 2: 20 Dumbell Snatches\nMIn 3: 4 Wall Walks\nMin 4: Rest\nRound 1 Dumbell Snatch\nRound 2 DB Hang Clean & Jerk\nRound 3 10 x DB Devil Press\n@ 22.5/15kg",
+  "siri_text": "Tuesday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Back Squat, 4 by 6 at 65 percent. Metcon: EMOM. For hypertrophy, focus on back, biceps, rear delts."
 }
