@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T07:13:07",
+  "last_updated": "2026-03-08T03:51:14",
   "week_of": "2026-03-09",
   "workouts": {
     "2026-02-23": {
@@ -453,6 +453,43 @@
       },
       "raw_text": "CrossFit Games Open 26.2 RX'd: (Ages 16-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 muscle-ups\nTime cap: 15 minutes\nF:\n35-lb (15-kg) dumbbell\nM:\n50-lb (22.5-kg) dumbbell\n*If capped, record rep count in the comment box\nCrossFit Games Open 26.2 Scaled (Ages 15-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 jumping pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\nTime cap: 15 minutes\nF:\n20-lb (10-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\nM:\n35-lb (15-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\n*If capped, record rep count in the comment box",
       "siri_text": "Friday's workout. Metcon: CrossFit Games Open 26.2 Scaled (Ages 15-54). For Time, 15 min cap: 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches, 20 jumping pull-ups, 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches. For hypertrophy, focus on hamstrings, rear delts, biceps."
+    },
+    "2026-03-07": {
+      "date": "2026-03-07",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "CrossFit Games Open 26.2 Scaled (Ages 15-54)",
+        "type": "For Time",
+        "description": "For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 jumping pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\nTime cap: 15 minutes\nF:\n20-lb (10-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\nM:\n35-lb (15-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\n*If capped, record rep count in the comment box",
+        "time_cap": "15 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear delts",
+          "biceps",
+          "core anti-rotation",
+          "hamstrings"
+        ],
+        "avoid": [
+          "shoulders",
+          "chest",
+          "lats",
+          "quads",
+          "triceps"
+        ],
+        "reasoning": "Target weak points while avoiding shoulder, pulling, and leg fatigue from metcon's overhead work and pulling volume.",
+        "suggested_exercises": [
+          "Face pulls 3 x 12-15",
+          "Dumbbell curls 3 x 10-12",
+          "Pallof press 3 x 8/side",
+          "Nordic hamstring curls 3 x 5-6"
+        ]
+      },
+      "raw_text": "CrossFit Games Open 26.2 RX'd: (Ages 16-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 muscle-ups\nTime cap: 15 minutes\nF:\n35-lb (15-kg) dumbbell\nM:\n50-lb (22.5-kg) dumbbell\n*If capped, record rep count in the comment box\nCrossFit Games Open 26.2 Scaled (Ages 15-54) | For Time:\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 jumping pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 pull-ups\n80-foot dumbbell overhead walking lunge\n20 alternating dumbbell snatches\n20 chest-to-bar pull-ups\nTime cap: 15 minutes\nF:\n20-lb (10-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\nM:\n35-lb (15-kg) dumbbell, jumping pull-ups, then pull-ups, then chest-to-bar pull-ups\n*If capped, record rep count in the comment box",
+      "siri_text": "Saturday's workout. Metcon: CrossFit Games Open 26.2 Scaled (Ages 15-54). For Time, 15 min cap: 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches, 20 jumping pull-ups, 80-foot dumbbell overhead walking lunge, 20 alternating dumbbell snatches. For hypertrophy, focus on rear delts, biceps, core anti-rotation."
     }
   }
 }
