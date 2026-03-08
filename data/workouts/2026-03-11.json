@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-11",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\nPVC Shoulder Opener\n2 mins on Rower\n10 Cossack Squats\nBarbell Clean Flow",
+  "strength": [
+    {
+      "name": "Hang Clean",
+      "description": "1x3 | **Tall Clean** | E2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\nStart with an empty bar and make small jumps.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+    },
+    {
+      "name": "Clean",
+      "description": "3x3 | 4 x 3\nE3MOM 15min\nBUILD 1 x 3\n00:00 3 @  60%\n03:00 3 @ 70%\nHOLD 4x3\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E2MOM x 5\n5 thrusters @ 50/35kg\n8 Bar facing burpees\nrest in time remaining\nRecord your fastest round.",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back (lats/rows)",
+      "biceps",
+      "rear delts"
+    ],
+    "avoid": [
+      "shoulders (anterior)",
+      "triceps",
+      "quadriceps",
+      "lower back"
+    ],
+    "reasoning": "Balance today's anterior chain and pressing demand; build pulling strength without compounding shoulder fatigue.",
+    "suggested_exercises": [
+      "Barbell rows 3x6-8",
+      "Seal rows 3x8-10",
+      "Barbell curls 3x8-10",
+      "Face pulls 3x12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\nPVC Shoulder Opener\n2 mins on Rower\n10 Cossack Squats\nBarbell Clean Flow\nHang Clean | 1x3 | **Tall Clean** | E2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\nStart with an empty bar and make small jumps.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nClean | 3x3 | 4 x 3\nE3MOM 15min\nBUILD 1 x 3\n00:00 3 @  60%\n03:00 3 @ 70%\nHOLD 4x3\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%\nWorkout | E2MOM x 5\n5 thrusters @ 50/35kg\n8 Bar facing burpees\nrest in time remaining\nRecord your fastest round.",
+  "siri_text": "Wednesday's workout. Strength: Hang Clean, 1 by 3. Strength: Clean, 3 by 3 at 75 percent. Metcon: EMOM: 5 thrusters @ 50/35kg, 8 Bar facing burpees. For hypertrophy, focus on back (lats/rows), biceps, rear delts."
+}

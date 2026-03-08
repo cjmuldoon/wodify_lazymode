@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-12",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "10 RFT - 15 minute cap\n5 HSPU\n5 C2B\n10 Air squats",
+    "time_cap": "15 min"
+  },
+  "gymnastics": [
+    "EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSPU Progression\nEMOM x 5\n30 second HS Hold\nEMOM x 3\nTripod - Lower to Target / Eccentric/ Abmat if required\nE2MOM x 5\n5 SHSPU Box Pike Or Pike - Aim for target\nCore tight throughout"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back thickness",
+      "hamstrings",
+      "glutes",
+      "triceps"
+    ],
+    "avoid": [
+      "shoulders",
+      "chest",
+      "lats",
+      "anterior core"
+    ],
+    "reasoning": "Today emphasizes pressing and pulling vertically; target posterior chain and arm mass without competing for recovery resources.",
+    "suggested_exercises": [
+      "Barbell Rows 3 x 6-8",
+      "Romanian Deadlifts 3 x 8-10",
+      "Dumbbell Lying Tricep Extensions 3 x 10-12",
+      "Machine Leg Curl 3 x 12-15",
+      "Incline Dumbbell Bench (slight angle) 2 x 10-12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 3 10 Hollow Rocks (Hold Knee if required - keep your back off the ground)\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSPU Progression\nEMOM x 5\n30 second HS Hold\nEMOM x 3\nTripod - Lower to Target / Eccentric/ Abmat if required\nE2MOM x 5\n5 SHSPU Box Pike Or Pike - Aim for target\nCore tight throughout\nWorkout | 10 RFT - 15 minute cap\n5 HSPU\n5 C2B\n10 Air squats",
+  "siri_text": "Thursday's workout. Gymnastics: Hollow Rocks. Metcon: Rounds for Time: 5 HSPU, 5 C2B, 10 Air squats. For hypertrophy, focus on back thickness, hamstrings, glutes."
+}

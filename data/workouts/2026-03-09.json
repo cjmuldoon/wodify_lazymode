@@ -1,0 +1,42 @@
+{
+  "date": "2026-03-09",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "4x5 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "3 Rounds for time\n5 Hang Power Snatches @ 60/40kg\n10 Pull ups\n200m Run\nRest 1 minute\nTime is  when you finish your last run.\nScale Pull ups to Jumping Pull ups x 5 or Ring Rows\nRX+ @ 70/45",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "biceps",
+      "core stability",
+      "glutes"
+    ],
+    "avoid": [
+      "chest",
+      "anterior shoulders",
+      "lats",
+      "quads"
+    ],
+    "reasoning": "Target antagonists and neglected posterior chain to balance pressing volume and support pull pattern recovery.",
+    "suggested_exercises": [
+      "Face Pulls 3x12",
+      "Barbell Curls 3x8",
+      "Bulgarian Split Squats 3x10",
+      "Pallof Press 2x10/side",
+      "Pendulum Rows 3x10"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.\nBench Press | 4x5 | * 3 sec Down, 2 sec Pause\n*Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E3MOM 18 mins\nBUILD 2x6\n00:00 5 @ 50%\n03:00 5 @ 60%\nHOLD 4x5\n06:00 5 @ 70%\n09:00 5 @ 70%\n12:00 5 @ 70%\n15:00 5 @ 70%\nWorkout | 3 Rounds for time\n5 Hang Power Snatches @ 60/40kg\n10 Pull ups\n200m Run\nRest 1 minute\nTime is  when you finish your last run.\nScale Pull ups to Jumping Pull ups x 5 or Ring Rows\nRX+ @ 70/45",
+  "siri_text": "Monday's workout. Strength: Bench Press, 4 by 5 at 70 percent. Metcon: Rounds for Time: 5 Hang Power Snatches @ 60/40kg, 10 Pull ups, 200m Run, Time is  when you finish your last run.. For hypertrophy, focus on rear delts, biceps, core stability."
+}
