@@ -1,7 +1,7 @@
 {
   "date": "2026-03-09",
   "day_name": "Monday",
-  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.",
+  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n3 Dead Lifts\n3 Hang Power Clean\n3 Full Clean\n3 OH Thrusters\n100m run\n5 Kip Swings\n5 T2B\n5 Synchro Burpee Over Bar\n@50/35kg With a Partner 3 Deadlifts - 3 Cleans - 3  Thrusters",
   "strength": [],
   "metcon": {
     "name": "Part B",
@@ -14,24 +14,22 @@
     "recommended_muscles": [
       "back",
       "biceps",
-      "rear deltoids",
-      "core stability"
+      "rear delts"
     ],
     "avoid": [
-      "quadriceps",
+      "quads",
       "glutes",
       "shoulders",
       "triceps"
     ],
-    "reasoning": "Wall walks and box jumps heavily tax lower body and anterior chain; accessory targets posterior chain and pulling patterns for balance.",
+    "reasoning": "Wall walks and box jumps heavily tax quads, glutes, and shoulders; target opposing/neglected patterns.",
     "suggested_exercises": [
-      "Bent-Over Barbell Rows 3x8",
+      "Barbell Rows 3x8",
       "Dumbbell Bicep Curls 3x10",
       "Face Pulls 3x12",
-      "Ab Wheel Rollouts 3x8",
-      "Reverse Pec Deck Flyes 3x12"
+      "Seal Rows 2x10"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\n0530 specific warm up\n10 Band Row, Rotate, Press\n10 Scap Pull Ups\n3 Snatch Pull\n3 Hang Power Snatch\n100m run\n5 Kip Swings\n5 Pull Ups\n2 reps at weights warming up to metcon weight.\nPart A | 400m Run\n2 Rounds\n20 Deadlifts @ 90/55\n20 T2B\n8 Synchro Burpee over bar\n400m Run\n2 Rounds\n15 Cleans @ 70/45\n20 T2B\n8 Synchro Burpee over Bar\n400m Run\n2 Rounds\n10 Thrusters @ 50/35\n20 T2B\n8 Synchro Burpee Over Bar\nRest 3 Mins\nScale T2B to kipping leg raise or reduce volume so burpees take less than 60 seconds\nPart B | 6 min AMRAP\n4 Wall Walks (partition as required)\n20 Alternating Box Jumps (alternate with partner)",
-  "siri_text": "Monday's workout. Metcon: Part B. AMRAP 6 minutes: 4 Wall Walks (partition as required), 20 Alternating Box Jumps (alternate with partner). For hypertrophy, focus on back, biceps, rear deltoids."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n3 Dead Lifts\n3 Hang Power Clean\n3 Full Clean\n3 OH Thrusters\n100m run\n5 Kip Swings\n5 T2B\n5 Synchro Burpee Over Bar\n@50/35kg With a Partner 3 Deadlifts - 3 Cleans - 3  Thrusters\nPart A | 400m Run\n2 Rounds\n20 Deadlifts @ 90/55\n20 T2B\n8 Synchro Burpee over bar\n400m Run\n2 Rounds\n15 Cleans @ 70/45\n20 T2B\n8 Synchro Burpee over Bar\n400m Run\n2 Rounds\n10 Thrusters @ 50/35\n20 T2B\n8 Synchro Burpee Over Bar\nRest 3 Mins\nScale T2B to kipping leg raise or reduce volume so burpees take less than 60 seconds\nPart B | 6 min AMRAP\n4 Wall Walks (partition as required)\n20 Alternating Box Jumps (alternate with partner)",
+  "siri_text": "Monday's workout. Metcon: Part B. AMRAP 6 minutes: 4 Wall Walks (partition as required), 20 Alternating Box Jumps (alternate with partner). For hypertrophy, focus on back, biceps, rear delts."
 }
