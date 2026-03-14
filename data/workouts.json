@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T07:23:05",
+  "last_updated": "2026-03-14T07:18:57",
   "week_of": "2026-03-16",
   "workouts": {
     "2026-02-23": {
@@ -657,6 +657,44 @@
       },
       "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 4\n12 Hollow Rocks\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause when weightless\nEMOM x 4\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nEMOM x 6\nT2B Practice\nWall Walk to Handstand Push Up\nEMOM x 3\nWall Facing Handstand Hold\nEMOM x 3\nAdjust weight between hands\nEMOM x 5\n1-3 Wall Walks\nEMOM x 5\nKipping Handstand Push Ups or Wall Walks - NO MAX SETS\nWorkout | 6 RFT - 15 minute cap\n5 HSPU\n6 T2B\n35 Double Unders",
       "siri_text": "Thursday's workout. Gymnastics: . Metcon: Rounds for Time: 5 HSPU, 6 T2B, 35 Double Unders. For hypertrophy, focus on back, glutes, hamstrings."
+    },
+    "2026-03-14": {
+      "date": "2026-03-14",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "CrossFit Games Open 26.3 Scaled (Ages 16-54)",
+        "type": "For Time",
+        "description": "For Time:\n2 Rounds of:\n12 burpees over the bar\n12 cleans, weight 1\n12 burpees over the bar\n12 thrusters, weight 1\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 2\n12 burpees over the bar\n12 thrusters, weight 2\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 3\n12 burpees over the bar\n12 thrusters, weight 3\nTime Cap: 16 minutes\nF:\n45, 55, 65lb (20, 25, 29kg), may step over the barbell\nM:\n65, 85, 95lb (29, 38, 43kg), may step over the barbell\n*If capped, record rep count in the comment box",
+        "time_cap": "16 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear deltoids",
+          "back (upper/mid)",
+          "biceps",
+          "core (anti-rotation)"
+        ],
+        "avoid": [
+          "quads",
+          "glutes",
+          "shoulders (anterior)",
+          "triceps",
+          "core (anti-extension)"
+        ],
+        "reasoning": "Today heavily taxed legs, shoulders, and pressing stability; accessory work targets posterior chain and pulling musculature.",
+        "suggested_exercises": [
+          "Face pulls: 3 x 12–15",
+          "Barbell rows (moderate weight): 3 x 8–10",
+          "Dumbbell curls: 3 x 10–12",
+          "Pallof press (light): 2 x 10/side",
+          "Reverse pec deck: 3 x 12–15"
+        ]
+      },
+      "raw_text": "CrossFit Games Open 26.3 RX'd: (Ages 16-54) | For Time:\n2 Rounds of:\n12 burpees over the bar\n12 cleans, weight 1\n12 burpees over the bar\n12 thrusters, weight 1\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 2\n12 burpees over the bar\n12 thrusters, weight 2\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 3\n12 burpees over the bar\n12 thrusters, weight 3\nTime Cap: 16 minutes\nF:\n65, 75, 85lb (29, 34, 38kg)\nM:\n95, 115, 135lb (43, 52, 61kg)\n*If capped, record rep count in the comment box\nCrossFit Games Open 26.3 Scaled (Ages 16-54) | For Time:\n2 Rounds of:\n12 burpees over the bar\n12 cleans, weight 1\n12 burpees over the bar\n12 thrusters, weight 1\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 2\n12 burpees over the bar\n12 thrusters, weight 2\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 3\n12 burpees over the bar\n12 thrusters, weight 3\nTime Cap: 16 minutes\nF:\n45, 55, 65lb (20, 25, 29kg), may step over the barbell\nM:\n65, 85, 95lb (29, 38, 43kg), may step over the barbell\n*If capped, record rep count in the comment box",
+      "siri_text": "Saturday's workout. Metcon: CrossFit Games Open 26.3 Scaled (Ages 16-54). For Time, 16 min cap: 12 burpees over the bar, 12 cleans, weight 1, 12 burpees over the bar, 12 thrusters, weight 1, 12 burpees over the bar. For hypertrophy, focus on rear deltoids, back (upper/mid), biceps."
     }
   }
 }
