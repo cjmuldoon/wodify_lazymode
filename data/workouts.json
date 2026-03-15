@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-15T07:24:57",
+  "last_updated": "2026-03-15T08:17:37",
   "week_of": "2026-03-16",
   "workouts": {
     "2026-02-23": {
@@ -695,6 +695,156 @@
       },
       "raw_text": "CrossFit Games Open 26.3 RX'd: (Ages 16-54) | For Time:\n2 Rounds of:\n12 burpees over the bar\n12 cleans, weight 1\n12 burpees over the bar\n12 thrusters, weight 1\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 2\n12 burpees over the bar\n12 thrusters, weight 2\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 3\n12 burpees over the bar\n12 thrusters, weight 3\nTime Cap: 16 minutes\nF:\n65, 75, 85lb (29, 34, 38kg)\nM:\n95, 115, 135lb (43, 52, 61kg)\n*If capped, record rep count in the comment box\nCrossFit Games Open 26.3 Scaled (Ages 16-54) | For Time:\n2 Rounds of:\n12 burpees over the bar\n12 cleans, weight 1\n12 burpees over the bar\n12 thrusters, weight 1\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 2\n12 burpees over the bar\n12 thrusters, weight 2\n2 rounds of:\n12 burpees over the bar\n12 cleans, weight 3\n12 burpees over the bar\n12 thrusters, weight 3\nTime Cap: 16 minutes\nF:\n45, 55, 65lb (20, 25, 29kg), may step over the barbell\nM:\n65, 85, 95lb (29, 38, 43kg), may step over the barbell\n*If capped, record rep count in the comment box",
       "siri_text": "Saturday's workout. Metcon: CrossFit Games Open 26.3 Scaled (Ages 16-54). For Time, 16 min cap: 12 burpees over the bar, 12 cleans, weight 1, 12 burpees over the bar, 12 thrusters, weight 1, 12 burpees over the bar. For hypertrophy, focus on rear deltoids, back (upper/mid), biceps."
+    },
+    "2026-03-16": {
+      "date": "2026-03-16",
+      "day_name": "Monday",
+      "warm_up": "1 round\n30sec e/s PVC Shoulder Opener\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+      "strength": [
+        {
+          "name": "Bench Press",
+          "description": "5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
+        }
+      ],
+      "metcon": null,
+      "gymnastics": [
+        "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear deltoids",
+          "back (lower lats)",
+          "triceps",
+          "core (anti-rotation)"
+        ],
+        "avoid": [
+          "chest",
+          "anterior shoulders",
+          "lats (vertical pull)"
+        ],
+        "reasoning": "Bench and pull-ups dominate pressing and vertical pulling; accessory work addresses horizontal back, rear delts, and arm balance.",
+        "suggested_exercises": [
+          "Reverse pec deck or face pulls: 3x12–15",
+          "Seal rows or machine rows (lower lat emphasis): 3x10–12",
+          "Skull crushers or rope extensions: 3x12–15",
+          "Pallof press or landmine rotations: 3x10 each side"
+        ]
+      },
+      "raw_text": "Warm-up | 1 round\n30sec e/s PVC Shoulder Opener\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week",
+      "siri_text": "Monday's workout. Strength: Bench Press, 5 by 5 at 75 percent. Gymnastics: Pull-ups: E2MOM 10 min. For hypertrophy, focus on rear deltoids, back (lower lats), triceps."
+    },
+    "2026-03-17": {
+      "date": "2026-03-17",
+      "day_name": "Tuesday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n5 Snatch Pull\n5 Hang Muscle Snatch\n5 Hang Power Snatch (pause in catch)\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 Beat Swings\n10 PVC Shoulder Opener",
+      "strength": [
+        {
+          "name": "Hang Power Snatch",
+          "description": "1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+        },
+        {
+          "name": "Back Squat",
+          "description": "4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+        }
+      ],
+      "metcon": null,
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear delts",
+          "hamstrings",
+          "back (lats/mid-back)",
+          "biceps"
+        ],
+        "avoid": [
+          "quads",
+          "glutes",
+          "shoulders (anterior)",
+          "core"
+        ],
+        "reasoning": "Snatch and squat heavily tax quads, glutes, and anterior shoulders; accessorize posterior chain and pulling musculature.",
+        "suggested_exercises": [
+          "Face Pulls: 3x12",
+          "Nordic Hamstring Curls: 3x5",
+          "Barbell Rows (Pendlay): 3x8",
+          "Dumbbell Curls: 3x10",
+          "Reverse Pec Deck: 3x12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n5 Snatch Pull\n5 Hang Muscle Snatch\n5 Hang Power Snatch (pause in catch)\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 Beat Swings\n10 PVC Shoulder Opener\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBack Squat | 4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
+      "siri_text": "Tuesday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Back Squat, 4 by 6 at 65 percent. For hypertrophy, focus on rear delts, hamstrings, back (lats/mid-back)."
+    },
+    "2026-03-18": {
+      "date": "2026-03-18",
+      "day_name": "Wednesday",
+      "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\n2 mins on Rower - Slow - Moderate - Faster\nJ-Hook - Box seat to stand\nEmpty Bar RDL\n3 Deadlifts @ 50-70-90",
+      "strength": [
+        {
+          "name": "Deadlift",
+          "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+        },
+        {
+          "name": "Bench Press",
+          "description": "4x6 | *Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E2MOM 12 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+        }
+      ],
+      "metcon": null,
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear delts",
+          "back (rows)",
+          "arms (biceps/triceps)"
+        ],
+        "avoid": [
+          "chest",
+          "quads",
+          "lower back",
+          "anterior delts"
+        ],
+        "reasoning": "Build pulling strength and arm hypertrophy while allowing CNS recovery from heavy pressing/deadlifting.",
+        "suggested_exercises": [
+          "Face pulls: 3x12",
+          "Barbell rows: 3x8",
+          "Dumbbell curls: 3x10",
+          "Tricep rope pushdowns: 3x12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\n2 mins on Rower - Slow - Moderate - Faster\nJ-Hook - Box seat to stand\nEmpty Bar RDL\n3 Deadlifts @ 50-70-90\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nBench Press | 4x6 | *Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E2MOM 12 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
+      "siri_text": "Wednesday's workout. Strength: Deadlift, 4 by 6 at 65 percent. Strength: Bench Press, 4 by 6 at 65 percent. For hypertrophy, focus on rear delts, back (rows), arms (biceps/triceps)."
+    },
+    "2026-03-19": {
+      "date": "2026-03-19",
+      "day_name": "Thursday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats",
+      "strength": [],
+      "metcon": null,
+      "gymnastics": [
+        "EMOM x 4\n12 Hollow Rocks\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause when weightless\nEMOM x 4\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nEMOM x 6\nT2B Practice\nWall Walk to Handstand Push Up\nEMOM x 3\nWall Facing Handstand Hold\nEMOM x 3\nAdjust weight between hands\nEMOM x 5\n1-3 Wall Walks\nEMOM x 5\nKipping Handstand Push Ups or Wall Walks - NO MAX SETS"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "Back (Rows)",
+          "Glutes",
+          "Hamstrings",
+          "Biceps"
+        ],
+        "avoid": [
+          "Shoulders",
+          "Core",
+          "Triceps",
+          "Lats"
+        ],
+        "reasoning": "Today taxes shoulders, core, and pressing patterns heavily; target posterior chain and pulling strength for balance.",
+        "suggested_exercises": [
+          "Barbell Rows 3 x 6-8",
+          "Romanian Deadlifts 3 x 8-10",
+          "Leg Curls 3 x 10-12",
+          "Dumbbell Curls 3 x 10-12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 4\n12 Hollow Rocks\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause when weightless\nEMOM x 4\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nEMOM x 6\nT2B Practice\nWall Walk to Handstand Push Up\nEMOM x 3\nWall Facing Handstand Hold\nEMOM x 3\nAdjust weight between hands\nEMOM x 5\n1-3 Wall Walks\nEMOM x 5\nKipping Handstand Push Ups or Wall Walks - NO MAX SETS",
+      "siri_text": "Thursday's workout. Gymnastics: . For hypertrophy, focus on Back (Rows), Glutes, Hamstrings."
     }
   }
 }

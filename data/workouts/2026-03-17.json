@@ -1,0 +1,41 @@
+{
+  "date": "2026-03-17",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n5 Snatch Pull\n5 Hang Muscle Snatch\n5 Hang Power Snatch (pause in catch)\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 Beat Swings\n10 PVC Shoulder Opener",
+  "strength": [
+    {
+      "name": "Hang Power Snatch",
+      "description": "1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3"
+    },
+    {
+      "name": "Back Squat",
+      "description": "4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+    }
+  ],
+  "metcon": null,
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "hamstrings",
+      "back (lats/mid-back)",
+      "biceps"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "shoulders (anterior)",
+      "core"
+    ],
+    "reasoning": "Snatch and squat heavily tax quads, glutes, and anterior shoulders; accessorize posterior chain and pulling musculature.",
+    "suggested_exercises": [
+      "Face Pulls: 3x12",
+      "Nordic Hamstring Curls: 3x5",
+      "Barbell Rows (Pendlay): 3x8",
+      "Dumbbell Curls: 3x10",
+      "Reverse Pec Deck: 3x12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n2 Rounds (PVC/Barbell):\n5 Snatch Pull\n5 Hang Muscle Snatch\n5 Hang Power Snatch (pause in catch)\n0530 Specific Warm Up\n10 Scap Pull Ups\n10 Scap Push Ups\n2 mins on Assault Bike\n10 Beat Swings\n10 PVC Shoulder Opener\nHang Power Snatch | 1x3 | 1x3\nE2MOM 12min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\n10:00 3\nBack Squat | 4x6 | * Elbows to back pocket\n* Rib Cage to Pelvis\n* Screw feet OUT into the floor | E2MOM 12 mins\nBUILD 2 sets\n00:00 10 @ 50%\n02:00 8 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
+  "siri_text": "Tuesday's workout. Strength: Hang Power Snatch, 1 by 3. Strength: Back Squat, 4 by 6 at 65 percent. For hypertrophy, focus on rear delts, hamstrings, back (lats/mid-back)."
+}

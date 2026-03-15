@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-16",
+  "day_name": "Monday",
+  "warm_up": "1 round\n30sec e/s PVC Shoulder Opener\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
+    }
+  ],
+  "metcon": null,
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "back (lower lats)",
+      "triceps",
+      "core (anti-rotation)"
+    ],
+    "avoid": [
+      "chest",
+      "anterior shoulders",
+      "lats (vertical pull)"
+    ],
+    "reasoning": "Bench and pull-ups dominate pressing and vertical pulling; accessory work addresses horizontal back, rear delts, and arm balance.",
+    "suggested_exercises": [
+      "Reverse pec deck or face pulls: 3x12–15",
+      "Seal rows or machine rows (lower lat emphasis): 3x10–12",
+      "Skull crushers or rope extensions: 3x12–15",
+      "Pallof press or landmine rotations: 3x10 each side"
+    ]
+  },
+  "raw_text": "Warm-up | 1 round\n30sec e/s PVC Shoulder Opener\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week",
+  "siri_text": "Monday's workout. Strength: Bench Press, 5 by 5 at 75 percent. Gymnastics: Pull-ups: E2MOM 10 min. For hypertrophy, focus on rear deltoids, back (lower lats), triceps."
+}
