@@ -12,29 +12,33 @@
       "description": "1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "12 min AMRAP\n20 Russian Kettlebell swings @32/24kg\n10 Reverse Lunges @ 60/40kg\n4 Wall Walks",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "arms",
-      "core stability"
+      "biceps",
+      "rear delts"
     ],
     "avoid": [
-      "quadriceps",
+      "quads",
       "glutes",
       "shoulders",
-      "traps"
+      "core"
     ],
-    "reasoning": "Squats and jerks heavily tax legs and shoulders; accessory work targets posterior chain and arm hypertrophy without CNS fatigue.",
+    "reasoning": "Today hits legs hard (squat, lunges) and anterior chain (jerks, wall walks); pull-focused work balances and aids recovery.",
     "suggested_exercises": [
-      "Barbell Rows: 3x6-8",
-      "Dumbbell Incline Curls: 3x8-10",
-      "Weighted Dips: 3x6-8",
-      "Chest-Supported T-Bar Rows: 3x8",
-      "Pallof Presses: 3x10/side"
+      "Barbell Rows: 3x8",
+      "Dumbbell Bicep Curls: 3x10",
+      "Reverse Pec Deck Flyes: 3x12",
+      "Seal Rows: 2x10"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 5x5 | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5",
-  "siri_text": "Tuesday's workout. Strength: Back Squat, 5 by 5 at 75 percent. Strength: Behind The Neck Jerk, 1 by 3. For hypertrophy, focus on back, arms, core stability."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 5x5 | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5\nWorkout | 12 min AMRAP\n20 Russian Kettlebell swings @32/24kg\n10 Reverse Lunges @ 60/40kg\n4 Wall Walks",
+  "siri_text": "Tuesday's workout. Strength: Back Squat, 5 by 5 at 75 percent. Strength: Behind The Neck Jerk, 1 by 3. Metcon: AMRAP 12 minutes: 20 Russian Kettlebell swings @32/24kg, 10 Reverse Lunges @ 60/40kg, 4 Wall Walks. For hypertrophy, focus on back, biceps, rear delts."
 }

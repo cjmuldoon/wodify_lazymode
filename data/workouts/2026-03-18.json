@@ -5,36 +5,42 @@
   "strength": [
     {
       "name": "Clean Pull",
-      "description": "1x3"
+      "description": "1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3"
     },
     {
       "name": "Clean",
       "description": "3x5"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E3MOM x 12\n200m Run\n5 Squat cleans @ 80/50kg\nCycle all 5 or quick singles\nrecord your fastest round",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "triceps",
-      "rear deltoids"
+      "back (lats/rhomboids)",
+      "hamstrings",
+      "glutes",
+      "core stability"
     ],
     "avoid": [
       "quadriceps",
-      "hamstrings",
-      "lower back",
       "front deltoids",
-      "traps"
+      "traps",
+      "grip"
     ],
-    "reasoning": "Cleans tax lower body and anterior chain heavily; accessory work targets opposing/non-competing upper body musculature.",
+    "reasoning": "Address posterior chain and upper back to balance quad/clean-heavy session and prep for next training day.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8–10",
-      "Face Pulls: 3x12–15",
-      "Close-Grip Bench Press: 3x8–10",
-      "Reverse Pec Deck: 3x12–15"
+      "Weighted pull-ups or lat pulldowns: 3x6-8",
+      "Romanian deadlifts: 3x8-10",
+      "Pallof press: 3x10 each side",
+      "Weighted dips or ring dips: 3x6-8",
+      "Nordic hamstring curls: 3x4-6"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\nClean Pull | 1x3\nClean | 3x5",
-  "siri_text": "Wednesday's workout. Strength: Clean Pull, 1 by 3. Strength: Clean, 3 by 5. For hypertrophy, focus on chest, triceps, rear deltoids."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\nClean Pull | 1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\nClean | 3x5\nWorkout | E3MOM x 12\n200m Run\n5 Squat cleans @ 80/50kg\nCycle all 5 or quick singles\nrecord your fastest round",
+  "siri_text": "Wednesday's workout. Strength: Clean Pull, 1 by 3. Strength: Clean, 3 by 5. Metcon: EMOM: 200m Run, 5 Squat cleans @ 80/50kg. For hypertrophy, focus on back (lats/rhomboids), hamstrings, glutes."
 }

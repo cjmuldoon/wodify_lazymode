@@ -5,35 +5,40 @@
   "strength": [
     {
       "name": "Bench Press",
-      "description": "5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
+      "description": "5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "4 Rounds for Time\n15 Double Dumbbell Bench Press @22.5/15kg\n50 Double Unders\n12 V-ups\n5 Bar Muscle Ups\nScale BMU to Banded Bar Muscle Ups\nRx+ 10 x GHD Sit ups",
+    "time_cap": null
+  },
   "gymnastics": [
     "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
   ],
   "hypertrophy": {
     "recommended_muscles": [
+      "back",
       "rear delts",
       "biceps",
-      "core",
-      "glutes"
+      "core"
     ],
     "avoid": [
       "chest",
       "triceps",
       "anterior delts",
-      "lats"
+      "shoulders"
     ],
-    "reasoning": "Bench and pull-ups dominate pressing/pulling; accessorize antagonists and weak points to build balanced hypertrophy.",
+    "reasoning": "Bench press and dumbbell presses heavily tax chest/triceps; accessory work targets pull-based muscles and posterior chain balance.",
     "suggested_exercises": [
-      "Face pulls: 3x12-15",
-      "Dumbbell curls: 3x8-10",
-      "Bulgarian split squats: 3x10 each leg",
-      "Pallof press: 3x10 each side",
-      "Leg curls: 3x12-15"
+      "Seal rows 3x8-10",
+      "Face pulls 3x12-15",
+      "Barbell curls 3x8-10",
+      "Prone incline dumbbell curls 3x10-12",
+      "Pallof press holds 3x45-60s each side"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 10 @ 55%\n03:00 8 @ 65%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week",
-  "siri_text": "Monday's workout. Strength: Bench Press, 5 by 5 at 75 percent. Gymnastics: Pull-ups: E2MOM 10 min. For hypertrophy, focus on rear delts, biceps, core."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x5 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | 4 Rounds for Time\n15 Double Dumbbell Bench Press @22.5/15kg\n50 Double Unders\n12 V-ups\n5 Bar Muscle Ups\nScale BMU to Banded Bar Muscle Ups\nRx+ 10 x GHD Sit ups",
+  "siri_text": "Monday's workout. Strength: Bench Press, 5 by 5 at 75 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 15 Double Dumbbell Bench Press @22.5/15kg, 50 Double Unders, 12 V-ups, 5 Bar Muscle Ups, Scale BMU to Banded Bar Muscle Ups. For hypertrophy, focus on back, rear delts, biceps."
 }

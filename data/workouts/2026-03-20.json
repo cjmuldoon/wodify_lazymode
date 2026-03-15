@@ -8,29 +8,36 @@
       "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "\"Topsy\"",
+    "type": "Workout",
+    "description": "Complete as many rounds and reps as possible in 25 minutes of:\n3 ring muscle-ups\n8 thrusters (75lb / 115lb)\n17-calorie row\nIntermediate:\n55lb / 75lb, 3 Jumping Ring Muscle Ups\nScaled\n: 35lb / 45lb, 3 Low Ring Muscle Up Transitions, 12 Calorie Row\nMcCoy “Topsy” Turner, a loved member of the CrossFit community and former Seminar Staff trainer, died by suicide on March 8, 2025, after suffering from complex post-traumatic stress.\nTurner served for 17 years in the Royal Navy, specializing as an exercise rehabilitation instructor. He was part of Operation Herrick when he served in Afghanistan before relocating to Bali and continuing his work in CrossFit education. Turner worked more than 250 Level 1 and Level 2 Seminars.\nTurner was known for his warmth and kindness, and touched countless lives who attended CrossFit courses. He is survived by his sons Brodie and Tommy.",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders",
-      "biceps"
+      "rear deltoids",
+      "biceps",
+      "upper back",
+      "abs"
     ],
     "avoid": [
-      "back",
+      "quads",
       "glutes",
       "hamstrings",
-      "core"
+      "shoulders",
+      "triceps"
     ],
-    "reasoning": "Deadlifts heavily tax posterior chain and core; accessory work targets anterior/upper body to maintain balance and manage fatigue.",
+    "reasoning": "Deadlift and thrusters dominate lower body and anterior chain; accessory work targets opposing/neglected muscle groups.",
     "suggested_exercises": [
-      "Dumbbell bench press: 3x8",
-      "Incline dumbbell flyes: 3x10",
-      "Lateral raises: 3x12",
+      "Face pulls: 3x12",
+      "Barbell rows (light, slow tempo): 3x8",
       "Dumbbell curls: 3x10",
-      "Machine chest press: 2x12"
+      "Decline sit-ups: 3x12",
+      "Reverse pec deck: 3x12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
-  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 65 percent. For hypertrophy, focus on chest, shoulders, biceps."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\n\"Topsy\" | Complete as many rounds and reps as possible in 25 minutes of:\n3 ring muscle-ups\n8 thrusters (75lb / 115lb)\n17-calorie row\nIntermediate:\n55lb / 75lb, 3 Jumping Ring Muscle Ups\nScaled\n: 35lb / 45lb, 3 Low Ring Muscle Up Transitions, 12 Calorie Row\nMcCoy “Topsy” Turner, a loved member of the CrossFit community and former Seminar Staff trainer, died by suicide on March 8, 2025, after suffering from complex post-traumatic stress.\nTurner served for 17 years in the Royal Navy, specializing as an exercise rehabilitation instructor. He was part of Operation Herrick when he served in Afghanistan before relocating to Bali and continuing his work in CrossFit education. Turner worked more than 250 Level 1 and Level 2 Seminars.\nTurner was known for his warmth and kindness, and touched countless lives who attended CrossFit courses. He is survived by his sons Brodie and Tommy.",
+  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 65 percent. Metcon: \"Topsy\". Workout: 3 ring muscle-ups, 8 thrusters (75lb / 115lb), 17-calorie row, Intermediate:, 55lb / 75lb, 3 Jumping Ring Muscle Ups. For hypertrophy, focus on rear deltoids, biceps, upper back."
 }
