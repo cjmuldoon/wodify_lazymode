@@ -1,39 +1,40 @@
 {
   "date": "2026-03-18",
   "day_name": "Wednesday",
-  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\n2 mins on Rower - Slow - Moderate - Faster\nJ-Hook - Box seat to stand\nEmpty Bar RDL\n3 Deadlifts @ 50-70-90",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press",
   "strength": [
     {
-      "name": "Deadlift",
-      "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+      "name": "Clean Pull",
+      "description": "1x3"
     },
     {
-      "name": "Bench Press",
-      "description": "4x6 | *Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E2MOM 12 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+      "name": "Clean",
+      "description": "3x5"
     }
   ],
   "metcon": null,
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear delts",
-      "back (rows)",
-      "arms (biceps/triceps)"
+      "chest",
+      "triceps",
+      "rear deltoids"
     ],
     "avoid": [
-      "chest",
-      "quads",
+      "quadriceps",
+      "hamstrings",
       "lower back",
-      "anterior delts"
+      "front deltoids",
+      "traps"
     ],
-    "reasoning": "Build pulling strength and arm hypertrophy while allowing CNS recovery from heavy pressing/deadlifting.",
+    "reasoning": "Cleans tax lower body and anterior chain heavily; accessory work targets opposing/non-competing upper body musculature.",
     "suggested_exercises": [
-      "Face pulls: 3x12",
-      "Barbell rows: 3x8",
-      "Dumbbell curls: 3x10",
-      "Tricep rope pushdowns: 3x12"
+      "Dumbbell Bench Press: 3x8–10",
+      "Face Pulls: 3x12–15",
+      "Close-Grip Bench Press: 3x8–10",
+      "Reverse Pec Deck: 3x12–15"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\n0530 Specific Warm Up\n2 mins on Rower - Slow - Moderate - Faster\nJ-Hook - Box seat to stand\nEmpty Bar RDL\n3 Deadlifts @ 50-70-90\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nBench Press | 4x6 | *Keep Quads engaged at all times.\n*Think Break & Pull apart Bar | E2MOM 12 mins\nBUILD 2x6\n00:00 6 @ 50%\n03:00 6 @ 60%\nHOLD 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
-  "siri_text": "Wednesday's workout. Strength: Deadlift, 4 by 6 at 65 percent. Strength: Bench Press, 4 by 6 at 65 percent. For hypertrophy, focus on rear delts, back (rows), arms (biceps/triceps)."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Hang Power Clean\n3 Tall Clean\n10 Strict Press\nClean Pull | 1x3\nClean | 3x5",
+  "siri_text": "Wednesday's workout. Strength: Clean Pull, 1 by 3. Strength: Clean, 3 by 5. For hypertrophy, focus on chest, triceps, rear deltoids."
 }

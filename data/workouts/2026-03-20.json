@@ -1,0 +1,36 @@
+{
+  "date": "2026-03-20",
+  "day_name": "Friday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+    }
+  ],
+  "metcon": null,
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "shoulders",
+      "biceps"
+    ],
+    "avoid": [
+      "back",
+      "glutes",
+      "hamstrings",
+      "core"
+    ],
+    "reasoning": "Deadlifts heavily tax posterior chain and core; accessory work targets anterior/upper body to maintain balance and manage fatigue.",
+    "suggested_exercises": [
+      "Dumbbell bench press: 3x8",
+      "Incline dumbbell flyes: 3x10",
+      "Lateral raises: 3x12",
+      "Dumbbell curls: 3x10",
+      "Machine chest press: 2x12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%",
+  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 65 percent. For hypertrophy, focus on chest, shoulders, biceps."
+}
