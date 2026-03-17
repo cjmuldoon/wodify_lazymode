@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-16T07:36:30",
+  "last_updated": "2026-03-17T07:27:14",
   "week_of": "2026-03-23",
   "workouts": {
     "2026-02-23": {
@@ -751,7 +751,7 @@
         },
         {
           "name": "Behind The Neck Jerk",
-          "description": "1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5"
+          "description": "1x5 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5"
         }
       ],
       "metcon": {
@@ -763,26 +763,28 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back",
+          "back (upper/mid)",
           "biceps",
-          "rear delts"
+          "rear delts",
+          "core (anti-rotation)"
         ],
         "avoid": [
           "quads",
           "glutes",
-          "shoulders",
-          "core"
+          "shoulders (anterior/lateral)",
+          "lower back"
         ],
-        "reasoning": "Today hits legs hard (squat, lunges) and anterior chain (jerks, wall walks); pull-focused work balances and aids recovery.",
+        "reasoning": "Upper back and arm work balances quad/glute dominance and supports posture after heavy squat/jerk loading.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Dumbbell Bicep Curls: 3x10",
-          "Reverse Pec Deck Flyes: 3x12",
-          "Seal Rows: 2x10"
+          "Bent-over barbell rows 3x8",
+          "Dumbbell bicep curls 3x10",
+          "Face pulls 3x12",
+          "Pallof press 3x8/side",
+          "Incline bench dumbbell flyes 2x10"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 5x5 | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5\nWorkout | 12 min AMRAP\n20 Russian Kettlebell swings @32/24kg\n10 Reverse Lunges @ 60/40kg\n4 Wall Walks",
-      "siri_text": "Tuesday's workout. Strength: Back Squat, 5 by 5 at 75 percent. Strength: Behind The Neck Jerk, 1 by 3. Metcon: AMRAP 12 minutes: 20 Russian Kettlebell swings @32/24kg, 10 Reverse Lunges @ 60/40kg, 4 Wall Walks. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 5x5 | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nBehind The Neck Jerk | 1x5 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 5. Increase weight if it is feeling good or dial it in for another set.\n00:00 5\n02:00 5\n04:00 5\n06:00 5\n08:00 5\nWorkout | 12 min AMRAP\n20 Russian Kettlebell swings @32/24kg\n10 Reverse Lunges @ 60/40kg\n4 Wall Walks",
+      "siri_text": "Tuesday's workout. Strength: Back Squat, 5 by 5 at 75 percent. Strength: Behind The Neck Jerk, 1 by 5. Metcon: AMRAP 12 minutes: 20 Russian Kettlebell swings @32/24kg, 10 Reverse Lunges @ 60/40kg, 4 Wall Walks. For hypertrophy, focus on back (upper/mid), biceps, rear delts."
     },
     "2026-03-18": {
       "date": "2026-03-18",
