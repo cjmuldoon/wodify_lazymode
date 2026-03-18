@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-24",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "4x6 | Light Touch n Go\n* Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E2MOM 12min\nBUILD 2 Sets\n00:00 6 @ 45%\n02:00 6 @ 55%\nHOLD 5 Sets\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "4 Rounds for Time\n15 Double Dumbbell Bench Press @22.5/15kg\n50 Double Unders\n12 V-ups\n5 Bar Muscle Ups\nScale BMU to Banded Bar Muscle Ups\nRx+ 10 x GHD Sit ups",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "back thickness",
+      "hamstrings",
+      "core stability"
+    ],
+    "avoid": [
+      "chest",
+      "anterior delts",
+      "triceps",
+      "lats",
+      "abs"
+    ],
+    "reasoning": "Bench press and BMUs heavily load pressing muscles; accessorize posterior chain and hamstrings for balance.",
+    "suggested_exercises": [
+      "Face pulls: 3 x 12-15",
+      "Incline dumbbell rows: 3 x 8-10",
+      "Lying leg curls: 3 x 10-12",
+      "Pallof press: 3 x 10/side",
+      "Single-leg RDL: 3 x 8/leg"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x6 | Light Touch n Go\n* Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E2MOM 12min\nBUILD 2 Sets\n00:00 6 @ 45%\n02:00 6 @ 55%\nHOLD 5 Sets\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nPull-ups | E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS\nWorkout | 4 Rounds for Time\n15 Double Dumbbell Bench Press @22.5/15kg\n50 Double Unders\n12 V-ups\n5 Bar Muscle Ups\nScale BMU to Banded Bar Muscle Ups\nRx+ 10 x GHD Sit ups",
+  "siri_text": "Tuesday's workout. Strength: Bench Press, 4 by 6 at 65 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 15 Double Dumbbell Bench Press @22.5/15kg, 50 Double Unders, 12 V-ups, 5 Bar Muscle Ups, Scale BMU to Banded Bar Muscle Ups. For hypertrophy, focus on rear delts, back thickness, hamstrings."
+}

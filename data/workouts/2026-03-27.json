@@ -1,0 +1,45 @@
+{
+  "date": "2026-03-27",
+  "day_name": "Friday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat",
+  "strength": [
+    {
+      "name": "Power Clean",
+      "description": "4x3 | * Focus on triple extension\n* Fast Elbows | E2MOM 12min\nBUILD 3 Sets\n00:00 3 @ 50%\n02:00 3 @ 60%\nHOLD 4 Sets\n04:00 3 @ 70%\n06:00 3 @ 70%\n08:00 3 @ 70%\n10:00 3 @ 70%"
+    },
+    {
+      "name": "Front Squat",
+      "description": "5x5 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E3MOM x 12\n200m Run\n5 Squat cleans @ 80/50kg\nCycle all 5 or quick singles\nrecord your fastest round",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts",
+      "glutes"
+    ],
+    "avoid": [
+      "quads",
+      "front delts",
+      "core"
+    ],
+    "reasoning": "Back and biceps work opposes anterior chain fatigue while glutes support posterior chain balance without competing for CNS resources.",
+    "suggested_exercises": [
+      "Pendlay Rows 3x8",
+      "Barbell Curls 3x8-10",
+      "Reverse Pec Deck 3x12",
+      "GHD Sit-ups 2x8-10",
+      "Banded Pull-aparts 2x15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat\nPower Clean | 4x3 | * Focus on triple extension\n* Fast Elbows | E2MOM 12min\nBUILD 3 Sets\n00:00 3 @ 50%\n02:00 3 @ 60%\nHOLD 4 Sets\n04:00 3 @ 70%\n06:00 3 @ 70%\n08:00 3 @ 70%\n10:00 3 @ 70%\nFront Squat | 5x5 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 50 + 60%\n03:00 5 @ 70%\nHOLD 5 Sets\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nWorkout | E3MOM x 12\n200m Run\n5 Squat cleans @ 80/50kg\nCycle all 5 or quick singles\nrecord your fastest round",
+  "siri_text": "Friday's workout. Strength: Power Clean, 4 by 3 at 70 percent. Strength: Front Squat, 5 by 5 at 75 percent. Metcon: EMOM: 200m Run, 5 Squat cleans @ 80/50kg. For hypertrophy, focus on back, biceps, rear delts."
+}
