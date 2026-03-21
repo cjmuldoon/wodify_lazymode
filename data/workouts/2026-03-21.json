@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-21",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Partner workout",
+    "type": "Workout",
+    "description": "Rest 3 mins then\n50 wall balls\n50 box overs\n30 devils press",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "hamstrings",
+      "core stability"
+    ],
+    "avoid": [
+      "shoulders",
+      "quadriceps",
+      "glutes",
+      "triceps"
+    ],
+    "reasoning": "Metcon heavily taxes shoulders, quads, glutes, and triceps; accessory work targets posterior chain and biceps for balanced development.",
+    "suggested_exercises": [
+      "Barbell rows 3x6-8",
+      "Dumbbell bicep curls 3x8-10",
+      "Nordic hamstring curls 3x5",
+      "Pallof press 3x10 each side",
+      "Incline bench dumbbell rows 3x8-10"
+    ]
+  },
+  "raw_text": "Partner workout | Partition as required\nAMRAP X 25\n20 T2B\n20 HSPU\n10 Power clean and jerk @ 80/50\n200m run\nRX+ 100/60\nPartner workout | Rest 3 mins then\n50 wall balls\n50 box overs\n30 devils press",
+  "siri_text": "Saturday's workout. Metcon: Partner workout. Workout: 50 wall balls, 50 box overs, 30 devils press. For hypertrophy, focus on back, biceps, hamstrings."
+}
