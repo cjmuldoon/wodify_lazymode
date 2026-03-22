@@ -12,29 +12,33 @@
       "description": "4x3 | E3MOM 15mins\nBUILD 1 Sets\n00:00 3 @ 65%\nHOLD 4 Sets\n03:00 3 @ 75%\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "4 RFT\n5 Hang Power Snatch\n5 Overhead Squats\n10 burpees over bar\nRest 1.5 mins\n@60/40\npick a weight you can go unbroken otherwise scale\n50/35 or 40/30\nEarn your rest and push the burpee pace",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back (lats)",
-      "arms (biceps/triceps)",
-      "core (anti-rotation)"
+      "back (rows)",
+      "biceps",
+      "core stability"
     ],
     "avoid": [
       "shoulders",
-      "traps",
-      "quads",
-      "glutes"
+      "quadriceps",
+      "glutes",
+      "triceps"
     ],
-    "reasoning": "Snatch work heavily taxes shoulders, traps, and legs; accessory work targets pulling strength and arm hypertrophy without competing for recovery.",
+    "reasoning": "Today heavily taxes shoulders, legs, and pressing muscles; accessory work addresses posterior chain and arm balance.",
     "suggested_exercises": [
-      "Weighted Pull-ups: 3x6-8",
-      "Barbell Rows: 3x8-10",
-      "Dumbbell Curls: 3x10-12",
-      "Tricep Rope Extensions: 3x12-15",
-      "Pallof Press: 3x10 (each side)"
+      "Barbell Rows: 3x8",
+      "Dumbbell Curls: 3x10",
+      "Weighted Ab Wheel: 3x8",
+      "Seal Rows: 3x10"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Pull | 1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | E2MOM 8min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\nSnatch | 4x3 | E3MOM 15mins\nBUILD 1 Sets\n00:00 3 @ 65%\nHOLD 4 Sets\n03:00 3 @ 75%\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%",
-  "siri_text": "Monday's workout. Strength: Snatch Pull, 1 by 3. Strength: Snatch, 4 by 3 at 75 percent. For hypertrophy, focus on back (lats), arms (biceps/triceps), core (anti-rotation)."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Pull | 1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | E2MOM 8min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\nSnatch | 4x3 | E3MOM 15mins\nBUILD 1 Sets\n00:00 3 @ 65%\nHOLD 4 Sets\n03:00 3 @ 75%\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%\nWorkout | 4 RFT\n5 Hang Power Snatch\n5 Overhead Squats\n10 burpees over bar\nRest 1.5 mins\n@60/40\npick a weight you can go unbroken otherwise scale\n50/35 or 40/30\nEarn your rest and push the burpee pace",
+  "siri_text": "Monday's workout. Strength: Snatch Pull, 1 by 3. Strength: Snatch, 4 by 3 at 75 percent. Metcon: Rounds for Time: 5 Hang Power Snatch, 5 Overhead Squats, 10 burpees over bar, pick a weight you can go unbroken otherwise scale, 50/35 or 40/30. For hypertrophy, focus on back (rows), biceps, core stability."
 }
