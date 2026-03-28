@@ -1,0 +1,37 @@
+{
+  "date": "2026-03-28",
+  "day_name": "Saturday",
+  "warm_up": "Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "Partner Workout - Partition as required\n30 min AMRAP\nBuy in\n1000/800m row\n20 Ring Rows\n30 Wall Balls\n40 Dumbell Snatches\n30 V-ups\n20 Burpees\n10 Assault Bike Cals (each)",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "hamstrings",
+      "glutes",
+      "rear delts",
+      "triceps"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "core",
+      "quads"
+    ],
+    "reasoning": "Today's metcon emphasizes chest, shoulders, and anterior core; accessory work targets posterior chain and arms to prevent imbalances.",
+    "suggested_exercises": [
+      "Nordic Hamstring Curls 3x5",
+      "Pendulum Squats (glute-dominant) 3x8",
+      "Face Pulls 3x12",
+      "Overhead Tricep Extensions 3x10",
+      "Reverse Pec Deck Flyes 3x12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits\nWorkout | Partner Workout - Partition as required\n30 min AMRAP\nBuy in\n1000/800m row\n20 Ring Rows\n30 Wall Balls\n40 Dumbell Snatches\n30 V-ups\n20 Burpees\n10 Assault Bike Cals (each)",
+  "siri_text": "Saturday's workout. Metcon: AMRAP 30 minutes: Partner Workout - Partition as required, Buy in, 1000/800m row, 20 Ring Rows, 30 Wall Balls. For hypertrophy, focus on hamstrings, glutes, rear delts."
+}
