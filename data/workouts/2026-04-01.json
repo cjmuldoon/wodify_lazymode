@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-01",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "5x4 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 4 @ 55 + 65%\n03:00 4 @ 75%\nHOLD 5 Sets\n06:00 4 @ 80%\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "EMOM X 18 mins (6 rounds)\nMin1: 12/10 Cal Row\nMin2: 12 2xDB C&J\nMin3: 12 Burpee Over DB\n*Reduce reps to keep within 45-55 seconds of work per minute",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "back hypertrophy",
+      "hamstrings",
+      "triceps"
+    ],
+    "avoid": [
+      "chest",
+      "front delts",
+      "quads",
+      "lats"
+    ],
+    "reasoning": "Address posterior chain and arm endurance while sparing pressing muscles and legs fatigued by metcon.",
+    "suggested_exercises": [
+      "Face Pulls: 3x12-15",
+      "Incline Dumbbell Rows: 3x10-12",
+      "Lying Leg Curls: 3x12-15",
+      "Rope Pushdowns: 3x12-15",
+      "Machine Reverse Pec Deck: 3x12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x4 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 4 @ 55 + 65%\n03:00 4 @ 75%\nHOLD 5 Sets\n06:00 4 @ 80%\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | EMOM X 18 mins (6 rounds)\nMin1: 12/10 Cal Row\nMin2: 12 2xDB C&J\nMin3: 12 Burpee Over DB\n*Reduce reps to keep within 45-55 seconds of work per minute",
+  "siri_text": "Wednesday's workout. Strength: Bench Press, 5 by 4 at 80 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: EMOM 18 minutes. For hypertrophy, focus on rear delts, back hypertrophy, hamstrings."
+}

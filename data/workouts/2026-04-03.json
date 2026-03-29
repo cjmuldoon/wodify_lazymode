@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-03",
+  "day_name": "Friday",
+  "warm_up": "Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "rest 3 mins\nAMRAP x 12 minutes\n6 Power Snatches @ 60/40kg\n6 HSPU\n150m Row",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "biceps",
+      "rear delts",
+      "hamstrings",
+      "core stability"
+    ],
+    "avoid": [
+      "shoulders",
+      "quads",
+      "triceps",
+      "front delts"
+    ],
+    "reasoning": "Power snatches and HSPU heavily tax shoulders, triceps, and quads; accessory work targets antagonists and neglected posterior chain.",
+    "suggested_exercises": [
+      "Barbell Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Nordic Hamstring Curls 3x5-6",
+      "Dead Bugs 3x12 per side",
+      "Prone Cobra Holds 3x30-45sec"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits\nWorkout | AMRAP x 12 minutes\n6 Power Clean & Jerks @ 80/60kg\n4 Chest to bar\n200m Run\nWorkout | rest 3 mins\nAMRAP x 12 minutes\n6 Thrusters @ 70/50kg\n6 T2B\n15 box overs\nWorkout | rest 3 mins\nAMRAP x 12 minutes\n6 Power Snatches @ 60/40kg\n6 HSPU\n150m Row",
+  "siri_text": "Friday's workout. Metcon: AMRAP 3 minutes: 6 Power Snatches @ 60/40kg, 6 HSPU, 150m Row. For hypertrophy, focus on biceps, rear delts, hamstrings."
+}
