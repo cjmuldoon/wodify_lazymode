@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-16",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "AMRAP x 8\n12 Pistols\n3-5 BMU\n50 Double Unders",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "EMOM x 4\n12 Hollow Rocks\nEMOM x 5 mins (04:00)\n5 Box Pistols (slow and controlled)\nEMOM x 5 (09:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (14:00-19:00)\nCounterbalance Pistols - Small Plate\nEMOM X 4\nBeat Swing x 10\nBigger Beat swing - Push down on bar\nHips to bar\nFloor Arch Turn Over\nBanded BMU OR BMU"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "back thickness",
+      "rear delts"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "core",
+      "triceps"
+    ],
+    "reasoning": "Today hammers legs, shoulders, and triceps via pistols and BMUs; accessory work targets horizontal pulling/pressing to build balanced hypertrophy.",
+    "suggested_exercises": [
+      "Dumbbell bench press 3 x 8-10",
+      "Barbell rows 3 x 8-10",
+      "Incline dumbbell press 3 x 10-12",
+      "Face pulls 3 x 12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 4\n12 Hollow Rocks\nEMOM x 5 mins (04:00)\n5 Box Pistols (slow and controlled)\nEMOM x 5 (09:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (14:00-19:00)\nCounterbalance Pistols - Small Plate\nEMOM X 4\nBeat Swing x 10\nBigger Beat swing - Push down on bar\nHips to bar\nFloor Arch Turn Over\nBanded BMU OR BMU\nWorkout | AMRAP x 8\n12 Pistols\n3-5 BMU\n50 Double Unders",
+  "siri_text": "Thursday's workout. Gymnastics: . Metcon: AMRAP: 12 Pistols, 3-5 BMU, 50 Double Unders. For hypertrophy, focus on chest, back thickness, rear delts."
+}

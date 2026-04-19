@@ -1,0 +1,36 @@
+{
+  "date": "2026-04-18",
+  "day_name": "Saturday",
+  "warm_up": "Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "Part A\n25 min AMRAP\n300m run\n20 KB snatches\n10m HSW or 2 wall walks\n20 T2B\n30 box jumps\nPart B\n3 RFT\n3 rope climbs ea\n30 Russian KB Swings ea\n30 cal row ea",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "back (horizontal)",
+      "triceps"
+    ],
+    "avoid": [
+      "shoulders",
+      "core/abs",
+      "quadriceps",
+      "hamstrings",
+      "grip"
+    ],
+    "reasoning": "Today heavily taxes posterior chain, core, and grip; horizontal pressing/pulling balances without competing for recovery resources.",
+    "suggested_exercises": [
+      "Dumbbell bench press 3x8–10",
+      "Seal rows 3x10–12",
+      "Overhead tricep extension 2x12–15",
+      "Chest-supported rows 3x10–12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: with a buddy\n200m jog together\n10 worlds greatest stretch\n5 Cossack squats per side\n10 Ring Rows\n10 air squats\n6 DB snatch\n6 V-ups or Tuck Sits\nWorkout | Part A\n25 min AMRAP\n300m run\n20 KB snatches\n10m HSW or 2 wall walks\n20 T2B\n30 box jumps\nPart B\n3 RFT\n3 rope climbs ea\n30 Russian KB Swings ea\n30 cal row ea",
+  "siri_text": "Saturday's workout. Metcon: AMRAP 25 minutes: Part A, 300m run, 20 KB snatches, 10m HSW or 2 wall walks, 20 T2B. For hypertrophy, focus on chest, back (horizontal), triceps."
+}

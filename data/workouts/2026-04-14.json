@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-14",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "4x5 | Light Touch n Go\n* Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E2MOM 12min\nBUILD 2 Sets\n00:00 5 @ 50%\n02:00 5 @ 60%\nHOLD 5 Sets\n04:00 5 @ 70%\n06:00 5 @ 70%\n08:00 5 @ 70%\n10:00 5 @ 70%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "18 min AMRAP\n15/12 cal Assault Bike\n8 Box Overs @ 40/30\"\n10 Front Rack DB Reverse Lunges (@22.5/15kg)\n8 Pull Ups",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "hamstrings",
+      "glutes",
+      "triceps"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "lats",
+      "quads"
+    ],
+    "reasoning": "Address posterior chain and arm weaknesses while avoiding chest/shoulder fatigue from bench and pull-ups.",
+    "suggested_exercises": [
+      "Reverse Pec Deck Flyes 3x12-15",
+      "Nordic Hamstring Curls 3x5-8",
+      "Leg Curl Machine 3x10-12",
+      "Rope Tricep Pushdowns 3x12-15",
+      "Glute Bridge Hold 3x20-30 sec"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x5 | Light Touch n Go\n* Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E2MOM 12min\nBUILD 2 Sets\n00:00 5 @ 50%\n02:00 5 @ 60%\nHOLD 5 Sets\n04:00 5 @ 70%\n06:00 5 @ 70%\n08:00 5 @ 70%\n10:00 5 @ 70%\nPull-ups | E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS\nWorkout | 18 min AMRAP\n15/12 cal Assault Bike\n8 Box Overs @ 40/30\"\n10 Front Rack DB Reverse Lunges (@22.5/15kg)\n8 Pull Ups",
+  "siri_text": "Tuesday's workout. Strength: Bench Press, 4 by 5 at 70 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: AMRAP 18 minutes: 15/12 cal Assault Bike, 8 Box Overs @ 40/30\", 10 Front Rack DB Reverse Lunges (@22.5/15kg), 8 Pull Ups. For hypertrophy, focus on rear delts, hamstrings, glutes."
+}

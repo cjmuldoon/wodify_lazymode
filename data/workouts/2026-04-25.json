@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-25",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Easter Egg Hunt",
+    "type": "Workout",
+    "description": "Pick an egg\ndo the movement & prescribed reps\nFind another Egg\nComplete the most eggs to win a prize",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "biceps",
+      "abs",
+      "glutes"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "triceps",
+      "quads"
+    ],
+    "reasoning": "Easter Egg Hunt taxes pressing and leg movements; accessory work targets posterior chain and arms for balanced development.",
+    "suggested_exercises": [
+      "Face pulls 3x12",
+      "Barbell curls 3x8-10",
+      "Cable wood chops 3x10 each side",
+      "Bulgarian split squats 3x10 each leg",
+      "Ab wheel rollouts 3x8-10"
+    ]
+  },
+  "raw_text": "Easter Egg Hunt | Pick an egg\ndo the movement & prescribed reps\nFind another Egg\nComplete the most eggs to win a prize",
+  "siri_text": "Saturday's workout. Metcon: Easter Egg Hunt. Workout: Pick an egg, do the movement & prescribed reps, Find another Egg, Complete the most eggs to win a prize. For hypertrophy, focus on rear deltoids, biceps, abs."
+}
