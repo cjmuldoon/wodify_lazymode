@@ -13,31 +13,32 @@
     }
   ],
   "metcon": {
-    "name": "Nancy",
+    "name": "Mayhem Workout 4 (for normal humans)",
     "type": "Rounds for Time",
-    "description": "5 Rounds for time of:  \n400m Run  \n15 Overhead Squats, 95# / 65#",
+    "description": "4 RFT\nWork 2:30 - Rest 1 Min\n20/15 Cal Row\n20 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "biceps",
-      "hamstrings"
+      "hamstrings",
+      "rear delts"
     ],
     "avoid": [
+      "quads",
       "shoulders",
-      "quadriceps",
-      "core"
+      "core",
+      "hip flexors"
     ],
-    "reasoning": "Upper back and hamstrings provide antagonist balance after heavy pressing/squatting without competing for CNS recovery.",
+    "reasoning": "Back and hamstring hypertrophy balances quad/shoulder dominance; rear delts support shoulder health without competing for recovery.",
     "suggested_exercises": [
-      "Barbell Rows: 3x6-8",
-      "Dumbbell Curls: 3x8-10",
-      "Romanian Deadlifts: 3x6-8",
-      "Chest-Supported T-Bar Rows: 2x8-10"
+      "Seal Rows 3x8-10",
+      "Nordic Curls 3x5-6",
+      "Chest-Supported Row Machine 3x10-12",
+      "Reverse Pec Deck 3x12-15"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nNancy | 5 Rounds for time of:  \n400m Run  \n15 Overhead Squats, 95# / 65#",
-  "siri_text": "Tuesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. Metcon: Nancy. Rounds for Time: 400m Run, 15 Overhead Squats, 95# / 65#. For hypertrophy, focus on back, biceps, hamstrings."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nMayhem Workout 4 (for normal humans) | 4 RFT\nWork 2:30 - Rest 1 Min\n20/15 Cal Row\n20 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30",
+  "siri_text": "Tuesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. Metcon: Mayhem Workout 4 (for normal humans). Rounds for Time: 20/15 Cal Row, 20 Abmat Sit Ups. For hypertrophy, focus on back, hamstrings, rear delts."
 }

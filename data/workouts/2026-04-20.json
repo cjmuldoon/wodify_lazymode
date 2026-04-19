@@ -9,33 +9,32 @@
     }
   ],
   "metcon": {
-    "name": "Nutts",
-    "type": "For Time",
-    "description": "For Time\r\n10 Handstand Push-Ups\r\n15 Deadlifts (250/175 lb)\r\n25 Box Jumps (30/24 in)\r\n50 Pull-Ups\r\n100 Wall Ball Shots (20/14 lb)\r\n200 Double-Unders\r\n400 meter Run (with 45/35 lb plate)",
+    "name": "Tillman",
+    "type": "Rounds for Time",
+    "description": "7 Rounds For Time:\r\n7 Deadlifts @ 143/93\r\n200m Sprint\r\n15 Pull Ups\r\n45 second Rest\r\n\r\nPatrick Daniel Tillman (11/6/76–4/22/04) was a professional football player who played for the Arizona Cardinals, but left the National Football League and enlisted in the United States Army in May 2002 after 9/11 occurred.\r\n\r\nTillman joined the Army Rangers and served multiple tours in combat before he was killed in the mountains of Afghanistan. He was a recipient of the Silver Star, the third highest honour in the military, and a Purple Heart. Pat is survived by his wife Marie. He is also remembered through the foundation named in his honour.",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "chest",
-      "shoulders (rear delt)",
-      "triceps",
+      "shoulders (lateral)",
       "biceps"
     ],
     "avoid": [
       "back",
-      "legs",
-      "core",
-      "forearms"
+      "glutes",
+      "hamstrings",
+      "lats"
     ],
-    "reasoning": "Posterior chain and lower body exhausted; upper push/pull accessory work builds balanced hypertrophy without CNS interference.",
+    "reasoning": "Deadlift and pull-ups dominate posterior chain; accessory work targets anterior/lateral muscles for balanced development.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8–10",
-      "Reverse Pec Deck Flyes: 3x12–15",
-      "EZ Bar Skullcrushers: 3x10–12",
-      "Dumbbell Curls: 3x10–12"
+      "Dumbbell Bench Press 3x8-10",
+      "Lateral Raise 3x12-15",
+      "Barbell Curl 3x8-10",
+      "Incline Dumbbell Press 2x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 21 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 4 Sets\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%\nNutts | For Time\r\n10 Handstand Push-Ups\r\n15 Deadlifts (250/175 lb)\r\n25 Box Jumps (30/24 in)\r\n50 Pull-Ups\r\n100 Wall Ball Shots (20/14 lb)\r\n200 Double-Unders\r\n400 meter Run (with 45/35 lb plate)",
-  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 4 at 80 percent. Metcon: Nutts. For Time: 10 Handstand Push-Ups, 15 Deadlifts (250/175 lb), 25 Box Jumps (30/24 in), 50 Pull-Ups, 100 Wall Ball Shots (20/14 lb). For hypertrophy, focus on chest, shoulders (rear delt), triceps."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 21 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 4 Sets\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%\nTillman | 7 Rounds For Time:\r\n7 Deadlifts @ 143/93\r\n200m Sprint\r\n15 Pull Ups\r\n45 second Rest\r\n\r\nPatrick Daniel Tillman (11/6/76–4/22/04) was a professional football player who played for the Arizona Cardinals, but left the National Football League and enlisted in the United States Army in May 2002 after 9/11 occurred.\r\n\r\nTillman joined the Army Rangers and served multiple tours in combat before he was killed in the mountains of Afghanistan. He was a recipient of the Silver Star, the third highest honour in the military, and a Purple Heart. Pat is survived by his wife Marie. He is also remembered through the foundation named in his honour.",
+  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 4 at 80 percent. Metcon: Tillman. Rounds for Time: 7 Deadlifts @ 143/93, 200m Sprint, 15 Pull Ups, Tillman joined the Army Rangers and served multiple tours in combat before he was killed in the mountains of Afghanistan. He was a recipient of the Silver Star, the third highest honour in the military, and a Purple Heart. Pat is survived by his wife Marie. He is also remembered through the foundation named in his honour.. For hypertrophy, focus on chest, shoulders (lateral), biceps."
 }
