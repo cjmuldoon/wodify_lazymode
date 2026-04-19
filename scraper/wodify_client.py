@@ -8,10 +8,14 @@ Login flow (discovered via mitmproxy capture of the iOS app):
   1. GET /WodifyClient/ to initialise session cookies (osVisit, nr2W_Theme_UI, etc.)
   2. GET moduleversioninfo to fetch the current module version token
   3. POST ActionPrepare_Login with email + password → user params + updated cookies
-  4. For each day: POST DataActionGetAllWorkoutData with user params
+  4. POST ActionDo_Login → finalise authenticated session
+  5. Discover current apiVersions from JS chunks (rotates on every Wodify update)
+  6. For each day: POST DataActionGetAllWorkoutData with user params
 """
+from __future__ import annotations
 
 import logging
+import re
 import time
 from datetime import date, timedelta
 from urllib.parse import unquote
@@ -22,6 +26,7 @@ logger = logging.getLogger(__name__)
 
 _BASE = "https://app-clientapp.wodify.com/WodifyClient"
 _MODULE_VERSION_URL = f"{_BASE}/moduleservices/moduleversioninfo"
+_MODULE_INFO_URL = f"{_BASE}/moduleservices/moduleinfo"
 _PREPARE_LOGIN_URL = f"{_BASE}/screenservices/WodifyClient/ActionPrepare_Login"
 _DO_LOGIN_URL = f"{_BASE}/screenservices/WodifyClient/ActionDo_Login"
 _WOD_DATA_URL = (
@@ -37,18 +42,40 @@ _USER_AGENT = (
     "Mobile/15E148 OutSystemsApp v.225.1.8"
 )
 
+# OutSystems anonymous CSRF token — used when no session cookie is set.
+_ANON_CSRF_TOKEN = "T6C+9iB49TLra4jEsMeSckDMNhQ="
+
+# Fallback apiVersions — used only if dynamic discovery fails.
+_FALLBACK_API_VERSIONS = {
+    "Prepare_Login": "3tTvN2rONpQXyOYa_0ATaw",
+    "Do_Login": "WA41Mdspv2Or8hsYnkMnFA",
+    "GetAllWorkoutData": "oUtY6BduyoWB9hUTWxNqFw",
+}
+
+_CHUNK_ACTIONS = {
+    "WodifyClient.controller__": ("Prepare_Login", "Do_Login"),
+    "GetAllWorkoutData_WB.mvc__": ("GetAllWorkoutData",),
+}
+
+_ACTION_ALIASES = {
+    "DataActionGetAllWorkoutData": "GetAllWorkoutData",
+}
+
 
 # ── Internal helpers ────────────────────────────────────────────────────────────
 
 def _csrf(session: requests.Session) -> str:
-    """Extract the current CSRF token from the nr2W_Theme_UI session cookie."""
+    """Extract the current CSRF token from the nr2W_Theme_UI session cookie.
+
+    Falls back to the anonymous CSRF token when no session cookie exists
+    (OutSystems sets cookies lazily after the first API call).
+    """
     for cookie in session.cookies:
         if cookie.name == "nr2W_Theme_UI":
-            # Cookie value format (URL-encoded): crf=<token>;uid=<id>;unm=<name>
             for part in unquote(cookie.value).split(";"):
                 if part.strip().startswith("crf="):
                     return part.strip()[4:]
-    return ""
+    return _ANON_CSRF_TOKEN
 
 
 def _headers(session: requests.Session) -> dict:
@@ -70,7 +97,58 @@ def _module_version(session: requests.Session) -> str:
         timeout=30,
     )
     r.raise_for_status()
-    return r.json().get("versionToken", "4ryDH2ntbp14RDvJzz6wgA")
+    return r.json().get("versionToken", "")
+
+
+def _discover_api_versions(session: requests.Session) -> dict:
+    """Extract current apiVersions from Wodify's JS chunks.
+
+    The JS chunks are only accessible to authenticated sessions, so this must
+    be called after login. Wodify rotates apiVersions on every module update;
+    discovery keeps us resilient without manual re-capturing.
+    """
+    versions = dict(_FALLBACK_API_VERSIONS)
+    try:
+        r = session.get(
+            f"{_MODULE_INFO_URL}?cached",
+            headers=_headers(session),
+            timeout=15,
+        )
+        r.raise_for_status()
+        urls = r.json().get("manifest", {}).get("urlVersions", {})
+    except Exception as e:
+        logger.warning("Manifest fetch failed — using fallback apiVersions: %s", e)
+        return versions
+
+    call_pattern = re.compile(
+        r'call(?:ServerAction|DataAction)\("([^"]+)",\s*"[^"]+",\s*"([^"]+)"'
+    )
+    for chunk_key, actions in _CHUNK_ACTIONS.items():
+        matching_url = next((u for u in urls if chunk_key in u), None)
+        if not matching_url:
+            continue
+        try:
+            chunk_r = session.get(
+                f"{_BASE.rsplit('/', 1)[0]}{matching_url}{urls[matching_url]}",
+                headers={"user-agent": _USER_AGENT},
+                timeout=20,
+            )
+            if chunk_r.status_code != 200 or not chunk_r.text:
+                continue
+            for match in call_pattern.finditer(chunk_r.text):
+                action_name = match.group(1)
+                api_version = match.group(2)
+                key = _ACTION_ALIASES.get(action_name, action_name)
+                if key in actions or key in versions:
+                    versions[key] = api_version
+        except Exception as e:
+            logger.warning("Chunk %s fetch failed: %s", chunk_key, e)
+    return versions
+
+
+def _api_version(session: requests.Session, action: str) -> str:
+    discovered = getattr(session, "api_versions", None) or {}
+    return discovered.get(action, _FALLBACK_API_VERSIONS.get(action, ""))
 
 
 # ── Public API ──────────────────────────────────────────────────────────────────
@@ -85,7 +163,7 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
     """
     session = requests.Session()
 
-    # Step 1: Initialise session cookies (sets osVisit, W_Theme_UI, nr2W_Theme_UI…)
+    # Step 1: Initialise session cookies.
     logger.info("Initialising session…")
     session.get(
         f"{_BASE}/",
@@ -94,16 +172,16 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
         allow_redirects=True,
     )
 
-    # Step 2: Module version (needed in every request body)
+    # Step 2: Module version.
     mv = _module_version(session)
     logger.info("Module version: %s", mv)
 
-    # Step 3: Authenticate
+    # Step 3: Authenticate.
     logger.info("Logging in as %s…", email)
     body = {
         "versionInfo": {
             "moduleVersion": mv,
-            "apiVersion": "krWEEplh8BG9Mc3hz5Tj7w",
+            "apiVersion": _FALLBACK_API_VERSIONS["Prepare_Login"],
         },
         "viewName": "Home.Login",
         "inputParameters": {
@@ -116,8 +194,9 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
                 "WhiteLabelAppCustomerId": "0",
                 "IsOTPSignIn": False,
                 "IsSocialSignIn": False,
+                "NotCheckSingleUserIsActive": False,
             },
-            "IsMFAEnabled_Customers": True,
+            "IsMFAEnabled_Customers": False,
         },
     }
 
@@ -129,14 +208,15 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
         raise ValueError(f"Login failed: {response['Error']['ErrorMessage']}")
 
     customer = response["Customer"]
-    ud = response["ResponseUserData"]
+    ud = response.get("ResponseUserData") or response.get("ResponseGetUserData")
+    if not ud:
+        raise ValueError("Login response missing user data")
 
-    # Step 4: ActionDo_Login — establishes the authenticated session cookies
-    # (nr1W_Theme_UI is updated by the server's Set-Cookie response)
+    # Step 4: ActionDo_Login — establishes the authenticated session cookies.
     do_login_body = {
         "versionInfo": {
             "moduleVersion": mv,
-            "apiVersion": "4XxaqGhfwgmnjLaLtXTwUQ",
+            "apiVersion": _FALLBACK_API_VERSIONS["Do_Login"],
         },
         "viewName": "Home.Login",
         "inputParameters": {
@@ -157,6 +237,11 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
     }
     r2 = session.post(_DO_LOGIN_URL, json=do_login_body, headers=_headers(session), timeout=30)
     r2.raise_for_status()
+
+    # Step 5: Discover current apiVersions from the (now-accessible) JS chunks.
+    api_versions = _discover_api_versions(session)
+    session.api_versions = api_versions  # type: ignore[attr-defined]
+    logger.info("Discovered apiVersions: %s", api_versions)
 
     user_params = {
         "Customer": customer,
@@ -187,7 +272,7 @@ def fetch_workout(
     body = {
         "versionInfo": {
             "moduleVersion": module_version,
-            "apiVersion": "_2udCxN4vHxjdOMQVO8Cog",
+            "apiVersion": _api_version(session, "GetAllWorkoutData"),
         },
         "viewName": "MainScreens.Exercise",
         "screenData": {
