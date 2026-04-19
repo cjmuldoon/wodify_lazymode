@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Bench Press",
-      "description": "5x4 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 4 @ 55 + 65%\n03:00 4 @ 75%\nHOLD 5 Sets\n06:00 4 @ 80%\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%"
+      "description": "5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%"
     }
   ],
   "metcon": {
@@ -19,25 +19,27 @@
   ],
   "hypertrophy": {
     "recommended_muscles": [
+      "back",
       "rear delts",
-      "back hypertrophy",
-      "leg hypertrophy"
+      "biceps",
+      "core stability"
     ],
     "avoid": [
       "chest",
-      "shoulders",
-      "pulling muscles",
-      "hamstrings",
-      "quads"
+      "front delts",
+      "triceps",
+      "quads",
+      "hamstrings"
     ],
-    "reasoning": "Posterior chain and leg accessory work balances pressing/rowing dominance while avoiding CNS fatigue from pull-ups and metcon conditioning.",
+    "reasoning": "Bench press and row fatigue pressing muscles; accessory work balances pull patterns and stabilizers without competing for recovery.",
     "suggested_exercises": [
-      "Incline DB Rows: 3x8-10",
-      "Face Pulls: 3x12-15",
-      "Leg Curls: 3x10-12",
-      "Tempo Goblet Squats: 3x12 (light)"
+      "Barbell Rows 3x6-8",
+      "Rear Delt Flyes 3x10-12",
+      "Dumbbell Curls 3x8-10",
+      "Dead Bugs 3x12 per side",
+      "Face Pulls 3x15"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x4 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 4 @ 55 + 65%\n03:00 4 @ 75%\nHOLD 5 Sets\n06:00 4 @ 80%\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%\nPull-ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | EMOM X 18 mins (6 rounds)\nMin1: 12/10 Cal Row\nMin2: 12 2xDB C&J\nMin3: 12 Burpee Over DB\n*Reduce reps to keep within 45-55 seconds of work per minute",
-  "siri_text": "Wednesday's workout. Strength: Bench Press, 5 by 4 at 80 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: EMOM 18 minutes. For hypertrophy, focus on rear delts, back hypertrophy, leg hypertrophy."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | EMOM X 18 mins (6 rounds)\nMin1: 12/10 Cal Row\nMin2: 12 2xDB C&J\nMin3: 12 Burpee Over DB\n*Reduce reps to keep within 45-55 seconds of work per minute",
+  "siri_text": "Wednesday's workout. Strength: Bench Press, 5 by 3 at 85 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: EMOM 18 minutes. For hypertrophy, focus on back, rear delts, biceps."
 }

@@ -1,11 +1,11 @@
 {
   "date": "2026-04-20",
   "day_name": "Monday",
-  "warm_up": "Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL",
   "strength": [
     {
       "name": "Deadlift",
-      "description": "5x5 | E3MOM 21 mins\nBUILD 2 sets\n00:00 6 @ 55%\n03:00 6 @ 65%\nHold 5x5\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%"
+      "description": "4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 21 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 4 Sets\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%"
     }
   ],
   "metcon": {
@@ -17,26 +17,25 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "biceps",
-      "rear deltoids",
-      "abs/core"
+      "chest",
+      "shoulders (rear delt)",
+      "triceps",
+      "biceps"
     ],
     "avoid": [
-      "quadriceps",
-      "hamstrings",
-      "glutes",
-      "shoulders",
-      "lats"
+      "back",
+      "legs",
+      "core",
+      "forearms"
     ],
-    "reasoning": "Today's metcon hammers legs, pulling, and shoulders; target antagonists and lagging muscles for balance.",
+    "reasoning": "Posterior chain and lower body exhausted; upper push/pull accessory work builds balanced hypertrophy without CNS interference.",
     "suggested_exercises": [
-      "Barbell Curls 3x8–10",
-      "Face Pulls 3x12–15",
-      "Weighted Ab Wheel 3x10–12",
-      "Dumbbell Curls 3x10–12",
-      "Cable Wood Chops 3x12 per side"
+      "Dumbbell Bench Press: 3x8–10",
+      "Reverse Pec Deck Flyes: 3x12–15",
+      "EZ Bar Skullcrushers: 3x10–12",
+      "Dumbbell Curls: 3x10–12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 5x5 | E3MOM 21 mins\nBUILD 2 sets\n00:00 6 @ 55%\n03:00 6 @ 65%\nHold 5x5\n06:00 5 @ 75%\n09:00 5 @ 75%\n12:00 5 @ 75%\n15:00 5 @ 75%\n18:00 5 @ 75%\nNutts | For Time\r\n10 Handstand Push-Ups\r\n15 Deadlifts (250/175 lb)\r\n25 Box Jumps (30/24 in)\r\n50 Pull-Ups\r\n100 Wall Ball Shots (20/14 lb)\r\n200 Double-Unders\r\n400 meter Run (with 45/35 lb plate)",
-  "siri_text": "Monday's workout. Strength: Deadlift, 5 by 5 at 75 percent. Metcon: Nutts. For Time: 10 Handstand Push-Ups, 15 Deadlifts (250/175 lb), 25 Box Jumps (30/24 in), 50 Pull-Ups, 100 Wall Ball Shots (20/14 lb). For hypertrophy, focus on biceps, rear deltoids, abs/core."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 21 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 4 Sets\n09:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\n18:00 4 @ 80%\nNutts | For Time\r\n10 Handstand Push-Ups\r\n15 Deadlifts (250/175 lb)\r\n25 Box Jumps (30/24 in)\r\n50 Pull-Ups\r\n100 Wall Ball Shots (20/14 lb)\r\n200 Double-Unders\r\n400 meter Run (with 45/35 lb plate)",
+  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 4 at 80 percent. Metcon: Nutts. For Time: 10 Handstand Push-Ups, 15 Deadlifts (250/175 lb), 25 Box Jumps (30/24 in), 50 Pull-Ups, 100 Wall Ball Shots (20/14 lb). For hypertrophy, focus on chest, shoulders (rear delt), triceps."
 }
