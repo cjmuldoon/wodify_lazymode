@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-27",
+  "day_name": "Monday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Holleyman-ish",
+    "type": "Workout",
+    "description": "Partner workout\nYou go/ I go\n30 rounds\n1 power clean @80% of your max\n5 pull ups\n24 double under\ntime cap 40 mins",
+    "time_cap": "40 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "triceps",
+      "core stability"
+    ],
+    "avoid": [
+      "back",
+      "shoulders",
+      "legs",
+      "grip"
+    ],
+    "reasoning": "Today heavily taxes posterior chain and grip; accessory work targets pressing patterns and anti-rotation core.",
+    "suggested_exercises": [
+      "Dumbbell bench press 3 x 8–10",
+      "Tricep rope pushdowns 3 x 12–15",
+      "Pallof press 3 x 10/side",
+      "Incline dumbbell press 3 x 10–12"
+    ]
+  },
+  "raw_text": "Warm up | 30 second per side PVC shoulder opener\n10m bending Heel- Calf walk\n10m toe walk\n3 clean pulls\n3 power cleans\nWarm up Power clean to 80% (10 mins)\nHolleyman-ish | Partner workout\nYou go/ I go\n30 rounds\n1 power clean @80% of your max\n5 pull ups\n24 double under\ntime cap 40 mins",
+  "siri_text": "Monday's workout. Metcon: Holleyman-ish. Workout: Partner workout, You go/ I go, 5 pull ups, 24 double under. For hypertrophy, focus on chest, triceps, core stability."
+}

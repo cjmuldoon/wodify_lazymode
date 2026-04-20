@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-30",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n12 Dumbbell Snatches 22.5/15\n10 Pistols",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "EMOM x 4\n12 Hollow Rocks\nEMOM x 5 mins\n5 Box Pistols (slow and controlled)\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nEMOM X 3 20s handstand hold\nEMOM X 3 180 deg. Conan Walk (on box) x 2\nEMOM X 3 5-10 Shoulder taps (or wall walk)\nEMOM X 5 Tripod Handstand Hold\nEMOM X 5 Spotted  Freestanding Handstand Hold\nEMOM X 5 Spotted handstand walk with PVC"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts",
+      "hamstrings"
+    ],
+    "avoid": [
+      "shoulders",
+      "triceps",
+      "quads",
+      "core"
+    ],
+    "reasoning": "Today emphasizes shoulders, triceps, quads, and core; accessory work targets opposing/complementary muscles to balance and support recovery.",
+    "suggested_exercises": [
+      "Barbell Rows 3x6-8",
+      "Dumbbell Curls 3x10-12",
+      "Face Pulls 3x12-15",
+      "Nordic Curls 3x4-6",
+      "Prone Incline Bench Curls 3x10-12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM x 4\n12 Hollow Rocks\nEMOM x 5 mins\n5 Box Pistols (slow and controlled)\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nEMOM X 3 20s handstand hold\nEMOM X 3 180 deg. Conan Walk (on box) x 2\nEMOM X 3 5-10 Shoulder taps (or wall walk)\nEMOM X 5 Tripod Handstand Hold\nEMOM X 5 Spotted  Freestanding Handstand Hold\nEMOM X 5 Spotted handstand walk with PVC\nWorkout | AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n12 Dumbbell Snatches 22.5/15\n10 Pistols",
+  "siri_text": "Thursday's workout. Gymnastics: . Metcon: AMRAP 10 minutes: 6m Handstand Walk OR 2 Wall Walks, 12 Dumbbell Snatches 22.5/15, 10 Pistols. For hypertrophy, focus on back, biceps, rear delts."
+}
