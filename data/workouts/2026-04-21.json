@@ -15,30 +15,31 @@
   "metcon": {
     "name": "Mayhem Workout 4 (for normal humans)",
     "type": "Rounds for Time",
-    "description": "4 RFT\nWork 2:30 - Rest 1 Min\n20/15 Cal Row\n20 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30",
+    "description": "4 RFT\nWork 2:30 - Rest 1 Min\n15/12 Cal Row\n15 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30\nRx+ 20/15 Cal Row & 20 Sit Ups",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
+      "rear deltoids",
+      "back (lats)",
       "hamstrings",
-      "rear delts"
+      "glutes"
     ],
     "avoid": [
-      "quads",
-      "shoulders",
-      "core",
-      "hip flexors"
+      "quadriceps",
+      "anterior deltoids",
+      "triceps",
+      "core"
     ],
-    "reasoning": "Back and hamstring hypertrophy balances quad/shoulder dominance; rear delts support shoulder health without competing for recovery.",
+    "reasoning": "Address posterior chain imbalances from snatch/OHS dominance and row fatigue without compromising recovery.",
     "suggested_exercises": [
-      "Seal Rows 3x8-10",
-      "Nordic Curls 3x5-6",
-      "Chest-Supported Row Machine 3x10-12",
-      "Reverse Pec Deck 3x12-15"
+      "Face Pulls 3x12",
+      "Single-Leg Romanian Deadlifts 3x8/side",
+      "Prone Incline Bench Dumbbell Rows 3x10",
+      "Nordic Hamstring Curls 3x5"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nMayhem Workout 4 (for normal humans) | 4 RFT\nWork 2:30 - Rest 1 Min\n20/15 Cal Row\n20 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30",
-  "siri_text": "Tuesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. Metcon: Mayhem Workout 4 (for normal humans). Rounds for Time: 20/15 Cal Row, 20 Abmat Sit Ups. For hypertrophy, focus on back, hamstrings, rear delts."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nMayhem Workout 4 (for normal humans) | 4 RFT\nWork 2:30 - Rest 1 Min\n15/12 Cal Row\n15 Abmat Sit Ups\nAccumulate T2B in remaining time until you reach 70 T2B\nLast round work until 3:30\nRx+ 20/15 Cal Row & 20 Sit Ups",
+  "siri_text": "Tuesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. Metcon: Mayhem Workout 4 (for normal humans). Rounds for Time: 15/12 Cal Row, 15 Abmat Sit Ups. For hypertrophy, focus on rear deltoids, back (lats), hamstrings."
 }
