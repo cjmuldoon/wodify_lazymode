@@ -1,41 +1,43 @@
 {
   "date": "2026-05-01",
   "day_name": "Friday",
-  "warm_up": "Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
   "strength": [
     {
-      "name": "Deadlift",
-      "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+      "name": "Bench Press",
+      "description": "5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%"
     }
   ],
   "metcon": {
-    "name": "\"Topsy\"",
+    "name": "Running from Jerks",
     "type": "Workout",
-    "description": "Complete as many rounds and reps as possible in 25 minutes of:\n3 ring muscle-ups\n8 thrusters (75lb / 115lb)\n17-calorie row\nIntermediate:\n55lb / 75lb, 3 Jumping Ring Muscle Ups\nScaled\n: 35lb / 45lb, 3 Low Ring Muscle Up Transitions, 12 Calorie Row\nMcCoy “Topsy” Turner, a loved member of the CrossFit community and former Seminar Staff trainer, died by suicide on March 8, 2025, after suffering from complex post-traumatic stress.\nTurner served for 17 years in the Royal Navy, specializing as an exercise rehabilitation instructor. He was part of Operation Herrick when he served in Afghanistan before relocating to Bali and continuing his work in CrossFit education. Turner worked more than 250 Level 1 and Level 2 Seminars.\nTurner was known for his warmth and kindness, and touched countless lives who attended CrossFit courses. He is survived by his sons Brodie and Tommy.",
+    "description": "BUY IN: 1,000M Run\nthen 12-9-6\n2 x DB Hang Clean & Jerk\nBurpee over Dumbell",
     "time_cap": null
   },
-  "gymnastics": [],
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+  ],
   "hypertrophy": {
     "recommended_muscles": [
       "rear deltoids",
-      "biceps",
-      "abs"
+      "back hypertrophy",
+      "triceps",
+      "core"
     ],
     "avoid": [
+      "chest",
+      "anterior shoulders",
       "quads",
-      "glutes",
-      "hamstrings",
-      "shoulders",
-      "triceps"
+      "hamstrings"
     ],
-    "reasoning": "Deadlift and thrusters hammer lower body and front delts; accessory work targets opposing/non-competing muscles.",
+    "reasoning": "Bench press and DB jerks dominate anterior chain; accessory work targets posterior chain and arm health without competing for recovery.",
     "suggested_exercises": [
-      "Face pulls: 3x12",
-      "Barbell curls: 3x8-10",
-      "Ab wheel rollouts: 3x8",
-      "Reverse pec deck: 3x12"
+      "Face Pulls: 3x12-15",
+      "Incline Dumbbell Rows: 3x8-10",
+      "Skull Crushers: 3x10-12",
+      "Pallof Press: 3x12 per side"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\n\"Topsy\" | Complete as many rounds and reps as possible in 25 minutes of:\n3 ring muscle-ups\n8 thrusters (75lb / 115lb)\n17-calorie row\nIntermediate:\n55lb / 75lb, 3 Jumping Ring Muscle Ups\nScaled\n: 35lb / 45lb, 3 Low Ring Muscle Up Transitions, 12 Calorie Row\nMcCoy “Topsy” Turner, a loved member of the CrossFit community and former Seminar Staff trainer, died by suicide on March 8, 2025, after suffering from complex post-traumatic stress.\nTurner served for 17 years in the Royal Navy, specializing as an exercise rehabilitation instructor. He was part of Operation Herrick when he served in Afghanistan before relocating to Bali and continuing his work in CrossFit education. Turner worked more than 250 Level 1 and Level 2 Seminars.\nTurner was known for his warmth and kindness, and touched countless lives who attended CrossFit courses. He is survived by his sons Brodie and Tommy.",
-  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 65 percent. Metcon: \"Topsy\". Workout: 3 ring muscle-ups, 8 thrusters (75lb / 115lb), 17-calorie row, Intermediate:, 55lb / 75lb, 3 Jumping Ring Muscle Ups. For hypertrophy, focus on rear deltoids, biceps, abs."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nRunning from Jerks | BUY IN: 1,000M Run\nthen 12-9-6\n2 x DB Hang Clean & Jerk\nBurpee over Dumbell",
+  "siri_text": "Friday's workout. Strength: Bench Press, 5 by 3 at 85 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Running from Jerks. Workout: 2 x DB Hang Clean & Jerk, Burpee over Dumbell. For hypertrophy, focus on rear deltoids, back hypertrophy, triceps."
 }
