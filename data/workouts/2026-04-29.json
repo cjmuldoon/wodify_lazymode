@@ -12,7 +12,12 @@
       "description": "4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Randy",
+    "type": "For Time",
+    "description": "For Time: 75 Power Snatches, 75# / 55#",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
@@ -27,14 +32,14 @@
       "shoulders",
       "triceps"
     ],
-    "reasoning": "Power snatch and overhead squat heavily tax legs and anterior chain; accessory work targets posterior chain and pulling.",
+    "reasoning": "Build posterior chain balance and arm hypertrophy without fatiguing already-taxed pressing and leg musculature.",
     "suggested_exercises": [
-      "Barbell Rows 3x8-10",
+      "Barbell Rows 3x6-8",
+      "Dumbbell Bicep Curls 3x8-10",
       "Face Pulls 3x12-15",
-      "Barbell Curls 3x10-12",
-      "Ab Wheel Rollouts 3x8-10"
+      "Weighted Ab Wheel 3x8-10"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%",
-  "siri_text": "Wednesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. For hypertrophy, focus on back, biceps, rear delts."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 4x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nOverhead Squat | 4x3 | E3MOM 21 mins\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nRandy | For Time: 75 Power Snatches, 75# / 55#",
+  "siri_text": "Wednesday's workout. Strength: Power Snatch, 4 by 3 at 75 percent. Strength: Overhead Squat, 4 by 3 at 75 percent. Metcon: Randy. For Time. For hypertrophy, focus on back, biceps, rear delts."
 }
