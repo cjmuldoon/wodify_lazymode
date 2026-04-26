@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Bench Press",
-      "description": "5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%"
+      "description": "4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18 mins\nBUILD 3 sets\n00:00 5 @ 50%\n01:30 5 @ 60%\n03:00 3 @ 70%\nHOLD 4 Sets\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%"
     }
   ],
   "metcon": {
@@ -15,28 +15,29 @@
     "time_cap": "18 min"
   },
   "gymnastics": [
-    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+    "Pull-ups: E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS"
   ],
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "hamstrings",
-      "core"
+      "rear delts",
+      "legs"
     ],
     "avoid": [
       "chest",
-      "shoulders",
       "triceps",
-      "quadriceps"
+      "shoulders",
+      "core"
     ],
-    "reasoning": "Address posterior chain imbalances and core stability without competing with bench press, bike, and rope climbs.",
+    "reasoning": "Chest, triceps, and shoulders are heavily fatigued; target posterior chain and legs for balanced development.",
     "suggested_exercises": [
-      "Barbell Rows: 3x8",
-      "Nordic Hamstring Curls: 3x5",
-      "Pallof Press: 3x10 per side",
-      "Seal Rows: 3x12"
+      "Barbell Rows 3x5-6",
+      "Face Pulls 3x12-15",
+      "Reverse Pec Deck 3x10-12",
+      "Leg Press 3x8-10",
+      "Seated Leg Curl 3x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | BUY IN: 100 Double Unders\n3 RFT\n15 Cal Assault Bike\n12 DB Bench Press\n3 Rope Climbs\n2 mins rest\nBuy out 100 Double Unders\n18 min Time Cap",
-  "siri_text": "Friday's workout. Strength: Bench Press, 5 by 3 at 85 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 15 Cal Assault Bike, 12 DB Bench Press, 3 Rope Climbs. For hypertrophy, focus on back, hamstrings, core."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18 mins\nBUILD 3 sets\n00:00 5 @ 50%\n01:30 5 @ 60%\n03:00 3 @ 70%\nHOLD 4 Sets\n06:00 3 @ 75%\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\nPull-ups | Negative Pull Ups | E2MOM 10 min\n3-5 Negative Pull Ups\nAS SLOW AS POSSIBLE\nIf you can do more than 5, GO SLOWER\nScale to Jumping Pull Up, NO BANDS\nWorkout | BUY IN: 100 Double Unders\n3 RFT\n15 Cal Assault Bike\n12 DB Bench Press\n3 Rope Climbs\n2 mins rest\nBuy out 100 Double Unders\n18 min Time Cap",
+  "siri_text": "Friday's workout. Strength: Bench Press, 4 by 3 at 75 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 15 Cal Assault Bike, 12 DB Bench Press, 3 Rope Climbs. For hypertrophy, focus on back, rear delts, legs."
 }

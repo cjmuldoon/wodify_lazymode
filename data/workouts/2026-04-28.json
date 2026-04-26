@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Deadlift",
-      "description": "4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%"
+      "description": "4x3 | E3MOM 21 mins\nBUILD 3 sets\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%"
     }
   ],
   "metcon": {
@@ -18,24 +18,23 @@
   "hypertrophy": {
     "recommended_muscles": [
       "chest",
-      "back (horizontal rows)",
-      "shoulders"
+      "back (vertical)",
+      "biceps"
     ],
     "avoid": [
-      "quads",
-      "hamstrings",
-      "glutes",
+      "posterior chain",
+      "legs",
       "core",
-      "triceps"
+      "shoulders"
     ],
-    "reasoning": "Deadlift taxes posterior chain heavily; metcon hammers legs and core. Build opposing patterns without fatigue interference.",
+    "reasoning": "Deadlift and metcon heavily tax posterior chain and legs; build upper-body pulling and pressing to balance.",
     "suggested_exercises": [
       "Dumbbell bench press: 3x8–10",
-      "Seal rows or chest-supported rows: 3x8–10",
-      "Lateral raises: 3x12–15",
-      "Face pulls: 3x15"
+      "Lat pulldowns: 3x10–12",
+      "Barbell bent-over rows: 3x8–10",
+      "Dumbbell curls: 3x12–15"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x6 | E2MOM 12 mins\nBUILD 2 sets\n00:00 6 @ 50%\n02:00 6 @ 60%\nHold 4x6\n04:00 6 @ 65%\n06:00 6 @ 65%\n08:00 6 @ 65%\n10:00 6 @ 65%\nWorkout | 2 RFT\n800m Run\n40 Wall Balls\n20 T2B\n10 Burpee box overs\n25 min cap",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 6 at 65 percent. Metcon: Rounds for Time: 800m Run, 40 Wall Balls, 20 T2B, 10 Burpee box overs. For hypertrophy, focus on chest, back (horizontal rows), shoulders."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n5 Glute Bridge @ 50% DL\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Scap Pull Ups\nDeadlift | 4x3 | E3MOM 21 mins\nBUILD 3 sets\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\nHOLD 4 Sets\n09:00 3 @ 75%\n12:00 3 @ 75%\n15:00 3 @ 75%\n18:00 3 @ 75%\nWorkout | 2 RFT\n800m Run\n40 Wall Balls\n20 T2B\n10 Burpee box overs\n25 min cap",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 3 at 75 percent. Metcon: Rounds for Time: 800m Run, 40 Wall Balls, 20 T2B, 10 Burpee box overs. For hypertrophy, focus on chest, back (vertical), biceps."
 }
