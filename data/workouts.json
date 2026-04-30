@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T07:47:11",
+  "last_updated": "2026-04-30T07:49:30",
   "week_of": "2026-05-04",
   "workouts": {
     "2026-02-23": {
@@ -2062,34 +2062,37 @@
       "metcon": {
         "name": "Workout",
         "type": "AMRAP",
-        "description": "AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n8 T2B\n10 Dumbbell Snatches 22.5/15kg",
+        "description": "AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n8 T2B\n10 Russian KB Swing 24/16",
         "time_cap": null
       },
       "gymnastics": [
-        "EMOM X 4\nBeat Swing x 10\n- think Knuckles over the bar\nBigger Beat swing - Push down on bar!!\nFloor Arch Turn Over\nLow bar transition from box\n- False grip + Long arms. -move box away to make it harder\nBanded BMU OR BMU\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension.",
+        "HSW Progression\nEMOM X 3 20s handstand hold (00:00)\nEMOM X 3 180 deg. Conan Walk (on box) x 2 (03:00)\nEMOM X 3 5-10 Shoulder taps (or wall walk) (06:00)\nEMOM X 5 Tripod Handstand Hold  (09:00)\nEMOM X 5 Spotted Freestanding Handstand Hold (14:00)\nEMOM X 5 Spotted handstand walk with PVC (19:00)\nT2B Bar Progression\nEMOM x 3 (24:00)\n10 x Beat Swing\nEMOM x 3 (27:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (30:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (33:00)\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 3 (36:00 - 39:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.",
         "Toes-To-Bar: 2 sets - record biggest unbroken set"
       ],
       "hypertrophy": {
         "recommended_muscles": [
           "chest",
-          "back (horizontal pull)",
+          "back rows",
+          "rear delts",
           "triceps"
         ],
         "avoid": [
           "shoulders",
-          "core/abs",
-          "hip flexors"
+          "core",
+          "legs",
+          "grip"
         ],
-        "reasoning": "Today heavily taxes shoulders, core, and hip flexors via HSW, T2B, and gymnastics skills. Build pressing strength and horizontal pulling.",
+        "reasoning": "Today heavily taxes shoulders, core, and grip via HSW and T2B. Horizontal pulling/pressing builds antagonist balance.",
         "suggested_exercises": [
-          "Dumbbell Bench Press: 3 x 8–10",
-          "Barbell Rows: 3 x 8–10",
-          "Tricep Rope Extensions: 3 x 12–15",
-          "Chest-Supported Row Machine: 3 x 10–12"
+          "Incline DB Bench Press 3x8-10",
+          "Seal Rows 3x10-12",
+          "Face Pulls 3x12-15",
+          "Reverse Pec Deck Flyes 3x12-15",
+          "Rope Tricep Extensions 3x10-12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | EMOM X 4\nBeat Swing x 10\n- think Knuckles over the bar\nBigger Beat swing - Push down on bar!!\nFloor Arch Turn Over\nLow bar transition from box\n- False grip + Long arms. -move box away to make it harder\nBanded BMU OR BMU\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nToes-To-Bar | Max toes to bar | 2 sets - record biggest unbroken set\nWorkout | AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n8 T2B\n10 Dumbbell Snatches 22.5/15kg",
-      "siri_text": "Thursday's workout. Gymnastics: . Gymnastics: Toes-To-Bar: 2 sets - record biggest unbroken set. Metcon: AMRAP 10 minutes: 6m Handstand Walk OR 2 Wall Walks, 8 T2B, 10 Dumbbell Snatches 22.5/15kg. For hypertrophy, focus on chest, back (horizontal pull), triceps."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n5 Hindu Push Ups\n10m bear Crawls\n10 x Inch Worms\n10 Cossack Squats\nGymnastics | HSW Progression\nEMOM X 3 20s handstand hold (00:00)\nEMOM X 3 180 deg. Conan Walk (on box) x 2 (03:00)\nEMOM X 3 5-10 Shoulder taps (or wall walk) (06:00)\nEMOM X 5 Tripod Handstand Hold  (09:00)\nEMOM X 5 Spotted Freestanding Handstand Hold (14:00)\nEMOM X 5 Spotted handstand walk with PVC (19:00)\nT2B Bar Progression\nEMOM x 3 (24:00)\n10 x Beat Swing\nEMOM x 3 (27:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (30:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (33:00)\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 3 (36:00 - 39:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nToes-To-Bar | Max toes to bar | 2 sets - record biggest unbroken set\nWorkout | AMRAP x 10 mins\n6m Handstand Walk OR 2 Wall Walks\n8 T2B\n10 Russian KB Swing 24/16",
+      "siri_text": "Thursday's workout. Gymnastics: HSW Progression. Gymnastics: Toes-To-Bar: 2 sets - record biggest unbroken set. Metcon: AMRAP 10 minutes: 6m Handstand Walk OR 2 Wall Walks, 8 T2B, 10 Russian KB Swing 24/16. For hypertrophy, focus on chest, back rows, rear delts."
     },
     "2026-05-01": {
       "date": "2026-05-01",
