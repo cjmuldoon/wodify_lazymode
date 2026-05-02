@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-02",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Partner workout",
+    "type": "Rounds for Time",
+    "description": "3 rounds for time (40 min time cap)\n400m row\n30 V-ups\n20 front rack DB x2 lunges\n10 DB Devil press\n5 C & Jerks @80/50",
+    "time_cap": "40 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "back thickness",
+      "biceps",
+      "glutes"
+    ],
+    "avoid": [
+      "quads",
+      "shoulders",
+      "triceps",
+      "core"
+    ],
+    "reasoning": "Today emphasizes anterior chain and shoulders; posterior chain and arm work aid recovery without competing for CNS resources.",
+    "suggested_exercises": [
+      "Face pulls 3 x 12-15",
+      "Barbell rows 3 x 8-10",
+      "Dumbbell curls 3 x 10-12",
+      "Glute-focused leg curl 3 x 12-15"
+    ]
+  },
+  "raw_text": "Warm up | 2min  easy row\n30 sec Banded lat stretch\n10 reverse lunges (bodyweight)\n10 ring rows\n10 air squats\n10 scap push ups\n10 bird dogs (slow)\n5 v-ups\n3 burpees & 3 snatches\nWork up to C&J workout weight (3 mins)\nPartner workout | 3 rounds for time (40 min time cap)\n400m row\n30 V-ups\n20 front rack DB x2 lunges\n10 DB Devil press\n5 C & Jerks @80/50",
+  "siri_text": "Saturday's workout. Metcon: Partner workout. Rounds for Time: 400m row, 30 V-ups, 20 front rack DB x2 lunges, 10 DB Devil press, 5 C & Jerks @80/50. For hypertrophy, focus on rear delts, back thickness, biceps."
+}
