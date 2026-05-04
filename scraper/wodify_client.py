@@ -47,8 +47,8 @@ _ANON_CSRF_TOKEN = "T6C+9iB49TLra4jEsMeSckDMNhQ="
 
 # Fallback apiVersions — used only if dynamic discovery fails.
 _FALLBACK_API_VERSIONS = {
-    "Prepare_Login": "3tTvN2rONpQXyOYa_0ATaw",
-    "Do_Login": "WA41Mdspv2Or8hsYnkMnFA",
+    "Prepare_Login": "Y5lcETfFR6OMjcuV1v837g",
+    "Do_Login": "gdwtSFxlPeK3R0kvRCgkuw",
     "GetAllWorkoutData": "oUtY6BduyoWB9hUTWxNqFw",
 }
 
@@ -176,12 +176,19 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
     mv = _module_version(session)
     logger.info("Module version: %s", mv)
 
+    # Step 2b: Discover current apiVersions from JS chunks. Login chunks are
+    # accessible pre-auth, so we discover BEFORE login — otherwise a rotated
+    # Prepare_Login version breaks us before we ever get to fix it.
+    api_versions = _discover_api_versions(session)
+    session.api_versions = api_versions  # type: ignore[attr-defined]
+    logger.info("Discovered apiVersions: %s", api_versions)
+
     # Step 3: Authenticate.
     logger.info("Logging in as %s…", email)
     body = {
         "versionInfo": {
             "moduleVersion": mv,
-            "apiVersion": _FALLBACK_API_VERSIONS["Prepare_Login"],
+            "apiVersion": _api_version(session, "Prepare_Login"),
         },
         "viewName": "Home.Login",
         "inputParameters": {
@@ -216,7 +223,7 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
     do_login_body = {
         "versionInfo": {
             "moduleVersion": mv,
-            "apiVersion": _FALLBACK_API_VERSIONS["Do_Login"],
+            "apiVersion": _api_version(session, "Do_Login"),
         },
         "viewName": "Home.Login",
         "inputParameters": {
@@ -237,11 +244,6 @@ def login(email: str, password: str) -> tuple[requests.Session, dict, str]:
     }
     r2 = session.post(_DO_LOGIN_URL, json=do_login_body, headers=_headers(session), timeout=30)
     r2.raise_for_status()
-
-    # Step 5: Discover current apiVersions from the (now-accessible) JS chunks.
-    api_versions = _discover_api_versions(session)
-    session.api_versions = api_versions  # type: ignore[attr-defined]
-    logger.info("Discovered apiVersions: %s", api_versions)
 
     user_params = {
         "Customer": customer,
