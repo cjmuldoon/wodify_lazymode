@@ -1,0 +1,42 @@
+{
+  "date": "2026-05-06",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "3x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 5 @ 50%\n03:00 5 @ 65%\n06:00 3@ 75%\nHold 3 Sets\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "4 Rounds for time - 28 min time cap\n500/400m row\n50 Double Unders\n25 Wall Balls\n10 HSPU or Box HPSU\n5 Deadlifts @ 120/80kg",
+    "time_cap": "28 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "biceps",
+      "rear delts",
+      "glutes"
+    ],
+    "avoid": [
+      "quads",
+      "hamstrings",
+      "lower back",
+      "shoulders",
+      "triceps"
+    ],
+    "reasoning": "Deadlift and metcon heavily stress posterior chain and shoulders; target antagonists and weak points.",
+    "suggested_exercises": [
+      "Barbell Curls 3x8-10",
+      "Reverse Pec Deck Flyes 3x12-15",
+      "Bulgarian Split Squats (light, unilateral glute focus) 3x10",
+      "Face Pulls 3x15",
+      "Dumbbell Rows (light, single-arm) 3x12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 3x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 5 @ 50%\n03:00 5 @ 65%\n06:00 3@ 75%\nHold 3 Sets\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\nWorkout | 4 Rounds for time - 28 min time cap\n500/400m row\n50 Double Unders\n25 Wall Balls\n10 HSPU or Box HPSU\n5 Deadlifts @ 120/80kg",
+  "siri_text": "Wednesday's workout. Strength: Deadlift, 3 by 3 at 85 percent. Metcon: Rounds for Time: 500/400m row, 50 Double Unders, 25 Wall Balls, 10 HSPU or Box HPSU, 5 Deadlifts @ 120/80kg. For hypertrophy, focus on biceps, rear delts, glutes."
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-11",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%"
+    }
+  ],
+  "metcon": {
+    "name": "Running from Jerks",
+    "type": "Workout",
+    "description": "BUY IN: 1,000M Run\nthen 12-9-6\n2 x DB Hang Clean & Jerk\nBurpee over Dumbell",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "back (lower lats)",
+      "glutes",
+      "core"
+    ],
+    "avoid": [
+      "chest",
+      "anterior delts",
+      "triceps",
+      "quads",
+      "hamstrings"
+    ],
+    "reasoning": "Bench and jerks overload pressing; metcon hammers lower body. Build posterior chain and support spinal stability.",
+    "suggested_exercises": [
+      "Face pulls: 3 x 12-15",
+      "Seal rows: 3 x 10-12",
+      "Glute kickbacks (cable): 3 x 12 per side",
+      "Pallof press: 3 x 10 per side",
+      "Reverse pec deck: 3 x 12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 5x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 5 @ 55 + 65%\n03:00 3 @ 75%\nHOLD 5 Sets\n06:00 3 @ 85%\n09:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nRunning from Jerks | BUY IN: 1,000M Run\nthen 12-9-6\n2 x DB Hang Clean & Jerk\nBurpee over Dumbell",
+  "siri_text": "Monday's workout. Strength: Bench Press, 5 by 3 at 85 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Running from Jerks. Workout: 2 x DB Hang Clean & Jerk, Burpee over Dumbell. For hypertrophy, focus on rear delts, back (lower lats), glutes."
+}

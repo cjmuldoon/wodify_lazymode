@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-04",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10m DB Walking Lunge 22.5/15\n10 PVC Split Jerk\n10 Strict Press",
+  "strength": [
+    {
+      "name": "Split Jerk",
+      "description": "3x3 | * Pause in catch\n* Punch the ceiling | E3MOM 21min\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 3 @ 80%\nHOLD 3 Sets\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%"
+    },
+    {
+      "name": "Back Squat",
+      "description": "4x3 | E2MOM 12min\nBUILD 2 Sets\n00:00 5 @ 50%\n02:00 5 @ 60%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Partner Angie",
+    "type": "Workout",
+    "description": "Partner Angie\nYou-go-I-Go\n100 Pull Ups\n100 Push Ups\n100 Sit Ups\n100 Air Squats\nPartner up or Tackle it Solo\nbreak it up into reps of 5-10",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "back extensors",
+      "hamstrings",
+      "biceps"
+    ],
+    "avoid": [
+      "anterior deltoids",
+      "chest",
+      "quadriceps",
+      "core"
+    ],
+    "reasoning": "Address posterior chain weaknesses and shoulder balance after heavy pressing and squatting.",
+    "suggested_exercises": [
+      "Face pulls: 3x12-15",
+      "Romanian deadlifts: 3x8-10",
+      "Barbell rows: 3x6-8",
+      "Incline dumbbell curls: 3x10-12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10m DB Walking Lunge 22.5/15\n10 PVC Split Jerk\n10 Strict Press\nSplit Jerk | 3x3 | * Pause in catch\n* Punch the ceiling | E3MOM 21min\nBUILD 3 Sets\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 3 @ 80%\nHOLD 3 Sets\n12:00 3 @ 85%\n15:00 3 @ 85%\n18:00 3 @ 85%\nBack Squat | 4x3 | E2MOM 12min\nBUILD 2 Sets\n00:00 5 @ 50%\n02:00 5 @ 60%\nHOLD 4 Sets\n04:00 3 @ 75%\n06:00 3 @ 75%\n08:00 3 @ 75%\n10:00 3 @ 75%\nPartner Angie | Partner Angie\nYou-go-I-Go\n100 Pull Ups\n100 Push Ups\n100 Sit Ups\n100 Air Squats\nPartner up or Tackle it Solo\nbreak it up into reps of 5-10",
+  "siri_text": "Monday's workout. Strength: Split Jerk, 3 by 3 at 85 percent. Strength: Back Squat, 4 by 3 at 75 percent. Metcon: Partner Angie. Workout: Partner Angie, You-go-I-Go, 100 Pull Ups, 100 Push Ups, 100 Sit Ups. For hypertrophy, focus on rear deltoids, back extensors, hamstrings."
+}
