@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-09",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Part B",
+    "type": "Rounds for Time",
+    "description": "4 RFT 15 min cap\n150m Run\n20 Back squats\n20 Box overs 24”/20”\n20 DB Snatches @ 22.5/15\n80/50 kg",
+    "time_cap": "15 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "shoulders (rear/lateral)"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "chest",
+      "forearms"
+    ],
+    "reasoning": "Legs and anterior chain are exhausted; posterior chain accessory work enhances recovery and addresses muscular imbalances.",
+    "suggested_exercises": [
+      "Barbell rows: 3 x 8–10",
+      "Barbell or dumbbell bent-over flyes: 3 x 12–15",
+      "Face pulls: 3 x 15–20",
+      "Barbell curls or dumbbell curls: 3 x 8–10"
+    ]
+  },
+  "raw_text": "Warm up | 100m run\n10 air squats\n10 scap push-ups\n10 band pull-aparts\n5 inchworms\n5 burpees or up-downs\n30 sec PVC shoulder  opener\n3 clean pulls\n3 power cleans\n3 strict press\n3 push press\n3 push jerk\n3 front squat\n5 beat swings\n5 bigger beat swings\n5 pull ups / 5 chest to bad\n2-3 muscle ups\nPart A | AMRAP 18 min\n300m Run\n5 Power clean ea\n5 Push jerk ea\n5 Bar muscle ups ea\nRest 2 mins\n80/50\nPart B | 4 RFT 15 min cap\n150m Run\n20 Back squats\n20 Box overs 24”/20”\n20 DB Snatches @ 22.5/15\n80/50 kg",
+  "siri_text": "Saturday's workout. Metcon: Part B. Rounds for Time: 150m Run, 20 Back squats, 20 Box overs 24”/20”, 20 DB Snatches @ 22.5/15, 80/50 kg. For hypertrophy, focus on back, biceps, shoulders (rear/lateral)."
+}
