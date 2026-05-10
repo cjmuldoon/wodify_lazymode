@@ -12,27 +12,35 @@
       "description": "4x3 | E3MOM 18 mins\nWork Up to a Top Set of 3. Aim for approx 80%\n00:00 3\n03:00 3\n06:00 3\n09:00 3\n12:00 3\n15:00 3"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "15 min AMRAP\n200m Run\n7 Full Snatches\n1 Rope Climb",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
-      "biceps",
-      "glutes"
+      "Hamstrings",
+      "Back (lats/rows)",
+      "Biceps",
+      "Glutes"
     ],
     "avoid": [
-      "shoulders",
-      "quads",
-      "core"
+      "Quadriceps",
+      "Shoulders",
+      "Traps",
+      "Core"
     ],
-    "reasoning": "Balance upper body pulling and posterior chain to support recovery while avoiding antagonistic fatigue to snatch and squat.",
+    "reasoning": "Snatches and OHS heavily tax quads, shoulders, and core; build posterior chain and arms to balance.",
     "suggested_exercises": [
-      "Barbell Rows: 3x6-8",
-      "Dumbbell Bicep Curls: 3x8-10",
-      "Hip Thrusts: 3x8-10",
-      "Chest-Supported Row: 2x8-10"
+      "Barbell Rows 3x6-8",
+      "Hamstring Curls 3x8-10",
+      "Barbell Glute Bridges 3x8-10",
+      "Dumbbell Curls 3x10-12",
+      "Good Mornings 3x8-10"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 3x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n03:00 3 @ 65%\nHOLD 4 Sets\n06:00 3 @ 80%\n09:00 3 @ 80%\n12:00 3 @ 80%\nOverhead Squat | 4x3 | E3MOM 18 mins\nWork Up to a Top Set of 3. Aim for approx 80%\n00:00 3\n03:00 3\n06:00 3\n09:00 3\n12:00 3\n15:00 3",
-  "siri_text": "Monday's workout. Strength: Power Snatch, 3 by 3 at 80 percent. Strength: Overhead Squat, 4 by 3. For hypertrophy, focus on back, biceps, glutes."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 3x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n03:00 3 @ 65%\nHOLD 4 Sets\n06:00 3 @ 80%\n09:00 3 @ 80%\n12:00 3 @ 80%\nOverhead Squat | 4x3 | E3MOM 18 mins\nWork Up to a Top Set of 3. Aim for approx 80%\n00:00 3\n03:00 3\n06:00 3\n09:00 3\n12:00 3\n15:00 3\nWorkout | 15 min AMRAP\n200m Run\n7 Full Snatches\n1 Rope Climb",
+  "siri_text": "Monday's workout. Strength: Power Snatch, 3 by 3 at 80 percent. Strength: Overhead Squat, 4 by 3. Metcon: AMRAP 15 minutes: 200m Run, 7 Full Snatches, 1 Rope Climb. For hypertrophy, focus on Hamstrings, Back (lats/rows), Biceps."
 }
