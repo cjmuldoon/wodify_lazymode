@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T08:00:24",
+  "last_updated": "2026-05-13T08:03:06",
   "week_of": "2026-05-18",
   "workouts": {
     "2026-02-23": {
@@ -2515,7 +2515,7 @@
       "strength": [
         {
           "name": "Deadlift",
-          "description": "4x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 3 Sets\n09:00 3 @ 80%\n12:00 3 @ 80%\n15:00 3 @ 80%"
+          "description": "3x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 3 Sets\n09:00 3 @ 80%\n12:00 3 @ 80%\n15:00 3 @ 80%"
         }
       ],
       "metcon": {
@@ -2527,29 +2527,29 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "rear delts",
+          "chest",
           "upper back",
           "biceps",
-          "glutes"
+          "shoulders (side/rear)"
         ],
         "avoid": [
-          "quadriceps",
+          "quads",
+          "glutes",
           "hamstrings",
           "lower back",
-          "core",
-          "shoulders"
+          "core"
         ],
-        "reasoning": "Today hammers posterior chain, quads, and core; build weak points and antagonists without fatigue.",
+        "reasoning": "Today's volume is legs and posterior chain; accessory work addresses antagonists and upper body to balance systemic load.",
         "suggested_exercises": [
-          "Face Pulls 3x12",
-          "Barbell Rows 3x8",
-          "Dumbbell Curls 3x10",
-          "Nordic Curls 3x5",
-          "Glute Ham Raises 3x8"
+          "Dumbbell Bench Press: 3x8",
+          "Barbell Rows: 3x8",
+          "Incline Dumbbell Curls: 3x10",
+          "Reverse Pec Deck: 3x12",
+          "Face Pulls: 3x15"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 3 Sets\n09:00 3 @ 80%\n12:00 3 @ 80%\n15:00 3 @ 80%\nWorkout | BUY IN: 800m Run\nPart A 3 Rounds\n10 T2B\n10 2xDB Hang Cleans (full clean)\n10 Box Jumps\nPart B 3 Rounds\n10 V-ups\n10m Single Arm DB OH Lunge per side\n10 Box Jumps\nBuy Out 40 Wall Balls",
-      "siri_text": "Wednesday's workout. Strength: Deadlift, 4 by 3 at 80 percent. Metcon: Workout: 10 T2B, 10 2xDB Hang Cleans (full clean), 10 Box Jumps, 10 V-ups, 10m Single Arm DB OH Lunge per side. For hypertrophy, focus on rear delts, upper back, biceps."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 3x3 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\nHold 3 Sets\n09:00 3 @ 80%\n12:00 3 @ 80%\n15:00 3 @ 80%\nWorkout | BUY IN: 800m Run\nPart A 3 Rounds\n10 T2B\n10 2xDB Hang Cleans (full clean)\n10 Box Jumps\nPart B 3 Rounds\n10 V-ups\n10m Single Arm DB OH Lunge per side\n10 Box Jumps\nBuy Out 40 Wall Balls",
+      "siri_text": "Wednesday's workout. Strength: Deadlift, 3 by 3 at 80 percent. Metcon: Workout: 10 T2B, 10 2xDB Hang Cleans (full clean), 10 Box Jumps, 10 V-ups, 10m Single Arm DB OH Lunge per side. For hypertrophy, focus on chest, upper back, biceps."
     },
     "2026-05-14": {
       "date": "2026-05-14",
