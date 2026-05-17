@@ -1,0 +1,43 @@
+{
+  "date": "2026-05-18",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "3x2 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%"
+    }
+  ],
+  "metcon": {
+    "name": "1-Mile Run",
+    "type": "Workout",
+    "description": "Max Effort 1-Mile Run",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "rear delts",
+      "biceps"
+    ],
+    "avoid": [
+      "chest",
+      "triceps",
+      "quads",
+      "hamstrings",
+      "glutes"
+    ],
+    "reasoning": "Push-heavy day taxed chest/triceps; 1-mile run fatigued legs; antagonist work promotes recovery and balance.",
+    "suggested_exercises": [
+      "Barbell Rows: 3x6-8",
+      "Rear Delt Flyes: 3x10-12",
+      "Barbell Curls: 3x8-10",
+      "Face Pulls: 2x12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 3x2 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 21min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\n1-Mile Run | Max Effort 1-Mile Run",
+  "siri_text": "Monday's workout. Strength: Bench Press, 3 by 2 at 90 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: 1-Mile Run. Workout. For hypertrophy, focus on back, rear delts, biceps."
+}
