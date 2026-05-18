@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-27",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n10 Broad Jumps\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat",
+  "strength": [
+    {
+      "name": "Front Squat",
+      "description": "3x2 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | E3MOM 21min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%"
+    },
+    {
+      "name": "Power Clean",
+      "description": "1x2 | * Focus on triple extension\n* Fast Elbows | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2"
+    }
+  ],
+  "metcon": {
+    "name": "MLI 26.3 (as requested by Craig & Erik)",
+    "type": "Workout",
+    "description": "Min 1: Max thrusters @40/30\nMin 2: Max Box Jump Overs @24/20\"\nMin 3: Max KettleBell Swings (Russian but above eye level not too eye level) - 24/16kg\nMin 4: Rest\nMin 5: Max KettleBell Swings (24/16kg)\nMin 6: Max Box Jump Overs @24/20\"\nMin 7: Max thrusters @40/30\nScaled - step overs, thrusters @ 30/25, KB 16/12kg\nRx+ - thrusters @ 45/35, KB @ 32/24\n**get a chalk board",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (lats/rhomboids)",
+      "Hamstrings",
+      "Glutes",
+      "Arms (biceps/triceps)"
+    ],
+    "avoid": [
+      "Quadriceps",
+      "Shoulders",
+      "Core"
+    ],
+    "reasoning": "Front squat and thruster dominate quads/shoulders; accessory work addresses posterior chain and arm hypertrophy without competing for recovery.",
+    "suggested_exercises": [
+      "Pendulum rows 3x8-10",
+      "Nordic hamstring curls 3x5-6",
+      "Bulgarian split squats (rear leg elevated) 3x8 each",
+      "Dumbbell bicep curls 3x10-12",
+      "Tricep rope pushdowns 3x12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n10 Broad Jumps\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat\nFront Squat | 3x2 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | E3MOM 21min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nPower Clean | 1x2 | * Focus on triple extension\n* Fast Elbows | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2\nMLI 26.3 (as requested by Craig & Erik) | Min 1: Max thrusters @40/30\nMin 2: Max Box Jump Overs @24/20\"\nMin 3: Max KettleBell Swings (Russian but above eye level not too eye level) - 24/16kg\nMin 4: Rest\nMin 5: Max KettleBell Swings (24/16kg)\nMin 6: Max Box Jump Overs @24/20\"\nMin 7: Max thrusters @40/30\nScaled - step overs, thrusters @ 30/25, KB 16/12kg\nRx+ - thrusters @ 45/35, KB @ 32/24\n**get a chalk board",
+  "siri_text": "Wednesday's workout. Strength: Front Squat, 3 by 2 at 90 percent. Strength: Power Clean, 1 by 2. Metcon: MLI 26.3 (as requested by Craig & Erik). Workout: **get a chalk board. For hypertrophy, focus on Back (lats/rhomboids), Hamstrings, Glutes."
+}
