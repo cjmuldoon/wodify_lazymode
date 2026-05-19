@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18T08:25:53",
+  "last_updated": "2026-05-19T08:14:17",
   "week_of": "2026-05-25",
   "workouts": {
     "2026-02-23": {
@@ -2735,26 +2735,25 @@
       "hypertrophy": {
         "recommended_muscles": [
           "chest",
-          "shoulders (lateral/rear)",
+          "shoulders",
           "biceps"
         ],
         "avoid": [
-          "lower back",
+          "back",
           "glutes",
           "hamstrings",
           "core"
         ],
-        "reasoning": "Today heavily taxes posterior chain and core; push/arm work recovers faster and builds balanced hypertrophy.",
+        "reasoning": "Today's deadlift and metcon heavily tax posterior chain and core; accessory work targets anterior-dominant muscles for balanced development.",
         "suggested_exercises": [
-          "Dumbbell Bench Press: 3x8-10",
-          "Face Pulls: 3x12-15",
-          "Barbell Rows (lighter, higher reps): 3x10-12",
-          "Dumbbell Curls: 3x10-12",
-          "Incline Dumbbell Press: 2x8-10"
+          "Dumbbell Bench Press 3x8-10",
+          "Incline Dumbbell Flyes 3x10-12",
+          "Machine Shoulder Press 2x10-12",
+          "Barbell Curls 3x8-10"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 3x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | 24min\nBUILD 4 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%\nWorkout | Rounds for time - 20 min time cap\n8 RFT\n5 Deadlifts @ 100/60kg\n10 T2B\n15 Wall Balls",
-      "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 2 at 90 percent. Metcon: Rounds for Time: 5 Deadlifts @ 100/60kg, 10 T2B, 15 Wall Balls. For hypertrophy, focus on chest, shoulders (lateral/rear), biceps."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 3x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | 24min\nBUILD 4 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%\n40 Burpees for Time | Time cap = 40 years\nWorkout | Rounds for time - 20 min time cap\n8 RFT\n5 Deadlifts @ 100/60kg\n10 T2B\n15 Wall Balls",
+      "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 2 at 90 percent. Metcon: Rounds for Time: 5 Deadlifts @ 100/60kg, 10 T2B, 15 Wall Balls. For hypertrophy, focus on chest, shoulders, biceps."
     },
     "2026-05-20": {
       "date": "2026-05-20",
