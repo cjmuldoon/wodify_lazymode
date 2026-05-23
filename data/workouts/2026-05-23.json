@@ -1,0 +1,36 @@
+{
+  "date": "2026-05-23",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Warm up",
+    "type": "Workout",
+    "description": "2 rounds easy:\n100m jog\n8 air squats\n8 scap pull-ups or active hangs\n8 PVC/banded pass-throughs\n5 hang muscle cleans\n5 hang power cleans\n5 clean pulls\n5 cleans\nSwap partners\n5 strict press\n5 push press\n5 push jerk\n5 kip swings\n4 T2B / leg raises\n6 box step-overs or jump overs",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "biceps",
+      "back (upper/mid)",
+      "glutes"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders (anterior)",
+      "core",
+      "triceps"
+    ],
+    "reasoning": "Clean/press/T2B heavily tax quads, anterior delts, core, triceps; accessory work targets opposing and neglected muscles.",
+    "suggested_exercises": [
+      "Face pulls: 3 x 12",
+      "Dumbbell bicep curls: 3 x 10",
+      "Seal rows or machine rows: 3 x 10",
+      "Single-leg glute bridges: 3 x 8 each leg"
+    ]
+  },
+  "raw_text": "Partner workout | 35 min AMRAP\n400m run together\n16 clean & jerks\n12 synchro toes-to-bar or leg raises\n24 box jump overs / box step overs\n@61/43kg\nWarm up | 2 rounds easy:\n100m jog\n8 air squats\n8 scap pull-ups or active hangs\n8 PVC/banded pass-throughs\n5 hang muscle cleans\n5 hang power cleans\n5 clean pulls\n5 cleans\nSwap partners\n5 strict press\n5 push press\n5 push jerk\n5 kip swings\n4 T2B / leg raises\n6 box step-overs or jump overs",
+  "siri_text": "Saturday's workout. Metcon: Warm up. Workout: 100m jog, 8 air squats, 8 PVC/banded pass-throughs, 5 hang muscle cleans, 5 hang power cleans. For hypertrophy, focus on rear delts, biceps, back (upper/mid)."
+}

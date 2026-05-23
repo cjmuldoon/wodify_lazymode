@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22T08:11:14",
+  "last_updated": "2026-05-23T07:51:15",
   "week_of": "2026-05-25",
   "workouts": {
     "2026-02-23": {
@@ -2856,9 +2856,29 @@
         "time_cap": null
       },
       "gymnastics": [],
-      "hypertrophy": null,
+      "hypertrophy": {
+        "recommended_muscles": [
+          "hamstrings",
+          "glutes",
+          "rear delts",
+          "biceps"
+        ],
+        "avoid": [
+          "shoulders",
+          "traps",
+          "quads",
+          "forearms"
+        ],
+        "reasoning": "Snatch and BMUs heavily tax shoulders/traps/quads; accessorizing posterior chain and arms restores balance without CNS fatigue.",
+        "suggested_exercises": [
+          "Romanian Deadlifts: 3x6-8",
+          "Reverse Pec Deck Flyes: 3x10-12",
+          "Barbell Rows (strict): 3x8-10",
+          "Dumbbell Curls: 3x10-12"
+        ]
+      },
       "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10 Cossack Squats\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Snatch Balance\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x2 | E2MOM 10min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nSnatch | 3x2 | 24min\nBUILD 4 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%\nWorkout | AMRAP x 9 mins\n3 Bar Muscle Ups\n6 Power Snatches @ 60/40\nscale BMU to C2B/Pull up /RRow\nrx+ RMU",
-      "siri_text": "Friday's workout. Strength: Snatch Balance, 1 by 2. Strength: Snatch, 3 by 2 at 90 percent. Metcon: AMRAP 9 minutes: 3 Bar Muscle Ups, 6 Power Snatches @ 60/40, rx+ RMU."
+      "siri_text": "Friday's workout. Strength: Snatch Balance, 1 by 2. Strength: Snatch, 3 by 2 at 90 percent. Metcon: AMRAP 9 minutes: 3 Bar Muscle Ups, 6 Power Snatches @ 60/40, rx+ RMU. For hypertrophy, focus on hamstrings, glutes, rear delts."
     },
     "2026-05-27": {
       "date": "2026-05-27",
@@ -2904,6 +2924,42 @@
       },
       "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Worlds Greatest Stretch\n10 Band Row Rotate Press\n10 Broad Jumps\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat\nFront Squat | 3x2 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | E3MOM 21min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nPower Clean | 1x2 | * Focus on triple extension\n* Fast Elbows | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2\nMLI 26.3 (as requested by Craig & Erik) | Min 1: Max thrusters @40/30\nMin 2: Max Box Jump Overs @24/20\"\nMin 3: Max KettleBell Swings (Russian but above eye level not too eye level) - 24/16kg\nMin 4: Rest\nMin 5: Max KettleBell Swings (24/16kg)\nMin 6: Max Box Jump Overs @24/20\"\nMin 7: Max thrusters @40/30\nScaled - step overs, thrusters @ 30/25, KB 16/12kg\nRx+ - thrusters @ 45/35, KB @ 32/24\n**get a chalk board",
       "siri_text": "Wednesday's workout. Strength: Front Squat, 3 by 2 at 90 percent. Strength: Power Clean, 1 by 2. Metcon: MLI 26.3 (as requested by Craig & Erik). Workout: **get a chalk board. For hypertrophy, focus on Back (lats/rhomboids), Hamstrings, Glutes."
+    },
+    "2026-05-23": {
+      "date": "2026-05-23",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Warm up",
+        "type": "Workout",
+        "description": "2 rounds easy:\n100m jog\n8 air squats\n8 scap pull-ups or active hangs\n8 PVC/banded pass-throughs\n5 hang muscle cleans\n5 hang power cleans\n5 clean pulls\n5 cleans\nSwap partners\n5 strict press\n5 push press\n5 push jerk\n5 kip swings\n4 T2B / leg raises\n6 box step-overs or jump overs",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear delts",
+          "biceps",
+          "back (upper/mid)",
+          "glutes"
+        ],
+        "avoid": [
+          "quadriceps",
+          "shoulders (anterior)",
+          "core",
+          "triceps"
+        ],
+        "reasoning": "Clean/press/T2B heavily tax quads, anterior delts, core, triceps; accessory work targets opposing and neglected muscles.",
+        "suggested_exercises": [
+          "Face pulls: 3 x 12",
+          "Dumbbell bicep curls: 3 x 10",
+          "Seal rows or machine rows: 3 x 10",
+          "Single-leg glute bridges: 3 x 8 each leg"
+        ]
+      },
+      "raw_text": "Partner workout | 35 min AMRAP\n400m run together\n16 clean & jerks\n12 synchro toes-to-bar or leg raises\n24 box jump overs / box step overs\n@61/43kg\nWarm up | 2 rounds easy:\n100m jog\n8 air squats\n8 scap pull-ups or active hangs\n8 PVC/banded pass-throughs\n5 hang muscle cleans\n5 hang power cleans\n5 clean pulls\n5 cleans\nSwap partners\n5 strict press\n5 push press\n5 push jerk\n5 kip swings\n4 T2B / leg raises\n6 box step-overs or jump overs",
+      "siri_text": "Saturday's workout. Metcon: Warm up. Workout: 100m jog, 8 air squats, 8 PVC/banded pass-throughs, 5 hang muscle cleans, 5 hang power cleans. For hypertrophy, focus on rear delts, biceps, back (upper/mid)."
     }
   }
 }
