@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T07:51:15",
+  "last_updated": "2026-05-24T04:33:49",
   "week_of": "2026-05-25",
   "workouts": {
     "2026-02-23": {
@@ -2960,6 +2960,181 @@
       },
       "raw_text": "Partner workout | 35 min AMRAP\n400m run together\n16 clean & jerks\n12 synchro toes-to-bar or leg raises\n24 box jump overs / box step overs\n@61/43kg\nWarm up | 2 rounds easy:\n100m jog\n8 air squats\n8 scap pull-ups or active hangs\n8 PVC/banded pass-throughs\n5 hang muscle cleans\n5 hang power cleans\n5 clean pulls\n5 cleans\nSwap partners\n5 strict press\n5 push press\n5 push jerk\n5 kip swings\n4 T2B / leg raises\n6 box step-overs or jump overs",
       "siri_text": "Saturday's workout. Metcon: Warm up. Workout: 100m jog, 8 air squats, 8 PVC/banded pass-throughs, 5 hang muscle cleans, 5 hang power cleans. For hypertrophy, focus on rear delts, biceps, back (upper/mid)."
+    },
+    "2026-05-25": {
+      "date": "2026-05-25",
+      "day_name": "Monday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats",
+      "strength": [
+        {
+          "name": "Back Squat",
+          "description": "3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%"
+        },
+        {
+          "name": "Behind The Neck Jerk",
+          "description": "1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "EMOM",
+        "description": "EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "biceps",
+          "rear deltoids",
+          "hamstrings",
+          "core"
+        ],
+        "avoid": [
+          "quadriceps",
+          "shoulders",
+          "chest",
+          "lats"
+        ],
+        "reasoning": "Address pulling imbalances and posterior chain support without competing with heavy squat/jerk CNS fatigue.",
+        "suggested_exercises": [
+          "Barbell Curls 3x8-10",
+          "Face Pulls 3x12-15",
+          "Nordic Hamstring Curls 3x5-6",
+          "Pallof Press 3x10/side",
+          "Incline Dumbbell Curls 2x10-12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
+      "siri_text": "Monday's workout. Strength: Back Squat, 3 by 2 at 90 percent. Strength: Behind The Neck Jerk, 1 by 3. Metcon: EMOM: Count Calories. For hypertrophy, focus on biceps, rear deltoids, hamstrings."
+    },
+    "2026-05-26": {
+      "date": "2026-05-26",
+      "day_name": "Tuesday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+      "strength": [
+        {
+          "name": "Bench Press",
+          "description": "3x2 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | 24min\nBUILD 4 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "Rounds for Time",
+        "description": "4 RFT\n12 KB Swings\n9 Box Jumps\n6 DB Push Press\n300m Run",
+        "time_cap": null
+      },
+      "gymnastics": [
+        "Pull-ups: E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "rear delts",
+          "biceps",
+          "core"
+        ],
+        "avoid": [
+          "chest",
+          "anterior delts",
+          "triceps",
+          "quadriceps"
+        ],
+        "reasoning": "Address posterior chain and arm balance post-bench/pressing; avoid compounding upper push and leg fatigue from metcon.",
+        "suggested_exercises": [
+          "Barbell Rows 3x6-8",
+          "Face Pulls 3x12-15",
+          "Dumbbell Curls 3x8-10",
+          "Pallof Presses 3x10 each side",
+          "Reverse Pec Deck 3x12-15"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 3x2 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | 24min\nBUILD 4 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 65%\n06:00 4 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%\nPull-ups | Strict Pull Ups | E2MOM 10 min\nMax Reps (aim to keep the same reps throughout each set)\nAim for 1 more rep than last week\nWorkout | 4 RFT\n12 KB Swings\n9 Box Jumps\n6 DB Push Press\n300m Run",
+      "siri_text": "Tuesday's workout. Strength: Bench Press, 3 by 2 at 90 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 12 KB Swings, 9 Box Jumps, 6 DB Push Press, 300m Run. For hypertrophy, focus on back, rear delts, biceps."
+    },
+    "2026-05-28": {
+      "date": "2026-05-28",
+      "day_name": "Thursday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation",
+      "strength": [],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "8 min AMRAP\n20 Double Unders\n2 HSPU\n20 Double Unders\n3 HSPU\n20 Double Unders\n4 HSPU\n20 Double Unders\n5 HSPU\n20 Double Unders\n6 HSPU\n20 Double unders\netc",
+        "time_cap": null
+      },
+      "gymnastics": [
+        "Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nHSPU Progression\nEMOM  x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "Back (Lats/Rows)",
+          "Biceps",
+          "Glutes",
+          "Hamstrings"
+        ],
+        "avoid": [
+          "Shoulders",
+          "Triceps",
+          "Core/Abs",
+          "Chest"
+        ],
+        "reasoning": "Today heavily taxes pressing muscles and core; accessory work balances posterior chain and pulling without compounding fatigue.",
+        "suggested_exercises": [
+          "Barbell Rows 3x6-8",
+          "Dumbbell Curls 3x8-10",
+          "Romanian Deadlifts 3x6-8",
+          "Lat Pulldowns 3x8-10",
+          "Glute Bridges 3x10-12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nHSPU Progression\nEMOM  x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU\nWorkout | 8 min AMRAP\n20 Double Unders\n2 HSPU\n20 Double Unders\n3 HSPU\n20 Double Unders\n4 HSPU\n20 Double Unders\n5 HSPU\n20 Double Unders\n6 HSPU\n20 Double unders\netc",
+      "siri_text": "Thursday's workout. Gymnastics: Double Under Progression. Metcon: AMRAP 8 minutes: 20 Double Unders, 2 HSPU, 20 Double Unders, 3 HSPU, 20 Double Unders. For hypertrophy, focus on Back (Lats/Rows), Biceps, Glutes."
+    },
+    "2026-05-29": {
+      "date": "2026-05-29",
+      "day_name": "Friday",
+      "warm_up": "Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+      "strength": [
+        {
+          "name": "Power Snatch",
+          "description": "3x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n03:00 3 @ 65%\nHOLD 4 Sets\n06:00 3 @ 80%\n09:00 3 @ 80%\n12:00 3 @ 80%"
+        },
+        {
+          "name": "Overhead Squat",
+          "description": "4x3 | E3MOM 18 mins\nWork Up to a Top Set of 3. Aim for approx 80%\n00:00 3\n03:00 3\n06:00 3\n09:00 3\n12:00 3\n15:00 3"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "15 min AMRAP\n200m Run\n7 Full Snatches\n1 Rope Climb",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (rows)",
+          "hamstrings",
+          "biceps",
+          "core (anti-rotation)"
+        ],
+        "avoid": [
+          "shoulders",
+          "quads",
+          "triceps",
+          "core (flexion)"
+        ],
+        "reasoning": "Today heavily taxes shoulders, quads, and triceps via snatches and squats; accessory work targets posterior chain and pulling strength.",
+        "suggested_exercises": [
+          "Barbell Rows 3x6-8",
+          "Nordic Hamstring Curls 3x4-5",
+          "Dumbbell Bicep Curls 3x8-10",
+          "Pallof Press 3x8 each side",
+          "Prone Cobra Hold 2x30-45s"
+        ]
+      },
+      "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nPower Snatch | 3x3 | E2MOM 12mins\nBUILD 2 Sets\n00:00 3 @ 55%\n03:00 3 @ 65%\nHOLD 4 Sets\n06:00 3 @ 80%\n09:00 3 @ 80%\n12:00 3 @ 80%\nOverhead Squat | 4x3 | E3MOM 18 mins\nWork Up to a Top Set of 3. Aim for approx 80%\n00:00 3\n03:00 3\n06:00 3\n09:00 3\n12:00 3\n15:00 3\nWorkout | 15 min AMRAP\n200m Run\n7 Full Snatches\n1 Rope Climb",
+      "siri_text": "Friday's workout. Strength: Power Snatch, 3 by 3 at 80 percent. Strength: Overhead Squat, 4 by 3. Metcon: AMRAP 15 minutes: 200m Run, 7 Full Snatches, 1 Rope Climb. For hypertrophy, focus on back (rows), hamstrings, biceps."
     }
   }
 }

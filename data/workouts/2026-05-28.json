@@ -1,0 +1,39 @@
+{
+  "date": "2026-05-28",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "8 min AMRAP\n20 Double Unders\n2 HSPU\n20 Double Unders\n3 HSPU\n20 Double Unders\n4 HSPU\n20 Double Unders\n5 HSPU\n20 Double Unders\n6 HSPU\n20 Double unders\netc",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nHSPU Progression\nEMOM  x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (Lats/Rows)",
+      "Biceps",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "avoid": [
+      "Shoulders",
+      "Triceps",
+      "Core/Abs",
+      "Chest"
+    ],
+    "reasoning": "Today heavily taxes pressing muscles and core; accessory work balances posterior chain and pulling without compounding fatigue.",
+    "suggested_exercises": [
+      "Barbell Rows 3x6-8",
+      "Dumbbell Curls 3x8-10",
+      "Romanian Deadlifts 3x6-8",
+      "Lat Pulldowns 3x8-10",
+      "Glute Bridges 3x10-12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nHSPU Progression\nEMOM  x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU\nWorkout | 8 min AMRAP\n20 Double Unders\n2 HSPU\n20 Double Unders\n3 HSPU\n20 Double Unders\n4 HSPU\n20 Double Unders\n5 HSPU\n20 Double Unders\n6 HSPU\n20 Double unders\netc",
+  "siri_text": "Thursday's workout. Gymnastics: Double Under Progression. Metcon: AMRAP 8 minutes: 20 Double Unders, 2 HSPU, 20 Double Unders, 3 HSPU, 20 Double Unders. For hypertrophy, focus on Back (Lats/Rows), Biceps, Glutes."
+}

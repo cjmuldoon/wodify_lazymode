@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-25",
+  "day_name": "Monday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats",
+  "strength": [
+    {
+      "name": "Back Squat",
+      "description": "3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%"
+    },
+    {
+      "name": "Behind The Neck Jerk",
+      "description": "1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "biceps",
+      "rear deltoids",
+      "hamstrings",
+      "core"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "chest",
+      "lats"
+    ],
+    "reasoning": "Address pulling imbalances and posterior chain support without competing with heavy squat/jerk CNS fatigue.",
+    "suggested_exercises": [
+      "Barbell Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Nordic Hamstring Curls 3x5-6",
+      "Pallof Press 3x10/side",
+      "Incline Dumbbell Curls 2x10-12"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
+  "siri_text": "Monday's workout. Strength: Back Squat, 3 by 2 at 90 percent. Strength: Behind The Neck Jerk, 1 by 3. Metcon: EMOM: Count Calories. For hypertrophy, focus on biceps, rear deltoids, hamstrings."
+}
