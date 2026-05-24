@@ -5,11 +5,11 @@
   "strength": [
     {
       "name": "Back Squat",
-      "description": "3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%"
+      "description": "2x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | 24min\nBUILD 5 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 2 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%"
     },
     {
-      "name": "Behind The Neck Jerk",
-      "description": "1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3"
+      "name": "Split Jerk",
+      "description": "3x2 | E2MOM 10min\nBUILD 2 Sets\n00:00 3 @ 50%\n02:00 3 @ 60%\nHOLD 3 Sets\n04:00 2 @ 70%\n06:00 2 @ 70%\n08:00 2 @ 70%"
     }
   ],
   "metcon": {
@@ -21,26 +21,26 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
+      "rear delts",
       "biceps",
-      "rear deltoids",
-      "hamstrings",
-      "core"
+      "upper back",
+      "core stability"
     ],
     "avoid": [
-      "quadriceps",
+      "quads",
+      "glutes",
       "shoulders",
-      "chest",
-      "lats"
+      "triceps"
     ],
-    "reasoning": "Address pulling imbalances and posterior chain support without competing with heavy squat/jerk CNS fatigue.",
+    "reasoning": "Prioritise antagonists and neglected muscles to balance today's quad/shoulder dominance while managing systemic fatigue.",
     "suggested_exercises": [
-      "Barbell Curls 3x8-10",
-      "Face Pulls 3x12-15",
-      "Nordic Hamstring Curls 3x5-6",
-      "Pallof Press 3x10/side",
-      "Incline Dumbbell Curls 2x10-12"
+      "Face pulls 3x12",
+      "Dumbbell bicep curls 3x10",
+      "Reverse pec deck flyes 3x12",
+      "Sled push (light, quads-neutral angle) 2x8",
+      "Dead bugs 3x10 per side"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 3x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM 21min\nBUILD 3 Sets\n00:00 5 @ 55%\n03:00 5 @ 65%\n06:00 2 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets\n12:00 2 @ 90%\n15:00 2 @ 90%\n18:00 2 @ 90%\nBehind The Neck Jerk | 1x3 | *Knees out, Keep upright\n*Pause in catch\n*Bring front foot back first | E2MOM 10min\nWork Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
-  "siri_text": "Monday's workout. Strength: Back Squat, 3 by 2 at 90 percent. Strength: Behind The Neck Jerk, 1 by 3. Metcon: EMOM: Count Calories. For hypertrophy, focus on biceps, rear deltoids, hamstrings."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 2x2 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | 24min\nBUILD 5 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 2 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nSplit Jerk | 3x2 | E2MOM 10min\nBUILD 2 Sets\n00:00 3 @ 50%\n02:00 3 @ 60%\nHOLD 3 Sets\n04:00 2 @ 70%\n06:00 2 @ 70%\n08:00 2 @ 70%\nWorkout | EMOM x\nMin 1: Row for calories\nMin 2: 10 HSPU\nMin 3: 10 Pull Ups\nMin 4: Rest\nCount Calories",
+  "siri_text": "Monday's workout. Strength: Back Squat, 2 by 2 at 95 percent. Strength: Split Jerk, 3 by 2 at 70 percent. Metcon: EMOM: Count Calories. For hypertrophy, focus on rear delts, biceps, upper back."
 }
