@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-27T08:22:51",
+  "last_updated": "2026-05-28T08:22:43",
   "week_of": "2026-06-01",
   "workouts": {
     "2026-02-23": {
@@ -3061,36 +3061,36 @@
       "metcon": {
         "name": "Workout",
         "type": "AMRAP",
-        "description": "8 min AMRAP\n5 HSPU\n10 V-ups\n5 C2B",
+        "description": "8 min AMRAP\n5 HSPU\n10 Box Over 24/20\n5 C2B",
         "time_cap": null
       },
       "gymnastics": [
-        "HSPU Progression\nEMOM x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger  beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower"
+        "HSPU Progression\nEMOM x 3 20-30 sec wall facing handstand hold\nEMOM x 3 DB Z Press\nEMOM x 3 - Find your Tripod\nEMOM x 3 - 6-10 Box Pikes (High Hips)\nEMOM x 3 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 3 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 3 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower"
       ],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (horizontal)",
-          "legs (posterior chain)",
-          "arms (biceps)",
-          "core (anti-rotation)"
+          "glutes",
+          "hamstrings",
+          "back rows",
+          "tricep isolations"
         ],
         "avoid": [
           "shoulders",
           "chest",
-          "triceps",
-          "core (anterior)"
+          "lats",
+          "core"
         ],
-        "reasoning": "Today heavily taxes vertical pressing, pulling, and anterior core; horizontal pulling and leg work provide active recovery without interference.",
+        "reasoning": "Today emphasizes pressing and pulling verticals; address posterior chain and isolate triceps for balanced arm development.",
         "suggested_exercises": [
-          "Barbell Rows 3x6-8",
-          "Romanian Deadlifts 3x8-10",
-          "Dumbbell Curls 3x10-12",
-          "Pallof Press 3x8/side",
-          "Leg Curls 3x12-15"
+          "Romanian Deadlifts 3x6-8",
+          "Bulgarian Split Squats 3x8 each",
+          "Dumbbell Rows 3x8-10",
+          "Rope Pushdowns 3x12-15",
+          "Hamstring Curls 3x10-12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | HSPU Progression\nEMOM x4 20-30 sec wall facing handstand hold\nEMOM x 4 DB Z Press\nEMOM x 2 - Find your Tripod\nEMOM x 4 - 6-10 Box Pikes (High Hips)\nEMOM x 4 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 5 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 4 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger  beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower\nWorkout | 8 min AMRAP\n5 HSPU\n10 V-ups\n5 C2B",
-      "siri_text": "Thursday's workout. Gymnastics: HSPU Progression. Metcon: AMRAP 8 minutes: 5 HSPU, 10 V-ups, 5 C2B. For hypertrophy, focus on back (horizontal), legs (posterior chain), arms (biceps)."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | HSPU Progression\nEMOM x 3 20-30 sec wall facing handstand hold\nEMOM x 3 DB Z Press\nEMOM x 3 - Find your Tripod\nEMOM x 3 - 6-10 Box Pikes (High Hips)\nEMOM x 3 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 3 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 3 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower\nWorkout | 8 min AMRAP\n5 HSPU\n10 Box Over 24/20\n5 C2B",
+      "siri_text": "Thursday's workout. Gymnastics: HSPU Progression. Metcon: AMRAP 8 minutes: 5 HSPU, 10 Box Over 24/20, 5 C2B. For hypertrophy, focus on glutes, hamstrings, back rows."
     },
     "2026-05-29": {
       "date": "2026-05-29",
