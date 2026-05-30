@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-29T08:21:39",
+  "last_updated": "2026-05-30T07:55:53",
   "week_of": "2026-06-01",
   "workouts": {
     "2026-02-23": {
@@ -3135,6 +3135,41 @@
       },
       "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Worlds Greatest Stretch\n10 Cossack Squat\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nOverhead Squat | 3x2 | 24min\nBUILD 4 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\nHOLD 3 Sets E4MOM\n12:00 2 @ 90%\n16:00 2 @ 90%\n20:00 2 @ 90%\nPower Snatch | 1x2 | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2\nWorkout | For Time\n21-15-9 OHS @ 45/30\n150m Run",
       "siri_text": "Friday's workout. Strength: Overhead Squat, 3 by 2 at 90 percent. Strength: Power Snatch, 1 by 2. Metcon: For Time: 21-15-9 OHS @ 45/30, 150m Run. For hypertrophy, focus on back, biceps, rear delts."
+    },
+    "2026-05-30": {
+      "date": "2026-05-30",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Part B",
+        "type": "Rounds for Time",
+        "description": "3 RFT\n10 Synchro Burpees\n20  DB Hang Clean & Jerks @22.5/15\n30 ab mat sit ups",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (lats)",
+          "biceps",
+          "rear deltoids"
+        ],
+        "avoid": [
+          "shoulders",
+          "chest",
+          "legs",
+          "core"
+        ],
+        "reasoning": "Address posterior chain imbalances; avoid compounding shoulder/core fatigue from burpees, jerks, and sit-ups.",
+        "suggested_exercises": [
+          "Bent-over barbell rows 3 x 8–10",
+          "Incline dumbbell curls 3 x 10–12",
+          "Face pulls 3 x 12–15",
+          "Seal rows 2 x 12"
+        ]
+      },
+      "raw_text": "Partner Workout | 25 min AMRAP\n300m Run together\n20 Pull-ups  or 10 Bar Muscle-ups\n6 wall walks or 20m Handstand Walk\n20 DB Snatches\n40 KB box overs @ 24/16 - 24/20”\nPartition reps as required\nOne athlete working at a time\nPart B | 3 RFT\n10 Synchro Burpees\n20  DB Hang Clean & Jerks @22.5/15\n30 ab mat sit ups",
+      "siri_text": "Saturday's workout. Metcon: Part B. Rounds for Time: 10 Synchro Burpees, 20  DB Hang Clean & Jerks @22.5/15, 30 ab mat sit ups. For hypertrophy, focus on back (lats), biceps, rear deltoids."
     }
   }
 }

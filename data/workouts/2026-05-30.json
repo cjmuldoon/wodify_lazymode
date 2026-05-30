@@ -1,0 +1,35 @@
+{
+  "date": "2026-05-30",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Part B",
+    "type": "Rounds for Time",
+    "description": "3 RFT\n10 Synchro Burpees\n20  DB Hang Clean & Jerks @22.5/15\n30 ab mat sit ups",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back (lats)",
+      "biceps",
+      "rear deltoids"
+    ],
+    "avoid": [
+      "shoulders",
+      "chest",
+      "legs",
+      "core"
+    ],
+    "reasoning": "Address posterior chain imbalances; avoid compounding shoulder/core fatigue from burpees, jerks, and sit-ups.",
+    "suggested_exercises": [
+      "Bent-over barbell rows 3 x 8–10",
+      "Incline dumbbell curls 3 x 10–12",
+      "Face pulls 3 x 12–15",
+      "Seal rows 2 x 12"
+    ]
+  },
+  "raw_text": "Partner Workout | 25 min AMRAP\n300m Run together\n20 Pull-ups  or 10 Bar Muscle-ups\n6 wall walks or 20m Handstand Walk\n20 DB Snatches\n40 KB box overs @ 24/16 - 24/20”\nPartition reps as required\nOne athlete working at a time\nPart B | 3 RFT\n10 Synchro Burpees\n20  DB Hang Clean & Jerks @22.5/15\n30 ab mat sit ups",
+  "siri_text": "Saturday's workout. Metcon: Part B. Rounds for Time: 10 Synchro Burpees, 20  DB Hang Clean & Jerks @22.5/15, 30 ab mat sit ups. For hypertrophy, focus on back (lats), biceps, rear deltoids."
+}
