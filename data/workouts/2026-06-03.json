@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-03",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10 Cossack Squats\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Snatch Balance\n3 Full Snatch\n5 OH Squat",
+  "strength": [
+    {
+      "name": "Snatch Balance",
+      "description": "1x2 | E2MOM 10min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2"
+    },
+    {
+      "name": "Snatch",
+      "description": "2x2 | 24min\nBUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "AMRAP x 9 mins\n3 Bar Muscle Ups\n6 Power Snatches @ 60/40\nscale BMU to C2B/Pull up /RRow\nrx+ RMU",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Hamstrings",
+      "Glutes",
+      "Back (Rows)",
+      "Arms (Biceps/Triceps)"
+    ],
+    "avoid": [
+      "Shoulders",
+      "Quadriceps",
+      "Chest",
+      "Core"
+    ],
+    "reasoning": "Snatch and BMU heavily tax shoulders, quads, and chest; posterior chain and arms recover independently.",
+    "suggested_exercises": [
+      "Romanian Deadlifts: 3x6-8",
+      "Chest-Supported Rows: 3x8-10",
+      "Leg Curls: 3x10-12",
+      "Dips (Tricep emphasis): 3x8-10",
+      "Barbell Curls: 3x8-10"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10 Cossack Squats\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Snatch Pull\n3 Hang Power Snatch\n3 Snatch Balance\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x2 | E2MOM 10min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nSnatch | 2x2 | 24min\nBUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nWorkout | AMRAP x 9 mins\n3 Bar Muscle Ups\n6 Power Snatches @ 60/40\nscale BMU to C2B/Pull up /RRow\nrx+ RMU",
+  "siri_text": "Wednesday's workout. Strength: Snatch Balance, 1 by 2. Strength: Snatch, 2 by 2 at 95 percent. Metcon: AMRAP 9 minutes: 3 Bar Muscle Ups, 6 Power Snatches @ 60/40, rx+ RMU. For hypertrophy, focus on Hamstrings, Glutes, Back (Rows)."
+}

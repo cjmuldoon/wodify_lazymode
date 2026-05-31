@@ -1,0 +1,42 @@
+{
+  "date": "2026-06-02",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "BUY IN: 800m Run\nPart A 3 Rounds\n10 T2B\n10 2xDB Hang Cleans (full clean)\n10 Box Jumps\nPart B 3 Rounds\n10 V-ups\n10m Single Arm DB OH Lunge per side\n10 Box Jumps\nBuy Out 40 Wall Balls",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "shoulders (lateral)",
+      "biceps",
+      "upper back"
+    ],
+    "avoid": [
+      "back (lats)",
+      "glutes",
+      "quads",
+      "core"
+    ],
+    "reasoning": "Deadlift and metcon hammer posterior chain and core; accessory work targets anterior/upper body for balance.",
+    "suggested_exercises": [
+      "Dumbbell Bench Press: 3x8–10",
+      "Lateral Raise: 3x12–15",
+      "Barbell Rows (moderate weight): 3x10–12",
+      "Dumbbell Curls: 3x10–12",
+      "Face Pulls: 3x12–15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%\nWorkout | BUY IN: 800m Run\nPart A 3 Rounds\n10 T2B\n10 2xDB Hang Cleans (full clean)\n10 Box Jumps\nPart B 3 Rounds\n10 V-ups\n10m Single Arm DB OH Lunge per side\n10 Box Jumps\nBuy Out 40 Wall Balls",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 4 at 70 percent. Metcon: Workout: 10 T2B, 10 2xDB Hang Cleans (full clean), 10 Box Jumps, 10 V-ups, 10m Single Arm DB OH Lunge per side. For hypertrophy, focus on chest, shoulders (lateral), biceps."
+}
