@@ -8,29 +8,33 @@
       "description": "4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "30 min AMRAP\nKeep consistent pace throughout\n300m Run\n2 Rope Clinbs\n15 GHD or 20  V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "chest",
-      "shoulders (anterior)",
-      "arms (biceps/triceps)"
+      "shoulders (lateral)",
+      "biceps"
     ],
     "avoid": [
       "back",
       "glutes",
       "hamstrings",
-      "erector spinae"
+      "core"
     ],
-    "reasoning": "Deadlifts tax posterior chain heavily; accessory work targets pressing muscles and arms to balance development without CNS fatigue.",
+    "reasoning": "Deadlift and metcon tax posterior chain and core heavily; accessory work targets antagonists and non-competed muscle groups.",
     "suggested_exercises": [
-      "Dumbbell bench press: 3x8-10",
-      "Barbell rows (light, tempo): 3x10-12",
-      "Incline dumbbell press: 3x10-12",
-      "Barbell curls: 3x8-10",
-      "Tricep rope pushdowns: 3x12-15"
+      "Dumbbell Bench Press: 3x8–10",
+      "Lateral Raise Machine: 3x12–15",
+      "Barbell Curls: 3x8–10",
+      "Incline Dumbbell Flyes: 2x10–12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 4 at 70 percent. For hypertrophy, focus on chest, shoulders (anterior), arms (biceps/triceps)."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%\nWorkout | 30 min AMRAP\nKeep consistent pace throughout\n300m Run\n2 Rope Clinbs\n15 GHD or 20  V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 4 at 70 percent. Metcon: AMRAP 30 minutes: Keep consistent pace throughout, 300m Run, 2 Rope Clinbs, 15 GHD or 20  V-ups, 20 Wall Balls. For hypertrophy, focus on chest, shoulders (lateral), biceps."
 }
