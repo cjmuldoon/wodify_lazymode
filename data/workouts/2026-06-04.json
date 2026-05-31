@@ -3,36 +3,32 @@
   "day_name": "Thursday",
   "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation",
   "strength": [],
-  "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "8 min AMRAP\n5 HSPU\n10 Box Over 24/20\n5 C2B",
-    "time_cap": null
-  },
+  "metcon": null,
   "gymnastics": [
     "HSPU Progression\nEMOM x 3 20-30 sec wall facing handstand hold\nEMOM x 3 DB Z Press\nEMOM x 3 - Find your Tripod\nEMOM x 3 - 6-10 Box Pikes (High Hips)\nEMOM x 3 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 3 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 3 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower"
   ],
   "hypertrophy": {
     "recommended_muscles": [
-      "back hypertrophy",
-      "legs",
-      "core stability"
+      "back (rows)",
+      "glutes",
+      "hamstrings",
+      "core (anti-rotation)"
     ],
     "avoid": [
       "shoulders",
+      "triceps",
       "chest",
-      "lats",
-      "triceps"
+      "anterior core"
     ],
-    "reasoning": "Today hammers shoulders, chest, and pulling muscles; accessorize posterior chain and lower body instead.",
+    "reasoning": "Today heavily taxes shoulders, triceps, and pressing patterns; accessory work targets posterior chain and rotational stability for balance.",
     "suggested_exercises": [
-      "Leg Press 3x8-10",
-      "Seal Rows 3x10-12",
-      "Bulgarian Split Squats 3x8 each leg",
-      "Pallof Press 3x12 each side",
-      "Leg Curls 3x10-12"
+      "Barbell Rows 3x6-8",
+      "Romanian Deadlifts 3x8-10",
+      "Glute-Ham Raises 3x8-12",
+      "Landmine Rotations 2x10/side",
+      "Prone Cobra Hold 2x20-30 sec"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | HSPU Progression\nEMOM x 3 20-30 sec wall facing handstand hold\nEMOM x 3 DB Z Press\nEMOM x 3 - Find your Tripod\nEMOM x 3 - 6-10 Box Pikes (High Hips)\nEMOM x 3 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 3 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 3 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower\nWorkout | 8 min AMRAP\n5 HSPU\n10 Box Over 24/20\n5 C2B",
-  "siri_text": "Thursday's workout. Gymnastics: HSPU Progression. Metcon: AMRAP 8 minutes: 5 HSPU, 10 Box Over 24/20, 5 C2B. For hypertrophy, focus on back hypertrophy, legs, core stability."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\nGymnastics | HSPU Progression\nEMOM x 3 20-30 sec wall facing handstand hold\nEMOM x 3 DB Z Press\nEMOM x 3 - Find your Tripod\nEMOM x 3 - 6-10 Box Pikes (High Hips)\nEMOM x 3 - Pick one -\nBox Pike\nTempo Box Pike\nStrict HSPU\nDeficit Strict HSPU\nEMOM x 3 - Kipping drive against wall\n- lay on the ground - explosive hips up to wall\nEMOM x 3 Kipping HSPU\nChest to bar progression\nEMOM x 4 10 Beat Swings (tight shapes)\nEMOM x 3 10 Bigger beat swings\nEMOM x 3 Lean Back & Focus on Hip Pop\nEMOM x 3 Singles - Pull in Push away\nEMOM x 5 Jumping C2B - Pause at the Bar - maintain hollow ribs to hips - slow lower",
+  "siri_text": "Thursday's workout. Gymnastics: HSPU Progression. For hypertrophy, focus on back (rows), glutes, hamstrings."
 }

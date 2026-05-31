@@ -17,32 +17,34 @@
     }
   ],
   "metcon": {
-    "name": "Workout",
+    "name": "Heavy. Fran",
     "type": "Workout",
-    "description": "In time Remaining Attempt your heaviest complex\n1 Power Clean\n1 Hang Clean (Power or Full)\n1 Clean",
+    "description": "15-12-9\nThrusters @ 61/43\nWeighted Pull Ups @ Weight Vest/Plate/KB/DB 2@ 20/15\nScale unweighted/Ring Rows\nScale Thrusters to 43/29 - keep reps the same.",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "back (rows)",
-      "arms (biceps/triceps)",
-      "shoulders (rear delt)"
+      "biceps",
+      "rear delts",
+      "core stability"
     ],
     "avoid": [
+      "shoulders",
+      "triceps",
       "quads",
-      "glutes",
-      "front delts",
-      "traps"
+      "hip extensors"
     ],
-    "reasoning": "Posterior chain accessory work balances today's anterior-dominant clean volume without competing for recovery.",
+    "reasoning": "Today's heavy clean/thruster work saturates anterior chain and shoulders; accessory work targets posterior chain and arm balance.",
     "suggested_exercises": [
-      "Barbell Rows: 3x6-8",
-      "Incline Dumbbell Curls: 3x8-10",
-      "Face Pulls: 3x12-15",
-      "Tricep Rope Extensions: 3x10-12"
+      "Barbell Rows 3x6-8",
+      "Dumbbell Bicep Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Ab Wheel Rollouts 3x8-10",
+      "Reverse Pec Deck Flyes 2x12-15"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n10 Cossack Squat\n10 Broad Jump\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\nTall Clean | 1x3 | *From Triple Extension, drop under the bar\n*Fast Elbows | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\nClean Pull | 1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n06:00 3\n08:00 3\n10:00 3\nClean | 3x2 | * If you catch high, squat it\n* Focus on triple extension\n* Fast Elbows | 24min\nBUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nWorkout | 4 RFT\n10/8 cal Assault Bike Sprint\n6 Thrusters @ 50/35kg\nRest 1 min between rounds\nScore fastest round\nWorkout | In time Remaining Attempt your heaviest complex\n1 Power Clean\n1 Hang Clean (Power or Full)\n1 Clean",
-  "siri_text": "Monday's workout. Strength: Tall Clean, 1 by 3. Strength: Clean Pull, 1 by 3. Strength: Clean, 3 by 2 at 95 percent. Metcon: Workout: In time Remaining Attempt your heaviest complex, 1 Power Clean, 1 Hang Clean (Power or Full), 1 Clean. For hypertrophy, focus on back (rows), arms (biceps/triceps), shoulders (rear delt)."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n10 Cossack Squat\n10 Broad Jump\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\nTall Clean | 1x3 | *From Triple Extension, drop under the bar\n*Fast Elbows | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n00:00 3\n02:00 3\n04:00 3\nClean Pull | 1x3 | * 3 count to knee\n* Focus on hip pop & Triple Extension\n* Shrug and let elbows float | Work Up to a Top Set of 3. Increase weight if it is feeling good or dial it in for another set.\n06:00 3\n08:00 3\n10:00 3\nClean | 3x2 | * If you catch high, squat it\n* Focus on triple extension\n* Fast Elbows | 24min\nBUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nHeavy. Fran | 15-12-9\nThrusters @ 61/43\nWeighted Pull Ups @ Weight Vest/Plate/KB/DB 2@ 20/15\nScale unweighted/Ring Rows\nScale Thrusters to 43/29 - keep reps the same.",
+  "siri_text": "Monday's workout. Strength: Tall Clean, 1 by 3. Strength: Clean Pull, 1 by 3. Strength: Clean, 3 by 2 at 95 percent. Metcon: Heavy. Fran. Workout: 15-12-9, Scale unweighted/Ring Rows. For hypertrophy, focus on back (rows), biceps, rear delts."
 }
