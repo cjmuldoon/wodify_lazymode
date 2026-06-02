@@ -11,30 +11,32 @@
   "metcon": {
     "name": "Workout",
     "type": "AMRAP",
-    "description": "30 min AMRAP\nKeep consistent pace throughout\n300m Run\n2 Rope Clinbs\n15 GHD or 20  V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
+    "description": "30 min AMRAP\nKeep consistent pace throughout\n10 x 10m shuttle Run\n2 Rope Clinbs\n15 GHD or 20 V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders (lateral)",
-      "biceps"
+      "biceps",
+      "rear delts",
+      "upper back"
     ],
     "avoid": [
-      "back",
+      "quads",
       "glutes",
       "hamstrings",
-      "core"
+      "lower back",
+      "core",
+      "shoulders"
     ],
-    "reasoning": "Deadlift and metcon tax posterior chain and core heavily; accessory work targets antagonists and non-competed muscle groups.",
+    "reasoning": "Deadlift and metcon heavily tax posterior chain and core; accessory work targets pulling musculature and arm health.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8–10",
-      "Lateral Raise Machine: 3x12–15",
-      "Barbell Curls: 3x8–10",
-      "Incline Dumbbell Flyes: 2x10–12"
+      "Barbell Rows 3x8",
+      "Dumbbell Bicep Curls 3x10",
+      "Face Pulls 3x12",
+      "Seal Rows 3x10"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%\nWorkout | 30 min AMRAP\nKeep consistent pace throughout\n300m Run\n2 Rope Clinbs\n15 GHD or 20  V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 4 at 70 percent. Metcon: AMRAP 30 minutes: Keep consistent pace throughout, 300m Run, 2 Rope Clinbs, 15 GHD or 20  V-ups, 20 Wall Balls. For hypertrophy, focus on chest, shoulders (lateral), biceps."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 4x4 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | E3MOM 18 mins\nBUILD 3 sets\n00:00 8 @ 50%\n03:00 6 @ 60%\nHold 3 Sets\n06:00 4 @ 70%\n09:00 4 @ 70%\n12:00 4 @ 70%\n15:00 4 @ 70%\nWorkout | 30 min AMRAP\nKeep consistent pace throughout\n10 x 10m shuttle Run\n2 Rope Clinbs\n15 GHD or 20 V-ups\n20 Wall Balls\n15/12 Row/Ski Cals\nIf GHD is taken go to V-ups\n82 reps per round.",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 4 at 70 percent. Metcon: AMRAP 30 minutes: Keep consistent pace throughout, 10 x 10m shuttle Run, 2 Rope Clinbs, 15 GHD or 20 V-ups, 20 Wall Balls. For hypertrophy, focus on biceps, rear delts, upper back."
 }
