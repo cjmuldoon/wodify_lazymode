@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-06",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Mac calories in 10 mins",
+    "type": "Workout",
+    "description": "Any machine -\n1 partner working at a time\nScore max xals.\nBike/Row/Ski",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "arms",
+      "core"
+    ],
+    "avoid": [
+      "legs",
+      "glutes",
+      "cardiovascular system"
+    ],
+    "reasoning": "Machine cardio heavily fatigues lower body and aerobic capacity; accessory work targets pulling patterns and grip strength.",
+    "suggested_exercises": [
+      "Bent-over barbell rows 3x8",
+      "Face pulls 3x12",
+      "Dumbbell curls 3x10",
+      "Ab wheel rollouts 3x8",
+      "Tricep rope pushdowns 3x12"
+    ]
+  },
+  "raw_text": "Partner workout | 25 min workout\nBUY IN\n500m run then\nYou-Go-I-Go\n12/9 cal AB\n8  C&J @ 40/35kg\n8 T2B\n12 box step-overs\nFast transitions\nMac calories in 10 mins | Any machine -\n1 partner working at a time\nScore max xals.\nBike/Row/Ski",
+  "siri_text": "Saturday's workout. Metcon: Mac calories in 10 mins. Workout: Any machine -, 1 partner working at a time, Bike/Row/Ski. For hypertrophy, focus on back, arms, core."
+}
