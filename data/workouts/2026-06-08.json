@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-08",
+  "day_name": "Monday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Kings Birthday Partner Workout",
+    "type": "For Time",
+    "description": "Teams of 3\nFor time - 45 min time cap\n300m Run together\n60/45 cal Row / Ski / Bike\nPartition as required - 1 athlete working\n300m Run together\n60 Hang Power Snatches @ 50/35kg\nPartition as required - 1 athlete working\n300m Run together\n60 Pull ups / 30 bar muscle ups\nPartition as required - 1 athlete working\n300m Run together\n500m Farmer Carry @ 32/24kg per hand\n2 athletes working / 1 running (partition as required)\n300m Run together\n60 Wall Balls @ 9/6kg\nPartition as required - 1 athlete working\n300m Run together\n45 Synchro DB Snatches @ 22.5/15kg\n2 athletes working / 1 resting\nReps count when both DBs are locked out overhead together",
+    "time_cap": "45 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "hamstrings",
+      "rear delts"
+    ],
+    "avoid": [
+      "shoulders",
+      "quads",
+      "lats",
+      "grip"
+    ],
+    "reasoning": "Snatch and pull-ups dominate upper back/delts; rows tax lats; farmer carry/running load quads and grip.",
+    "suggested_exercises": [
+      "Dumbbell Bench Press 3x8-10",
+      "Nordic Curls 3x5-6",
+      "Reverse Pec Deck Flyes 3x12-15",
+      "Machine Leg Curl 3x10-12"
+    ]
+  },
+  "raw_text": "Kings Birthday Partner Workout | Teams of 3\nFor time - 45 min time cap\n300m Run together\n60/45 cal Row / Ski / Bike\nPartition as required - 1 athlete working\n300m Run together\n60 Hang Power Snatches @ 50/35kg\nPartition as required - 1 athlete working\n300m Run together\n60 Pull ups / 30 bar muscle ups\nPartition as required - 1 athlete working\n300m Run together\n500m Farmer Carry @ 32/24kg per hand\n2 athletes working / 1 running (partition as required)\n300m Run together\n60 Wall Balls @ 9/6kg\nPartition as required - 1 athlete working\n300m Run together\n45 Synchro DB Snatches @ 22.5/15kg\n2 athletes working / 1 resting\nReps count when both DBs are locked out overhead together",
+  "siri_text": "Monday's workout. Metcon: Kings Birthday Partner Workout. For Time, 45 min cap: 300m Run together, 60/45 cal Row / Ski / Bike, 300m Run together, 60 Hang Power Snatches @ 50/35kg, 300m Run together. For hypertrophy, focus on chest, hamstrings, rear delts."
+}
