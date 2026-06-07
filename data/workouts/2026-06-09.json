@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-09",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "2x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%"
+    }
+  ],
+  "metcon": null,
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "shoulders (anterior/lateral)",
+      "arms (biceps/triceps)"
+    ],
+    "avoid": [
+      "posterior chain",
+      "lower back",
+      "glutes",
+      "hamstrings"
+    ],
+    "reasoning": "Heavy deadlift fatigue demands upper-body push/pull accessories that build opposing musculature without CNS overlap.",
+    "suggested_exercises": [
+      "Incline dumbbell bench press: 3x8-10",
+      "Lateral raise: 3x12-15",
+      "Dumbbell rows: 3x10-12",
+      "Barbell curl: 3x8-10",
+      "Tricep pushdown: 3x12-15"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 2x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 2 by 2 at 95 percent. For hypertrophy, focus on chest, shoulders (anterior/lateral), arms (biceps/triceps)."
+}

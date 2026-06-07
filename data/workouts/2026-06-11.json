@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-11",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\n30 Sec KB Ankle rocks",
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "10 min AMRAP\n5 C2B\n5 Pistols per side\n10 Push ups",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "EMOM x 4\n30 sec Hollow Hold\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nPistols\nEMOM x 10 mins\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "upper back",
+      "hamstrings",
+      "triceps"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "quads",
+      "lats"
+    ],
+    "reasoning": "Today heavily taxes pushing patterns and quads; accessory work targets posterior chain and weak-point strength without competing for recovery.",
+    "suggested_exercises": [
+      "Face pulls 3 x 12-15",
+      "Prone hamstring curls 3 x 10-12",
+      "Reverse pec deck 3 x 12-15",
+      "Lying tricep extensions 3 x 10-12",
+      "Single-leg RDL 3 x 8 per side"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\n30 Sec KB Ankle rocks\nGymnastics | EMOM x 4\n30 sec Hollow Hold\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nPistols\nEMOM x 10 mins\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nWorkout | 10 min AMRAP\n5 C2B\n5 Pistols per side\n10 Push ups",
+  "siri_text": "Thursday's workout. Gymnastics: . Metcon: AMRAP 10 minutes: 5 C2B, 5 Pistols per side, 10 Push ups. For hypertrophy, focus on rear delts, upper back, hamstrings."
+}
