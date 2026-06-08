@@ -8,29 +8,36 @@
       "description": "2x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E5MOM - Rest in time remaining.\n20/16 Cal Row\n10 HSPU\n50 Double Unders\nScore is fastest round",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders (anterior/lateral)",
-      "arms (biceps/triceps)"
+      "biceps",
+      "rear delts",
+      "hamstrings (isolation)",
+      "core (anti-rotation)"
     ],
     "avoid": [
-      "posterior chain",
+      "shoulders",
+      "triceps",
+      "quads",
       "lower back",
-      "glutes",
-      "hamstrings"
+      "grip"
     ],
-    "reasoning": "Heavy deadlift fatigue demands upper-body push/pull accessories that build opposing musculature without CNS overlap.",
+    "reasoning": "Deadlift and HSPU heavily tax posterior chain and shoulders; accessory work targets opposing/smaller muscle groups without competing for recovery.",
     "suggested_exercises": [
-      "Incline dumbbell bench press: 3x8-10",
-      "Lateral raise: 3x12-15",
-      "Dumbbell rows: 3x10-12",
-      "Barbell curl: 3x8-10",
-      "Tricep pushdown: 3x12-15"
+      "Barbell Curls: 3 x 8-10",
+      "Face Pulls: 3 x 12-15",
+      "Lying Leg Curls: 3 x 10-12",
+      "Pallof Press: 3 x 10/side",
+      "Incline Dumbbell Curls: 2 x 10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 2x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 2 by 2 at 95 percent. For hypertrophy, focus on chest, shoulders (anterior/lateral), arms (biceps/triceps)."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 2x2 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nWorkout | E5MOM - Rest in time remaining.\n20/16 Cal Row\n10 HSPU\n50 Double Unders\nScore is fastest round",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 2 by 2 at 95 percent. Metcon: EMOM: 20/16 Cal Row, 10 HSPU, 50 Double Unders. For hypertrophy, focus on biceps, rear delts, hamstrings (isolation)."
 }
