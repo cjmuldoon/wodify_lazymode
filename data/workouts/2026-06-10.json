@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Bench Press",
-      "description": "4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 5 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%"
+      "description": "4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 4 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%"
     }
   ],
   "metcon": {
@@ -21,22 +21,22 @@
     "recommended_muscles": [
       "back",
       "hamstrings",
-      "glutes"
+      "rear delts"
     ],
     "avoid": [
       "chest",
-      "shoulders",
+      "anterior shoulder",
       "triceps",
-      "core"
+      "quads"
     ],
-    "reasoning": "Bench, wall balls, and toes-to-bar heavily tax pressing muscles and core; address posterior chain imbalances.",
+    "reasoning": "Address posterior chain and back to balance pressing volume and aid pull-up recovery without competing for CNS resources.",
     "suggested_exercises": [
-      "Barbell Rows: 3x8",
-      "Nordic Hamstring Curls: 3x5",
-      "Single-Leg Romanian Deadlifts: 3x8 each",
-      "Face Pulls: 3x12"
+      "Barbell Rows: 3x6-8",
+      "Nordic Hamstring Curls: 3x4-6",
+      "Face Pulls: 3x12-15",
+      "Pendulum Rows: 3x8-10"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 5 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%\nPull-ups | Pull Up Negatives | E2MOM 10 min\n3-5 Reps. Lower as slow as you can. If you can do more than 5 reps, GO SLOWER.\nNO BANDS. Step up hook or bench to get to the top.\nWorkout | 15 min AMRAP\n200m Run\n10 Toes to Bar\n15 Wall Balls",
-  "siri_text": "Wednesday's workout. Strength: Bench Press, 4 by 3 at 70 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: AMRAP 15 minutes: 200m Run, 10 Toes to Bar, 15 Wall Balls. For hypertrophy, focus on back, hamstrings, glutes."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 4 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%\nPull-ups | Pull Up Negatives | E2MOM 10 min\n3-5 Reps. Lower as slow as you can. If you can do more than 5 reps, GO SLOWER.\nNO BANDS. Step up hook or bench to get to the top.\nWorkout | 15 min AMRAP\n200m Run\n10 Toes to Bar\n15 Wall Balls",
+  "siri_text": "Wednesday's workout. Strength: Bench Press, 4 by 3 at 70 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: AMRAP 15 minutes: 200m Run, 10 Toes to Bar, 15 Wall Balls. For hypertrophy, focus on back, hamstrings, rear delts."
 }
