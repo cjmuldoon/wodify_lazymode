@@ -15,7 +15,7 @@
   "metcon": {
     "name": "Workout",
     "type": "Workout",
-    "description": "12-9-6-3\nHang Power cleans\nBurpee over Bar",
+    "description": "12-9-6-3\nHang Power cleans\nBurpee over Bar\nRx @ 60/40\nRx+ @ 70/45",
     "time_cap": null
   },
   "gymnastics": [],
@@ -23,24 +23,24 @@
     "recommended_muscles": [
       "back",
       "biceps",
-      "rear delts"
+      "rear delts",
+      "core"
     ],
     "avoid": [
       "quads",
       "glutes",
-      "chest",
-      "anterior delts",
-      "core"
+      "shoulders",
+      "triceps"
     ],
-    "reasoning": "Back/biceps balance quad/hip dominant day and support pulling strength without competing for recovery.",
+    "reasoning": "Lower body and pressing are heavily taxed; posterior chain and pulling work balance fatigue without competing for recovery.",
     "suggested_exercises": [
       "Barbell Rows 3x6-8",
       "Face Pulls 3x12-15",
-      "Barbell Curls 3x8-10",
-      "Reverse Pec Deck 3x12",
-      "Chest Supported Row 2x8"
+      "Dumbbell Curls 3x8-10",
+      "Weighted Ab Wheel 3x8-10",
+      "Seal Rows 2x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Worlds Greatest Stretch\n10 Cossack Squat\n10 Broad Jumps\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat\nFront Squat | 2x2 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nPower Clean | 1x2 | * Focus on triple extension\n* Fast Elbows | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2\nWorkout | 12-9-6-3\nHang Power cleans\nBurpee over Bar",
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Worlds Greatest Stretch\n10 Cossack Squat\n10 Broad Jumps\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n10 Front Squat\nFront Squat | 2x2 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | BUILD 5 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 2 @ 85-90%\nHOLD 2 Sets E4MOM\n16:00 2 @ 95%\n20:00 2 @ 95%\nPower Clean | 1x2 | * Focus on triple extension\n* Fast Elbows | E3MOM 15min\nWork Up to a Top Set of 2. Increase weight if it is feeling good or dial it in for another set.\n00:00 2\n03:00 2\n06:00 2\n09:00 2\n12:00 2\nWorkout | 12-9-6-3\nHang Power cleans\nBurpee over Bar\nRx @ 60/40\nRx+ @ 70/45",
   "siri_text": "Friday's workout. Strength: Front Squat, 2 by 2 at 95 percent. Strength: Power Clean, 1 by 2. Metcon: Workout: 12-9-6-3, Hang Power cleans, Burpee over Bar. For hypertrophy, focus on back, biceps, rear delts."
 }
