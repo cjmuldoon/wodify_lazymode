@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T08:33:51",
+  "last_updated": "2026-06-13T08:10:29",
   "week_of": "2026-06-15",
   "workouts": {
     "2026-02-23": {
@@ -3624,6 +3624,42 @@
       },
       "raw_text": "Kings Birthday Partner Workout | Teams of 3\nFor time - 45 min time cap\n300m Run together\n60/45 cal Row / Ski / Bike\nPartition as required - 1 athlete working\n300m Run together\n60 Hang Power Snatches @ 50/35kg\nPartition as required - 1 athlete working\n300m Run together\n60 Pull ups / 30 bar muscle ups\nPartition as required - 1 athlete working\n300m Run together\n500m Farmer Carry @ 32/24kg per hand\n2 athletes working / 1 running (partition as required)\n300m Run together\n60 Wall Balls @ 9/6kg\nPartition as required - 1 athlete working\n300m Run together\n45 Synchro DB Snatches @ 22.5/15kg\n2 athletes working / 1 resting\nReps count when both DBs are locked out overhead together",
       "siri_text": "Monday's workout. Metcon: Kings Birthday Partner Workout. For Time, 45 min cap: 300m Run together, 60/45 cal Row / Ski / Bike, 300m Run together, 60 Hang Power Snatches @ 50/35kg, 300m Run together. For hypertrophy, focus on chest, hamstrings, rear delts."
+    },
+    "2026-06-13": {
+      "date": "2026-06-13",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Warm up",
+        "type": "Workout",
+        "description": "1:00 Row / Ski / Bike\n10 Glute bridges\n10 KB deadlifts\n10 Ring rows\n8 Ab-mat sit-ups\n2–3 rope J-hook holds each\n2–3 standing rope pulls each\n1 easy rope climb or partial climb each\nWith light KBs:\n6 double KB deadlifts\n6 double KB cleans\n6 double KB push press\n4 double KB clean & jerks\nPrimer\n4 double KB C&J @ workout weight\n4 weighted step-ups @ workout weightI’m",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (lats/rear delts)",
+          "biceps",
+          "hamstrings",
+          "core (anti-rotation)"
+        ],
+        "avoid": [
+          "shoulders (anterior/medial delts)",
+          "quadriceps",
+          "erector spinae"
+        ],
+        "reasoning": "Today heavily taxes shoulders, quads, and lower back via C&Js and step-ups; accessory work targets pulling muscles and posterior chain balance.",
+        "suggested_exercises": [
+          "Bent-over barbell rows: 3 x 8-10",
+          "Dumbbell hammer curls: 3 x 10-12",
+          "Nordic hamstring curls: 3 x 5-6",
+          "Landmine rotations (anti-rotation): 3 x 8 each side",
+          "Face pulls: 2 x 12-15"
+        ]
+      },
+      "raw_text": "Rainy day | 35 min AMRAP\n40/32 cal Row / Ski\n4 Rope Climbs\n20 Double KB Clean & Jerks @ 24/16kg\n30 Weighted Step-ups @ 2 x 22.5/15kg\n40 ab-mat Sit-ups\nWarm up | 1:00 Row / Ski / Bike\n10 Glute bridges\n10 KB deadlifts\n10 Ring rows\n8 Ab-mat sit-ups\n2–3 rope J-hook holds each\n2–3 standing rope pulls each\n1 easy rope climb or partial climb each\nWith light KBs:\n6 double KB deadlifts\n6 double KB cleans\n6 double KB push press\n4 double KB clean & jerks\nPrimer\n4 double KB C&J @ workout weight\n4 weighted step-ups @ workout weightI’m",
+      "siri_text": "Saturday's workout. Metcon: Warm up. Workout: 1:00 Row / Ski / Bike, 10 Glute bridges, 10 KB deadlifts, 10 Ring rows, 8 Ab-mat sit-ups. For hypertrophy, focus on back (lats/rear delts), biceps, hamstrings."
     }
   }
 }
