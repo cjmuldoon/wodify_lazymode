@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-19",
+  "day_name": "Friday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n2 mins easy Row/AB/Ski\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats",
+  "strength": [
+    {
+      "name": "Back Squat",
+      "description": "1x1 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM x 22min\n00:00 6 @ 55%\n03:00 4 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts"
+    },
+    {
+      "name": "Split Jerk",
+      "description": "3x2 | E2MOM 10min\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 3 Sets\n04:00 2 @ 75%\n06:00 2 @ 75%\n08:00 2 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "10 min AMRAP\n150m Run\n10 Toes-to-Bar\n15 Alternating DB Snatches\n@ 22.5/15kg\nScale T2B to V-ups or Tuck Sits",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (lats/mid-back)",
+      "Biceps",
+      "Rear Delts"
+    ],
+    "avoid": [
+      "Quads",
+      "Glutes",
+      "Front Delts",
+      "Triceps",
+      "Core"
+    ],
+    "reasoning": "Back and biceps are antagonists to today's pressing/squatting, promoting recovery and postural balance.",
+    "suggested_exercises": [
+      "Bent-over Barbell Rows 3x6-8",
+      "Incline Dumbbell Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Single-arm Dumbbell Rows 3x8 each"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n2 mins easy Row/AB/Ski\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 1x1 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM x 22min\n00:00 6 @ 55%\n03:00 4 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts\nSplit Jerk | 3x2 | E2MOM 10min\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 3 Sets\n04:00 2 @ 75%\n06:00 2 @ 75%\n08:00 2 @ 75%\nWorkout | 10 min AMRAP\n150m Run\n10 Toes-to-Bar\n15 Alternating DB Snatches\n@ 22.5/15kg\nScale T2B to V-ups or Tuck Sits",
+  "siri_text": "Friday's workout. Strength: Back Squat, 1 by 1 at 95 percent. Strength: Split Jerk, 3 by 2 at 75 percent. Metcon: AMRAP 10 minutes: 150m Run, 10 Toes-to-Bar, 15 Alternating DB Snatches. For hypertrophy, focus on Back (lats/mid-back), Biceps, Rear Delts."
+}

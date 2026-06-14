@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
   "day_name": "Thursday",
-  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\n30 Sec KB Ankle rocks",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\nWrist Mobilisation\n30 Sec KB Ankle rocks",
   "strength": [],
   "metcon": {
     "name": "Workout",
@@ -15,23 +15,23 @@
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "hamstrings",
-      "rear delts"
+      "rear delts",
+      "biceps"
     ],
     "avoid": [
       "shoulders",
       "triceps",
-      "quads",
+      "quadriceps",
       "core"
     ],
-    "reasoning": "Today heavily taxes shoulders, triceps, and quads via BMUs and pistols; accessorize posterior chain and back.",
+    "reasoning": "Upper body pulling muscles were minimally taxed; horizontal pulling balances pressing/gymnastics volume and prevents imbalances.",
     "suggested_exercises": [
-      "Bent-over barbell rows 3 x 6-8",
-      "Nordic hamstring curls 3 x 5",
-      "Face pulls 3 x 12-15",
-      "Seal rows 3 x 10-12"
+      "Barbell Rows 3 x 6-8",
+      "Seal Rows 3 x 8-10",
+      "Face Pulls 3 x 12-15",
+      "Dumbbell Curls 2 x 10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 toe walks\n10 heel walks\nWrist Mobilisation\n30 Sec KB Ankle rocks\nGymnastics | EMOM x 4\n30 sec Hollow Hold\nPistols\nEMOM x 10 mins\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nBar muscle up\nEMOM X 4\nBeat Swing x 10\n- think Knuckles over the bar\nBigger Beat swing - Push down to rise up!!\nFloor Arch Turn Over\nLow bar transition from box\n- False grip + Long arms. - move box away to make it harder\nBanded BMU OR BMU\nWorkout | EMOM x 10\nOdd - 2-4 Bar Muscle Ups\nEven - 8-10 Alternating Pistols or alternative scaled version.",
-  "siri_text": "Thursday's workout. Gymnastics: . Metcon: EMOM. For hypertrophy, focus on back, hamstrings, rear delts."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\nWrist Mobilisation\n30 Sec KB Ankle rocks\nGymnastics | EMOM x 4\n30 sec Hollow Hold\nPistols\nEMOM x 10 mins\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nBar muscle up\nEMOM X 4\nBeat Swing x 10\n- think Knuckles over the bar\nBigger Beat swing - Push down to rise up!!\nFloor Arch Turn Over\nLow bar transition from box\n- False grip + Long arms. - move box away to make it harder\nBanded BMU OR BMU\nWorkout | EMOM x 10\nOdd - 2-4 Bar Muscle Ups\nEven - 8-10 Alternating Pistols or alternative scaled version.",
+  "siri_text": "Thursday's workout. Gymnastics: . Metcon: EMOM. For hypertrophy, focus on back, rear delts, biceps."
 }
