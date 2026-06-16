@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Bench Press",
-      "description": "1x1 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 22 mins\nBUILD to 1RM\n00:00 5 @ 55%\n03:00 4 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\n12:00 1 @ 95%\n15:00 -22:00 1RM  Max 3 attempts"
+      "description": "1x1 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | 30 mins\nBUILD to 1RM E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\nTOP SETS E4MOM\n16:00 1 @ 95%\n20:00-30:00 1RM Max 3 attempts"
     }
   ],
   "metcon": {
@@ -14,29 +14,29 @@
     "description": "3 Rounds for time of:  \n400m Run  \n21 Kettlebell Swings, 53# / 35#  \n12 Pull-ups",
     "time_cap": null
   },
-  "gymnastics": [
-    "Pull-ups: E2MOM 10 min\n3-5 Reps. Lower as slow as you can. If you can do more than 5 reps, GO SLOWER.\nNO BANDS. Step up hook or bench to get to the top."
-  ],
+  "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back (rows)",
+      "rear deltoids",
       "biceps",
-      "rear delts"
+      "core stability",
+      "glutes"
     ],
     "avoid": [
       "chest",
-      "shoulders",
-      "legs",
-      "core"
+      "triceps",
+      "anterior shoulders",
+      "lats"
     ],
-    "reasoning": "Bench press and pull-ups tax chest and lats heavily; target antagonists and weak points to balance and prevent imbalance.",
+    "reasoning": "Balance pressing fatigue; target posterior chain and arm pulling muscles without competing for recovery resources.",
     "suggested_exercises": [
-      "Barbell Rows: 3 x 6-8",
-      "Dumbbell Curls: 3 x 8-10",
       "Face Pulls: 3 x 12-15",
-      "Seal Rows: 3 x 10-12"
+      "Barbell Curls: 3 x 8-10",
+      "Weighted Dips (narrow grip): 3 x 6-8",
+      "Glute Bridges: 3 x 12",
+      "Dead Bugs: 3 x 10/side"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n2 mins easy Row/AB\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 1x1 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 22 mins\nBUILD to 1RM\n00:00 5 @ 55%\n03:00 4 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\n12:00 1 @ 95%\n15:00 -22:00 1RM  Max 3 attempts\nPull-ups | Pull Up Negatives | E2MOM 10 min\n3-5 Reps. Lower as slow as you can. If you can do more than 5 reps, GO SLOWER.\nNO BANDS. Step up hook or bench to get to the top.\nHelen | 3 Rounds for time of:  \n400m Run  \n21 Kettlebell Swings, 53# / 35#  \n12 Pull-ups",
-  "siri_text": "Monday's workout. Strength: Bench Press, 1 by 1 at 95 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Helen. Rounds for Time: 400m Run, 21 Kettlebell Swings, 53# / 35#, 12 Pull-ups. For hypertrophy, focus on back (rows), biceps, rear delts."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n2 mins easy Row/AB\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 1x1 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | 30 mins\nBUILD to 1RM E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 4 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\nTOP SETS E4MOM\n16:00 1 @ 95%\n20:00-30:00 1RM Max 3 attempts\nHelen | 3 Rounds for time of:  \n400m Run  \n21 Kettlebell Swings, 53# / 35#  \n12 Pull-ups",
+  "siri_text": "Monday's workout. Strength: Bench Press, 1 by 1 at 95 percent. Metcon: Helen. Rounds for Time: 400m Run, 21 Kettlebell Swings, 53# / 35#, 12 Pull-ups. For hypertrophy, focus on rear deltoids, biceps, core stability."
 }

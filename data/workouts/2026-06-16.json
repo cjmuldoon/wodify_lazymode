@@ -1,41 +1,43 @@
 {
   "date": "2026-06-16",
   "day_name": "Tuesday",
-  "warm_up": "Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+  "warm_up": "Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
   "strength": [
     {
+      "name": "Snatch Balance",
+      "description": "1x2 | E2MOM x3\nBUILD 3 Sets\n00:00\n02:00\n04:00"
+    },
+    {
       "name": "Snatch",
-      "description": "1x1 | E3MOM x 22min\n00:00 3 @ 55%\n03:00 3 @ 65%\n06:00 2 @ 75%\n09:00 1 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts"
+      "description": "1x1 | E3MOM x 22min\n00:00 3 @ 65%\n03:00 2 @ 75%\n06:00 1 @ 85%\n09:00 1 @ 95%\n12-22:00 Max 3 Attempts"
     },
     {
       "name": "Overhead Squat",
-      "description": "1x1 | E3MOM x 22min\n00:00 3 @ 55%\n03:00 3 @ 65%\n06:00 2 @ 75%\n09:00 1 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts"
+      "description": "1x1 | E3MOM x 22min\n00:00 3 @ 65%\n03:00 2 @ 75%\n06:00 1 @ 85%\n09:00 1 @ 95%\n12-20:00 Max 3 Attempts"
     }
   ],
   "metcon": null,
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
-      "biceps",
+      "glutes",
       "hamstrings",
-      "core stability"
+      "back",
+      "arms"
     ],
     "avoid": [
       "shoulders",
-      "quadriceps",
-      "triceps",
-      "front core"
+      "quads",
+      "core"
     ],
-    "reasoning": "Snatch and OHS tax anterior chain; target posterior chain and pulling patterns to balance strength development.",
+    "reasoning": "Snatch and OHS dominate shoulders, quads, and core; accessorize opposing movement patterns.",
     "suggested_exercises": [
-      "Barbell rows 4 x 6-8",
-      "Dumbbell hamstring curls 3 x 10-12",
-      "Face pulls 3 x 12-15",
-      "Barbell good mornings 3 x 8-10",
-      "Pallof press holds 3 x 10/side"
+      "Romanian Deadlifts: 3 x 6-8",
+      "Barbell Rows: 3 x 6-8",
+      "Hamstring Curls: 3 x 10-12",
+      "Barbell Curls: 3 x 8-10"
     ]
   },
-  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n10 Broad Jumps\n2 Rounds (PVC/Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch | 1x1 | E3MOM x 22min\n00:00 3 @ 55%\n03:00 3 @ 65%\n06:00 2 @ 75%\n09:00 1 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts\nOverhead Squat | 1x1 | E3MOM x 22min\n00:00 3 @ 55%\n03:00 3 @ 65%\n06:00 2 @ 75%\n09:00 1 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts",
-  "siri_text": "Tuesday's workout. Strength: Snatch, 1 by 1 at 95 percent. Strength: Overhead Squat, 1 by 1 at 95 percent. For hypertrophy, focus on back, biceps, hamstrings."
+  "raw_text": "Warm-up | Warm-up\nActivation & Mobilisation Drills: 5-8min\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x2 | E2MOM x3\nBUILD 3 Sets\n00:00\n02:00\n04:00\nSnatch | 1x1 | E3MOM x 22min\n00:00 3 @ 65%\n03:00 2 @ 75%\n06:00 1 @ 85%\n09:00 1 @ 95%\n12-22:00 Max 3 Attempts\nOverhead Squat | 1x1 | E3MOM x 22min\n00:00 3 @ 65%\n03:00 2 @ 75%\n06:00 1 @ 85%\n09:00 1 @ 95%\n12-20:00 Max 3 Attempts",
+  "siri_text": "Tuesday's workout. Strength: Snatch Balance, 1 by 2. Strength: Snatch, 1 by 1 at 95 percent. Strength: Overhead Squat, 1 by 1 at 95 percent. For hypertrophy, focus on glutes, hamstrings, back."
 }
