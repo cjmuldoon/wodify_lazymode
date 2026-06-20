@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-20",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Cindy’s Double Snatch",
+    "type": "Workout",
+    "description": "Partner workout\nYou-go-I-go\n30 double unders\n5 pull ups\n10 push ups\n15 air squats\n5 power snatches @ 50/35\nScale reps or weight so each round is less than 2 mins per person",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "hamstrings",
+      "glutes",
+      "rear delts",
+      "biceps"
+    ],
+    "avoid": [
+      "quads",
+      "shoulders",
+      "chest",
+      "triceps"
+    ],
+    "reasoning": "Cindy taxes quads, shoulders, chest, triceps heavily; accessory targets posterior chain and biceps for balance.",
+    "suggested_exercises": [
+      "Romanian deadlifts: 3 x 8",
+      "Glute-ham raises: 3 x 6",
+      "Face pulls: 3 x 12",
+      "Dumbbell curls: 3 x 10"
+    ]
+  },
+  "raw_text": "Warm up | 10 scap push ups\n10 scap pull ups\n10 air squats\n10m toe walk\n10m heel walk\n10 row-rotate-press\n10 WGS (5 p/s)\n3  muscle snatches\n3  power snatches\n2 mins easy skipping\nCindy’s Double Snatch | Partner workout\nYou-go-I-go\n30 double unders\n5 pull ups\n10 push ups\n15 air squats\n5 power snatches @ 50/35\nScale reps or weight so each round is less than 2 mins per person",
+  "siri_text": "Saturday's workout. Metcon: Cindy’s Double Snatch. Workout: Partner workout, You-go-I-go, 30 double unders, 5 pull ups, 10 push ups. For hypertrophy, focus on hamstrings, glutes, rear delts."
+}

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T08:49:52",
+  "last_updated": "2026-06-20T08:12:05",
   "week_of": "2026-06-22",
   "workouts": {
     "2026-02-23": {
@@ -3870,6 +3870,42 @@
       },
       "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n2 mins easy Row/AB/Ski\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 Cossack Squats\n5 Tempo Banded Squats\n15 Empty Bar Squats\nBack Squat | 1x1 | *Shoulder blades to back pocket\n*Ribcage to pelvis\n*Screw feet out into floor | E3MOM x 22min\n00:00 6 @ 55%\n03:00 4 @ 65%\n06:00 3 @ 75%\n09:00 2 @ 85%\n12:00 1 @ 95%\n15-22:00 Max 3 Attempts\nSplit Jerk | 3x2 | E2MOM 10min\nBUILD 2 Sets\n00:00 3 @ 55%\n02:00 3 @ 65%\nHOLD 3 Sets\n04:00 2 @ 75%\n06:00 2 @ 75%\n08:00 2 @ 75%\nWorkout | 10 min AMRAP\n150m Run\n10 Toes-to-Bar\n15 Alternating DB Snatches\n@ 22.5/15kg\nScale T2B to V-ups or Tuck Sits",
       "siri_text": "Friday's workout. Strength: Back Squat, 1 by 1 at 95 percent. Strength: Split Jerk, 3 by 2 at 75 percent. Metcon: AMRAP 10 minutes: 150m Run, 10 Toes-to-Bar, 15 Alternating DB Snatches. For hypertrophy, focus on Back (lats/mid-back), Biceps, Rear Delts."
+    },
+    "2026-06-20": {
+      "date": "2026-06-20",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Cindy’s Double Snatch",
+        "type": "Workout",
+        "description": "Partner workout\nYou-go-I-go\n30 double unders\n5 pull ups\n10 push ups\n15 air squats\n5 power snatches @ 50/35\nScale reps or weight so each round is less than 2 mins per person",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "hamstrings",
+          "glutes",
+          "rear delts",
+          "biceps"
+        ],
+        "avoid": [
+          "quads",
+          "shoulders",
+          "chest",
+          "triceps"
+        ],
+        "reasoning": "Cindy taxes quads, shoulders, chest, triceps heavily; accessory targets posterior chain and biceps for balance.",
+        "suggested_exercises": [
+          "Romanian deadlifts: 3 x 8",
+          "Glute-ham raises: 3 x 6",
+          "Face pulls: 3 x 12",
+          "Dumbbell curls: 3 x 10"
+        ]
+      },
+      "raw_text": "Warm up | 10 scap push ups\n10 scap pull ups\n10 air squats\n10m toe walk\n10m heel walk\n10 row-rotate-press\n10 WGS (5 p/s)\n3  muscle snatches\n3  power snatches\n2 mins easy skipping\nCindy’s Double Snatch | Partner workout\nYou-go-I-go\n30 double unders\n5 pull ups\n10 push ups\n15 air squats\n5 power snatches @ 50/35\nScale reps or weight so each round is less than 2 mins per person",
+      "siri_text": "Saturday's workout. Metcon: Cindy’s Double Snatch. Workout: Partner workout, You-go-I-go, 30 double unders, 5 pull ups, 10 push ups. For hypertrophy, focus on hamstrings, glutes, rear delts."
     }
   }
 }
