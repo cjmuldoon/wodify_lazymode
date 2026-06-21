@@ -1,0 +1,39 @@
+{
+  "date": "2026-06-24",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Pass Throughs\n5 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n10 Cossack Squat\n5e/s Squat Knee Taps\n10 Front Squat",
+  "strength": [
+    {
+      "name": "Front Squat",
+      "description": "1x1 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "15 min AMRAP\n10 Cal Assault Bike (easy pace)\n2 Rope Climbs\n12 KB C&J (Single Arm)",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "shoulders",
+      "arms"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "core"
+    ],
+    "reasoning": "Front squat and rope climbs heavily tax legs and core; accessory work targets antagonists and upper body hypertrophy.",
+    "suggested_exercises": [
+      "Barbell Rows 3x8-10",
+      "Face Pulls 3x12-15",
+      "Dumbbell Curls 3x10-12",
+      "Incline Bench Press 3x8-10"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Pass Throughs\n5 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n10 Cossack Squat\n5e/s Squat Knee Taps\n10 Front Squat\nFront Squat | 1x1 | * Breathe and brace at the top of each rep\n* Elbows Up\n* Keep knees out | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\nWorkout | 15 min AMRAP\n10 Cal Assault Bike (easy pace)\n2 Rope Climbs\n12 KB C&J (Single Arm)",
+  "siri_text": "Wednesday's workout. Strength: Front Squat, 1 by 1 at 95 percent. Metcon: AMRAP 15 minutes: 10 Cal Assault Bike (easy pace), 2 Rope Climbs, 12 KB C&J (Single Arm). For hypertrophy, focus on back, shoulders, arms."
+}

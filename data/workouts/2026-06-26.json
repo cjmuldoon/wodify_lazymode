@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-26",
+  "day_name": "Friday",
+  "warm_up": "Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement",
+  "strength": [
+    {
+      "name": "Push Press",
+      "description": "1x1 | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
+    }
+  ],
+  "metcon": {
+    "name": "2k Row",
+    "type": "Workout",
+    "description": "Max Effort 2k Row",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "hamstrings",
+      "biceps"
+    ],
+    "avoid": [
+      "shoulders",
+      "quadriceps",
+      "core",
+      "glutes"
+    ],
+    "reasoning": "Push press and rowing heavily tax shoulders, quads, and core; accessory work targets posterior chain and pulling musculature for balance.",
+    "suggested_exercises": [
+      "Pendlay Rows 3x8",
+      "Nordic Hamstring Curls 3x5",
+      "Barbell Curls 3x8-10",
+      "Reverse Pec Deck Flyes 3x12",
+      "Seal Rows 3x10"
+    ]
+  },
+  "raw_text": "Warm-up | Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement\n1RM Catch Up | Missed a day? Want to retest something that could have gone further? Today is the day! Happy with everything so far? Test your Push Press today.\nPush Press | 1x1 | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\n2k Row | Max Effort 2k Row",
+  "siri_text": "Friday's workout. Strength: Push Press, 1 by 1 at 95 percent. Metcon: 2k Row. Workout. For hypertrophy, focus on back, hamstrings, biceps."
+}

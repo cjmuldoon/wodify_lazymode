@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-23",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch",
+  "strength": [
+    {
+      "name": "Bench Press",
+      "description": "4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 4 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "4 RFT\n10 Cal Row\n10 C2B\n10 DB Bench @ 22.5/15kg",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Pull-ups: E2MOM 10 min\nFind the maximum weight or lightest band that you can achieve 3 pull ups with"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "legs",
+      "rear delts"
+    ],
+    "avoid": [
+      "chest",
+      "triceps",
+      "anterior shoulders"
+    ],
+    "reasoning": "Bench press and DB bench heavily fatigue chest/triceps; rowing and C2B already tax back, but posterior chain needs hypertrophy balance.",
+    "suggested_exercises": [
+      "Leg Press or Hack Squat: 3x8–10",
+      "Barbell Rows (bent-over or T-bar): 3x8–10",
+      "Rear Delt Flyes (machine or dumbbell): 3x12–15",
+      "Nordic Hamstring Curls or Leg Curls: 3x8–10"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n15 Plate I Y T\n15 Plate Shoulder Press\n15 Push Ups\n30sec Cobra Stretch\nBench Press | 4x3 | * Slide the wheely chair back, Heels to floor\n* Break the bar, pull bar apart\n* Keep breathe in the whole rep | E3MOM 18min\nBUILD 2 Sets\n00:00 8 @ 50%\n03:00 5 @ 60%\nHOLD 4 Sets\n06:00 3 @ 70%\n09:00 3 @ 70%\n12:00 3 @ 70%\n15:00 3 @ 70%\nPull-ups | Pull Up | E2MOM 10 min\nFind the maximum weight or lightest band that you can achieve 3 pull ups with\nWorkout | 4 RFT\n10 Cal Row\n10 C2B\n10 DB Bench @ 22.5/15kg",
+  "siri_text": "Tuesday's workout. Strength: Bench Press, 4 by 3 at 70 percent. Gymnastics: Pull-ups: E2MOM 10 min. Metcon: Rounds for Time: 10 Cal Row, 10 C2B, 10 DB Bench @ 22.5/15kg. For hypertrophy, focus on back, legs, rear delts."
+}
