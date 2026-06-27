@@ -1,0 +1,34 @@
+{
+  "date": "2026-06-27",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "200m easy jog\n10 worlds greatest stretch\n20 sec HS Hold\n10 air squats\n10 plate I-Y-T\n10 OH Walking lunges",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "hamstrings"
+    ],
+    "avoid": [
+      "shoulders",
+      "quadriceps",
+      "core"
+    ],
+    "reasoning": "Today prioritizes anterior chain and shoulders; target posterior chain and arms for balanced hypertrophy without interference.",
+    "suggested_exercises": [
+      "Barbell rows 3x6-8",
+      "Dumbbell curls 3x8-10",
+      "Nordic hamstring curls 3x5-6",
+      "Chest-supported rows 3x8-10"
+    ]
+  },
+  "raw_text": "Workout | Partner workout - partition as required\nBUY IN\n40m HSW or 12 wall walks (8 min cap)\n5 RFT\n300m run\n12 BMU / 18 C2B / 24 pull ups\n30 wall balls\nBUY OUT\n40m HSW or 12 Wall walks (8 min cap)\nWorkout | 200m easy jog\n10 worlds greatest stretch\n20 sec HS Hold\n10 air squats\n10 plate I-Y-T\n10 OH Walking lunges",
+  "siri_text": "Saturday's workout. Metcon: Workout: 200m easy jog, 10 worlds greatest stretch, 10 air squats, 10 plate I-Y-T, 10 OH Walking lunges. For hypertrophy, focus on back, biceps, hamstrings."
+}
