@@ -3,32 +3,36 @@
   "day_name": "Thursday",
   "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\nWrist Mobilisation",
   "strength": [],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "3 Rounds for Time\n2 mins On - 1 Min off\n40 Double Unders\nMax T2B in time remaining",
+    "time_cap": null
+  },
   "gymnastics": [
-    "HSW Progression\nEMOM X 3 20s handstand hold\nEMOM X 3 180 deg. Conan Walk (on box) x 2\nEMOM X 3 5-10 Shoulder taps (or wall walk)\nEMOM X 5 Tripod Handstand Hold\nEMOM X 5 Spotted Freestanding Handstand Hold\nEMOM X 5 Wall Facing - Walk away from wall (spotted)\nDouble Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins"
+    "Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension."
   ],
   "hypertrophy": {
     "recommended_muscles": [
-      "glutes",
+      "chest",
+      "back thickness",
       "hamstrings",
-      "back",
-      "biceps"
+      "rear delts"
     ],
     "avoid": [
       "shoulders",
-      "triceps",
-      "core",
+      "hip flexors",
+      "lats",
       "forearms"
     ],
-    "reasoning": "Today's gymnastics heavily loads shoulders, triceps, core, and forearms; posterior chain and arms complement without competing.",
+    "reasoning": "Today hammers shoulders, hip flexors via T2B, and grip. Build opposing muscle groups without CNS fatigue.",
     "suggested_exercises": [
-      "Romanian Deadlifts 3x6-8",
-      "Barbell Rows 3x8",
-      "Glute Bridges 3x10",
-      "Barbell Curls 3x8-10",
-      "Leg Curls 2x12"
+      "Dumbbell Bench Press 3 x 8–10",
+      "Seal Rows 3 x 10–12",
+      "Romanian Deadlifts 3 x 8–10",
+      "Face Pulls 2 x 12–15"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\nWrist Mobilisation\nGymnastics | HSW Progression\nEMOM X 3 20s handstand hold\nEMOM X 3 180 deg. Conan Walk (on box) x 2\nEMOM X 3 5-10 Shoulder taps (or wall walk)\nEMOM X 5 Tripod Handstand Hold\nEMOM X 5 Spotted Freestanding Handstand Hold\nEMOM X 5 Wall Facing - Walk away from wall (spotted)\nDouble Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins",
-  "siri_text": "Thursday's workout. Gymnastics: HSW Progression. For hypertrophy, focus on glutes, hamstrings, back."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\nWrist Mobilisation\nGymnastics | Double Under Progression\nEven Min Singles - focus on jumping higher\nOdd Mins Penguin Clap Drill\nDouble Under attempts -\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nWorkout | 3 Rounds for Time\n2 mins On - 1 Min off\n40 Double Unders\nMax T2B in time remaining",
+  "siri_text": "Thursday's workout. Gymnastics: Double Under Progression. Metcon: Rounds for Time: 40 Double Unders. For hypertrophy, focus on chest, back thickness, hamstrings."
 }

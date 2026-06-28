@@ -8,29 +8,34 @@
       "description": "1x1 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 6 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "10 min AMRAP\n300m Run\n10 Pull Ups\n10 Push Ups",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders (anterior)",
-      "biceps"
+      "biceps",
+      "rear delts",
+      "core/anti-rotation"
     ],
     "avoid": [
-      "back",
+      "back extensors",
       "glutes",
-      "hamstrings",
-      "erector spinae"
+      "quads",
+      "shoulders",
+      "triceps"
     ],
-    "reasoning": "Deadlift heavily taxes posterior chain; accessory work targets antagonists and non-competing muscle groups.",
+    "reasoning": "Deadlift and pull-ups dominate posterior chain and shoulders; accessorize antagonists and weak points.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8-10",
-      "Incline Dumbbell Flyes: 3x10-12",
-      "Barbell Curls: 3x8-10",
-      "Cable Lateral Raises: 3x12-15",
-      "Face Pulls: 2x15-20"
+      "Barbell Curls 3x8-10",
+      "Face Pulls 3x12-15",
+      "Pallof Presses 3x10/side",
+      "Dumbbell Hammer Curls 2x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 1x1 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 6 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 1 by 1 at 95 percent. For hypertrophy, focus on chest, shoulders (anterior), biceps."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 1x1 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 6 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\nWorkout | 10 min AMRAP\n300m Run\n10 Pull Ups\n10 Push Ups",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 1 by 1 at 95 percent. Metcon: AMRAP 10 minutes: 300m Run, 10 Pull Ups, 10 Push Ups. For hypertrophy, focus on biceps, rear delts, core/anti-rotation."
 }
