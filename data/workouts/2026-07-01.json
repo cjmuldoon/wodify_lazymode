@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-01",
+  "day_name": "Wednesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n3min easy Row\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10 Jump Squat\n10 Wall Ball",
+  "strength": [],
+  "metcon": {
+    "name": "500m Row",
+    "type": "Workout",
+    "description": "Max Effort 500m Row",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Wall Ball: In pairs\n3 attempts. with approx 3 mins between\ne.g.\nMin 1 A goes, B refs\nMin 2 A continues/Rest\nMin 3 B goes, A refs\nMin 4 B continues/Rest"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "shoulders (rear/lateral)"
+    ],
+    "avoid": [
+      "legs",
+      "core",
+      "chest",
+      "shoulders (anterior)"
+    ],
+    "reasoning": "Row and wall ball tax posterior chain and shoulders heavily; accessory work targets opposing musculature and neglected areas.",
+    "suggested_exercises": [
+      "Bent-over barbell rows: 3 x 6–8",
+      "Dumbbell bicep curls: 3 x 8–10",
+      "Face pulls: 3 x 12–15",
+      "Single-arm dumbbell rows: 3 x 8–10"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n3min easy Row\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n10 Jump Squat\n10 Wall Ball\nWall Ball | Hip crease below top of the knee\nBall above the bottom of the line for ladies, above the line for men\nIf you get no repped, keep going but don't count the rep | In pairs\n3 attempts. with approx 3 mins between\ne.g.\nMin 1 A goes, B refs\nMin 2 A continues/Rest\nMin 3 B goes, A refs\nMin 4 B continues/Rest\n500m Row | Max Effort 500m Row",
+  "siri_text": "Wednesday's workout. Gymnastics: Wall Ball: In pairs. Metcon: 500m Row. Workout. For hypertrophy, focus on back, biceps, shoulders (rear/lateral)."
+}

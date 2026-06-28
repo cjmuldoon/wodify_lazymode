@@ -1,0 +1,43 @@
+{
+  "date": "2026-07-03",
+  "day_name": "Friday",
+  "warm_up": "Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement",
+  "strength": [
+    {
+      "name": "Clean and Jerk",
+      "description": "1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
+    }
+  ],
+  "metcon": {
+    "name": "2k Row",
+    "type": "Workout",
+    "description": "Max Effort 2k Row",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (mid/rear)",
+      "Biceps",
+      "Glutes",
+      "Core (anti-rotation)"
+    ],
+    "avoid": [
+      "Shoulders",
+      "Triceps",
+      "Quads",
+      "Lower back",
+      "Cardiovascular system"
+    ],
+    "reasoning": "Address horizontal pull and posterior chain neglected by vertical pressing and rowing, maintain movement balance.",
+    "suggested_exercises": [
+      "Barbell Rows: 3 x 5",
+      "Face Pulls: 3 x 12",
+      "Dumbbell Curls: 3 x 8–10",
+      "Bulgarian Split Squats (light): 3 x 8 per leg",
+      "Pallof Press: 3 x 10 per side"
+    ]
+  },
+  "raw_text": "Warm-up | Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement\n1RM Catch Up | Missed a day? Want to retest something that could have gone further? Today is the day! Happy with everything so far? Test your Clean & Jerk today.\nClean and Jerk | 1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\n2k Row | Max Effort 2k Row",
+  "siri_text": "Friday's workout. Strength: Clean and Jerk, 1 by 1 at 95 percent. Metcon: 2k Row. Workout. For hypertrophy, focus on Back (mid/rear), Biceps, Glutes."
+}

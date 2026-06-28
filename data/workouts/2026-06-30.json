@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-30",
+  "day_name": "Tuesday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "1x1 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 6 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
+    }
+  ],
+  "metcon": null,
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "shoulders (anterior)",
+      "biceps"
+    ],
+    "avoid": [
+      "back",
+      "glutes",
+      "hamstrings",
+      "erector spinae"
+    ],
+    "reasoning": "Deadlift heavily taxes posterior chain; accessory work targets antagonists and non-competing muscle groups.",
+    "suggested_exercises": [
+      "Dumbbell Bench Press: 3x8-10",
+      "Incline Dumbbell Flyes: 3x10-12",
+      "Barbell Curls: 3x8-10",
+      "Cable Lateral Raises: 3x12-15",
+      "Face Pulls: 2x15-20"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\n10 Scap Pull Ups\n15 RDL Empty Bar\n15 Bent Over Row Empty Bar\n10 Banded Pallof Press\n10 Glute Bridge @ 50% DL\nDeadlift | 1x1 | * Shoulders to back pocket\n* Crown to Ceiling\n* Push the world away | BUILD 6 Sets E3MOM\n00:00 8 @ 50%\n03:00 6 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 1 by 1 at 95 percent. For hypertrophy, focus on chest, shoulders (anterior), biceps."
+}
