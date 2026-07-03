@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T08:05:53",
+  "last_updated": "2026-07-03T10:06:03",
   "week_of": "2026-07-06",
   "workouts": {
     "2026-02-23": {
@@ -4310,11 +4310,11 @@
     "2026-07-03": {
       "date": "2026-07-03",
       "day_name": "Friday",
-      "warm_up": "Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Pass Throughs\n5 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n5e/s Squat Knee Taps\n10m Walking Lunge 22.5/15\n10 Broad Jump\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nIf catching up, talk to the coach for a warm up relevant to your movement",
       "strength": [
         {
           "name": "Clean and Jerk",
-          "description": "1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
+          "description": "1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts"
         }
       ],
       "metcon": {
@@ -4326,28 +4326,26 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (rows/pulls)",
           "hamstrings",
-          "glutes",
-          "core stability"
+          "rear delts",
+          "back (lats/rhomboids)"
         ],
         "avoid": [
           "shoulders",
-          "triceps",
           "quads",
-          "front deltoids"
+          "chest",
+          "triceps"
         ],
-        "reasoning": "Clean/Jerk and Jackie exhaust pressing and leg drive; posterior chain work aids recovery without competing for resources.",
+        "reasoning": "Balance posterior chain and rowing mechanics while sparing upper body and legs already taxed by clean/jerk and metcon.",
         "suggested_exercises": [
-          "Barbell Rows 3x6-8",
-          "Nordic Hamstring Curls 3x5",
-          "Single-leg Deadlifts 2x8/side",
-          "Pallof Press 2x10/side",
-          "Reverse Flyes 2x12"
+          "Nordic hamstring curls: 3 x 5",
+          "Face pulls: 3 x 12-15",
+          "Seal rows: 3 x 10-12",
+          "Glute-ham raises: 3 x 8-10"
         ]
       },
-      "raw_text": "Warm-up | Push Press Activation & Mobilisation Drills:\n1 round\n30sec e/s PVC Shoulder Opener\n10 Scap Pull Up\n10 Plate I Y T\n10 Plate Shoulder Press\n10 Squat Jump\n15 Calf Raise\nIf catching up, talk to the coach for a warm up relevant to your movement\n1RM Catch Up | Missed a day? Want to retest something that could have gone further? Today is the day! Happy with everything so far? Test your Clean & Jerk today.\nClean and Jerk | 1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 5 @ 50%\n03:00 5 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\nJackie | For time:\r\n1,000-meter row\r\n50 thrusters\r\n30 pull-ups\r\n\r\nMen: 45 lb.\r\nWomen: 35 lb.",
-      "siri_text": "Friday's workout. Strength: Clean and Jerk, 1 by 1 at 95 percent. Metcon: Jackie. For Time: 1,000-meter row, 50 thrusters, 30 pull-ups. For hypertrophy, focus on back (rows/pulls), hamstrings, glutes."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Pass Throughs\n5 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n5e/s Squat Knee Taps\n10m Walking Lunge 22.5/15\n10 Broad Jump\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nIf catching up, talk to the coach for a warm up relevant to your movement\n1RM Catch Up | Missed a day? Want to retest something that could have gone further? Today is the day! Happy with everything so far? Test your Clean & Jerk today.\nClean and Jerk | 1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\nJackie | For time:\r\n1,000-meter row\r\n50 thrusters\r\n30 pull-ups\r\n\r\nMen: 45 lb.\r\nWomen: 35 lb.",
+      "siri_text": "Friday's workout. Strength: Clean and Jerk, 1 by 1 at 95 percent. Metcon: Jackie. For Time: 1,000-meter row, 50 thrusters, 30 pull-ups. For hypertrophy, focus on hamstrings, rear delts, back (lats/rhomboids)."
     }
   }
 }
