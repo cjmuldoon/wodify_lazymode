@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-04",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Metcon",
+    "type": "Rounds for Time",
+    "description": "Part B\n3 RFT\n3 rope climbs\n30 Russian KB Swings\n30 cal row ea",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "chest",
+      "triceps",
+      "core"
+    ],
+    "avoid": [
+      "back",
+      "hamstrings",
+      "glutes",
+      "shoulders"
+    ],
+    "reasoning": "Today heavily taxes posterior chain and grip. Address antagonists and weak points without competing for recovery.",
+    "suggested_exercises": [
+      "Dumbbell bench press: 3 x 8-10",
+      "Tricep rope pushdowns: 3 x 12-15",
+      "Pallof press: 3 x 10 each side",
+      "Incline dumbbell flyes: 3 x 12"
+    ]
+  },
+  "raw_text": "Metcon | Score Rounds and Reps\nPart A\n25 min AMRAP\n300m run\n20 KB snatches\n10m HSW or 2 wall walks\n20 T2B\n30 box jumps\nMetcon | Part B\n3 RFT\n3 rope climbs\n30 Russian KB Swings\n30 cal row ea",
+  "siri_text": "Saturday's workout. Metcon: Rounds for Time: Part B, 3 rope climbs, 30 Russian KB Swings, 30 cal row ea. For hypertrophy, focus on chest, triceps, core."
+}

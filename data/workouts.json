@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T10:06:03",
+  "last_updated": "2026-07-04T09:24:12",
   "week_of": "2026-07-06",
   "workouts": {
     "2026-02-23": {
@@ -4346,6 +4346,41 @@
       },
       "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round PVC pipe\n30sec e/s PVC Shoulder Opener\n5 PVC Pass Throughs\n5 PVC Around the Worlds each way\n10 Band Row Rotate Press\nBanded Lat Stretch\n10 Worlds Greatest Stretch\n5e/s Squat Knee Taps\n10m Walking Lunge 22.5/15\n10 Broad Jump\n2 rounds (PVC/Barbell):\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nIf catching up, talk to the coach for a warm up relevant to your movement\n1RM Catch Up | Missed a day? Want to retest something that could have gone further? Today is the day! Happy with everything so far? Test your Clean & Jerk today.\nClean and Jerk | 1x1 | Clean does not need to hit depth. This does not mean Power Clean as high as you can. Still get low! | BUILD 6 Sets E3MOM\n00:00 3 @ 50%\n03:00 3 @ 60%\n06:00 3 @ 70%\n09:00 2 @ 80%\n12:00 1 @ 90%\n15:00 1 @ 95%\n18:00-28:00 1RM Attempts\nJackie | For time:\r\n1,000-meter row\r\n50 thrusters\r\n30 pull-ups\r\n\r\nMen: 45 lb.\r\nWomen: 35 lb.",
       "siri_text": "Friday's workout. Strength: Clean and Jerk, 1 by 1 at 95 percent. Metcon: Jackie. For Time: 1,000-meter row, 50 thrusters, 30 pull-ups. For hypertrophy, focus on hamstrings, rear delts, back (lats/rhomboids)."
+    },
+    "2026-07-04": {
+      "date": "2026-07-04",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Metcon",
+        "type": "Rounds for Time",
+        "description": "Part B\n3 RFT\n3 rope climbs\n30 Russian KB Swings\n30 cal row ea",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "chest",
+          "triceps",
+          "core"
+        ],
+        "avoid": [
+          "back",
+          "hamstrings",
+          "glutes",
+          "shoulders"
+        ],
+        "reasoning": "Today heavily taxes posterior chain and grip. Address antagonists and weak points without competing for recovery.",
+        "suggested_exercises": [
+          "Dumbbell bench press: 3 x 8-10",
+          "Tricep rope pushdowns: 3 x 12-15",
+          "Pallof press: 3 x 10 each side",
+          "Incline dumbbell flyes: 3 x 12"
+        ]
+      },
+      "raw_text": "Metcon | Score Rounds and Reps\nPart A\n25 min AMRAP\n300m run\n20 KB snatches\n10m HSW or 2 wall walks\n20 T2B\n30 box jumps\nMetcon | Part B\n3 RFT\n3 rope climbs\n30 Russian KB Swings\n30 cal row ea",
+      "siri_text": "Saturday's workout. Metcon: Rounds for Time: Part B, 3 rope climbs, 30 Russian KB Swings, 30 cal row ea. For hypertrophy, focus on chest, triceps, core."
     }
   }
 }
