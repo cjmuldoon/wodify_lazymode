@@ -1,0 +1,54 @@
+{
+  "date": "2026-07-07",
+  "day_name": "Tuesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
+  "strength": [
+    {
+      "name": "SUPERSET",
+      "description": "E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)"
+    },
+    {
+      "name": "DB Chest Press",
+      "description": "4x8 | Neutral Grip\nTouch chest/shoulder"
+    },
+    {
+      "name": "Single Arm Dumbbell Row",
+      "description": "4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower"
+    },
+    {
+      "name": "Shoulder Press",
+      "description": "4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "3RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up",
+    "time_cap": "10 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "glutes",
+      "hamstrings",
+      "rear delts",
+      "biceps"
+    ],
+    "avoid": [
+      "chest",
+      "anterior delts",
+      "triceps",
+      "abs",
+      "quads"
+    ],
+    "reasoning": "Today hits upper body horizontal and vertical pressing heavily. Target posterior chain and arms for balanced development without fatiguing already-taxed muscles.",
+    "suggested_exercises": [
+      "Romanian Deadlifts 3x6",
+      "Reverse Pec Deck 3x10",
+      "Barbell Rows 3x6",
+      "Dumbbell Curls 3x8"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%\nWorkout | 3RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up",
+  "siri_text": "Tuesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 40 percent. Metcon: Workout: 12 Ab Mat Sit Ups, 8 Push Up, 6 Strict Pull Up. For hypertrophy, focus on glutes, hamstrings, rear delts."
+}

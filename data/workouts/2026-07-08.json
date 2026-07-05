@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-08",
+  "day_name": "Wednesday",
+  "warm_up": "10 minute timer\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n5e/s Deadbug\n15sec e/s Side Plank\n5e/s Squat Knee Taps\n10e/s Ankle Rocks\n10 Goblet Squat 16/12",
+  "strength": [
+    {
+      "name": "Front Squat",
+      "description": "4x8 | 8mins\n* Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "30min AMRAP\n1x 500m Run\n2 Rope Climbs\n3 Wall Walk\n4 Thruster 50/35\n5 C2B\nScaled - 40/25, Banded C2B/Pull Up",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "hamstrings",
+      "core stability",
+      "glutes"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "lats",
+      "chest"
+    ],
+    "reasoning": "Balance posterior chain, stabilize shoulders for tomorrow's pressing, avoid compounding leg and upper pull fatigue.",
+    "suggested_exercises": [
+      "Face Pulls 3x15",
+      "Nordics 3x5 (eccentric focus)",
+      "GHD Sit-ups 3x12",
+      "Single-Leg RDLs 3x8 each"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n5e/s Deadbug\n15sec e/s Side Plank\n5e/s Squat Knee Taps\n10e/s Ankle Rocks\n10 Goblet Squat 16/12\nFront Squat | 4x8 | 8mins\n* Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%\nWorkout | 30min AMRAP\n1x 500m Run\n2 Rope Climbs\n3 Wall Walk\n4 Thruster 50/35\n5 C2B\nScaled - 40/25, Banded C2B/Pull Up",
+  "siri_text": "Wednesday's workout. Strength: Front Squat, 4 by 8 at 40 percent. Metcon: AMRAP 30 minutes: 1x 500m Run, 2 Rope Climbs, 3 Wall Walk, 4 Thruster 50/35, 5 C2B. For hypertrophy, focus on rear deltoids, hamstrings, core stability."
+}
