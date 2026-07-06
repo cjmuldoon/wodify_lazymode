@@ -10,35 +10,43 @@
     {
       "name": "Romanian Deadlift (RDL)",
       "description": "4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%"
+    },
+    {
+      "name": "Seated Cable Row",
+      "description": "3x10"
+    },
+    {
+      "name": "Hamstring Curl",
+      "description": "3x10"
     }
   ],
   "metcon": {
     "name": "Workout",
     "type": "AMRAP",
-    "description": "15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 KB Swing 24/16\n60 sec Plank",
+    "description": "15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "upper back",
-      "biceps",
-      "shoulders"
+      "chest",
+      "shoulders",
+      "biceps"
     ],
     "avoid": [
-      "lower back",
-      "glutes",
       "hamstrings",
+      "glutes",
+      "erector spinae",
       "core"
     ],
-    "reasoning": "Posterior chain and core heavily taxed; build upper body pulling strength without competing for recovery.",
+    "reasoning": "Posterior chain and core heavily taxed; focus anterior upper body for balanced hypertrophy without compounding fatigue.",
     "suggested_exercises": [
-      "Barbell Rows 3x8",
-      "Barbell Curls 3x10",
-      "Incline Dumbbell Press 3x10",
-      "Face Pulls 3x12"
+      "Incline Dumbbell Press 3x8",
+      "Face Pulls 3x12",
+      "Barbell Curls 3x8",
+      "Lateral Raises 3x10"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%\nWorkout | 15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 KB Swing 24/16\n60 sec Plank",
-  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 40 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 40 percent. Metcon: AMRAP 15 minutes: 6 Deadlift 80/60, 12 Wall Ball 9/6, 15 KB Swing 24/16. For hypertrophy, focus on upper back, biceps, shoulders."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%\nWorkout | 15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
+  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 40 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 40 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: AMRAP 15 minutes: 6 Deadlift 80/60, 12 Wall Ball 9/6, 15 American KB Swing 24/16. For hypertrophy, focus on chest, shoulders, biceps."
 }
