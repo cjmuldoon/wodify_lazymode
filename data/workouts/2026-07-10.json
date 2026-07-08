@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
   "day_name": "Friday",
-  "warm_up": "10 minute timer\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
   "strength": [
     {
       "name": "Snatch Balance",
@@ -17,23 +17,25 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "back hypertrophy",
-      "hamstrings"
+      "rear delts",
+      "hamstrings",
+      "glutes",
+      "upper back"
     ],
     "avoid": [
       "shoulders",
       "quads",
-      "core"
+      "core",
+      "cardiorespiratory system"
     ],
-    "reasoning": "Snatch balance and row heavily tax shoulders and quads; accessory work targets posterior chain and horizontal pull to balance and build.",
+    "reasoning": "Today taxes shoulders, quads, and core heavily; accessory work addresses posterior chain and rear delts for balance.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8-10",
-      "Seal Rows: 3x10-12",
-      "Nordic Curls: 3x5-6",
-      "Machine Chest Fly: 3x12-15"
+      "Reverse Pec Deck Flyes 3x12",
+      "Nordic Hamstring Curls 3x5",
+      "Seal Rows 3x10",
+      "Glute Bridges 3x15"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x5 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSnatch Complex | 18mins\nWork up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n3, 6, 9, 12, 15\nWorkout | EMOMx12min\nMin 1: 10/8cal  Row\nMin 2: 10 V-Ups\nMin 3: Max Double Under\nMin 4: Rest\nScore Total DU Reps across 3 Rounds",
-  "siri_text": "Friday's workout. Strength: Snatch Balance, 1 by 5. Metcon: Workout. For hypertrophy, focus on chest, back hypertrophy, hamstrings."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x5 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSnatch Complex | 18mins\nWork up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n3, 6, 9, 12, 15\nWorkout | EMOMx12min\nMin 1: 10/8cal  Row\nMin 2: 10 V-Ups\nMin 3: Max Double Under\nMin 4: Rest\nScore Total DU Reps across 3 Rounds",
+  "siri_text": "Friday's workout. Strength: Snatch Balance, 1 by 5. Metcon: Workout. For hypertrophy, focus on rear delts, hamstrings, glutes."
 }
