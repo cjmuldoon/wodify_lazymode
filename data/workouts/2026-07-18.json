@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-18",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "part A time",
+    "type": "Workout",
+    "description": "part A time",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear delts",
+      "biceps",
+      "core stability"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "chest",
+      "shoulders"
+    ],
+    "reasoning": "Address posterior chain imbalance and arm hypertrophy without competing for recovery resources already taxed by metcon.",
+    "suggested_exercises": [
+      "Face pulls 3 x 12–15",
+      "Dumbbell curls 3 x 10–12",
+      "Pallof press 3 x 8 per side",
+      "Prone incline bench curls 3 x 12"
+    ]
+  },
+  "raw_text": "Partner WOD | Score Time\nPARTNER WORKOUT for time\nPart A\nIGYG then run together x 4 rounds\n10 wall balls\n5 power snatch @50/35\n5 muscle ups or 5 pull ups & 5 dips\n200m recovery run together\nRest 2 mins\nPart B\n50 DB snatches\n50 box overs\n50 Overhead squat @50/35\n50 T2B\n500m run\nSlow is fast\nIf the run feels hard, you went too hard inside\nScale pull ups to ring rows\nT2B → K2E\nScale dips to push ups",
+  "siri_text": "Saturday's workout. Metcon: part A time. Workout: part A time. For hypertrophy, focus on rear delts, biceps, core stability."
+}

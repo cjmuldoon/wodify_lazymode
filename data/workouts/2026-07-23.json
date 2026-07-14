@@ -1,0 +1,67 @@
+{
+  "date": "2026-07-23",
+  "day_name": "Thursday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
+  "strength": [
+    {
+      "name": "SUPERSET",
+      "description": "E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)"
+    },
+    {
+      "name": "DB Chest Press",
+      "description": "4x8 | Neutral Grip\nTouch chest/shoulder"
+    },
+    {
+      "name": "Single Arm Dumbbell Row",
+      "description": "4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower"
+    },
+    {
+      "name": "Shoulder Press",
+      "description": "4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%"
+    },
+    {
+      "name": "DB Chest Fly",
+      "description": "3x10"
+    },
+    {
+      "name": "Lat Pulldown",
+      "description": "3x10"
+    },
+    {
+      "name": "Tricep Extension",
+      "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "5RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up",
+    "time_cap": "10 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "hamstrings",
+      "glutes",
+      "rear delts",
+      "biceps"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "triceps",
+      "lats",
+      "abs"
+    ],
+    "reasoning": "Today heavily taxes pressing, pulling, and core; accessory work targets posterior chain and biceps for balance.",
+    "suggested_exercises": [
+      "Romanian Deadlifts 3x8",
+      "Leg Curl Machine 3x10",
+      "Reverse Pec Deck 3x12",
+      "Barbell Curls 3x8",
+      "Glute Bridge Hold 2x20sec"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%\nWorkout | 5RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Thursday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 40 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Workout: 12 Ab Mat Sit Ups, 8 Push Up, 6 Strict Pull Up. For hypertrophy, focus on hamstrings, glutes, rear delts."
+}

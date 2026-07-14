@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-14",
+  "day_name": "Tuesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
+  "strength": [
+    {
+      "name": "Paused Bench Press",
+      "description": "5x6 | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%"
+    },
+    {
+      "name": "Bent Over Row",
+      "description": "1x8 | 10 mins\nWork up to a Top Set. Increase weight each round if possible.\nE2MOMx4\n0:00 8\n2:00 8\n4:00 8\n6:00 8\n08:00 8"
+    },
+    {
+      "name": "DB Chest Fly",
+      "description": "3x10"
+    },
+    {
+      "name": "Lat Pulldown",
+      "description": "3x10"
+    },
+    {
+      "name": "Tricep Extension",
+      "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "For Time",
+    "description": "15min Cap\nFor Time:\n6-8-10-8-6\nBurpee Box Over 24/20\nDB Push Press 22.5/15\nPull Up\nRd 1: 18 reps\nRd 2: 42 reps\nRd 3: 72 reps\nRd 4: 96 reps\nRd 5: 114 reps",
+    "time_cap": "15 min"
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "biceps",
+      "lower back",
+      "glutes"
+    ],
+    "avoid": [
+      "chest",
+      "triceps",
+      "lats",
+      "shoulders"
+    ],
+    "reasoning": "Address posterior chain imbalances and antagonists to heavy pressing/pulling without fatiguing already-taxed upper body.",
+    "suggested_exercises": [
+      "Face Pulls 3x12",
+      "Barbell Rows (Light) 3x8",
+      "EZ Bar Curls 3x10",
+      "Glute Bridges 3x12",
+      "Good Mornings 3x8"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nBent Over Row | 1x8 | 10 mins\nWork up to a Top Set. Increase weight each round if possible.\nE2MOMx4\n0:00 8\n2:00 8\n4:00 8\n6:00 8\n08:00 8\nWorkout | 15min Cap\nFor Time:\n6-8-10-8-6\nBurpee Box Over 24/20\nDB Push Press 22.5/15\nPull Up\nRd 1: 18 reps\nRd 2: 42 reps\nRd 3: 72 reps\nRd 4: 96 reps\nRd 5: 114 reps\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Tuesday's workout. Strength: Paused Bench Press, 5 by 6 at 50 percent. Strength: Bent Over Row, 1 by 8. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: For Time, 15 min cap: 6-8-10-8-6, Pull Up. For hypertrophy, focus on rear deltoids, biceps, lower back."
+}
