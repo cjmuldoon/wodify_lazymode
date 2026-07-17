@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T09:16:19",
+  "last_updated": "2026-07-17T09:10:57",
   "week_of": "2026-07-20",
   "workouts": {
     "2026-02-23": {
@@ -4863,7 +4863,7 @@
       "strength": [
         {
           "name": "Front Squat",
-          "description": "* Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | Set 1 - 21 Reps\nSet 2 - 15 Reps\nSet 3 - 9 Reps\n12min\nBUILD 2x10\n00:00 10 @ 30%\n02:00 10 @ 40%\nSUFFER x3\n04:00 21 @ 50%\n07:00 15 @ 55%\n10:00 12 @ 60%"
+          "description": "* Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | 12min\nBUILD 2x10\n00:00 10 @ 30%\n02:00 10 @ 40%\nSUFFER x3\n04:00 21 @ 50%\n07:00 15 @ 55%\n10:00 12 @ 60%"
         },
         {
           "name": "Hack Squat",
@@ -4893,19 +4893,19 @@
         ],
         "avoid": [
           "quadriceps",
-          "hamstrings",
           "glutes",
+          "hamstrings",
           "calves"
         ],
-        "reasoning": "Today hammers lower body heavily; upper body hypertrophy work aids recovery and maintains balance without competing for CNS resources.",
+        "reasoning": "Today emphasizes lower body and grip endurance; upper body hypertrophy work balances without competing for recovery.",
         "suggested_exercises": [
-          "Bent-Over Barbell Rows 3x8-10",
-          "Incline Dumbbell Bench Press 3x10-12",
-          "Face Pulls 3x12-15",
-          "Dumbbell Lateral Raises 3x12"
+          "Barbell Row 3x8",
+          "Dumbbell Bench Press 3x10",
+          "Lateral Raise 3x12",
+          "Seal Row 3x10"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\n16/12kg KB\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n5e/s Deadbug\n15sec e/s Side Plank\n5e/s Squat Knee Taps\n10e/s Ankle Rocks\n10 Goblet Squat 16/12\nFront Squat | * Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | Set 1 - 21 Reps\nSet 2 - 15 Reps\nSet 3 - 9 Reps\n12min\nBUILD 2x10\n00:00 10 @ 30%\n02:00 10 @ 40%\nSUFFER x3\n04:00 21 @ 50%\n07:00 15 @ 55%\n10:00 12 @ 60%\nCrossfit Games Open 21.2 RX (Ages 16-54) | For time:\r\n\r\n10 dumbbell snatches\r\n15 burpee box jump-overs\r\n20 dumbbell snatches\r\n15 burpee box jump-overs\r\n30 dumbbell snatches\r\n15 burpee box jump-overs\r\n40 dumbbell snatches\r\n15 burpee box jump-overs\r\n50 dumbbell snatches\r\n15 burpee box jump-overs\r\n\r\nF: 35-lb. dumbell, 20-in. box\r\nM: 50-lb. dumbbell, 24-in. box\r\n\r\nTime cap: 20 min\nHack Squat | 3x10 | 3x10\nHamstring Curl | 3x10 | 3x10\nOverhead Walking Lunge | 3x10 | 3x10e/s",
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\n16/12kg KB\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n5e/s Deadbug\n15sec e/s Side Plank\n5e/s Squat Knee Taps\n10e/s Ankle Rocks\n10 Goblet Squat 16/12\nFront Squat | * Elbows Up\n* Deep Breath & Hold\n* Hamstrings to Calves | 12min\nBUILD 2x10\n00:00 10 @ 30%\n02:00 10 @ 40%\nSUFFER x3\n04:00 21 @ 50%\n07:00 15 @ 55%\n10:00 12 @ 60%\nCrossfit Games Open 21.2 RX (Ages 16-54) | For time:\r\n\r\n10 dumbbell snatches\r\n15 burpee box jump-overs\r\n20 dumbbell snatches\r\n15 burpee box jump-overs\r\n30 dumbbell snatches\r\n15 burpee box jump-overs\r\n40 dumbbell snatches\r\n15 burpee box jump-overs\r\n50 dumbbell snatches\r\n15 burpee box jump-overs\r\n\r\nF: 35-lb. dumbell, 20-in. box\r\nM: 50-lb. dumbbell, 24-in. box\r\n\r\nTime cap: 20 min\nHack Squat | 3x10 | 3x10\nHamstring Curl | 3x10 | 3x10\nOverhead Walking Lunge | 3x10 | 3x10e/s",
       "siri_text": "Friday's workout. Strength: Front Squat, 2 by 10 at 60 percent. Strength: Hack Squat, 3 by 10. Strength: Hamstring Curl, 3 by 10. Strength: Overhead Walking Lunge, 3 by 10. Metcon: Crossfit Games Open 21.2 RX (Ages 16-54). For Time, 20 min cap: 10 dumbbell snatches, 15 burpee box jump-overs, 20 dumbbell snatches, 15 burpee box jump-overs, 30 dumbbell snatches. For hypertrophy, focus on back, chest, shoulders."
     },
     "2026-07-18": {
