@@ -4,32 +4,32 @@
   "warm_up": null,
   "strength": [],
   "metcon": {
-    "name": "part A time",
+    "name": "PART B",
     "type": "Workout",
-    "description": "part A time",
+    "description": "8RFT\n30ft shuttle run\n15ft overhead lunges\n15ft handstand walk or bear crawl",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear delts",
+      "back",
       "biceps",
-      "core stability"
+      "rear delts"
     ],
     "avoid": [
+      "shoulders",
+      "core",
       "quads",
-      "glutes",
-      "chest",
-      "shoulders"
+      "glutes"
     ],
-    "reasoning": "Address posterior chain imbalance and arm hypertrophy without competing for recovery resources already taxed by metcon.",
+    "reasoning": "Metcon hammers shoulders, core, and legs; these accessories build antagonists and non-fatigued muscles.",
     "suggested_exercises": [
-      "Face pulls 3 x 12–15",
-      "Dumbbell curls 3 x 10–12",
-      "Pallof press 3 x 8 per side",
-      "Prone incline bench curls 3 x 12"
+      "Barbell rows 3x6-8",
+      "Barbell curls 3x8-10",
+      "Face pulls 3x12-15",
+      "Chest-supported rows 3x8-10"
     ]
   },
-  "raw_text": "Partner WOD | Score Time\nPARTNER WORKOUT for time\nPart A\nIGYG then run together x 4 rounds\n10 wall balls\n5 power snatch @50/35\n5 muscle ups or 5 pull ups & 5 dips\n200m recovery run together\nRest 2 mins\nPart B\n50 DB snatches\n50 box overs\n50 Overhead squat @50/35\n50 T2B\n500m run\nSlow is fast\nIf the run feels hard, you went too hard inside\nScale pull ups to ring rows\nT2B → K2E\nScale dips to push ups",
-  "siri_text": "Saturday's workout. Metcon: part A time. Workout: part A time. For hypertrophy, focus on rear delts, biceps, core stability."
+  "raw_text": "Partner WOD | Score Time\nPARTNER WORKOUT for time\nPart A - time cap 27 mins\n800 m run together\n60 Wall Balls\n40 Pull-ups (scale to jumping/ring rows)\n500 m run together\n30 Toes-to-Bar (or knee raises)\n40 Wall Balls\n300 m run together\n20 Bar Muscle-ups / Chest-to-Bar / Pull-ups\n20 Wall Balls\n200 m run together\nScale pull ups to ring rows\nMake your gymnastics harder in each round\nPART B | 8RFT\n30ft shuttle run\n15ft overhead lunges\n15ft handstand walk or bear crawl",
+  "siri_text": "Saturday's workout. Metcon: PART B. Workout: 30ft shuttle run, 15ft overhead lunges, 15ft handstand walk or bear crawl. For hypertrophy, focus on back, biceps, rear delts."
 }
