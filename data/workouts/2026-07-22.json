@@ -32,30 +32,35 @@
       "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "15 min AMRAP\n8 Push Ups\n30 Double unders\n10 KB Hang Clean & Jerks (5 per side)",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "rear deltoids",
       "biceps",
-      "core/anti-rotation",
-      "glutes"
+      "glutes",
+      "hamstrings"
     ],
     "avoid": [
       "chest",
-      "triceps",
       "shoulders",
-      "lats"
+      "triceps",
+      "quads"
     ],
-    "reasoning": "Addresses posterior chain imbalances and core stability without competing with today's horizontal/vertical pressing and pulling fatigue.",
+    "reasoning": "Prioritize antagonist and posterior chain work to balance today's pressing-heavy session and support recovery.",
     "suggested_exercises": [
-      "Face Pulls: 3x12",
-      "Dumbbell Curls: 3x10",
-      "Pallof Press: 3x8e/s",
-      "Glute Bridges: 3x12",
-      "Dead Bugs: 3x10e/s"
+      "Face Pulls 3x12",
+      "Barbell Curls 3x8",
+      "Bulgarian Split Squats 3x10e/s",
+      "Nordic Curls 3x6",
+      "Reverse Pec Deck 3x12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 50%\n2:00 8 @ 50%\n4:00 8 @ 50%\n6:00 8 @ 50%\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 50 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. For hypertrophy, focus on rear deltoids, biceps, core/anti-rotation."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 50%\n2:00 8 @ 50%\n4:00 8 @ 50%\n6:00 8 @ 50%\nWorkout | 15 min AMRAP\n8 Push Ups\n30 Double unders\n10 KB Hang Clean & Jerks (5 per side)\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 50 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: AMRAP 15 minutes: 8 Push Ups, 30 Double unders, 10 KB Hang Clean & Jerks (5 per side). For hypertrophy, focus on rear deltoids, biceps, glutes."
 }
