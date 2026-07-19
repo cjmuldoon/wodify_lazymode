@@ -3,35 +3,32 @@
   "day_name": "Thursday",
   "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 toe walks\n10 heel walks\n10x Ankle Rocks",
   "strength": [],
-  "metcon": {
-    "name": "Workout",
-    "type": "Workout",
-    "description": "AMRAPx9min\n8 Ring Dip\n6 Pistol Squat\n15/12cals Row",
-    "time_cap": null
-  },
+  "metcon": null,
   "gymnastics": [
     "Ring Dip Progression\nEMOM x4 - 30 Second Hold to Support - Rings or Parrallete (00:00)\nEMOM x 4 Bench Dips x 10 (04:00)\nEMOM x 4 Banded Dips (08:00)\nEMOM x 4 Strict Dips (12:00)\nEMOM x 4 Kipping Dip Practice (16:00-20:00)\nPistol Squat Progression\nEMOM x 10 mins (20:00)\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5 (30:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (35:00)\nCounterbalance Pistols - Small Plate"
   ],
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "hamstrings",
-      "rear delts"
+      "rear delts",
+      "biceps",
+      "core anti-rotation"
     ],
     "avoid": [
       "chest",
-      "shoulders",
+      "triceps",
       "quads",
-      "triceps"
+      "glutes"
     ],
-    "reasoning": "Today heavily fatigues pressing, dips, and quads; build antagonists and posterior chain for balance.",
+    "reasoning": "Chest and triceps are heavily taxed by dip progressions; quads/glutes fatigued by pistol work. Build antagonists.",
     "suggested_exercises": [
-      "Barbell Rows 3x6-8",
-      "Nordic Hamstring Curls 3x5",
-      "Reverse Pec Deck 3x10-12",
-      "Seal Rows 3x8-10"
+      "Bent-over barbell rows 3x6-8",
+      "Face pulls 3x12-15",
+      "Dumbbell bicep curls 3x8-10",
+      "Pallof press 3x10 each side",
+      "Chest-supported machine rows 3x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 toe walks\n10 heel walks\n10x Ankle Rocks\nGymnastics | Ring Dip Progression\nEMOM x4 - 30 Second Hold to Support - Rings or Parrallete (00:00)\nEMOM x 4 Bench Dips x 10 (04:00)\nEMOM x 4 Banded Dips (08:00)\nEMOM x 4 Strict Dips (12:00)\nEMOM x 4 Kipping Dip Practice (16:00-20:00)\nPistol Squat Progression\nEMOM x 10 mins (20:00)\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5 (30:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (35:00)\nCounterbalance Pistols - Small Plate\nWorkout | AMRAPx9min\n8 Ring Dip\n6 Pistol Squat\n15/12cals Row",
-  "siri_text": "Thursday's workout. Gymnastics: Ring Dip Progression. Metcon: Workout: 8 Ring Dip, 6 Pistol Squat, 15/12cals Row. For hypertrophy, focus on back, hamstrings, rear delts."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 toe walks\n10 heel walks\n10x Ankle Rocks\nGymnastics | Ring Dip Progression\nEMOM x4 - 30 Second Hold to Support - Rings or Parrallete (00:00)\nEMOM x 4 Bench Dips x 10 (04:00)\nEMOM x 4 Banded Dips (08:00)\nEMOM x 4 Strict Dips (12:00)\nEMOM x 4 Kipping Dip Practice (16:00-20:00)\nPistol Squat Progression\nEMOM x 10 mins (20:00)\nOdd Minutes\n5 Box Pistols (slow and controlled)\nEven MInutes\n20 Second Pistol Holds (each leg)\nOR Gymnastics squat hold\nEMOM x 5 (30:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (35:00)\nCounterbalance Pistols - Small Plate",
+  "siri_text": "Thursday's workout. Gymnastics: Ring Dip Progression. For hypertrophy, focus on back, rear delts, biceps."
 }

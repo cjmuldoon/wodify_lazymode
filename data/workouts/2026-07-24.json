@@ -5,11 +5,11 @@
   "strength": [
     {
       "name": "Deadlift",
-      "description": "4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%"
+      "description": "4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%"
     },
     {
       "name": "Romanian Deadlift (RDL)",
-      "description": "4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%"
+      "description": "4x10 | 12mins\nE3MOMx4\n0:00 10 @ 45%\n3:00 10 @ 45%\n6:00 10 @ 45%\n9:00 10 @ 45%"
     },
     {
       "name": "Seated Cable Row",
@@ -20,33 +20,28 @@
       "description": "3x10"
     }
   ],
-  "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank",
-    "time_cap": null
-  },
+  "metcon": null,
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "chest",
       "shoulders",
-      "biceps"
+      "triceps"
     ],
     "avoid": [
+      "back",
       "hamstrings",
       "glutes",
-      "lower back",
-      "core"
+      "erector spinae"
     ],
-    "reasoning": "Deadlifts and swings dominate posterior chain and core; chest/shoulders provide antagonist balance and upper body hypertrophy without competing for recovery.",
+    "reasoning": "Today heavily fatigues posterior chain and back; anterior upper body provides active recovery while building complementary strength.",
     "suggested_exercises": [
-      "Incline Dumbbell Press 3x8",
-      "Lateral Raise 3x12",
-      "Barbell Curl 3x10",
-      "Machine Chest Fly 3x12"
+      "Dumbbell Bench Press 3x8",
+      "Incline Dumbbell Flyes 3x10",
+      "Lateral Raises 3x12",
+      "Rope Tricep Pushdowns 3x12"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%\nWorkout | 15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
-  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 40 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 40 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: AMRAP 15 minutes: 6 Deadlift 80/60, 12 Wall Ball 9/6, 15 American KB Swing 24/16. For hypertrophy, focus on chest, shoulders, biceps."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 45%\n3:00 10 @ 45%\n6:00 10 @ 45%\n9:00 10 @ 45%\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
+  "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 50 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 45 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. For hypertrophy, focus on chest, shoulders, triceps."
 }
