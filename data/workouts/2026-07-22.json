@@ -1,51 +1,67 @@
 {
   "date": "2026-07-22",
   "day_name": "Wednesday",
-  "warm_up": "10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
   "strength": [
     {
-      "name": "Deadlift",
-      "description": "4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%"
+      "name": "SUPERSET",
+      "description": "E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)"
     },
     {
-      "name": "Romanian Deadlift (RDL)",
-      "description": "4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%"
+      "name": "DB Chest Press",
+      "description": "4x8 | Neutral Grip\nTouch chest/shoulder"
     },
     {
-      "name": "Seated Cable Row",
+      "name": "Single Arm Dumbbell Row",
+      "description": "4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower"
+    },
+    {
+      "name": "Shoulder Press",
+      "description": "4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%"
+    },
+    {
+      "name": "DB Chest Fly",
       "description": "3x10"
     },
     {
-      "name": "Hamstring Curl",
+      "name": "Lat Pulldown",
       "description": "3x10"
+    },
+    {
+      "name": "Tricep Extension",
+      "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
     }
   ],
   "metcon": {
     "name": "Workout",
-    "type": "AMRAP",
-    "description": "15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank",
-    "time_cap": null
+    "type": "Workout",
+    "description": "5RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up",
+    "time_cap": "10 min"
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders",
-      "biceps"
+      "rear deltoids",
+      "biceps",
+      "glutes",
+      "hamstrings"
     ],
     "avoid": [
-      "posterior chain",
-      "core",
-      "quadriceps"
+      "chest",
+      "triceps",
+      "shoulders",
+      "lats",
+      "core"
     ],
-    "reasoning": "Deadlifts, RDLs, and planks heavily tax posterior chain and core; accessory work should build antagonist muscle groups.",
+    "reasoning": "Today emphasizes pressing, pulling, and core. Target posterior chain and arm flexors to balance and avoid compounding fatigue.",
     "suggested_exercises": [
-      "Dumbbell Bench Press 3x8-10",
-      "Incline Dumbbell Flyes 3x10-12",
-      "Dumbbell Shoulder Press 3x8-10",
-      "Barbell Curls 3x8-10"
+      "Face Pulls 3x12",
+      "Barbell Curls 3x8",
+      "Bulgarian Split Squats 3x10e/s",
+      "Nordic Curls 2x5",
+      "Incline Dumbbell Curls 2x10"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 40%\n3:00 6 @ 40%\n6:00 6 @ 40%\n9:00 6 @ 40%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 40%\n3:00 10 @ 40%\n6:00 10 @ 40%\n9:00 10 @ 40%\nWorkout | 15 min AMRAP\n6 Deadlift 80/60\n12 Wall Ball 9/6\n15 American KB Swing 24/16\n60 sec Plank\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
-  "siri_text": "Wednesday's workout. Strength: Deadlift, 4 by 6 at 40 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 40 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: AMRAP 15 minutes: 6 Deadlift 80/60, 12 Wall Ball 9/6, 15 American KB Swing 24/16. For hypertrophy, focus on chest, shoulders, biceps."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 40%\n2:00 8 @ 40%\n4:00 8 @ 40%\n6:00 8 @ 40%\nWorkout | 5RFT 10min Cap\n12 Ab Mat Sit Ups\n8 Push Up\n6 Strict Pull Up\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 40 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Workout: 12 Ab Mat Sit Ups, 8 Push Up, 6 Strict Pull Up. For hypertrophy, focus on rear deltoids, biceps, glutes."
 }
