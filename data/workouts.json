@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T09:27:32",
+  "last_updated": "2026-07-23T09:25:03",
   "week_of": "2026-07-27",
   "workouts": {
     "2026-02-23": {
@@ -5064,8 +5064,13 @@
     "2026-07-23": {
       "date": "2026-07-23",
       "day_name": "Thursday",
-      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 toe walks\n10 heel walks\n10x Ankle Rocks",
-      "strength": [],
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 Air Squat\n10 Ankle Rocks",
+      "strength": [
+        {
+          "name": "Bulgarian Split Squat",
+          "description": "3x10"
+        }
+      ],
       "metcon": {
         "name": "Workout",
         "type": "AMRAP",
@@ -5073,31 +5078,32 @@
         "time_cap": null
       },
       "gymnastics": [
-        "Tabata 20 seconds on - 10 seconds off x 4 mins\nAlternating Hollow and Arch Hold\nPistol Squat Progression\nEMOM x 5 mins\n10 x DB Bulgarian Split Squats\nEMOM x 5 mins\n5 Box Pistols (slow and controlled)\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together"
+        "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nAlternating Hollow and Arch Hold\nPistol Squat Progression\nEMOM x 5 mins (4:00)\n10 x DB Bulgarian Split Squats\nEMOM x 5 mins (9:00)\n5 Box Pistols (slow and controlled)\nEMOM x 5 (14:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (19:00)\nCounterbalance Pistols - Small Plate\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (24:00)\nEMOM x 3 (26:00)\n10 x Beat Swing\nEMOM x 3 (29:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (32:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (35:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together"
       ],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (lats/rhomboids)",
-          "chest",
-          "biceps"
+          "back",
+          "hamstrings",
+          "rear delts",
+          "core anti-rotation"
         ],
         "avoid": [
-          "quadriceps",
-          "core/abs",
-          "shoulders",
-          "triceps"
+          "quads",
+          "hip flexors",
+          "anterior core",
+          "shoulders"
         ],
-        "reasoning": "Today emphasizes legs, gymnastics pulling, and core; horizontal pressing and rowing balance CNS without competing for recovery.",
+        "reasoning": "Today hammers quads and hip flexors; posterior chain work balances fatigue and prevents imbalance.",
         "suggested_exercises": [
-          "Barbell Rows: 3 x 6–8 (moderate tempo)",
-          "Incline Dumbbell Press: 3 x 8–10",
-          "Barbell Curls: 3 x 8–10",
-          "Chest-Supported Row Machine: 2 x 10–12",
-          "Face Pulls: 2 x 15"
+          "Barbell Rows 3x8",
+          "Nordic Hamstring Curls 3x5",
+          "Reverse Pec Deck 3x12",
+          "Pallof Press 3x10/side",
+          "Good Mornings 3x8"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 toe walks\n10 heel walks\n10x Ankle Rocks\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins\nAlternating Hollow and Arch Hold\nPistol Squat Progression\nEMOM x 5 mins\n10 x DB Bulgarian Split Squats\nEMOM x 5 mins\n5 Box Pistols (slow and controlled)\nEMOM x 5\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5\nCounterbalance Pistols - Small Plate\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 6\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nWorkout | AMRAP x 10\n10 pistols\n8 toes to bar\n3 wall walks",
-      "siri_text": "Thursday's workout. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Metcon: AMRAP: 10 pistols, 8 toes to bar, 3 wall walks. For hypertrophy, focus on back (lats/rhomboids), chest, biceps."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\n10 Air Squat\n10 Ankle Rocks\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nAlternating Hollow and Arch Hold\nPistol Squat Progression\nEMOM x 5 mins (4:00)\n10 x DB Bulgarian Split Squats\nEMOM x 5 mins (9:00)\n5 Box Pistols (slow and controlled)\nEMOM x 5 (14:00)\n5 Eccentric Lower\nTwo Leg stand Up\nEMOM x 5 (19:00)\nCounterbalance Pistols - Small Plate\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (24:00)\nEMOM x 3 (26:00)\n10 x Beat Swing\nEMOM x 3 (29:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (32:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (35:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nWorkout | AMRAP x 10\n10 pistols\n8 toes to bar\n3 wall walks\nBulgarian Split Squat | 3x10",
+      "siri_text": "Thursday's workout. Strength: Bulgarian Split Squat, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Metcon: AMRAP: 10 pistols, 8 toes to bar, 3 wall walks. For hypertrophy, focus on back, hamstrings, rear delts."
     },
     "2026-07-20": {
       "date": "2026-07-20",
