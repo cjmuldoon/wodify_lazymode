@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T09:22:15",
+  "last_updated": "2026-07-25T09:02:43",
   "week_of": "2026-07-27",
   "workouts": {
     "2026-02-23": {
@@ -5207,6 +5207,41 @@
       },
       "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n40% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 12mins\nE3MOMx4\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 45%\n3:00 10 @ 45%\n6:00 10 @ 45%\n9:00 10 @ 45%\nDT | 5 Rounds for time:\n12 Deadlifts, 155# / 105#\n9 Hang Power Cleans, 155# / 105#\n6 Push Jerks, 155# / 105#\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
       "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 50 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 45 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: DT. Rounds for Time: 12 Deadlifts, 155# / 105#, 9 Hang Power Cleans, 155# / 105#, 6 Push Jerks, 155# / 105#. For hypertrophy, focus on chest, shoulders, biceps."
+    },
+    "2026-07-25": {
+      "date": "2026-07-25",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "35-min AMRAP\n500 m row\n40 Wall Balls 9/6 kg\n30 V-Ups\n20 KB Swings 24/16 kg\n10 Pull-Ups\nPartition as required\nRX+ 32/24",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "hamstrings",
+          "back hypertrophy",
+          "triceps"
+        ],
+        "avoid": [
+          "quadriceps",
+          "shoulders",
+          "core",
+          "glutes"
+        ],
+        "reasoning": "Address posterior chain and arm balance while avoiding CNS fatigue from today's pulling and lower-body volume.",
+        "suggested_exercises": [
+          "Nordic Hamstring Curls 3 x 5",
+          "Chest-Supported T-Bar Rows 3 x 8-10",
+          "Rope Tricep Extensions 3 x 12-15",
+          "Reverse Pec Deck 3 x 12-15"
+        ]
+      },
+      "raw_text": "Warm up | 200 m jog together\nThen:\n10 Air Squats\n8 Russian KB Swings\n6 Scap Pull-ups\n8 Alternating V-ups\n6 Wall Balls\n1 round\n5 Kip Swings\n5 Pull-ups\n8 KB Swings @ workout weight\n8 Wall Balls @ workout weight\nWorkout | 35-min AMRAP\n500 m row\n40 Wall Balls 9/6 kg\n30 V-Ups\n20 KB Swings 24/16 kg\n10 Pull-Ups\nPartition as required\nRX+ 32/24",
+      "siri_text": "Saturday's workout. Metcon: AMRAP 35 minutes: 500 m row, 40 Wall Balls 9/6 kg, 30 V-Ups, 20 KB Swings 24/16 kg, 10 Pull-Ups. For hypertrophy, focus on hamstrings, back hypertrophy, triceps."
     }
   }
 }

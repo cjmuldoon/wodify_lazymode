@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-25",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "35-min AMRAP\n500 m row\n40 Wall Balls 9/6 kg\n30 V-Ups\n20 KB Swings 24/16 kg\n10 Pull-Ups\nPartition as required\nRX+ 32/24",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "hamstrings",
+      "back hypertrophy",
+      "triceps"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "core",
+      "glutes"
+    ],
+    "reasoning": "Address posterior chain and arm balance while avoiding CNS fatigue from today's pulling and lower-body volume.",
+    "suggested_exercises": [
+      "Nordic Hamstring Curls 3 x 5",
+      "Chest-Supported T-Bar Rows 3 x 8-10",
+      "Rope Tricep Extensions 3 x 12-15",
+      "Reverse Pec Deck 3 x 12-15"
+    ]
+  },
+  "raw_text": "Warm up | 200 m jog together\nThen:\n10 Air Squats\n8 Russian KB Swings\n6 Scap Pull-ups\n8 Alternating V-ups\n6 Wall Balls\n1 round\n5 Kip Swings\n5 Pull-ups\n8 KB Swings @ workout weight\n8 Wall Balls @ workout weight\nWorkout | 35-min AMRAP\n500 m row\n40 Wall Balls 9/6 kg\n30 V-Ups\n20 KB Swings 24/16 kg\n10 Pull-Ups\nPartition as required\nRX+ 32/24",
+  "siri_text": "Saturday's workout. Metcon: AMRAP 35 minutes: 500 m row, 40 Wall Balls 9/6 kg, 30 V-Ups, 20 KB Swings 24/16 kg, 10 Pull-Ups. For hypertrophy, focus on hamstrings, back hypertrophy, triceps."
+}
