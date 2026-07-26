@@ -26,9 +26,9 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "For Time",
-    "description": "15min Cap\nFor Time:\n6-8-10-8-6\nBurpee Box Over 24/20\nDB Push Press 22.5/15\nPull Up\nRd 1: 18 reps\nRd 2: 42 reps\nRd 3: 72 reps\nRd 4: 96 reps\nRd 5: 114 reps",
-    "time_cap": "15 min"
+    "type": "AMRAP",
+    "description": "15 min AMRAP\n8 Deadlift @ 90/45kg\n8 HSPU\nRun 200m",
+    "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
@@ -36,23 +36,23 @@
       "rear deltoids",
       "biceps",
       "glutes",
-      "core"
+      "upper back"
     ],
     "avoid": [
       "chest",
       "triceps",
-      "lats",
-      "shoulders"
+      "front deltoids",
+      "quadriceps",
+      "lower back"
     ],
-    "reasoning": "Target posterior chain and arms to balance chest/triceps dominance while building work capacity without competing for recovery.",
+    "reasoning": "Target antagonists and underdeveloped areas to balance pressing/deadlift volume without compounding CNS fatigue.",
     "suggested_exercises": [
-      "Face Pulls 3x12",
-      "Barbell Curls 3x8",
-      "Bulgarian Split Squats 3x10 each leg",
-      "Ab Wheel Rollouts 3x8",
-      "Hammer Curls 3x10"
+      "Face pulls: 3x12",
+      "Barbell curls: 3x8",
+      "Nordic hamstring curls: 3x5",
+      "Machine row (chest-supported): 3x10"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | 15mins\nE3MOMx5\n0:00 6 @ 55%\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%\nBent Over Row | 1x8 | 10 mins\nWork up to a Top Set. Increase weight each round if possible. Aim 2-5kg heavier than last time\nE2MOMx4\n0:00 8\n2:00 8\n4:00 8\n6:00 8\n08:00 8\nWorkout | 15min Cap\nFor Time:\n6-8-10-8-6\nBurpee Box Over 24/20\nDB Push Press 22.5/15\nPull Up\nRd 1: 18 reps\nRd 2: 42 reps\nRd 3: 72 reps\nRd 4: 96 reps\nRd 5: 114 reps\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Friday's workout. Strength: Paused Bench Press, 5 by 6 at 55 percent. Strength: Bent Over Row, 1 by 8. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: For Time, 15 min cap: 6-8-10-8-6, Pull Up. For hypertrophy, focus on rear deltoids, biceps, glutes."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | 15mins\nE3MOMx5\n0:00 6 @ 55%\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%\nBent Over Row | 1x8 | 10 mins\nWork up to a Top Set. Increase weight each round if possible. Aim 2-5kg heavier than last time\nE2MOMx4\n0:00 8\n2:00 8\n4:00 8\n6:00 8\n08:00 8\nWorkout | 15 min AMRAP\n8 Deadlift @ 90/45kg\n8 HSPU\nRun 200m\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Friday's workout. Strength: Paused Bench Press, 5 by 6 at 55 percent. Strength: Bent Over Row, 1 by 8. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: AMRAP 15 minutes: 8 Deadlift @ 90/45kg, 8 HSPU. For hypertrophy, focus on rear deltoids, biceps, glutes."
 }

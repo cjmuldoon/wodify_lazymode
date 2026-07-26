@@ -22,32 +22,31 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "EMOM",
-    "description": "EMOM x 15 mins\nMIn 1: 12 Burpees\nMin 2: 12 DB Box Overs @ 22.5/15kg x1\nMin 3: Max C2B Pull Ups\nMin4: Rest\n*Burpees finish with arms overhead and hips/knees locked out.",
-    "time_cap": null
+    "type": "Rounds for Time",
+    "description": "5 RFT\n20 Cal Row\n10 x Burpee to Bar\n30 x Double Unders\n15 min CAP",
+    "time_cap": "15 min"
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
+      "back",
       "rear deltoids",
-      "back (upper/mid)",
-      "triceps"
+      "hamstrings"
     ],
     "avoid": [
       "quadriceps",
-      "chest",
-      "shoulders (anterior)",
+      "front deltoids",
       "biceps",
-      "core"
+      "cardiovascular system"
     ],
-    "reasoning": "Upper back and rear delts balance quad/chest dominance; triceps support pulling without competing with fatigued movement patterns.",
+    "reasoning": "Today hammers quads, shoulders, and conditioning; accessory work targets posterior chain balance and back strength without compounding central nervous system fatigue.",
     "suggested_exercises": [
+      "Bent-Over Barbell Rows: 3x8",
       "Face Pulls: 3x12",
-      "Seal Rows: 3x10",
-      "Incline DB Tricep Extension: 3x10",
-      "Reverse Pec Deck: 3x12"
+      "Nordic Hamstring Curls: 3x5",
+      "Chest-Supported T-Bar Rows: 3x10"
     ]
   },
-  "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n2x KB 16/12\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10e/s 2x KB Rev Lunge + Press 16/12\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nC&J Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nBack Squat | 4x8 | Banded Squat\nBand just BELOW the knee | 8 mins\nE2MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nWorkout | EMOM x 15 mins\nMIn 1: 12 Burpees\nMin 2: 12 DB Box Overs @ 22.5/15kg x1\nMin 3: Max C2B Pull Ups\nMin4: Rest\n*Burpees finish with arms overhead and hips/knees locked out.\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nDB Bicep Curl | 3x10",
-  "siri_text": "Wednesday's workout. Strength: Back Squat, 4 by 8 at 55 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: EMOM 15 minutes: *Burpees finish with arms overhead and hips/knees locked out.. For hypertrophy, focus on rear deltoids, back (upper/mid), triceps."
+  "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n2x KB 16/12\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10e/s 2x KB Rev Lunge + Press 16/12\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nC&J Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nBack Squat | 4x8 | Banded Squat\nBand just BELOW the knee | 8 mins\nE2MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nWorkout | 5 RFT\n20 Cal Row\n10 x Burpee to Bar\n30 x Double Unders\n15 min CAP\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nDB Bicep Curl | 3x10",
+  "siri_text": "Wednesday's workout. Strength: Back Squat, 4 by 8 at 55 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Rounds for Time: 20 Cal Row, 10 x Burpee to Bar, 30 x Double Unders. For hypertrophy, focus on back, rear deltoids, hamstrings."
 }
