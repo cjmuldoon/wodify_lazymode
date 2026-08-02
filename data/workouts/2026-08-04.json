@@ -18,8 +18,8 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "For Time",
-    "description": "21-15-9 for Time\n21 Toes to Rings\n7 Power Snatch / 7 Hang Power Snatch / 7 Squat Snatch\n15 Toes to Rings\n5 PS / 5 HPS / 5 SS\n9 Toes to Rings\n3 PS / 3 HPS / 3 SS\n@ 43/29",
+    "type": "Rounds for Time",
+    "description": "5 RFT\n200m Run\n6 Power Snatches @ 50/35 kg\n10 Pull Ups",
     "time_cap": null
   },
   "gymnastics": [
@@ -27,25 +27,24 @@
   ],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
-      "biceps",
-      "rear delts",
-      "hamstrings"
+      "chest",
+      "hamstrings",
+      "rear delts"
     ],
     "avoid": [
       "quads",
       "shoulders",
-      "core",
-      "triceps"
+      "lats",
+      "core"
     ],
-    "reasoning": "Today heavily taxes quads, shoulders, and core via snatches and gymnastics; build posterior chain and pulling strength.",
+    "reasoning": "Snatch, OHS, and metcon heavily load quads, shoulders, lats, and core; accessory work targets antagonists and underutilized muscles.",
     "suggested_exercises": [
-      "Barbell Rows 3x8",
-      "Dumbbell Curls 3x10",
-      "Face Pulls 3x12",
-      "Lying Leg Curls 3x10"
+      "Incline DB Bench Press: 3x8",
+      "Nordic Hamstring Curls: 3x5e/s",
+      "Face Pulls: 3x12",
+      "Chest Flyes: 3x10"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSnatch Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nWorkout | 21-15-9 for Time\n21 Toes to Rings\n7 Power Snatch / 7 Hang Power Snatch / 7 Squat Snatch\n15 Toes to Rings\n5 PS / 5 HPS / 5 SS\n9 Toes to Rings\n3 PS / 3 HPS / 3 SS\n@ 43/29\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15",
-  "siri_text": "Tuesday's workout. Strength: Snatch Balance, 1 by 3. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: For Time: 21 Toes to Rings, 7 Power Snatch / 7 Hang Power Snatch / 7 Squat Snatch, 15 Toes to Rings, 5 PS / 5 HPS / 5 SS, 9 Toes to Rings. For hypertrophy, focus on back, biceps, rear delts."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSnatch Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nWorkout | 5 RFT\n200m Run\n6 Power Snatches @ 50/35 kg\n10 Pull Ups\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15",
+  "siri_text": "Tuesday's workout. Strength: Snatch Balance, 1 by 3. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Rounds for Time: 200m Run, 6 Power Snatches @ 50/35 kg, 10 Pull Ups. For hypertrophy, focus on chest, hamstrings, rear delts."
 }

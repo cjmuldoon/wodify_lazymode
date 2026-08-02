@@ -34,32 +34,34 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "AMRAP",
-    "description": "15 min AMRAP\n8 Push Ups\n30 Double unders\n10 KB Hang Clean & Jerks (5 per side)",
+    "type": "EMOM",
+    "description": "E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear delts",
+      "rear deltoids",
       "biceps",
-      "lower back",
-      "core"
+      "core/abs",
+      "back thickness"
     ],
     "avoid": [
       "chest",
-      "triceps",
       "shoulders",
-      "lats"
+      "triceps",
+      "quads",
+      "front core"
     ],
-    "reasoning": "Target antagonists and neglected areas to balance pressing volume and support spinal stability without competing for recovery.",
+    "reasoning": "Today's work heavily taxes pressing and leg drive; target antagonists and neglected muscle groups to balance and drive overall hypertrophy without compounding fatigue.",
     "suggested_exercises": [
       "Face Pulls 3x12",
-      "Dumbbell Bicep Curls 3x10",
-      "Back Extensions 3x8",
-      "Pallof Press 3x10e/s"
+      "Barbell Curls 3x8",
+      "Chest-Supported Row 3x10",
+      "Pallof Press 2x10e/s",
+      "Incline Dumbbell Curls 3x10"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\nWorkout | 15 min AMRAP\n8 Push Ups\n30 Double unders\n10 KB Hang Clean & Jerks (5 per side)\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: AMRAP 15 minutes: 8 Push Ups, 30 Double unders, 10 KB Hang Clean & Jerks (5 per side). For hypertrophy, focus on rear delts, biceps, lower back."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\nSki Erg Relay | Accumulate 200m per athlete as a class\nTransition every 100m\nI.e. 6 athletes to complete 1200m total - shared equally\n**Damper should be on about 6\nWorkout | E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: EMOM 2 minutes: 20m Heavy Sled Up Push and Pull Back, 12 Front rack reverse lunges @ 40/30, 12 V-Ups. For hypertrophy, focus on rear deltoids, biceps, core/abs."
 }

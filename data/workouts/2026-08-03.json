@@ -21,9 +21,9 @@
     }
   ],
   "metcon": {
-    "name": "DT",
-    "type": "Rounds for Time",
-    "description": "5 Rounds for time:\n12 Deadlifts, 155# / 105#\n9 Hang Power Cleans, 155# / 105#\n6 Push Jerks, 155# / 105#",
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E3MOM x 5\n12/10 Cal Assault Bike\n15 Wall Balls 9/6kg\n*Score Slowest Round.\n*Aim for a pace you can repeate for all 5 rounds - fastest and slowest rounds should be within 10 seconds of each other.\n*Fast Transitions\nScale to 10/8 or 12 wall balls -",
     "time_cap": null
   },
   "gymnastics": [],
@@ -34,18 +34,20 @@
       "biceps"
     ],
     "avoid": [
-      "posterior chain",
-      "quads",
-      "glutes"
+      "hamstrings",
+      "glutes",
+      "lower back",
+      "quadriceps"
     ],
-    "reasoning": "Upper body pull/press work balances lower body dominance without competing for recovery resources.",
+    "reasoning": "Today emphasizes posterior chain and legs; accessory work targets anterior/upper body to balance muscular development without compounding lower body fatigue.",
     "suggested_exercises": [
-      "Incline Dumbbell Press: 3x8–10",
-      "Face Pulls: 3x12–15",
-      "Dumbbell Flyes: 3x10–12",
-      "Barbell Curls: 3x8–10"
+      "Incline Dumbbell Press 3x8-10",
+      "Face Pulls 3x12-15",
+      "Barbell Curl 3x8-10",
+      "Dumbbell Lateral Raise 2x10-12",
+      "Machine Chest Fly 3x10-12"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 50%\n3:00 10 @ 50%\n6:00 10 @ 50%\n9:00 10 @ 50%\nDT | 5 Rounds for time:\n12 Deadlifts, 155# / 105#\n9 Hang Power Cleans, 155# / 105#\n6 Push Jerks, 155# / 105#\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
-  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 55 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 50 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: DT. Rounds for Time: 12 Deadlifts, 155# / 105#, 9 Hang Power Cleans, 155# / 105#, 6 Push Jerks, 155# / 105#. For hypertrophy, focus on chest, shoulders, biceps."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n2 Rounds:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n15 BB Good Morning\n15 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Double Pause Deadlift\n* Pause just off floor & at knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%\nRomanian Deadlift (RDL) | 4x10 | 12mins\nE3MOMx4\n0:00 10 @ 50%\n3:00 10 @ 50%\n6:00 10 @ 50%\n9:00 10 @ 50%\nWorkout | E3MOM x 5\n12/10 Cal Assault Bike\n15 Wall Balls 9/6kg\n*Score Slowest Round.\n*Aim for a pace you can repeate for all 5 rounds - fastest and slowest rounds should be within 10 seconds of each other.\n*Fast Transitions\nScale to 10/8 or 12 wall balls -\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
+  "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 55 percent. Strength: Romanian Deadlift (RDL), 4 by 10 at 50 percent. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: EMOM: 12/10 Cal Assault Bike, 15 Wall Balls 9/6kg, *Fast Transitions. For hypertrophy, focus on chest, shoulders, biceps."
 }
