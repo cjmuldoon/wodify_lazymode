@@ -34,34 +34,33 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "EMOM",
-    "description": "E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)",
+    "type": "AMRAP",
+    "description": "Partner Workout  - IGYG\n16 min AMRAP\n10/8 Calorie Row\n6 C2B\n6 Ring Dips",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear deltoids",
-      "biceps",
-      "core/abs",
-      "back thickness"
+      "glutes",
+      "hamstrings",
+      "rear delts",
+      "biceps"
     ],
     "avoid": [
       "chest",
       "shoulders",
       "triceps",
-      "quads",
-      "front core"
+      "lats"
     ],
-    "reasoning": "Today's work heavily taxes pressing and leg drive; target antagonists and neglected muscle groups to balance and drive overall hypertrophy without compounding fatigue.",
+    "reasoning": "Today emphasizes horizontal push/pull and vertical press; target posterior chain and arm flexors for balance.",
     "suggested_exercises": [
+      "Romanian Deadlifts 3x8",
+      "Glute Bridge Hold 3x15",
       "Face Pulls 3x12",
-      "Barbell Curls 3x8",
-      "Chest-Supported Row 3x10",
-      "Pallof Press 2x10e/s",
-      "Incline Dumbbell Curls 3x10"
+      "Dumbbell Curls 3x10",
+      "Reverse Pec Deck 3x12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\nSki Erg Relay | Accumulate 200m per athlete as a class\nTransition every 100m\nI.e. 6 athletes to complete 1200m total - shared equally\n**Damper should be on about 6\nWorkout | E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: EMOM 2 minutes: 20m Heavy Sled Up Push and Pull Back, 12 Front rack reverse lunges @ 40/30, 12 V-Ups. For hypertrophy, focus on rear deltoids, biceps, core/abs."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\nWorkout | Partner Workout  - IGYG\n16 min AMRAP\n10/8 Calorie Row\n6 C2B\n6 Ring Dips\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: AMRAP 16 minutes: Partner Workout  - IGYG, 10/8 Calorie Row, 6 C2B, 6 Ring Dips. For hypertrophy, focus on glutes, hamstrings, rear delts."
 }
