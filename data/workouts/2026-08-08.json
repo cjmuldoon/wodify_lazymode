@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-08",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "Partner workout\nPartition as required\nFor time\n600 m Row\n6 Rope Climbs\n60 KB Swings\n40 Burpee Box Jump-Overs\n400 m Row\n4 Rope Climbs\n40 KB Swings\n30 Burpee Box Jump-Overs\n200 m Row\n2 Rope Climbs\n20 KB Swings\n20 Burpee Box Jump-Overs\nrest 3 mins\nPart B - 10 min AMRAP\nYGIG\n20m farmer carry @80/50kg per hand\n8 sand bag squats",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts",
+      "core stability"
+    ],
+    "avoid": [
+      "legs",
+      "shoulders",
+      "grip",
+      "cardiovascular system"
+    ],
+    "reasoning": "Today hammers legs, grip, and systemic conditioning; build antagonists and neglected pulling patterns.",
+    "suggested_exercises": [
+      "Bent-over barbell rows 3x8",
+      "Dumbbell bicep curls 3x10",
+      "Face pulls 3x12",
+      "Ab wheel rollouts 3x8",
+      "Seal rows 2x10"
+    ]
+  },
+  "raw_text": "Workout | Partner workout\nPartition as required\nFor time\n600 m Row\n6 Rope Climbs\n60 KB Swings\n40 Burpee Box Jump-Overs\n400 m Row\n4 Rope Climbs\n40 KB Swings\n30 Burpee Box Jump-Overs\n200 m Row\n2 Rope Climbs\n20 KB Swings\n20 Burpee Box Jump-Overs\nrest 3 mins\nPart B - 10 min AMRAP\nYGIG\n20m farmer carry @80/50kg per hand\n8 sand bag squats",
+  "siri_text": "Saturday's workout. Metcon: AMRAP 3 minutes: Partner workout, Partition as required, 600 m Row, 6 Rope Climbs, 60 KB Swings. For hypertrophy, focus on back, biceps, rear delts."
+}

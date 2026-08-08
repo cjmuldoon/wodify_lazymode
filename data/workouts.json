@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T07:32:34",
+  "last_updated": "2026-08-08T07:23:02",
   "week_of": "2026-08-10",
   "workouts": {
     "2026-02-23": {
@@ -5798,6 +5798,43 @@
       },
       "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n2x KB 16/12\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10e/s 2x KB Rev Lunge + Press 16/12\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nC&J Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nBack Squat | 4x6 | Banded Squat\nBand just BELOW the knee | 10 mins\nE2MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 60%\n4:00 6 @ 60%\n6:00 6 @ 60%\n8:00 6 @ 60%\nSki Erg Relay | Accumulate 200m per athlete as a class\nTransition every 100m\nI.e. 6 athletes to complete 1200m total - shared equally\n**Damper should be on about 6\nWorkout | E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nDB Bicep Curl | 3x10",
       "siri_text": "Friday's workout. Strength: Back Squat, 4 by 6 at 60 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: EMOM 2 minutes: 20m Heavy Sled Up Push and Pull Back, 12 Front rack reverse lunges @ 40/30, 12 V-Ups. For hypertrophy, focus on back, shoulders (rear/mid), glutes."
+    },
+    "2026-08-08": {
+      "date": "2026-08-08",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "Partner workout\nPartition as required\nFor time\n600 m Row\n6 Rope Climbs\n60 KB Swings\n40 Burpee Box Jump-Overs\n400 m Row\n4 Rope Climbs\n40 KB Swings\n30 Burpee Box Jump-Overs\n200 m Row\n2 Rope Climbs\n20 KB Swings\n20 Burpee Box Jump-Overs\nrest 3 mins\nPart B - 10 min AMRAP\nYGIG\n20m farmer carry @80/50kg per hand\n8 sand bag squats",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "biceps",
+          "rear delts",
+          "core stability"
+        ],
+        "avoid": [
+          "legs",
+          "shoulders",
+          "grip",
+          "cardiovascular system"
+        ],
+        "reasoning": "Today hammers legs, grip, and systemic conditioning; build antagonists and neglected pulling patterns.",
+        "suggested_exercises": [
+          "Bent-over barbell rows 3x8",
+          "Dumbbell bicep curls 3x10",
+          "Face pulls 3x12",
+          "Ab wheel rollouts 3x8",
+          "Seal rows 2x10"
+        ]
+      },
+      "raw_text": "Workout | Partner workout\nPartition as required\nFor time\n600 m Row\n6 Rope Climbs\n60 KB Swings\n40 Burpee Box Jump-Overs\n400 m Row\n4 Rope Climbs\n40 KB Swings\n30 Burpee Box Jump-Overs\n200 m Row\n2 Rope Climbs\n20 KB Swings\n20 Burpee Box Jump-Overs\nrest 3 mins\nPart B - 10 min AMRAP\nYGIG\n20m farmer carry @80/50kg per hand\n8 sand bag squats",
+      "siri_text": "Saturday's workout. Metcon: AMRAP 3 minutes: Partner workout, Partition as required, 600 m Row, 6 Rope Climbs, 60 KB Swings. For hypertrophy, focus on back, biceps, rear delts."
     }
   }
 }
