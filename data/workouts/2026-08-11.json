@@ -1,51 +1,52 @@
 {
   "date": "2026-08-11",
   "day_name": "Tuesday",
-  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
   "strength": [
     {
-      "name": "Snatch Balance",
-      "description": "1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3"
+      "name": "Paused Bench Press",
+      "description": "5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%"
     },
     {
-      "name": "Overhead Squat",
-      "description": "4x6 | 4x6 @ 50%"
+      "name": "Front Squat",
+      "description": "4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%"
     },
     {
-      "name": "DB Windmill",
-      "description": "3x10 | 3x10e/s"
+      "name": "DB Chest Fly",
+      "description": "3x10"
+    },
+    {
+      "name": "Lat Pulldown",
+      "description": "3x10"
+    },
+    {
+      "name": "Tricep Extension",
+      "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
     }
   ],
-  "metcon": {
-    "name": "Workout",
-    "type": "Rounds for Time",
-    "description": "5 RFT\n200m Run\n6 Power Snatches @ 50/35 kg\n10 Pull Ups",
-    "time_cap": null
-  },
-  "gymnastics": [
-    "GHD Sit-ups"
-  ],
+  "metcon": null,
+  "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "back (horizontal)",
-      "triceps"
+      "rear deltoids",
+      "back width",
+      "hamstrings",
+      "glutes"
     ],
     "avoid": [
-      "shoulders",
-      "quadriceps",
-      "hamstrings",
-      "glutes",
-      "core"
+      "chest",
+      "triceps",
+      "quads",
+      "front deltoids"
     ],
-    "reasoning": "Today heavily taxes vertical pulling/pressing and lower body; horizontal pressing/pulling and arms remain fresh.",
+    "reasoning": "Balance anterior-dominant strength work; address posterior chain and horizontal back tension for structural balance.",
     "suggested_exercises": [
-      "Dumbbell Bench Press: 3x8–10",
-      "Barbell Rows: 3x8–10",
-      "Skull Crushers: 3x10–12",
-      "Face Pulls: 3x12–15"
+      "Face Pulls: 3x12",
+      "Seal Rows (chest-supported): 3x10",
+      "Romanian Deadlifts: 3x8",
+      "Leg Curls: 3x12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n10 Band Row Rotate Press\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Balance | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSnatch Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nWorkout | 5 RFT\n200m Run\n6 Power Snatches @ 50/35 kg\n10 Pull Ups\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15",
-  "siri_text": "Tuesday's workout. Strength: Snatch Balance, 1 by 3. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Rounds for Time: 200m Run, 6 Power Snatches @ 50/35 kg, 10 Pull Ups. For hypertrophy, focus on chest, back (horizontal), triceps."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nFront Squat | 4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Tuesday's workout. Strength: Paused Bench Press, 5 by 6 at 50 percent. Strength: Front Squat, 4 by 8 at 55 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. For hypertrophy, focus on rear deltoids, back width, hamstrings."
 }

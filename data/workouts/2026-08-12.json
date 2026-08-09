@@ -1,66 +1,46 @@
 {
   "date": "2026-08-12",
   "day_name": "Wednesday",
-  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10",
   "strength": [
     {
-      "name": "SUPERSET",
-      "description": "E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)"
+      "name": "Deadlift",
+      "description": "4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 40%\nHOLD 4x6\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%"
     },
     {
-      "name": "DB Chest Press",
-      "description": "4x8 | Neutral Grip\nTouch chest/shoulder"
+      "name": "Split Jerk",
+      "description": "1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3"
     },
     {
-      "name": "Single Arm Dumbbell Row",
-      "description": "4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower"
-    },
-    {
-      "name": "Shoulder Press",
-      "description": "4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%"
-    },
-    {
-      "name": "DB Chest Fly",
+      "name": "Seated Cable Row",
       "description": "3x10"
     },
     {
-      "name": "Lat Pulldown",
+      "name": "Hamstring Curl",
       "description": "3x10"
-    },
-    {
-      "name": "Tricep Extension",
-      "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
     }
   ],
-  "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "Partner Workout  - IGYG\n16 min AMRAP\n10/8 Calorie Row\n6 C2B\n6 Ring Dips",
-    "time_cap": null
-  },
+  "metcon": null,
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "hamstrings",
-      "glutes",
-      "rear delts",
+      "chest",
+      "shoulders",
       "biceps"
     ],
     "avoid": [
-      "chest",
-      "shoulders",
-      "triceps",
-      "lats"
+      "back",
+      "legs",
+      "triceps"
     ],
-    "reasoning": "Today hammers pressing and pulling vertically; posterior chain and arm flexors are undertaxed and complement without competing for recovery.",
+    "reasoning": "Deadlift and row tax posterior chain heavily; jerk fatigues shoulders and triceps. Target anterior kinetic chain.",
     "suggested_exercises": [
-      "Romanian Deadlifts 3x6-8",
-      "Leg Curls 3x10-12",
-      "Face Pulls 3x12-15",
-      "Dumbbell Curls 3x8-10",
-      "Glute Bridges 3x12"
+      "Incline Dumbbell Press 3x8",
+      "Cable Chest Flyes 3x12",
+      "Dumbbell Lateral Raises 3x10",
+      "Barbell Curls 3x8"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n10 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nSUPERSET | E4MOMx4\n8 DB Chest Press 22.5/15\n10e/s 2 sec Paused Single Arm DB Row\nScaled 15/10\nRX 22.5/15\nRX+ Anything above RX (DBs out back go up to 60 kg. Try me ;P)\nDB Chest Press | 4x8 | Neutral Grip\nTouch chest/shoulder\nSingle Arm Dumbbell Row | 4x10 | 4x10e/s\n2 sec pause at the top\nSqueeze shoulder blades\nStart the lawnmower\nShoulder Press | 4x8 | Strict Press\nNot elbows up\nBar in palm not knuckles\nPunch the ceiling (knuckles up) | E2MOMx4\n0:00 8 @ 60%\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\nWorkout | Partner Workout  - IGYG\n16 min AMRAP\n10/8 Calorie Row\n6 C2B\n6 Ring Dips\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Wednesday's workout. Strength: SUPERSET. Strength: DB Chest Press, 4 by 8. Strength: Single Arm Dumbbell Row, 4 by 10. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: AMRAP 16 minutes: Partner Workout  - IGYG, 10/8 Calorie Row, 6 C2B, 6 Ring Dips. For hypertrophy, focus on hamstrings, glutes, rear delts."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 40%\nHOLD 4x6\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nSplit Jerk Warm Up | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10\nSplit Jerk | 1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSeated Cable Row | 3x10\nHamstring Curl | 3x10",
+  "siri_text": "Wednesday's workout. Strength: Deadlift, 4 by 6 at 50 percent. Strength: Split Jerk, 1 by 3. Strength: Seated Cable Row, 3 by 10. Strength: Hamstring Curl, 3 by 10. For hypertrophy, focus on chest, shoulders, biceps."
 }
