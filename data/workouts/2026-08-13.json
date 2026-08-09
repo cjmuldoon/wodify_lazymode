@@ -3,30 +3,37 @@
   "day_name": "Thursday",
   "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
   "strength": [],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "AMRAP",
+    "description": "10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
+    "time_cap": null
+  },
   "gymnastics": [
-    "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nDouble Under Progression\nOdd Min Singles - focus on jumping higher (5:00-15:00)\nEven Mins Penguin Clap Drill\nDouble Under attempts - (15:00-20:00)\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (29:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (32:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (35:00-38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together"
+    "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back  & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (29:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (32:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (35:00-38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3\nAggressive Knees to chest - with toe flick"
   ],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "back (horizontal pulling)",
-      "hamstrings"
+      "posterior deltoids",
+      "rear delts/back",
+      "biceps",
+      "glutes"
     ],
     "avoid": [
+      "abs",
+      "hip flexors",
       "shoulders",
-      "core",
       "lats",
-      "forearms"
+      "grip strength"
     ],
-    "reasoning": "Today's gymnastics heavily taxes shoulders, core, and pulling mechanics; address posterior chain and horizontal pressing to balance.",
+    "reasoning": "Today taxes pulling, core, and gymnastics strength. Target posterior chain and arm hypertrophy to balance while avoiding fatigue overlap.",
     "suggested_exercises": [
-      "Incline dumbbell bench press 3 x 8–10",
-      "Seal rows 3 x 10–12",
-      "Nordic hamstring curls 3 x 5–6",
-      "Chest-supported row machine 3 x 12–15"
+      "Reverse Pec Deck Flyes - 3 x 12-15",
+      "Dumbbell Rows - 3 x 10-12",
+      "EZ Bar Curls - 3 x 10-12",
+      "Bulgarian Split Squats - 3 x 8-10 each leg"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nDouble Under Progression\nOdd Min Singles - focus on jumping higher (5:00-15:00)\nEven Mins Penguin Clap Drill\nDouble Under attempts - (15:00-20:00)\nDouble - single - single - single - Double\nfor the DU Experts - go for max sets every 2-3 mins\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nJump Into Hollow/Arch x 10\nEMOM x 3 (29:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (32:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (35:00-38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together",
-  "siri_text": "Thursday's workout. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. For hypertrophy, focus on chest, back (horizontal pulling), hamstrings."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back  & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (29:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (32:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (35:00-38:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3\nAggressive Knees to chest - with toe flick\nWorkout | 10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
+  "siri_text": "Thursday's workout. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Metcon: AMRAP 10 minutes: 12 V-ups or Tuck sits, 8 Burpees (hands above head & hips lockout). For hypertrophy, focus on posterior deltoids, rear delts/back, biceps."
 }

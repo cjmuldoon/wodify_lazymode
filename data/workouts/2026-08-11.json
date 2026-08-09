@@ -24,7 +24,12 @@
       "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E4MOM x 4\n8 Chest-to-Bar\n15/12 cal Assault Bike\n8 Box Overs 40/30\"\nrest in time remaining\nscore slowest round",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
@@ -37,16 +42,16 @@
       "chest",
       "triceps",
       "quads",
-      "front deltoids"
+      "shoulders"
     ],
-    "reasoning": "Balance anterior-dominant strength work; address posterior chain and horizontal back tension for structural balance.",
+    "reasoning": "Build posterior chain and back width to balance pressing emphasis and support pulling durability.",
     "suggested_exercises": [
       "Face Pulls: 3x12",
-      "Seal Rows (chest-supported): 3x10",
-      "Romanian Deadlifts: 3x8",
-      "Leg Curls: 3x12"
+      "Seal Rows: 3x10",
+      "GHD Sit-ups: 3x8",
+      "Romanian Deadlifts: 3x8"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nFront Squat | 4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Tuesday's workout. Strength: Paused Bench Press, 5 by 6 at 50 percent. Strength: Front Squat, 4 by 8 at 55 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. For hypertrophy, focus on rear deltoids, back width, hamstrings."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nFront Squat | 4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%\nWorkout | E4MOM x 4\n8 Chest-to-Bar\n15/12 cal Assault Bike\n8 Box Overs 40/30\"\nrest in time remaining\nscore slowest round\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Tuesday's workout. Strength: Paused Bench Press, 5 by 6 at 50 percent. Strength: Front Squat, 4 by 8 at 55 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: EMOM: 8 Chest-to-Bar, 15/12 cal Assault Bike, 8 Box Overs 40/30\". For hypertrophy, focus on rear deltoids, back width, hamstrings."
 }
