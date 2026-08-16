@@ -2,36 +2,42 @@
   "date": "2026-08-20",
   "day_name": "Thursday",
   "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
-  "strength": [],
+  "strength": [
+    {
+      "name": "GHD Russian Twist",
+      "description": "3x10"
+    }
+  ],
   "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
+    "name": "Handstand Hold",
+    "type": "Workout",
+    "description": "3x30seconds",
     "time_cap": null
   },
   "gymnastics": [
-    "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick"
+    "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick",
+    "GHD Sit-ups"
   ],
   "hypertrophy": {
     "recommended_muscles": [
       "chest",
-      "back thickness",
-      "hamstrings"
+      "back rows",
+      "triceps"
     ],
     "avoid": [
+      "core",
       "shoulders",
       "lats",
-      "core",
-      "hip flexors"
+      "grip strength"
     ],
-    "reasoning": "Today prioritizes gymnastics pulling and core work; build chest and posterior chain without competing for CNS.",
+    "reasoning": "Today heavily taxes core, shoulders, and pulling. Address pressing patterns and horizontal back work to balance.",
     "suggested_exercises": [
-      "Dumbbell Bench Press 3x8–10",
-      "Pendulum Squats 3x10–12",
-      "Chest-Supported Rows 3x10–12",
-      "Nordic Curls 3x5–6 reps"
+      "Dumbbell bench press: 3x8–10",
+      "Seal rows: 3x10–12",
+      "Overhead tricep extension: 3x12–15",
+      "Chest-supported row machine: 3x10–12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick\nWorkout | 10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
-  "siri_text": "Thursday's workout. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Metcon: AMRAP 10 minutes: 12 V-ups or Tuck sits, 8 Burpees (hands above head & hips lockout). For hypertrophy, focus on chest, back thickness, hamstrings."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick\nWorkout | 10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+  "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on chest, back rows, triceps."
 }

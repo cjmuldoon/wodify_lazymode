@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T09:10:27",
+  "last_updated": "2026-08-16T10:08:03",
   "week_of": "2026-08-17",
   "workouts": {
     "2026-02-23": {
@@ -6137,11 +6137,15 @@
     "2026-08-17": {
       "date": "2026-08-17",
       "day_name": "Monday",
-      "warm_up": "15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n2x KB 16/12\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10e/s 2x KB Rev Lunge + Press 16/12\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk",
+      "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n30 sec Plank\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10 Banded BB Squat",
       "strength": [
         {
           "name": "Back Squat",
-          "description": "4x6 | Banded Squat\nBand just BELOW the knee | 10 mins\nE2MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 60%\n4:00 6 @ 60%\n6:00 6 @ 60%\n8:00 6 @ 60%"
+          "description": "4x6 | 3sec Eccentric (downward portion)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands and depth checks | 10 mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%"
+        },
+        {
+          "name": "Shoulder Press",
+          "description": "4x8 | E2MOMx5\nBUILD 1 Set\n0:00 8  @ 50%\nHOLD 4x8\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\n8:00 8 @ 60%"
         },
         {
           "name": "Hack Squat",
@@ -6152,41 +6156,34 @@
           "description": "3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up"
         },
         {
-          "name": "DB Bicep Curl",
-          "description": "3x10"
+          "name": "Walking Lunge",
+          "description": "3x10 | 3x10e/s"
         }
       ],
-      "metcon": {
-        "name": "Workout",
-        "type": "EMOM",
-        "description": "E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)",
-        "time_cap": null
-      },
+      "metcon": null,
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
           "back",
-          "shoulders (rear/side)",
-          "triceps"
+          "biceps",
+          "abs"
         ],
         "avoid": [
-          "quadriceps",
+          "quads",
           "glutes",
-          "hamstrings",
-          "core",
-          "shoulders (anterior)"
+          "shoulders",
+          "triceps"
         ],
-        "reasoning": "Lower body and anterior chain heavily taxed; build posterior chain and pressing muscles without competing for recovery.",
+        "reasoning": "Back and biceps are minimally taxed; they balance quad/glute dominance while abs support spinal stability under load.",
         "suggested_exercises": [
-          "Barbell Rows 3x8",
-          "Face Pulls 3x12",
-          "Reverse Pec Deck 3x10",
-          "Skull Crushers 3x10",
-          "Seal Rows 3x8"
+          "Barbell Rows: 3x8",
+          "Dumbbell Bicep Curls: 3x10",
+          "Incline Bench Holds (isometric): 2x30sec",
+          "Ab Wheel Rollouts: 3x8"
         ]
       },
-      "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n2x KB 16/12\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10e/s 2x KB Rev Lunge + Press 16/12\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\n3 Split Jerk\nC&J Complex | Work up to a Top Set. Increase weight each round if possible.\nE3MOM x 5 sets\n00:00\n03:00\n06:00\n09:00\n12:00\nBack Squat | 4x6 | Banded Squat\nBand just BELOW the knee | 10 mins\nE2MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 60%\n4:00 6 @ 60%\n6:00 6 @ 60%\n8:00 6 @ 60%\nSki Erg Relay | Accumulate 200m per athlete as a class\nTransition every 100m\nI.e. 6 athletes to complete 1200m total - shared equally\n**Damper should be on about 6\nWorkout | E3MOM x 4 Rounds\n20m Heavy Sled Up Push and Pull Back\n12 Front rack reverse lunges @ 40/30\n12 V-Ups\nScale load/Reps to finish within 2 mins allowing for 1 min rest.\n(offset athletes into heats starting 1 minute after each other to save on sleds/space)\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nDB Bicep Curl | 3x10",
-      "siri_text": "Monday's workout. Strength: Back Squat, 4 by 6 at 60 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: EMOM 2 minutes: 20m Heavy Sled Up Push and Pull Back, 12 Front rack reverse lunges @ 40/30, 12 V-Ups. For hypertrophy, focus on back, shoulders (rear/side), triceps."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n30 sec Plank\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10 Banded BB Squat\nBack Squat | 4x6 | 3sec Eccentric (downward portion)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands and depth checks | 10 mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nShoulder Press | 4x8 | E2MOMx5\nBUILD 1 Set\n0:00 8  @ 50%\nHOLD 4x8\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\n8:00 8 @ 60%\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s",
+      "siri_text": "Monday's workout. Strength: Back Squat, 4 by 6 at 55 percent. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. For hypertrophy, focus on back, biceps, abs."
     },
     "2026-08-18": {
       "date": "2026-08-18",
@@ -6194,20 +6191,16 @@
       "warm_up": "15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean",
       "strength": [
         {
-          "name": "Clean Pull",
-          "description": "1x3 | * Pause just above knee\n* Soft Elbows\n* Sweep up the thigh | 8mins\nWork up to a Top Set of 3. Increase weight each round if possible.\nE2MOMx4\n0:00 3\n2:00 3\n4:00 3\n6:00 3"
-        },
-        {
           "name": "Clean",
           "description": "4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%"
         },
         {
-          "name": "Hack Squat",
+          "name": "Romanian Deadlift (RDL)",
           "description": "3x10"
         },
         {
-          "name": "Lateral Raise",
-          "description": "3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up"
+          "name": "Upright Row",
+          "description": "3x10"
         },
         {
           "name": "DB Bicep Curl",
@@ -6215,34 +6208,34 @@
         }
       ],
       "metcon": {
-        "name": "Workout",
-        "type": "Rounds for Time",
-        "description": "4 RFT\n300m run\n20m KB overhead walking lunge\n10 Wall Balls",
+        "name": "Clean Drill",
+        "type": "Workout",
+        "description": "Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back",
-          "rear delts",
-          "triceps"
+          "chest",
+          "shoulders (rear delt)",
+          "core stability"
         ],
         "avoid": [
-          "quads",
-          "shoulders (front/mid)",
+          "legs",
+          "lower back",
           "biceps",
-          "core"
+          "traps"
         ],
-        "reasoning": "Today hammers legs, front delts, and biceps; build posterior chain and triceps for balance and joint health.",
+        "reasoning": "Today taxes posterior chain and pulling. Target anterior/structural balance without competing for CNS recovery.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Face Pulls: 3x12",
-          "Tricep Rope Pushdowns: 3x10",
-          "Seal Rows: 2x10"
+          "DB Bench Press: 3x8-10",
+          "Face Pulls: 3x12-15",
+          "Pallof Press: 3x10/side",
+          "Chest Fly Machine: 2x12"
         ]
       },
-      "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Pull | 1x3 | * Pause just above knee\n* Soft Elbows\n* Sweep up the thigh | 8mins\nWork up to a Top Set of 3. Increase weight each round if possible.\nE2MOMx4\n0:00 3\n2:00 3\n4:00 3\n6:00 3\nClean | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nWorkout | 4 RFT\n300m run\n20m KB overhead walking lunge\n10 Wall Balls\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nDB Bicep Curl | 3x10",
-      "siri_text": "Tuesday's workout. Strength: Clean Pull, 1 by 3. Strength: Clean, 4 by 3 at 70 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Rounds for Time: 300m run, 20m KB overhead walking lunge, 10 Wall Balls. For hypertrophy, focus on back, rear delts, triceps."
+      "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Drill | Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each\nClean | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nRomanian Deadlift (RDL) | 3x10\nUpright Row | 3x10\nDB Bicep Curl | 3x10",
+      "siri_text": "Tuesday's workout. Strength: Clean, 4 by 3 at 70 percent. Strength: Romanian Deadlift (RDL), 3 by 10. Strength: Upright Row, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Clean Drill. Workout: Do Together (in pairs), Proximity Clean, 1 PVC Pipe each. For hypertrophy, focus on chest, shoulders (rear delt), core stability."
     },
     "2026-08-19": {
       "date": "2026-08-19",
@@ -6251,11 +6244,11 @@
       "strength": [
         {
           "name": "Paused Bench Press",
-          "description": "5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%"
+          "description": "4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%"
         },
         {
           "name": "Front Squat",
-          "description": "4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%"
+          "description": "4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%"
         },
         {
           "name": "DB Chest Fly",
@@ -6270,74 +6263,75 @@
           "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
         }
       ],
-      "metcon": {
-        "name": "Workout",
-        "type": "EMOM",
-        "description": "E4MOM x 4\n8 Chest-to-Bar\n15/12 cal Assault Bike\n8 Box Overs 40/30\"\nrest in time remaining\nscore slowest round",
-        "time_cap": null
-      },
+      "metcon": null,
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "rear delts",
-          "back thickness",
+          "rear deltoids",
+          "biceps",
           "glutes",
-          "hamstrings"
+          "lower back"
         ],
         "avoid": [
           "chest",
           "triceps",
           "quads",
-          "shoulders"
+          "front delts"
         ],
-        "reasoning": "Target posterior chain and upper back to balance chest-dominant day and prepare for bike/box work recovery.",
+        "reasoning": "Balance horizontal pressing/leg volume with posterior chain work; minimize CNS fatigue from overlapping muscle groups.",
         "suggested_exercises": [
           "Face Pulls: 3x12",
-          "Seal Rows: 3x10",
-          "GHD Sit-ups: 3x8",
-          "Leg Curls: 3x10",
-          "Reverse Pec Deck: 2x12"
+          "Barbell Rows: 3x8",
+          "Dumbbell Curls: 3x10",
+          "Nordic Hamstring Curls: 3x6",
+          "Reverse Pec Deck: 3x12"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 5x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause | 15mins\nE3MOMx5\n0:00 6 @ 50%\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nFront Squat | 4x8 | E2MOMx4\n0:00 8 @ 55%\n2:00 8 @ 55%\n4:00 8 @ 55%\n6:00 8 @ 55%\nWorkout | E4MOM x 4\n8 Chest-to-Bar\n15/12 cal Assault Bike\n8 Box Overs 40/30\"\nrest in time remaining\nscore slowest round\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-      "siri_text": "Wednesday's workout. Strength: Paused Bench Press, 5 by 6 at 50 percent. Strength: Front Squat, 4 by 8 at 55 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: EMOM: 8 Chest-to-Bar, 15/12 cal Assault Bike, 8 Box Overs 40/30\". For hypertrophy, focus on rear delts, back thickness, glutes."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+      "siri_text": "Wednesday's workout. Strength: Paused Bench Press, 4 by 6 at 55 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. For hypertrophy, focus on rear deltoids, biceps, glutes."
     },
     "2026-08-20": {
       "date": "2026-08-20",
       "day_name": "Thursday",
       "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
-      "strength": [],
+      "strength": [
+        {
+          "name": "GHD Russian Twist",
+          "description": "3x10"
+        }
+      ],
       "metcon": {
-        "name": "Workout",
-        "type": "AMRAP",
-        "description": "10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
+        "name": "Handstand Hold",
+        "type": "Workout",
+        "description": "3x30seconds",
         "time_cap": null
       },
       "gymnastics": [
-        "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick"
+        "Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick",
+        "GHD Sit-ups"
       ],
       "hypertrophy": {
         "recommended_muscles": [
           "chest",
-          "back thickness",
-          "hamstrings"
+          "back rows",
+          "triceps"
         ],
         "avoid": [
+          "core",
           "shoulders",
           "lats",
-          "core",
-          "hip flexors"
+          "grip strength"
         ],
-        "reasoning": "Today prioritizes gymnastics pulling and core work; build chest and posterior chain without competing for CNS.",
+        "reasoning": "Today heavily taxes core, shoulders, and pulling. Address pressing patterns and horizontal back work to balance.",
         "suggested_exercises": [
-          "Dumbbell Bench Press 3x8–10",
-          "Pendulum Squats 3x10–12",
-          "Chest-Supported Rows 3x10–12",
-          "Nordic Curls 3x5–6 reps"
+          "Dumbbell bench press: 3x8–10",
+          "Seal rows: 3x10–12",
+          "Overhead tricep extension: 3x12–15",
+          "Chest-supported row machine: 3x10–12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick\nWorkout | 10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)",
-      "siri_text": "Thursday's workout. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Metcon: AMRAP 10 minutes: 12 V-ups or Tuck sits, 8 Burpees (hands above head & hips lockout). For hypertrophy, focus on chest, back thickness, hamstrings."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 4 mins (00:00)\nHollow & Arch Hold\nRope Climb Progression (05:00-20:00)\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (21:00)\nEMOM x 3 (23:00)\n10 x Beat Swing\nEMOM x 3 (26:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (29:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (32:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (35:00)\nAggressive Knees to chest - with toe flick\nWorkout | 10 min AMRAP\n1 Rope Climb partial Attempt or 2 prone pulls from ground\n12 V-ups or Tuck sits\n8 Burpees (hands above head & hips lockout)\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 4 mins. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on chest, back rows, triceps."
     },
     "2026-08-21": {
       "date": "2026-08-21",
@@ -6346,7 +6340,7 @@
       "strength": [
         {
           "name": "Deadlift",
-          "description": "4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 40%\nHOLD 4x6\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%"
+          "description": "4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands. Use a deadlift bar (red tape) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%"
         },
         {
           "name": "Split Jerk",
@@ -6365,38 +6359,30 @@
           "description": "3x10"
         }
       ],
-      "metcon": {
-        "name": "Workout",
-        "type": "Rounds for Time",
-        "description": "10 RFT\n4 Deadlifts @ 100/80kg\n4 HSPU\nFast Transitions\nScale weight or reps to finish each round under 1 minute.",
-        "time_cap": null
-      },
+      "metcon": null,
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "biceps",
-          "rear delts",
-          "abs",
-          "calves"
+          "chest",
+          "lateral delts",
+          "biceps"
         ],
         "avoid": [
-          "quads",
-          "glutes",
-          "hamstrings",
-          "chest",
-          "front delts",
-          "lats"
+          "back",
+          "legs",
+          "traps",
+          "core"
         ],
-        "reasoning": "Primary movers (posterior chain, shoulders, pressing) are fatigued; accessory work targets antagonists and weak points.",
+        "reasoning": "Deadlifts and rows heavily tax posterior chain; accessory work targets anterolateral shoulders and chest for balanced development.",
         "suggested_exercises": [
-          "Barbell Curls 3x8",
-          "Reverse Pec Deck 3x12",
-          "Ab Wheel Rollouts 3x10",
-          "Seated Calf Raises 3x15"
+          "Dumbbell Bench Press: 3x8",
+          "Lateral Raise Machine: 3x12",
+          "EZ Bar Curl: 3x10",
+          "Pec Deck Flye: 2x12"
         ]
       },
-      "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 40%\nHOLD 4x6\n3:00 6 @ 50%\n6:00 6 @ 50%\n9:00 6 @ 50%\n12:00 6 @ 50%\nSplit Jerk Warm Up | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10\nSplit Jerk | 1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | 10 RFT\n4 Deadlifts @ 100/80kg\n4 HSPU\nFast Transitions\nScale weight or reps to finish each round under 1 minute.\nSeated Cable Row | 3x10\nArnold Press | 3x10\nHamstring Curl | 3x10",
-      "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 50 percent. Strength: Split Jerk, 1 by 3. Strength: Seated Cable Row, 3 by 10. Strength: Arnold Press, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: Rounds for Time: 4 Deadlifts @ 100/80kg, 4 HSPU, Fast Transitions. For hypertrophy, focus on biceps, rear delts, abs."
+      "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands. Use a deadlift bar (red tape) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n3:00 6 @ 55%\n6:00 6 @ 55%\n9:00 6 @ 55%\n12:00 6 @ 55%\nSplit Jerk Warm Up | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10\nSplit Jerk | 1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nSeated Cable Row | 3x10\nArnold Press | 3x10\nHamstring Curl | 3x10",
+      "siri_text": "Friday's workout. Strength: Deadlift, 4 by 6 at 55 percent. Strength: Split Jerk, 1 by 3. Strength: Seated Cable Row, 3 by 10. Strength: Arnold Press, 3 by 10. Strength: Hamstring Curl, 3 by 10. For hypertrophy, focus on chest, lateral delts, biceps."
     }
   }
 }
