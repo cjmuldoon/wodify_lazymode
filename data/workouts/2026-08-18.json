@@ -21,32 +21,35 @@
     }
   ],
   "metcon": {
-    "name": "Clean Drill",
-    "type": "Workout",
-    "description": "Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each",
+    "name": "Orio Palmer",
+    "type": "Rounds for Time",
+    "description": "7 RFT\n3 C& J @ 85/50 kg\n6 Hand Stand Push Ups\n9 Box Jumps",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
+      "lateral deltoids",
+      "rear deltoids",
       "chest",
-      "shoulders (rear delt)",
-      "core stability"
+      "abs"
     ],
     "avoid": [
-      "legs",
-      "lower back",
-      "biceps",
-      "traps"
+      "quadriceps",
+      "hamstrings",
+      "glutes",
+      "anterior deltoids",
+      "triceps"
     ],
-    "reasoning": "Today taxes posterior chain and pulling. Target anterior/structural balance without competing for CNS recovery.",
+    "reasoning": "Today heavily taxes lower body, shoulders, and triceps; target upper back, delts, and core to balance without competing for recovery.",
     "suggested_exercises": [
-      "DB Bench Press: 3x8-10",
-      "Face Pulls: 3x12-15",
-      "Pallof Press: 3x10/side",
-      "Chest Fly Machine: 2x12"
+      "Face Pulls: 3x12",
+      "Dumbbell Lateral Raises: 3x12",
+      "Incline Dumbbell Press: 3x10",
+      "Weighted Ab Wheel: 3x8",
+      "Machine Chest Fly: 3x12"
     ]
   },
-  "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Drill | Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each\nClean | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nRomanian Deadlift (RDL) | 3x10\nUpright Row | 3x10\nDB Bicep Curl | 3x10",
-  "siri_text": "Tuesday's workout. Strength: Clean, 4 by 3 at 70 percent. Strength: Romanian Deadlift (RDL), 3 by 10. Strength: Upright Row, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Clean Drill. Workout: Do Together (in pairs), Proximity Clean, 1 PVC Pipe each. For hypertrophy, focus on chest, shoulders (rear delt), core stability."
+  "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Drill | Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each\nClean | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nOrio Palmer | 7 RFT\n3 C& J @ 85/50 kg\n6 Hand Stand Push Ups\n9 Box Jumps\nRomanian Deadlift (RDL) | 3x10\nUpright Row | 3x10\nDB Bicep Curl | 3x10",
+  "siri_text": "Tuesday's workout. Strength: Clean, 4 by 3 at 70 percent. Strength: Romanian Deadlift (RDL), 3 by 10. Strength: Upright Row, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Orio Palmer. Rounds for Time: 3 C& J @ 85/50 kg, 6 Hand Stand Push Ups, 9 Box Jumps. For hypertrophy, focus on lateral deltoids, rear deltoids, chest."
 }
