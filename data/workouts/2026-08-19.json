@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Paused Bench Press",
-      "description": "4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%"
+      "description": "4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%"
     },
     {
       "name": "Front Squat",
@@ -34,26 +34,24 @@
   "hypertrophy": {
     "recommended_muscles": [
       "rear deltoids",
-      "biceps",
       "glutes",
-      "lower back"
+      "hamstrings",
+      "upper back"
     ],
     "avoid": [
       "chest",
       "triceps",
       "quadriceps",
-      "abdominals",
-      "hamstrings"
+      "core"
     ],
-    "reasoning": "Target posterior chain and arms to balance pushing emphasis; avoid competing with fatigued anterior muscles and core.",
+    "reasoning": "Train antagonists and posterior chain to balance today's pressing/quad emphasis and manage fatigue.",
     "suggested_exercises": [
       "Face Pulls: 3x12",
-      "Barbell Rows: 3x8",
-      "Dumbbell Bicep Curls: 3x10",
-      "Hip Thrusts: 3x8",
-      "Reverse Pec Deck: 2x12"
+      "GHD Hip Extensions: 3x8",
+      "Single-Leg RDLs: 3x8 each",
+      "Reverse Pec Deck: 3x12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nWorkout | 3 RFT - 16 min Cap\n400m Run\n20 Russian KB Swings 24/16\n15 Abmat Sit Ups\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-  "siri_text": "Wednesday's workout. Strength: Paused Bench Press, 4 by 6 at 55 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Rounds for Time: 400m Run, 20 Russian KB Swings 24/16, 15 Abmat Sit Ups. For hypertrophy, focus on rear deltoids, biceps, glutes."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nWorkout | 3 RFT - 16 min Cap\n400m Run\n20 Russian KB Swings 24/16\n15 Abmat Sit Ups\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+  "siri_text": "Wednesday's workout. Strength: Paused Bench Press, 4 by 6 at 55 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Rounds for Time: 400m Run, 20 Russian KB Swings 24/16, 15 Abmat Sit Ups. For hypertrophy, focus on rear deltoids, glutes, hamstrings."
 }
