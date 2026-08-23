@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T10:08:06",
+  "last_updated": "2026-08-23T11:07:54",
   "week_of": "2026-08-24",
   "workouts": {
     "2026-02-23": {
@@ -6438,6 +6438,267 @@
       },
       "raw_text": "Warm Up | 1 min ride on Assault Bike\n10 Scap Pull Ups\n10 Scap Push Ups\n5 Burpees\n5 DB S2OH\n5 Push Ups\n10 DB Snatches\n5 Air Squats\n5 Devil Press\n5 Pull Ups\n5 Dips\nPart A | YGIG - 10 min AMRAP\n5 Power Snatches @ 50/35\n3 Bar Muscle Ups\nScale Muscle Ups to 3 Pull Ups & 3 Dips or Banded Muscle Ups\nPick a weight you can do unbroken for 5\nPart B | Rest 2 mins then\n8 min AMRAP\n24 Devil Press\n48 V-ups\nPartition as required\nQuick transitions between partners.\nchange before you slow down.\nScale V-ups to Tuck Sits\nPart C | Rest 2 mins then\nFor Time\n60/45 Cal Assault Bike\n60 2 x DB Hang Cleans @ 22.5/15kg\n60/45 Hand release Push Ups\n60/45 Cal Assault Bike",
       "siri_text": "Saturday's workout. Metcon: Part C. For Time: 60/45 Cal Assault Bike, 60 2 x DB Hang Cleans @ 22.5/15kg, 60/45 Hand release Push Ups, 60/45 Cal Assault Bike. For hypertrophy, focus on back, biceps, core stability."
+    },
+    "2026-08-24": {
+      "date": "2026-08-24",
+      "day_name": "Monday",
+      "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+      "strength": [
+        {
+          "name": "Snatch",
+          "description": "4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%"
+        },
+        {
+          "name": "Overhead Squat",
+          "description": "4x6 | 4x6 @ 50%"
+        },
+        {
+          "name": "DB Windmill",
+          "description": "3x10 | 3x10e/s"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "10 Min AMRAP\n5 Squat Snatch— 40/30 kg\n10 Hand-Release Push-ups\n12/10 cal any machine",
+        "time_cap": null
+      },
+      "gymnastics": [
+        "GHD Sit-ups"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear deltoids",
+          "back/lats",
+          "biceps",
+          "glutes"
+        ],
+        "avoid": [
+          "shoulders",
+          "quads",
+          "chest",
+          "core"
+        ],
+        "reasoning": "Balance pushing/leg fatigue with posterior chain and arm work; avoid compounding shoulder and quad stress.",
+        "suggested_exercises": [
+          "Face Pulls 3x12-15",
+          "Barbell Rows 3x8-10",
+          "Dumbbell Curls 3x10-12",
+          "GHD Hamstring Curls 3x8-10",
+          "Single-Leg Glute Bridge 3x12e/s"
+        ]
+      },
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Drill | Do together\nPower Position\nPower Snatch\nSnatch | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nSki Erg Relay | Accumulate 200m per athlete as a class\nTransition every 100m\nI.e. 6 athletes to complete 1200m total - shared equally\n**Damper should be on about 6\nWorkout | 10 Min AMRAP\n5 Squat Snatch— 40/30 kg\n10 Hand-Release Push-ups\n12/10 cal any machine\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15",
+      "siri_text": "Monday's workout. Strength: Snatch, 4 by 3 at 70 percent. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: AMRAP 10 minutes: 5 Squat Snatch— 40/30 kg, 10 Hand-Release Push-ups, 12/10 cal any machine. For hypertrophy, focus on rear deltoids, back/lats, biceps."
+    },
+    "2026-08-25": {
+      "date": "2026-08-25",
+      "day_name": "Tuesday",
+      "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n30 sec Plank\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10 Banded BB Squat",
+      "strength": [
+        {
+          "name": "Back Squat",
+          "description": "4x6 | 3sec Eccentric (downward portion)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands and depth checks | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%"
+        },
+        {
+          "name": "Shoulder Press",
+          "description": "4x8 | E2MOMx5\nBUILD 1 Set\n0:00 8  @ 50%\nHOLD 4x8\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\n8:00 8 @ 60%"
+        },
+        {
+          "name": "Hack Squat",
+          "description": "3x10"
+        },
+        {
+          "name": "Lateral Raise",
+          "description": "3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up"
+        },
+        {
+          "name": "Walking Lunge",
+          "description": "3x10 | 3x10e/s"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "12 min AMRAP\n12/10 cal Assault Bike\n8 Pull-ups\n40m Sandbag Bear-Hug Carry — 50/35 kg\nfast transitions between sandbag & bike\n80% effort on the Assault Bike",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "chest",
+          "back",
+          "biceps"
+        ],
+        "avoid": [
+          "quadriceps",
+          "shoulders",
+          "glutes"
+        ],
+        "reasoning": "Chest and back accessory work balances lower-body dominance; biceps support pull-up recovery without competing for resources.",
+        "suggested_exercises": [
+          "Dumbbell Bench Press: 3x8",
+          "Barbell Rows: 3x8",
+          "Incline Dumbbell Flyes: 3x10",
+          "Barbell Curls: 3x8"
+        ]
+      },
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n30 sec Plank\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n10 Banded BB Squat\nBack Squat | 4x6 | 3sec Eccentric (downward portion)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands and depth checks | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%\nShoulder Press | 4x8 | E2MOMx5\nBUILD 1 Set\n0:00 8  @ 50%\nHOLD 4x8\n2:00 8 @ 60%\n4:00 8 @ 60%\n6:00 8 @ 60%\n8:00 8 @ 60%\nWorkout | 12 min AMRAP\n12/10 cal Assault Bike\n8 Pull-ups\n40m Sandbag Bear-Hug Carry — 50/35 kg\nfast transitions between sandbag & bike\n80% effort on the Assault Bike\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s",
+      "siri_text": "Tuesday's workout. Strength: Back Squat, 4 by 6 at 60 percent. Strength: Shoulder Press, 4 by 8 at 60 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. Metcon: AMRAP 12 minutes: 12/10 cal Assault Bike, 8 Pull-ups, 40m Sandbag Bear-Hug Carry — 50/35 kg, fast transitions between sandbag & bike, 80% effort on the Assault Bike. For hypertrophy, focus on chest, back, biceps."
+    },
+    "2026-08-26": {
+      "date": "2026-08-26",
+      "day_name": "Wednesday",
+      "warm_up": "15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean",
+      "strength": [
+        {
+          "name": "Clean",
+          "description": "4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%"
+        },
+        {
+          "name": "Romanian Deadlift (RDL)",
+          "description": "3x10"
+        },
+        {
+          "name": "Upright Row",
+          "description": "3x10"
+        },
+        {
+          "name": "DB Bicep Curl",
+          "description": "3x10"
+        }
+      ],
+      "metcon": {
+        "name": "Orio Palmer",
+        "type": "Rounds for Time",
+        "description": "7 RFT\n3 C& J @ 85/50 kg\n6 Hand Stand Push Ups\n9 Box Jumps\nOrio Joseph Palmer was a Battalion Chief of the New York City Fire Department who died while rescuing civilians trapped inside the World Trade Center on September 11, 2001. Palmer led the team of firefighters that reached the 78th floor of the South Tower, the floor where the plane had struck the building",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "chest",
+          "rear deltoids",
+          "hamstrings"
+        ],
+        "avoid": [
+          "shoulders",
+          "quadriceps",
+          "lower back",
+          "biceps"
+        ],
+        "reasoning": "Today heavily taxes shoulders, quads, and biceps; chest and rear delts provide antagonist balance without CNS fatigue.",
+        "suggested_exercises": [
+          "Incline DB Press 3x8",
+          "Face Pulls 3x12",
+          "Nordics or Slider Curls 3x6",
+          "Chest Flyes 3x10"
+        ]
+      },
+      "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Drill | Do Together (in pairs)\nProximity Clean\n1 PVC Pipe each\nClean | 4x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 60%\nHOLD 4x3\n3:00 3 @ 70%\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nOrio Palmer | 7 RFT\n3 C& J @ 85/50 kg\n6 Hand Stand Push Ups\n9 Box Jumps\nOrio Joseph Palmer was a Battalion Chief of the New York City Fire Department who died while rescuing civilians trapped inside the World Trade Center on September 11, 2001. Palmer led the team of firefighters that reached the 78th floor of the South Tower, the floor where the plane had struck the building\nRomanian Deadlift (RDL) | 3x10\nUpright Row | 3x10\nDB Bicep Curl | 3x10",
+      "siri_text": "Wednesday's workout. Strength: Clean, 4 by 3 at 70 percent. Strength: Romanian Deadlift (RDL), 3 by 10. Strength: Upright Row, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Metcon: Orio Palmer. Rounds for Time: 3 C& J @ 85/50 kg, 6 Hand Stand Push Ups, 9 Box Jumps. For hypertrophy, focus on chest, rear deltoids, hamstrings."
+    },
+    "2026-08-27": {
+      "date": "2026-08-27",
+      "day_name": "Thursday",
+      "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
+      "strength": [
+        {
+          "name": "GHD Russian Twist",
+          "description": "3x10"
+        }
+      ],
+      "metcon": {
+        "name": "Handstand Hold",
+        "type": "Workout",
+        "description": "3x30seconds",
+        "time_cap": null
+      },
+      "gymnastics": [
+        "Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (6:00)\nEMOM x 3 (8:00)\n10 x Beat Swing\nEMOM x 3 (11:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (15:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (18:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (21:00)\nAggressive Knees to chest - with toe flick\nEMOM x 5 (T2B Attempt) (24:00-29:00)\nRope Climb Progressions\nRope Climb Progression\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible",
+        "GHD Sit-ups"
+      ],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back (horizontal pull)",
+          "glutes",
+          "hamstrings",
+          "rear delts"
+        ],
+        "avoid": [
+          "core",
+          "shoulders",
+          "lats",
+          "triceps"
+        ],
+        "reasoning": "Today heavily taxes core, shoulders, and vertical pulling; horizontal pulls and posterior chain recovery work balance without compounding fatigue.",
+        "suggested_exercises": [
+          "Barbell Rows 3x6-8",
+          "Bulgarian Split Squats 3x8 each leg",
+          "Face Pulls 3x12-15",
+          "Reverse Hyperextension 3x10-12"
+        ]
+      },
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nT2B Bar Progression\n1-2 mins False Grip on bar - focus on Knuckles Up (6:00)\nEMOM x 3 (8:00)\n10 x Beat Swing\nEMOM x 3 (11:00)\nBigger Beat Swing - Push Down on Bar\n- Put Ball between feet - Reach Long in the Arch - Dont bend the knees\nEMOM x 3 (15:00)\nKnees to Chest - Aggressive & Pop - pause at the top\nEMOM x 3 (18:00)\nBeat Swing with Straight legs - to target\nAim for height without losing tension.\nthe goal is to chain them together\nEMOM x 3 (21:00)\nAggressive Knees to chest - with toe flick\nEMOM x 5 (T2B Attempt) (24:00-29:00)\nRope Climb Progressions\nRope Climb Progression\nEvery 90s x 10\nLevel 1\nSit on Box & find J-Hook - stand Up\nLevel 2\n1 Partial Climb off the ground\nAim for less pulls each time to get there - Lean back & get feet to hands\nLevel 3\nFull height Rope Climb\nAim to get there in the least amount of pulls as possible\nWorkout | 10 min AMRAP\n1 Rope Climb\n6 Toes-to-Bar\n30 Double-Unders\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 5 mins. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back (horizontal pull), glutes, hamstrings."
+    },
+    "2026-08-28": {
+      "date": "2026-08-28",
+      "day_name": "Friday",
+      "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T",
+      "strength": [
+        {
+          "name": "Paused Bench Press",
+          "description": "4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%"
+        },
+        {
+          "name": "Front Squat",
+          "description": "4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%"
+        },
+        {
+          "name": "DB Chest Fly",
+          "description": "3x10"
+        },
+        {
+          "name": "Lat Pulldown",
+          "description": "3x10"
+        },
+        {
+          "name": "Tricep Extension",
+          "description": "3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom"
+        }
+      ],
+      "metcon": {
+        "name": "Workout",
+        "type": "Rounds for Time",
+        "description": "3 RFT - 16 min Cap\n400m Run\n20 Russian KB Swings 24/16\n15 Abmat Sit Ups",
+        "time_cap": "16 min"
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "rear deltoids",
+          "rhomboids",
+          "glutes",
+          "hamstrings"
+        ],
+        "avoid": [
+          "chest",
+          "triceps",
+          "quadriceps",
+          "anterior core"
+        ],
+        "reasoning": "Addresses posterior chain imbalances from bench/chest-dominant day and prevents anterior overload.",
+        "suggested_exercises": [
+          "Face Pulls: 3x12",
+          "Prone Incline DB Rows: 3x10",
+          "Nordic Curls or Hamstring Curls: 3x8",
+          "Glute Bridges: 3x12",
+          "Reverse Pec Deck: 3x12"
+        ]
+      },
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 45%\nHOLD 4x6\n2:00 6 @ 55%\n4:00 6 @ 55%\n6:00 6 @ 55%\n8:00 6 @ 55%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X8\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nWorkout | 3 RFT - 16 min Cap\n400m Run\n20 Russian KB Swings 24/16\n15 Abmat Sit Ups\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+      "siri_text": "Friday's workout. Strength: Paused Bench Press, 4 by 6 at 55 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Rounds for Time: 400m Run, 20 Russian KB Swings 24/16, 15 Abmat Sit Ups. For hypertrophy, focus on rear deltoids, rhomboids, glutes."
     }
   }
 }
