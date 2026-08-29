@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T10:34:32",
+  "last_updated": "2026-08-29T07:13:06",
   "week_of": "2026-08-31",
   "workouts": {
     "2026-02-23": {
@@ -6681,34 +6681,73 @@
       "metcon": {
         "name": "Workout",
         "type": "Rounds for Time",
-        "description": "4 RFT\n15 Russian KB Swings @ 32/24 kg\n8 Burpees OVER KB\n20m Farmer Carry @ 100/70 per hand\n(Unbroken)",
+        "description": "4 RFT\n15 Russian KB Swings @ 32/24 kg\n8 Burpees OVER KB\n20m Farmer Carry @ 70/50\n(Unbroken)\nRx+ 100/70 per hand",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "rear delts",
+          "rear deltoids",
           "biceps",
           "glutes",
-          "upper back"
+          "lower back"
         ],
         "avoid": [
           "chest",
           "triceps",
-          "quads",
-          "hamstrings"
+          "quadriceps",
+          "anterior core"
         ],
-        "reasoning": "Targets posterior chain and arm flexors to balance pressing/squatting volume and prevent anterior dominance.",
+        "reasoning": "Address posterior chain imbalances and antagonist muscles while sparing CNS recovery from bench, squat, and metabolic stress.",
         "suggested_exercises": [
-          "Face Pulls: 3x12",
-          "Barbell Bent-Over Rows: 3x8",
-          "Dumbbell Curls: 3x10",
-          "Glute Bridges: 3x12",
-          "Reverse Pec Deck: 3x12"
+          "Face Pulls 3x12",
+          "Barbell Rows 3x8",
+          "Barbell Curls 3x8",
+          "Nordic Curls 3x5",
+          "Good Mornings 3x10"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 60%\n4:00 6 @ 60%\n6:00 6 @ 60%\n8:00 6 @ 60%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X6\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nWorkout | 4 RFT\n15 Russian KB Swings @ 32/24 kg\n8 Burpees OVER KB\n20m Farmer Carry @ 100/70 per hand\n(Unbroken)\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
-      "siri_text": "Friday's workout. Strength: Paused Bench Press, 4 by 6 at 60 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Rounds for Time: 15 Russian KB Swings @ 32/24 kg, 8 Burpees OVER KB, 20m Farmer Carry @ 100/70 per hand, (Unbroken). For hypertrophy, focus on rear delts, biceps, glutes."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBlack Band\n2x 1-5kg plate\n1 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n2 Rounds:\n8e/s Leaning Lateral Raise\n10 Band Kneeling Face Pull\n12 Banded Tricep Extension\n10 I Y T\nPaused Bench Press | 4x6 | * 3 second Eccentric (downward portion)\n* 2 second Pause\n* Maintain tension in pause\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands | 10mins\nE2MOMx5\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n2:00 6 @ 60%\n4:00 6 @ 60%\n6:00 6 @ 60%\n8:00 6 @ 60%\nFront Squat | 4x8 | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 8 @ 50%\nHOLD 4X6\n3:00 8 @ 60%\n6:00 8 @ 60%\n9:00 8 @ 60%\n12:00 8 @ 60%\nWorkout | 4 RFT\n15 Russian KB Swings @ 32/24 kg\n8 Burpees OVER KB\n20m Farmer Carry @ 70/50\n(Unbroken)\nRx+ 100/70 per hand\nDB Chest Fly | 3x10\nLat Pulldown | 3x10\nTricep Extension | 3x10 | On cable machine with hands at chin height\nElbows tucked to side\nExtend arms completely at bottom",
+      "siri_text": "Friday's workout. Strength: Paused Bench Press, 4 by 6 at 60 percent. Strength: Front Squat, 4 by 8 at 60 percent. Strength: DB Chest Fly, 3 by 10. Strength: Lat Pulldown, 3 by 10. Strength: Tricep Extension, 3 by 10. Metcon: Rounds for Time: 15 Russian KB Swings @ 32/24 kg, 8 Burpees OVER KB, 20m Farmer Carry @ 70/50, (Unbroken). For hypertrophy, focus on rear deltoids, biceps, glutes."
+    },
+    "2026-08-29": {
+      "date": "2026-08-29",
+      "day_name": "Saturday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Part C",
+        "type": "For Time",
+        "description": "Rest 2 mins then\nFor Time\n40 Deadlifts @ 120/80kg\nEvery 10 deadlifts\n6 Synchro Burpees over bar\nBUY OUT: 500m run",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "upper back",
+          "biceps",
+          "shoulders (rear delt)",
+          "core stability"
+        ],
+        "avoid": [
+          "lower back",
+          "glutes",
+          "quads",
+          "hamstrings",
+          "chest",
+          "anterior core"
+        ],
+        "reasoning": "Deadlifts and burpees dominate posterior chain and anterior core; accessory work targets upper body pulling and rear delts to balance.",
+        "suggested_exercises": [
+          "Bent-over barbell rows 3x6-8",
+          "Face pulls 3x12-15",
+          "Barbell curls 3x8-10",
+          "Reverse pec deck 3x10-12",
+          "Weighted dead bug hold 3x20-30 seconds"
+        ]
+      },
+      "raw_text": "Warm Up | 300m warm up job together\nPVC Shoulder Opener\n1 min on Rower\n10 Scap Pull Ups\n10 Scap Push Ups\n10 Air Squats\n10 Empty bar Good Mornings\n5 Power cleans to back squat - practice getting it to back rack\ngo with a partner that can do the same barbell weight\nPart A | YGIG - 10 min AMRAP\n1 Power Clean\n1 Jerk to back rack\n8 Back Squats\n100m Run\n@80/50 kg\nScale to front squat or squat from rig.\nBack Squat to be dumped in front\nPart B | Rest 2 mins then\n10 min AMRAP\nPartition as required\n20 DB Bench Press  @ 22.5/15kg\n20 Pull Ups\n250/200m Row\nrx+ 32.5/22.5kg\nDB head touches bicep/shoulder to full lockout of elbow.\nPart C | Rest 2 mins then\nFor Time\n40 Deadlifts @ 120/80kg\nEvery 10 deadlifts\n6 Synchro Burpees over bar\nBUY OUT: 500m run",
+      "siri_text": "Saturday's workout. Metcon: Part C. For Time: 40 Deadlifts @ 120/80kg, 6 Synchro Burpees over bar. For hypertrophy, focus on upper back, biceps, shoulders (rear delt)."
     }
   }
 }

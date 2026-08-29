@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-29",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Part C",
+    "type": "For Time",
+    "description": "Rest 2 mins then\nFor Time\n40 Deadlifts @ 120/80kg\nEvery 10 deadlifts\n6 Synchro Burpees over bar\nBUY OUT: 500m run",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "upper back",
+      "biceps",
+      "shoulders (rear delt)",
+      "core stability"
+    ],
+    "avoid": [
+      "lower back",
+      "glutes",
+      "quads",
+      "hamstrings",
+      "chest",
+      "anterior core"
+    ],
+    "reasoning": "Deadlifts and burpees dominate posterior chain and anterior core; accessory work targets upper body pulling and rear delts to balance.",
+    "suggested_exercises": [
+      "Bent-over barbell rows 3x6-8",
+      "Face pulls 3x12-15",
+      "Barbell curls 3x8-10",
+      "Reverse pec deck 3x10-12",
+      "Weighted dead bug hold 3x20-30 seconds"
+    ]
+  },
+  "raw_text": "Warm Up | 300m warm up job together\nPVC Shoulder Opener\n1 min on Rower\n10 Scap Pull Ups\n10 Scap Push Ups\n10 Air Squats\n10 Empty bar Good Mornings\n5 Power cleans to back squat - practice getting it to back rack\ngo with a partner that can do the same barbell weight\nPart A | YGIG - 10 min AMRAP\n1 Power Clean\n1 Jerk to back rack\n8 Back Squats\n100m Run\n@80/50 kg\nScale to front squat or squat from rig.\nBack Squat to be dumped in front\nPart B | Rest 2 mins then\n10 min AMRAP\nPartition as required\n20 DB Bench Press  @ 22.5/15kg\n20 Pull Ups\n250/200m Row\nrx+ 32.5/22.5kg\nDB head touches bicep/shoulder to full lockout of elbow.\nPart C | Rest 2 mins then\nFor Time\n40 Deadlifts @ 120/80kg\nEvery 10 deadlifts\n6 Synchro Burpees over bar\nBUY OUT: 500m run",
+  "siri_text": "Saturday's workout. Metcon: Part C. For Time: 40 Deadlifts @ 120/80kg, 6 Synchro Burpees over bar. For hypertrophy, focus on upper back, biceps, shoulders (rear delt)."
+}
