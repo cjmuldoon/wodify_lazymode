@@ -5,30 +5,32 @@
   "strength": [],
   "metcon": {
     "name": "Workout",
-    "type": "AMRAP",
-    "description": "15 min AMRAP\n5 T2B\n5 Thrusters @ 45/30\nrest 1 min between rounds\nadd 5 reps for each round\nRound 1 5\nRound 2 10\nRound 3 15 etc…\nScale weight or knees to elbows",
-    "time_cap": null
+    "type": "Rounds for Time",
+    "description": "4 RFT - 15min Cap\n300/250m Row\n12/9 cal AB\n200m Run\nMake the last round your fastest -\ncontrol the row,  attack the Assault Bike, recover on the run,",
+    "time_cap": "15 min"
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "hamstrings",
-      "glutes"
+      "shoulders",
+      "triceps"
     ],
     "avoid": [
-      "shoulders",
       "quads",
+      "glutes",
+      "hamstrings",
       "core"
     ],
-    "reasoning": "Back and posterior chain receive minimal load today; accessory work balances anterior-dominant MetCon and builds posterior chain resilience.",
+    "reasoning": "Row and bike tax legs/core heavily; upper body pulling and pressing remain fresh for hypertrophy work.",
     "suggested_exercises": [
-      "Barbell Rows 3 x 8–10",
-      "Romanian Deadlifts 3 x 10–12",
-      "Chest-Supported Rows 3 x 12–15",
-      "Glute-Ham Raises 3 x 8–10"
+      "Bent-over barbell rows 3x6-8",
+      "Incline dumbbell press 3x8-10",
+      "Pull-ups or lat pulldowns 3x8-10",
+      "Skull crushers 3x10-12",
+      "Face pulls 3x12-15"
     ]
   },
-  "raw_text": "McGhee | As many rounds as possible in 30 minutes of:\n5 deadlifts\n13 push-ups\n9 box jumps\nF: 185-lb barbell, 20-inch box\nM: 275-lb barbell, 24-inch box\nWorkout | EMOM x 12\nMin 1-4\n30 Double Unders\n1 Squat Snatch @ 70-75%\nMin 5-8\n30 Double Unders\n1 Squat Snatch @ 75-80%\nMin 9-12\n30 Double Unders\n1 Squat Snatch @ 80-85%\nScore - heaviest weight\nQuick transitions - smooth reps.\nScale to 20 Doubles or 30 singles.\nWorkout | 15 min AMRAP\n5 T2B\n5 Thrusters @ 45/30\nrest 1 min between rounds\nadd 5 reps for each round\nRound 1 5\nRound 2 10\nRound 3 15 etc…\nScale weight or knees to elbows",
-  "siri_text": "Sunday's workout. Metcon: AMRAP 15 minutes: 5 T2B, 5 Thrusters @ 45/30, Scale weight or knees to elbows. For hypertrophy, focus on back, hamstrings, glutes."
+  "raw_text": "McGhee | As many rounds as possible in 30 minutes of:\n5 deadlifts\n13 push-ups\n9 box jumps\nF: 185-lb barbell, 20-inch box\nM: 275-lb barbell, 24-inch box\nWorkout | EMOM x 12\nMin 1-4\n30 Double Unders\n1 Squat Snatch @ 70-75%\nMin 5-8\n30 Double Unders\n1 Squat Snatch @ 75-80%\nMin 9-12\n30 Double Unders\n1 Squat Snatch @ 80-85%\nScore - heaviest weight\nQuick transitions - smooth reps.\nScale to 20 Doubles or 30 singles.\nWorkout | 15 min AMRAP\n5 T2B\n5 Thrusters @ 45/30\nrest 1 min between rounds\nadd 5 reps for each round\nRound 1 5\nRound 2 10\nRound 3 15 etc…\nScale weight or knees to elbows\nWorkout | EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)\nWorkout | 10 min AMRAP\n5m HSW\n10 Pull Ups\n10 Box Jumps\nScale HSW to bear Crawls\nPull ups to ring rows\nWorkout | 4 RFT - 15min Cap\n300/250m Row\n12/9 cal AB\n200m Run\nMake the last round your fastest -\ncontrol the row,  attack the Assault Bike, recover on the run,",
+  "siri_text": "Sunday's workout. Metcon: Rounds for Time: 300/250m Row, 12/9 cal AB, 200m Run, control the row,  attack the Assault Bike, recover on the run,. For hypertrophy, focus on back, shoulders, triceps."
 }

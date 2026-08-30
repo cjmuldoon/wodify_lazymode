@@ -1,0 +1,16 @@
+{
+  "date": "2026-09-06",
+  "day_name": "Sunday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "Workout",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": null,
+  "raw_text": "Workout | 4 RFT\n10 Pull Ups\n20/15 Cal Row\nRest 1 Min between rounds\nWorkout | 4 RFT- 15 min Cap\n300m Run\n12 Alternating box step overs @ 24/20\"\n15 Abmat Sit ups\nRun 80% effort - unbroken on Situps/step overs\nrx+ GHD Sit ups",
+  "siri_text": "Sunday's workout. Metcon: Workout: Workout."
+}
