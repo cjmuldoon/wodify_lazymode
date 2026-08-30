@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T07:17:10",
+  "last_updated": "2026-08-30T08:20:42",
   "week_of": "2026-08-31",
   "workouts": {
     "2026-02-23": {
@@ -6748,6 +6748,40 @@
       },
       "raw_text": "Warm Up | 300m warm up job together\nPVC Shoulder Opener\n1 min on Rower\n10 Scap Pull Ups\n10 Scap Push Ups\n10 Air Squats\n10 Empty bar Good Mornings\n5 Power cleans to back squat - practice getting it to back rack\ngo with a partner that can do the same barbell weight\nPart A | YGIG - 10 min AMRAP\n1 Power Clean\n1 Jerk to back rack\n8 Back Squats\n100m Run\n@80/50 kg\nScale to front squat or squat from rig.\nBack Squat to be dumped in front\nPart B | Rest 2 mins then\n10 min AMRAP\nPartition as required\n20 DB Bench Press  @ 22.5/15kg\n20 Pull Ups\n250/200m Row\nrx+ 32.5/22.5kg\nDB head touches bicep/shoulder to full lockout of elbow.\nPart C | Rest 2 mins then\nFor Time\n40 Deadlifts @ 120/80kg\nEvery 10 deadlifts\n6 Synchro Burpees over bar\nBUY OUT: 500m run",
       "siri_text": "Saturday's workout. Metcon: Part C. For Time: 40 Deadlifts @ 120/80kg, 6 Synchro Burpees over bar. For hypertrophy, focus on upper back, biceps, shoulders (rear delt)."
+    },
+    "2026-08-30": {
+      "date": "2026-08-30",
+      "day_name": "Sunday",
+      "warm_up": null,
+      "strength": [],
+      "metcon": {
+        "name": "Workout",
+        "type": "AMRAP",
+        "description": "15 min AMRAP\n5 T2B\n5 Thrusters @ 45/30\nrest 1 min between rounds\nadd 5 reps for each round\nRound 1 5\nRound 2 10\nRound 3 15 etc…\nScale weight or knees to elbows",
+        "time_cap": null
+      },
+      "gymnastics": [],
+      "hypertrophy": {
+        "recommended_muscles": [
+          "back",
+          "hamstrings",
+          "glutes"
+        ],
+        "avoid": [
+          "shoulders",
+          "quads",
+          "core"
+        ],
+        "reasoning": "Back and posterior chain receive minimal load today; accessory work balances anterior-dominant MetCon and builds posterior chain resilience.",
+        "suggested_exercises": [
+          "Barbell Rows 3 x 8–10",
+          "Romanian Deadlifts 3 x 10–12",
+          "Chest-Supported Rows 3 x 12–15",
+          "Glute-Ham Raises 3 x 8–10"
+        ]
+      },
+      "raw_text": "McGhee | As many rounds as possible in 30 minutes of:\n5 deadlifts\n13 push-ups\n9 box jumps\nF: 185-lb barbell, 20-inch box\nM: 275-lb barbell, 24-inch box\nWorkout | EMOM x 12\nMin 1-4\n30 Double Unders\n1 Squat Snatch @ 70-75%\nMin 5-8\n30 Double Unders\n1 Squat Snatch @ 75-80%\nMin 9-12\n30 Double Unders\n1 Squat Snatch @ 80-85%\nScore - heaviest weight\nQuick transitions - smooth reps.\nScale to 20 Doubles or 30 singles.\nWorkout | 15 min AMRAP\n5 T2B\n5 Thrusters @ 45/30\nrest 1 min between rounds\nadd 5 reps for each round\nRound 1 5\nRound 2 10\nRound 3 15 etc…\nScale weight or knees to elbows",
+      "siri_text": "Sunday's workout. Metcon: AMRAP 15 minutes: 5 T2B, 5 Thrusters @ 45/30, Scale weight or knees to elbows. For hypertrophy, focus on back, hamstrings, glutes."
     }
   }
 }
