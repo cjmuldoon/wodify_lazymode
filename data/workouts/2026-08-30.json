@@ -5,32 +5,33 @@
   "strength": [],
   "metcon": {
     "name": "Workout",
-    "type": "Rounds for Time",
-    "description": "4 RFT - 15min Cap\n300/250m Row\n12/9 cal AB\n200m Run\nMake the last round your fastest -\ncontrol the row,  attack the Assault Bike, recover on the run,",
-    "time_cap": "15 min"
+    "type": "EMOM",
+    "description": "EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)",
+    "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
-      "shoulders",
+      "legs",
+      "core anti-rotation",
+      "rear delts",
       "triceps"
     ],
     "avoid": [
-      "quadriceps",
-      "glutes",
-      "hamstrings",
-      "core"
+      "lats",
+      "shoulders",
+      "chest",
+      "abs"
     ],
-    "reasoning": "Row/bike/run fatigue lower body and core; build upper body push/pull without compounding systemic fatigue.",
+    "reasoning": "Today heavily taxes pulling and core stability; accessory work addresses posterior chain and arm strength without CNS fatigue.",
     "suggested_exercises": [
-      "Bent-over barbell rows 3 x 6–8",
-      "Incline dumbbell bench press 3 x 8–10",
-      "Weighted pull-ups or lat pulldowns 3 x 8–10",
-      "Overhead press 3 x 8–10",
-      "Tricep dips 2 x 10–12"
+      "Bulgarian split squats 3 x 8/leg",
+      "Paloff press 3 x 10/side",
+      "Face pulls 3 x 12",
+      "Skull crushers 3 x 10",
+      "Single-leg deadlifts 3 x 8/leg"
     ]
   },
-  "raw_text": "Workout | EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)\nWorkout | 10 min AMRAP\n5m HSW\n10 Pull Ups\n10 Box Jumps\nScale HSW to bear Crawls\nPull ups to ring rows\nWorkout | 4 RFT - 15min Cap\n300/250m Row\n12/9 cal AB\n200m Run\nMake the last round your fastest -\ncontrol the row,  attack the Assault Bike, recover on the run,",
-  "siri_text": "Sunday's workout. Metcon: Rounds for Time: 300/250m Row, 12/9 cal AB, 200m Run, control the row,  attack the Assault Bike, recover on the run,. For hypertrophy, focus on back, shoulders, triceps."
+  "raw_text": "Workout | EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)",
+  "siri_text": "Sunday's workout. Metcon: EMOM 5 minutes: 5 Hollow to Arch Rolls, Maintain tension - point fingers and toes the whole time., Pull Up Progression, 10 x Beat Swing, Bigger Beat Swing - Lean Back to begin Pull. For hypertrophy, focus on legs, core anti-rotation, rear delts."
 }

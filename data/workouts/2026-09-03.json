@@ -1,58 +1,45 @@
 {
   "date": "2026-09-03",
   "day_name": "Thursday",
-  "warm_up": "15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
   "strength": [
     {
-      "name": "Clean",
-      "description": "3x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%"
-    },
-    {
-      "name": "Romanian Deadlift (RDL)",
+      "name": "GHD Russian Twist",
       "description": "3x10"
-    },
-    {
-      "name": "Upright Row",
-      "description": "3x10"
-    },
-    {
-      "name": "DB Bicep Curl",
-      "description": "3x10"
-    },
-    {
-      "name": "Deadlift",
-      "description": "1x1"
     }
   ],
   "metcon": {
-    "name": "Clean Drill",
+    "name": "Handstand Hold",
     "type": "Workout",
-    "description": "Do Together\nTall → Drop\nSlow Pull\nFocus on position in pull\nFast under the bar",
+    "description": "3x30seconds",
     "time_cap": null
   },
-  "gymnastics": [],
+  "gymnastics": [
+    "EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)",
+    "GHD Sit-ups"
+  ],
   "hypertrophy": {
     "recommended_muscles": [
-      "rear delts",
-      "mid-back",
-      "abs/core stability",
-      "glutes"
+      "back thickness",
+      "leg hypertrophy",
+      "triceps",
+      "rear delts"
     ],
     "avoid": [
-      "quads",
-      "lower back",
-      "forearms",
-      "biceps"
+      "shoulders",
+      "core",
+      "chest",
+      "lats"
     ],
-    "reasoning": "Today taxes pull and lower body heavily; rear delts and mid-back balance anterior demand and support posture.",
+    "reasoning": "Today heavily taxes shoulders, lats, and core via gymnastics and HSW. Build opposing muscle groups without CNS overlap.",
     "suggested_exercises": [
-      "Face Pulls: 3x12",
-      "Reverse Pec Deck: 3x12",
-      "Pallof Press: 3x10/side",
-      "Glute Ham Raise or Nordic Curl: 3x6–8",
-      "Dead Bug: 3x10/side"
+      "Leg Press or Bulgarian Split Squads 3x8-10",
+      "Barbell Rows or Seal Rows 3x8-10",
+      "Tricep Pushdowns or Close-Grip Bench Press 3x10-12",
+      "Leg Curls or Nordic Curls 3x8-10",
+      "Rear Delt Flyes 3x12-15"
     ]
   },
-  "raw_text": "Warm-up | 15 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row Rotate Press\n10 World's Greatest Stretch\n5e/s Squat Knee Taps\n2 Rounds (PVC/BB)\n3 Muscle Clean\n3 Clean Pull\n3 Hang Power Clean\n3 Tall Clean\n3 Full Clean\nClean Drill | Do Together\nTall → Drop\nSlow Pull\nFocus on position in pull\nFast under the bar\nClean | 3x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nRomanian Deadlift (RDL) | 3x10\nUpright Row | 3x10\nDB Bicep Curl | 3x10\nDeadlift | 1x1",
-  "siri_text": "Thursday's workout. Strength: Clean, 3 by 3 at 70 percent. Strength: Romanian Deadlift (RDL), 3 by 10. Strength: Upright Row, 3 by 10. Strength: DB Bicep Curl, 3 by 10. Strength: Deadlift, 1 by 1. Metcon: Clean Drill. Workout: Do Together, Tall → Drop, Slow Pull, Focus on position in pull, Fast under the bar. For hypertrophy, focus on rear delts, mid-back, abs/core stability."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | EMOM x 4\n5 Hollow to Arch Rolls\nMaintain tension - point fingers and toes the whole time.\nPull Up Progression\nEMOM x 3\n10 x Beat Swing\nEMOM x 3\nJump Into Hollow/Arch x 10\nEMOM x 3\nBigger Beat Swing - Lean Back to begin Pull\nBig Hip Pop\nSingles - Focus on Pulling into the bar and pushing away\nEMOM x 5\nJumping C2B - Pause at the bar and slow lower\n- Maintain Hollow - Pull Ribs into hips\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (33:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (38:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (40:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (45:00-50:00)\nWorkout | 10 min AMRAP\n5m HSW\n10 Pull Ups\n10 Box Jumps\nScale HSW to bear Crawls\nPull ups to ring rows\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+  "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: . Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back thickness, leg hypertrophy, triceps."
 }

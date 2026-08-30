@@ -5,12 +5,31 @@
   "strength": [],
   "metcon": {
     "name": "Workout",
-    "type": "Workout",
-    "description": "Workout",
+    "type": "AMRAP",
+    "description": "8 min AMRAP\n6 Front Squats @ 60/40\n4 HSPU\nquick transitions between movements",
     "time_cap": null
   },
   "gymnastics": [],
-  "hypertrophy": null,
-  "raw_text": "Workout | 4 RFT\n10 Pull Ups\n20/15 Cal Row\nRest 1 Min between rounds\nWorkout | 4 RFT- 15 min Cap\n300m Run\n12 Alternating box step overs @ 24/20\"\n15 Abmat Sit ups\nRun 80% effort - unbroken on Situps/step overs\nrx+ GHD Sit ups",
-  "siri_text": "Sunday's workout. Metcon: Workout: Workout."
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "hamstrings",
+      "glutes"
+    ],
+    "avoid": [
+      "shoulders",
+      "triceps",
+      "quadriceps",
+      "core"
+    ],
+    "reasoning": "Back and posterior chain receive minimal direct loading today; accessory work balances anterior dominance without competing for recovery resources.",
+    "suggested_exercises": [
+      "Barbell Rows 3x6-8",
+      "Romanian Deadlifts 3x8-10",
+      "Leg Curls 3x10-12",
+      "Lat Pulldowns 3x8-10"
+    ]
+  },
+  "raw_text": "Workout | 4 RFT\n10 Pull Ups\n20/15 Cal Row\nRest 1 Min between rounds\nWorkout | 4 RFT- 15 min Cap\n300m Run\n12 Alternating box step overs @ 24/20\"\n15 Abmat Sit ups\nRun 80% effort - unbroken on Situps/step overs\nrx+ GHD Sit ups\nWorkout | E3MOM x 6 (18 mins)\n0-3  - 50 Wall Balls\n4-6 - 40/32 cal Row\n7-9 -  20 Burpee Box Overs\n10-12 - 50 Wall Balls\n13-15 - 40/32 cal Row\n16-18 - 20 Burpee Box Overs\nrest in time remaining for each 3 minutes.\nKeep your heart rate low and chip away small sets\nScale volume to keep within time domain.\nWorkout | 8 min AMRAP\n6 Front Squats @ 60/40\n4 HSPU\nquick transitions between movements",
+  "siri_text": "Sunday's workout. Metcon: AMRAP 8 minutes: 6 Front Squats @ 60/40, 4 HSPU, quick transitions between movements. For hypertrophy, focus on back, hamstrings, glutes."
 }
