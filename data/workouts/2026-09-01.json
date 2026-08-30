@@ -31,24 +31,25 @@
   ],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "back",
-      "biceps"
+      "Back (Horizontal)",
+      "Hamstrings (Isolation)",
+      "Biceps",
+      "Rear Delts"
     ],
     "avoid": [
-      "quadriceps",
-      "glutes",
-      "shoulders",
-      "core"
+      "Quadriceps",
+      "Shoulders (Vertical)",
+      "Core"
     ],
-    "reasoning": "Today prioritizes lower body and core; upper body pull/horizontal press work balances without interfering recovery.",
+    "reasoning": "Today heavily taxes quads, shoulders, and core; accessory work targets posterior chain balance and arm hypertrophy with minimal interference.",
     "suggested_exercises": [
-      "Dumbbell Bench Press 3x8-10",
-      "Bent-Over Barbell Rows 3x8-10",
-      "Incline Dumbbell Flyes 3x12",
-      "Barbell Curls 3x10-12"
+      "Barbell Rows: 3x8",
+      "Lying Leg Curls: 3x10",
+      "Barbell Curls: 3x8",
+      "Reverse Pec Deck: 3x12",
+      "Face Pulls: 3x15"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Drill | Do together\nPower Position\nPower Snatch\nPowerlifting Novice:\nBack Squat. Top Set of 1. Get comp cues. Try the 25kg squat bar.\nPower Snatch | 3x3 | Focus on positions from the drill | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nPartner Workout | Partner Workout x 20 mins AMRAP\nPartner A\n16 Wall Balls\n8 Shuttle Runs\n16 Wall Ball Box Overs\nPartner B\nMax Cal Row\nSwitch every round.\nScore is Max Cals on the row\npace the row so you dont spend too long on Part A\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15\nBack Squat | 1x1",
-  "siri_text": "Tuesday's workout. Strength: Power Snatch, 3 by 3 at 70 percent. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Strength: Back Squat, 1 by 1. Gymnastics: GHD Sit-ups. Metcon: Partner Workout. AMRAP 20 minutes: Partner A, 16 Wall Balls, 8 Shuttle Runs, 16 Wall Ball Box Overs, Partner B. For hypertrophy, focus on chest, back, biceps."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Drill | Do together\nPower Position→ Drop\nSlow Pull\nFocus on position in pull\nFast under the bar\nPower Snatch | 3x3 | Focus on positions from the drill | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nPartner Workout | Partner Workout x 20 mins AMRAP\nPartner A\n16 Wall Balls\n8 Shuttle Runs\n16 Wall Ball Box Overs\nPartner B\nMax Cal Row\nSwitch every round.\nScore is Max Cals on the row\npace the row so you dont spend too long on Part A\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15\nBack Squat | 1x1",
+  "siri_text": "Tuesday's workout. Strength: Power Snatch, 3 by 3 at 70 percent. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Strength: Back Squat, 1 by 1. Gymnastics: GHD Sit-ups. Metcon: Partner Workout. AMRAP 20 minutes: Partner A, 16 Wall Balls, 8 Shuttle Runs, 16 Wall Ball Box Overs, Partner B. For hypertrophy, focus on Back (Horizontal), Hamstrings (Isolation), Biceps."
 }
