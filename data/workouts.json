@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T12:23:35",
-  "week_of": "2026-08-31",
+  "last_updated": "2026-08-31T07:21:13",
+  "week_of": "2026-09-07",
   "workouts": {
     "2026-02-23": {
       "date": "2026-02-23",
@@ -6793,7 +6793,7 @@
       "strength": [
         {
           "name": "Deadlift",
-          "description": "4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands. Use a deadlift bar (red tape) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%"
+          "description": "4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No free fall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%"
         },
         {
           "name": "Split Jerk",
@@ -6822,28 +6822,29 @@
       "hypertrophy": {
         "recommended_muscles": [
           "biceps",
-          "rear deltoids",
-          "upper back",
-          "calves"
+          "lateral delts",
+          "upper back/rear delts",
+          "triceps"
         ],
         "avoid": [
           "quadriceps",
           "glutes",
           "hamstrings",
           "chest",
-          "shoulders",
-          "forearms"
+          "anterior delts",
+          "erector spinae"
         ],
-        "reasoning": "Deadlift, jerk, and metcon heavily tax posterior chain and pressing muscles; accessory work targets antagonists and neglected areas.",
+        "reasoning": "Today heavily taxes posterior chain, pressing, and pulling. Accessory work targets upper arm and shoulder balance without compounding lower body or anterior core fatigue.",
         "suggested_exercises": [
-          "Barbell Curls 3x8–10",
-          "Face Pulls 3x12–15",
-          "Seated Good Mornings 3x10",
-          "Standing Calf Raises 3x12–15"
+          "Dumbbell Bicep Curls 3x12",
+          "Lateral Raise 3x12",
+          "Reverse Pec Deck 3x12",
+          "Skull Crushers 3x10",
+          "Face Pulls 3x15"
         ]
       },
-      "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No freefall)\n\nPowerlifting Novice:\nTop Set of 3. Ask for commands. Use a deadlift bar (red tape) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%\nSplit Jerk Warm Up | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10\nSplit Jerk | 1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nMcGhee | As many rounds as possible in 30 minutes of:\n5 deadlifts\n13 push-ups\n9 box jumps\nF: 185-lb barbell, 20-inch box\nM: 275-lb barbell, 24-inch box\nSeated Cable Row | 3x10\nArnold Press | 3x10\nHamstring Curl | 3x10",
-      "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 60 percent. Strength: Split Jerk, 1 by 3. Strength: Seated Cable Row, 3 by 10. Strength: Arnold Press, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: McGhee. Workout: 5 deadlifts, 13 push-ups, 9 box jumps. For hypertrophy, focus on biceps, rear deltoids, upper back."
+      "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\n45% DL Bar\n1 Round:\n30 sec Hollow Hold\n15sec e/s Side Plank\nBanded Row\n10 BB Good Morning\n10 BB RDL\n8 Hip Thrust @ 40% DL\nDeadlift | 4x6 | Tempo Deadlift\n* 3 seconds to the knee\n* Wedge Hips into the bar\n* Shoulder Blades to back pocket\n* Control Bar back to floor (No free fall) | 15mins\nE3MOMx4\nBUILD 1 Set\n0:00 6 @ 50%\nHOLD 4x6\n3:00 6 @ 60%\n6:00 6 @ 60%\n9:00 6 @ 60%\n12:00 6 @ 60%\nSplit Jerk Warm Up | 5 mins\n1 round:\n30sec e/s PVC Shoulder opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10m DB OH Walking Lunge 15/10\nSplit Jerk | 1x3 | * Legs Long\n* Point toes of the  back foot\n* Punch the ceiling & floor | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nMcGhee | As many rounds as possible in 30 minutes of:\n5 deadlifts\n13 push-ups\n9 box jumps\nF: 185-lb barbell, 20-inch box\nM: 275-lb barbell, 24-inch box\nSeated Cable Row | 3x10\nArnold Press | 3x10\nHamstring Curl | 3x10",
+      "siri_text": "Monday's workout. Strength: Deadlift, 4 by 6 at 60 percent. Strength: Split Jerk, 1 by 3. Strength: Seated Cable Row, 3 by 10. Strength: Arnold Press, 3 by 10. Strength: Hamstring Curl, 3 by 10. Metcon: McGhee. Workout: 5 deadlifts, 13 push-ups, 9 box jumps. For hypertrophy, focus on biceps, lateral delts, upper back/rear delts."
     },
     "2026-09-01": {
       "date": "2026-09-01",
