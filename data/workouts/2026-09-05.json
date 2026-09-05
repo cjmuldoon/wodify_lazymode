@@ -6,32 +6,32 @@
   "metcon": {
     "name": "Workout",
     "type": "Workout",
-    "description": "Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRope / Rig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n5e/s Alternating Box Step-Ups\n5 Box Jump + Step Down\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\n2–3 Low Rope Foot Locks / Standing Rope Pulls\n2 Box Jump Overs\nBarbell\n3 Muscle Cleans\n3 Hang Power Cleans\n3 Power Cleans\n3 Push Press\n3 Push Jerks\n2 Clean & Jerks\nThen 3–4 minutes workout prep:\nBuild clean & jerk weight while  test their gymnastics:\n1 Rope Climb\n2–3 Bar Muscle-Ups / chosen scale\n2 Box Jump Overs\n1 Clean & Jerk - build up to working weight",
+    "description": "Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRope / Rig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n5e/s Alternating Box Step-Ups\n5 Box Jump + Step Down\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\n2–3 Low Rope Foot Locks / Standing Rope Pulls\n2 Box Jump Overs\nBarbell\n3 Muscle Cleans\n3 Hang Power Cleans\n3 Power Cleans\n3 Push Press\n3 Push Jerks\n2 Clean & Jerks\nThen 3–4 minutes workout prep:\nBuild clean & jerk weight while testing gymnastics:\n1 Rope Climb\n2–3 Bar Muscle-Ups / chosen scale\n2 Box Jump Overs\n1 Clean & Jerk - build up to working weight",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "hamstrings",
-      "glutes",
       "rear delts",
-      "biceps"
+      "upper back",
+      "biceps",
+      "core"
     ],
     "avoid": [
-      "shoulders",
       "lats",
-      "core",
-      "quads"
+      "shoulders",
+      "traps",
+      "forearms"
     ],
-    "reasoning": "Accessory work targets posterior chain and arms, sparing today's taxed pulling muscles and Olympic lifting stabilizers.",
+    "reasoning": "Today emphasizes pressing, pulling, and gymnastic shoulder work; accessorize antagonists and weak-point builders.",
     "suggested_exercises": [
-      "Romanian Deadlifts 3x8",
-      "Face Pulls 3x12",
-      "Hamstring Curls (machine or lying) 3x10",
-      "Barbell Curls 3x8",
-      "Glute Bridges 3x12"
+      "Face Pulls 3x12–15",
+      "Dumbbell Bicep Curls 3x10–12",
+      "Reverse Pec Deck 3x12–15",
+      "Weighted Dips 3x8–10",
+      "Pallof Press 3x10 e/s"
     ]
   },
-  "raw_text": "Workout | YGIG Partner workout 30 min AMRAP\nEach round consists of\n1 Rope Climb\n4 Bar Muscle-Ups\n8 Box Jump Overs 24/20”\nEach person does 1 full round then they come together to do\n10 clean and jerks @ 80/50kg\nCan be split jerk or push jerk\nScale rope climb to partial rope climb or 2 x controlled rope climbs from the floor\nscale muscle up to 4 banded muscle ups, 6 C2B or 8 pull ups\nScale # of reps to finish each YGIG portion within 2 minutes\nWorkout | Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRope / Rig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n5e/s Alternating Box Step-Ups\n5 Box Jump + Step Down\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\n2–3 Low Rope Foot Locks / Standing Rope Pulls\n2 Box Jump Overs\nBarbell\n3 Muscle Cleans\n3 Hang Power Cleans\n3 Power Cleans\n3 Push Press\n3 Push Jerks\n2 Clean & Jerks\nThen 3–4 minutes workout prep:\nBuild clean & jerk weight while  test their gymnastics:\n1 Rope Climb\n2–3 Bar Muscle-Ups / chosen scale\n2 Box Jump Overs\n1 Clean & Jerk - build up to working weight",
-  "siri_text": "Saturday's workout. Metcon: Workout: Warm Up Equipment:, PVC Pipe, Red Band, Empty Barbell, Rope / Rig. For hypertrophy, focus on hamstrings, glutes, rear delts."
+  "raw_text": "Workout | YGIG Partner workout 30 min AMRAP\nEach round consists of\n1 Rope Climb\n4 Bar Muscle-Ups\n8 Box Jump Overs 24/20”\nEach person does 1 full round then they come together to do\n10 clean and jerks @ 80/50kg\nCan be split jerk or push jerk\nScale rope climb to partial rope climb or 2 x controlled rope climbs from the floor\nscale muscle up to 4 banded muscle ups, 6 C2B or 8 pull ups\nScale # of reps to finish each YGIG portion within 2 minutes\nWorkout | Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRope / Rig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n5e/s Alternating Box Step-Ups\n5 Box Jump + Step Down\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\n2–3 Low Rope Foot Locks / Standing Rope Pulls\n2 Box Jump Overs\nBarbell\n3 Muscle Cleans\n3 Hang Power Cleans\n3 Power Cleans\n3 Push Press\n3 Push Jerks\n2 Clean & Jerks\nThen 3–4 minutes workout prep:\nBuild clean & jerk weight while testing gymnastics:\n1 Rope Climb\n2–3 Bar Muscle-Ups / chosen scale\n2 Box Jump Overs\n1 Clean & Jerk - build up to working weight",
+  "siri_text": "Saturday's workout. Metcon: Workout: Warm Up Equipment:, PVC Pipe, Red Band, Empty Barbell, Rope / Rig. For hypertrophy, focus on rear delts, upper back, biceps."
 }
