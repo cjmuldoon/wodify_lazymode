@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-08",
+  "day_name": "Tuesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat",
+  "strength": [
+    {
+      "name": "Snatch",
+      "description": "3x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%"
+    },
+    {
+      "name": "Overhead Squat",
+      "description": "4x6 | 4x6 @ 50%"
+    },
+    {
+      "name": "DB Windmill",
+      "description": "3x10 | 3x10e/s"
+    },
+    {
+      "name": "Back Squat",
+      "description": "1x1"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "EMOM",
+    "description": "E3MOM x 6 (18 mins)\n0-3:00 - 50 Wall Balls\n3:00-6:00 - 40/32 cal Row\n6:00-9:00 - 20 Burpee Box Overs\n9:00-12:00 - 50 Wall Balls\n12:00-15:00 - 40/32 cal Row\n15:00-18:00 - 20 Burpee Box Overs\nrest in time remaining for each 3 minutes.\nKeep your heart rate low and chip away small sets\nScale volume to keep within time domain.",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "GHD Sit-ups"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "upper back",
+      "biceps",
+      "glutes"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "core",
+      "chest"
+    ],
+    "reasoning": "Address posterior chain imbalances and upper back stability without competing with leg-dominant metcon or shoulder pressing demands.",
+    "suggested_exercises": [
+      "Face Pulls: 3x12",
+      "Barbell Rows: 3x8",
+      "Dumbbell Curls: 3x10",
+      "Nordic Curls or Glute-Ham Raises: 3x6",
+      "Reverse Pec Deck: 3x12"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n1 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Drill | Do together\nPower Position→ Drop\nSlow Pull\nFocus on position in pull\nFast under the bar\nSnatch | 3x3 | 15mins\nE3MOMx5\nBUILD 1 Set\n0:00 3 @ 50%\n3:00 3 @ 60%\nHOLD 3x3\n6:00 3 @ 70%\n9:00 3 @ 70%\n12:00 3 @ 70%\nWorkout | E3MOM x 6 (18 mins)\n0-3:00 - 50 Wall Balls\n3:00-6:00 - 40/32 cal Row\n6:00-9:00 - 20 Burpee Box Overs\n9:00-12:00 - 50 Wall Balls\n12:00-15:00 - 40/32 cal Row\n15:00-18:00 - 20 Burpee Box Overs\nrest in time remaining for each 3 minutes.\nKeep your heart rate low and chip away small sets\nScale volume to keep within time domain.\nOverhead Squat | 4x6 | 4x6 @ 50%\nDB Windmill | 3x10 | 3x10e/s\nGHD Sit-ups | 3x10-15\nBack Squat | 1x1",
+  "siri_text": "Tuesday's workout. Strength: Snatch, 3 by 3 at 70 percent. Strength: Overhead Squat, 4 by 6 at 50 percent. Strength: DB Windmill, 3 by 10. Strength: Back Squat, 1 by 1. Gymnastics: GHD Sit-ups. Metcon: EMOM 18 minutes: 0-3:00 - 50 Wall Balls, 3:00-6:00 - 40/32 cal Row, 6:00-9:00 - 20 Burpee Box Overs, 9:00-12:00 - 50 Wall Balls, 12:00-15:00 - 40/32 cal Row. For hypertrophy, focus on rear deltoids, upper back, biceps."
+}
