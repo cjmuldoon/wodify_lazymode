@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-19",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n30 Handstand Hold on wall\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\nBarbell\n3 Muscle Snatches\n3 Hang Power Snatches\n3 Power Cleans",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "glutes",
+      "hamstrings",
+      "rear delts",
+      "triceps"
+    ],
+    "avoid": [
+      "quadriceps",
+      "front delts",
+      "traps",
+      "lats"
+    ],
+    "reasoning": "Addresses posterior chain and arm weaknesses while sparing shoulders, legs, and pulling muscles fatigued by snatches and cleans.",
+    "suggested_exercises": [
+      "Romanian Deadlifts 3x6-8",
+      "Dumbbell Pullovers 3x8-10",
+      "Reverse Pec Deck 3x10-12",
+      "Tricep Pushdowns 3x10-12"
+    ]
+  },
+  "raw_text": "Workout | Scaled\nFor Time - 35 min Cap\nBuy in 100/80 Cal Assault Bike\n60 Goblet Squats @16/12kg KB\n60 Hang Power Snatches @ 40/30 kg\n60 pull ups or banded C2B\n80m bear crawl or 10 Wall Walks\n30 Power cleans @60/40kg\nBUY OUT 100/80 Cal Assault Bike\nRX\nFor Time - 35 min Cap\nBuy in 100/80 Cal Assault Bike\n60 Goblet Squats @ 24/16\n60 Hang Power Snatches @ 50/35kg\n30 Bar Muscle Ups or 40 C2B\n40m Handstand Walk or 12 Wall Walks\n30 Power cleans @80/55kg\nBUY OUT 100/80 Cal Assault Bike\nRX+\nFor Time - 35 min Cap\nBuy in 100/80 Cal Assault Bike\n60 Goblet Squats @32/24\n60 Hang Power Snatches @ 60/40kg\n40 Bar Muscle Ups\n60m Handstand Walk\n30 Power cleans @80/55kg\nBUY OUT 100/80 Cal Assault Bike\nWorkout | Warm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\nBox\nRig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n30 Handstand Hold on wall\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings + Hip-to-Bar\nBarbell\n3 Muscle Snatches\n3 Hang Power Snatches\n3 Power Cleans",
+  "siri_text": "Saturday's workout. Metcon: Workout: Warm Up Equipment:, PVC Pipe, Red Band, Empty Barbell, 5 PVC Pass Throughs. For hypertrophy, focus on glutes, hamstrings, rear delts."
+}
