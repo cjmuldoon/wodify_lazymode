@@ -12,28 +12,35 @@
       "description": "4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 50%\n2:00 5 @ 60%\nHOLD 4x5\n4:00 5 @ 72.5%\n6:00 5 @ 72.5%\n8:00 5 @ 72.5\n10:00 5 @ 72.5%"
     }
   ],
-  "metcon": null,
+  "metcon": {
+    "name": "Strong & Sexy",
+    "type": "AMRAP",
+    "description": "15 min AMRAP\n200m run\n10m Sled Push @ 80/50kg\n10m Sled Drag\n8 strict ring rows -\nFull Range arms locked out - rings to biceps - No Kipping - feet elevated if you want to make it harder",
+    "time_cap": null
+  },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back",
       "hamstrings",
-      "rear delts"
+      "rear delts",
+      "back width",
+      "triceps"
     ],
     "avoid": [
       "quads",
       "chest",
       "anterior delts",
-      "triceps"
+      "ring row muscles"
     ],
-    "reasoning": "Back and hamstring work balances quad/chest dominance while avoiding CNS fatigue from heavy compound movements.",
+    "reasoning": "Front squat and bench dominate quads/chest/anterior chain; accessory work targets posterior chain and triceps to balance.",
     "suggested_exercises": [
-      "Barbell Rows: 3x8",
-      "Romanian Deadlifts: 3x8",
-      "Face Pulls: 3x12",
-      "Seal Rows: 3x10"
+      "Romanian Deadlifts 3x8",
+      "Face Pulls 3x12",
+      "Dumbbell Rows 3x10",
+      "Tricep Pushdowns 3x12",
+      "Leg Curls 3x10"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 4x5 | 4x5\nTEMPO 2,2,0 | 12mins\nE2MOMx6\nBUILD 1 Set\n0:00 8 @ 55%\n2:00 6 @ 65%\nHOLD 4x5\n4:00 5 @ 75%\n6:00 5 @ 75%\n8:00 5 @ 75%\n10:00 5 @ 75%\nPaused Bench Press | 4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 50%\n2:00 5 @ 60%\nHOLD 4x5\n4:00 5 @ 72.5%\n6:00 5 @ 72.5%\n8:00 5 @ 72.5\n10:00 5 @ 72.5%",
-  "siri_text": "Tuesday's workout. Strength: Front Squat, 4 by 5 at 75 percent. Strength: Paused Bench Press, 4 by 5 at 60 percent. For hypertrophy, focus on back, hamstrings, rear delts."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 4x5 | 4x5\nTEMPO 2,2,0 | 12mins\nE2MOMx6\nBUILD 1 Set\n0:00 8 @ 55%\n2:00 6 @ 65%\nHOLD 4x5\n4:00 5 @ 75%\n6:00 5 @ 75%\n8:00 5 @ 75%\n10:00 5 @ 75%\nPaused Bench Press | 4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 50%\n2:00 5 @ 60%\nHOLD 4x5\n4:00 5 @ 72.5%\n6:00 5 @ 72.5%\n8:00 5 @ 72.5\n10:00 5 @ 72.5%\nStrong & Sexy | 15 min AMRAP\n200m run\n10m Sled Push @ 80/50kg\n10m Sled Drag\n8 strict ring rows -\nFull Range arms locked out - rings to biceps - No Kipping - feet elevated if you want to make it harder",
+  "siri_text": "Tuesday's workout. Strength: Front Squat, 4 by 5 at 75 percent. Strength: Paused Bench Press, 4 by 5 at 60 percent. Metcon: Strong & Sexy. AMRAP 15 minutes: 200m run, 10m Sled Push @ 80/50kg, 10m Sled Drag, 8 strict ring rows -, Full Range arms locked out - rings to biceps - No Kipping - feet elevated if you want to make it harder. For hypertrophy, focus on hamstrings, rear delts, back width."
 }
