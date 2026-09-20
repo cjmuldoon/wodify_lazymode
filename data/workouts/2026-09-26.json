@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-26",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Teams of 3",
+    "type": "For Time",
+    "description": "Teams of 3\nFor Time\nBUY IN: 400m Run together\nTHEN 4 Rounds\n45/36 cal Assault Bike\n24 Pull Ups\n24 Hand Release Push Ups\n150m Carry *\n6 Synchro Burpees\nTHEN\nBUY OUT: 400m Run\nP1: 2 x 24/16 Farmer Carry\nP2: Wall Ball Bear hug Carry\nP3: Swap every 50m\nRX+ C2B / HSPU / 32/24 KB / Sandbag\nScale Pull Ups to Ring Rows\nScale Push Ups to Elevated Push Ups\nScale KB to 16/12kg",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "hamstrings",
+      "glutes",
+      "rear delts",
+      "biceps"
+    ],
+    "avoid": [
+      "chest",
+      "shoulders",
+      "triceps",
+      "quads",
+      "core"
+    ],
+    "reasoning": "Today heavily taxed pressing, pulling, and anterior chain; target posterior chain and arm hypertrophy without competing for recovery.",
+    "suggested_exercises": [
+      "Romanian Deadlifts 3 x 6-8",
+      "Banded Leg Curls 3 x 10-12",
+      "Reverse Pec Deck 3 x 10-12",
+      "Dumbbell Curls 3 x 8-10",
+      "Prone Incline Bench Curls 3 x 10-12"
+    ]
+  },
+  "raw_text": "Workout | Warm Up Equipment:\nPVC Pipe\nRed Band\nBox\nRig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n30 Handstand Hold on wall or Plank\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings\nJog as a team 150m\nTeams of 3 | Teams of 3\nFor Time\nBUY IN: 400m Run together\nTHEN 4 Rounds\n45/36 cal Assault Bike\n24 Pull Ups\n24 Hand Release Push Ups\n150m Carry *\n6 Synchro Burpees\nTHEN\nBUY OUT: 400m Run\nP1: 2 x 24/16 Farmer Carry\nP2: Wall Ball Bear hug Carry\nP3: Swap every 50m\nRX+ C2B / HSPU / 32/24 KB / Sandbag\nScale Pull Ups to Ring Rows\nScale Push Ups to Elevated Push Ups\nScale KB to 16/12kg",
+  "siri_text": "Saturday's workout. Metcon: Teams of 3. For Time: 45/36 cal Assault Bike, 24 Pull Ups, 24 Hand Release Push Ups, 150m Carry *, 6 Synchro Burpees. For hypertrophy, focus on hamstrings, glutes, rear delts."
+}

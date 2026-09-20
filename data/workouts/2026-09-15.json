@@ -9,7 +9,7 @@
     },
     {
       "name": "Paused Bench Press",
-      "description": "4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 50%\n2:00 5 @ 60%\nHOLD 4x5\n4:00 5 @ 72.5%\n6:00 5 @ 72.5%\n8:00 5 @ 72.5\n10:00 5 @ 72.5%"
+      "description": "4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 55%\n2:00 5 @ 65%\nHOLD 4x5\n4:00 5 @ 75%\n6:00 5 @ 75%\n8:00 5 @ 75\n10:00 5 @ 75%"
     }
   ],
   "metcon": {
@@ -22,23 +22,23 @@
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "hamstrings",
+      "biceps",
       "rear delts"
     ],
     "avoid": [
       "quads",
       "chest",
-      "abs",
-      "shoulders"
+      "triceps",
+      "core"
     ],
-    "reasoning": "Back and hamstrings create posterior chain balance; avoid fatiguing quads/chest further post-strength work.",
+    "reasoning": "Back and arms provide antagonist balance post-squat/bench while core is fatigued from metcon.",
     "suggested_exercises": [
-      "Barbell Rows 3x6-8",
-      "Romanian Deadlifts 3x8",
-      "Reverse Pec Deck 3x10-12",
-      "Seal Rows 2x10-12"
+      "Barbell Rows: 3x8",
+      "Dumbbell Flyes (rear delt): 3x10",
+      "EZ Bar Curls: 3x10",
+      "Pendlay Rows: 3x8"
     ]
   },
-  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 4x5 | 4x5\nTEMPO 2,2,0 | 12mins\nE2MOMx6\nBUILD 1 Set\n0:00 8 @ 50%\n2:00 6 @ 60%\nHOLD 4x5\n4:00 5 @ 70%\n6:00 5 @ 70%\n8:00 5 @ 70%\n10:00 5 @ 70%\nPaused Bench Press | 4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 50%\n2:00 5 @ 60%\nHOLD 4x5\n4:00 5 @ 72.5%\n6:00 5 @ 72.5%\n8:00 5 @ 72.5\n10:00 5 @ 72.5%\nWorkout | For Time\nBUY IN: 500m/400m Row\n50 Double Unders - 10 Abmat Sit ups\n40 Double unders - 20 Abmat Sit ups\n30 Double Unders - 30 Abmat Sit ups\n20 Double Unders - 20 Abmat Sit ups\n10 Double Unders - 10 Abmat Sit ups\nBUY OUT: 500m/400m Row",
-  "siri_text": "Tuesday's workout. Strength: Front Squat, 4 by 5 at 70 percent. Strength: Paused Bench Press, 4 by 5 at 60 percent. Metcon: For Time: 50 Double Unders - 10 Abmat Sit ups, 40 Double unders - 20 Abmat Sit ups, 30 Double Unders - 30 Abmat Sit ups, 20 Double Unders - 20 Abmat Sit ups, 10 Double Unders - 10 Abmat Sit ups. For hypertrophy, focus on back, hamstrings, rear delts."
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 4x5 | 4x5\nTEMPO 2,2,0 | 12mins\nE2MOMx6\nBUILD 1 Set\n0:00 8 @ 50%\n2:00 6 @ 60%\nHOLD 4x5\n4:00 5 @ 70%\n6:00 5 @ 70%\n8:00 5 @ 70%\n10:00 5 @ 70%\nPaused Bench Press | 4x5 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 1 Set\n0:00 5 @ 55%\n2:00 5 @ 65%\nHOLD 4x5\n4:00 5 @ 75%\n6:00 5 @ 75%\n8:00 5 @ 75\n10:00 5 @ 75%\nWorkout | For Time\nBUY IN: 500m/400m Row\n50 Double Unders - 10 Abmat Sit ups\n40 Double unders - 20 Abmat Sit ups\n30 Double Unders - 30 Abmat Sit ups\n20 Double Unders - 20 Abmat Sit ups\n10 Double Unders - 10 Abmat Sit ups\nBUY OUT: 500m/400m Row",
+  "siri_text": "Tuesday's workout. Strength: Front Squat, 4 by 5 at 70 percent. Strength: Paused Bench Press, 4 by 5 at 75 percent. Metcon: For Time: 50 Double Unders - 10 Abmat Sit ups, 40 Double unders - 20 Abmat Sit ups, 30 Double Unders - 30 Abmat Sit ups, 20 Double Unders - 20 Abmat Sit ups, 10 Double Unders - 10 Abmat Sit ups. For hypertrophy, focus on back, biceps, rear delts."
 }

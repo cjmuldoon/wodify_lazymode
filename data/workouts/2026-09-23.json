@@ -1,0 +1,40 @@
+{
+  "date": "2026-09-23",
+  "day_name": "Wednesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans",
+  "strength": [
+    {
+      "name": "Clean and Jerk",
+      "description": "3x2 | 3 x 2 | E3MOMx5\nBUILD 1 Set\n0:00 2 @ 55%\n3:00 2 @ 65%\nHOLD 3x2\n6:00 2 @ 75%\n9:00 2 @ 75%\n12:00 2 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "For Time",
+    "description": "9-7-5-3-1  Reps for time\nPush Jerks @ 70/45\nBox Jumps @ 24/20\"\nRest 3 Mins then;\n12-9-6-3 reps for time\nPower Cleans @ 70/45\nBox Jumps @ 24/20\"",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (lats/rows)",
+      "Hamstrings",
+      "Glutes",
+      "Triceps"
+    ],
+    "avoid": [
+      "Shoulders",
+      "Quadriceps",
+      "Forearms"
+    ],
+    "reasoning": "Address posterior chain and arm strength without competing with shoulders/legs fatigued by Jerks and Box Jumps.",
+    "suggested_exercises": [
+      "Barbell Rows: 3x6-8",
+      "Romanian Deadlifts: 3x8-10",
+      "Incline Dumbbell Bench Press: 3x8-10",
+      "Barbell Skullcrushers: 3x10-12"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Clean pull> Hang Pull> Hang pwr\nTop set of 2\n2 clean reps = move up in weight\nClean and Jerk | 3x2 | 3 x 2 | E3MOMx5\nBUILD 1 Set\n0:00 2 @ 55%\n3:00 2 @ 65%\nHOLD 3x2\n6:00 2 @ 75%\n9:00 2 @ 75%\n12:00 2 @ 75%\nWorkout | 9-7-5-3-1  Reps for time\nPush Jerks @ 70/45\nBox Jumps @ 24/20\"\nRest 3 Mins then;\n12-9-6-3 reps for time\nPower Cleans @ 70/45\nBox Jumps @ 24/20\"",
+  "siri_text": "Wednesday's workout. Strength: Clean and Jerk, 3 by 2 at 75 percent. Metcon: For Time. For hypertrophy, focus on Back (lats/rows), Hamstrings, Glutes."
+}
