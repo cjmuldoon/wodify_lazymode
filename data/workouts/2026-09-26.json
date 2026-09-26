@@ -6,32 +6,32 @@
   "metcon": {
     "name": "Workout",
     "type": "For Time",
-    "description": "For TIme (40min CAP)\nWorking in teams of 3\n2 working 1 resting\nAthlete 1 accumulates meters on the row\nAthlete 2 rounds of barbell\nathlete 3 rest\ntransition between full rounds & row as required\n8,000m/6,500 Row\n& 35 Rounds\n9 x Deadlifts\n7 x Hang Power Clean\n5 x Front Squats\n3 x HSPU\nOnce one station is finished, complete the remaining work, with only one athlete working at that station at a time.",
+    "description": "For TIme (40min CAP)\nWorking in teams of 3\n2 working 1 resting\nAthlete 1 accumulates meters on the row\nAthlete 2 rounds of barbell\nathlete 3 rest\ntransition between full rounds & row as required\n8,000m/6,500 Row\n& 35 Rounds\n9 x Deadlifts\n7 x Hang Power Clean\n5 x Front Squats\n3 x HSPU\n@60/40 kg\nOnce one station is finished, complete the remaining work, with only one athlete working at that station at a time.\nAssault Bike - 10 miles",
     "time_cap": "40 min"
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
       "rear delts",
-      "back/lats",
       "biceps",
-      "core stability"
+      "upper back",
+      "glutes"
     ],
     "avoid": [
       "quads",
-      "glutes",
       "hamstrings",
       "shoulders",
+      "core",
       "triceps"
     ],
-    "reasoning": "Address posterior chain imbalances and shoulder health while avoiding CNS fatigue from heavy row/squat/clean stimulus.",
+    "reasoning": "Row and barbell complex heavily tax lower body and anterior chain; target posterior and arm muscles for balanced recovery.",
     "suggested_exercises": [
       "Face pulls 3 x 12-15",
-      "Barbell rows 3 x 8-10",
-      "Dumbbell curls 3 x 10-12",
-      "Pallof press 3 x 10/side"
+      "Barbell rows 3 x 6-8",
+      "Incline dumbbell curls 3 x 10-12",
+      "Glute-focused leg press or hip thrusts 3 x 8-10"
     ]
   },
-  "raw_text": "Workout | Warm Up Equipment:\nPVC Pipe\nRed Band\nBox\nRig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n30 Handstand Hold on wall or Plank\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings\nJog as a team 150m\nWorkout | For TIme (40min CAP)\nWorking in teams of 3\n2 working 1 resting\nAthlete 1 accumulates meters on the row\nAthlete 2 rounds of barbell\nathlete 3 rest\ntransition between full rounds & row as required\n8,000m/6,500 Row\n& 35 Rounds\n9 x Deadlifts\n7 x Hang Power Clean\n5 x Front Squats\n3 x HSPU\nOnce one station is finished, complete the remaining work, with only one athlete working at that station at a time.",
-  "siri_text": "Saturday's workout. Metcon: For Time, 40 min cap: 8,000m/6,500 Row, 9 x Deadlifts, 7 x Hang Power Clean, 5 x Front Squats, 3 x HSPU. For hypertrophy, focus on rear delts, back/lats, biceps."
+  "raw_text": "Workout | Warm Up Equipment:\nPVC Pipe\nRed Band\nBox\nRig\n1 Round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n30 Handstand Hold on wall or Plank\n2 Rounds:\nGymnastics\n5 Scap Pull-Ups\n5 Beat Swings\n3 Kip Swings\nJog as a team 150m\nWorkout | For TIme (40min CAP)\nWorking in teams of 3\n2 working 1 resting\nAthlete 1 accumulates meters on the row\nAthlete 2 rounds of barbell\nathlete 3 rest\ntransition between full rounds & row as required\n8,000m/6,500 Row\n& 35 Rounds\n9 x Deadlifts\n7 x Hang Power Clean\n5 x Front Squats\n3 x HSPU\n@60/40 kg\nOnce one station is finished, complete the remaining work, with only one athlete working at that station at a time.\nAssault Bike - 10 miles",
+  "siri_text": "Saturday's workout. Metcon: For Time, 40 min cap: 8,000m/6,500 Row, 9 x Deadlifts, 7 x Hang Power Clean, 5 x Front Squats, 3 x HSPU. For hypertrophy, focus on rear delts, biceps, upper back."
 }
