@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Deadlift",
-      "description": "4x3 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | E3MOM 18MIN\nBUILD 2 Set\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4@ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%"
+      "description": "3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | E3MOM 18MIN\nBUILD 2 Set\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4@ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%"
     },
     {
       "name": "Split Jerk",
@@ -21,27 +21,24 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "Back (horizontal pull)",
-      "Biceps",
-      "Shoulders (lateral)",
-      "Core (anti-rotation)"
+      "chest",
+      "back (horizontal)",
+      "biceps"
     ],
     "avoid": [
-      "Quadriceps",
-      "Glutes",
-      "Hamstrings",
-      "Lower back",
-      "Shoulders (vertical)"
+      "quadriceps",
+      "glutes",
+      "lower back",
+      "shoulders"
     ],
-    "reasoning": "Deadlifts and box jumps heavily stress posterior chain and shoulders; horizontal pulls and arm work enhance recovery without competing.",
+    "reasoning": "Today heavily taxes posterior chain and shoulders; horizontal pulling/pressing provides antagonist balance without compounding fatigue.",
     "suggested_exercises": [
-      "Barbell Rows 3x8",
-      "Dumbbell Lateral Raises 3x10",
-      "EZ Bar Curls 3x10",
-      "Pallof Press 3x8 per side",
-      "Incline Dumbbell Bench 3x8"
+      "Dumbbell Bench Press 3x8-10",
+      "Barbell Rows 3x8-10",
+      "Dumbbell Curls 2x10-12",
+      "Machine Chest Fly 2x12-15"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 4x3 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | E3MOM 18MIN\nBUILD 2 Set\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4@ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | 3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
-  "siri_text": "Tuesday's workout. Strength: Deadlift, 4 by 3 at 80 percent. Strength: Split Jerk, 1 by 3. Metcon: Rounds for Time: 400m Run, 10 Deadlifts @ 100/80, 10 Box Jumps. For hypertrophy, focus on Back (horizontal pull), Biceps, Shoulders (lateral)."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | E3MOM 18MIN\nBUILD 2 Set\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4@ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 3\n00:00 3\n02:00 3\n04:00 3\n06:00 3\n08:00 3\nWorkout | 3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 4 at 80 percent. Strength: Split Jerk, 1 by 3. Metcon: Rounds for Time: 400m Run, 10 Deadlifts @ 100/80, 10 Box Jumps. For hypertrophy, focus on chest, back (horizontal), biceps."
 }

@@ -6,6 +6,14 @@
     {
       "name": "Snatch",
       "description": "2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 77.5%\n15:00 2 @ 77.5%"
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "description": "4x8"
+    },
+    {
+      "name": "Leg Extension",
+      "description": "3x12"
     }
   ],
   "metcon": {
@@ -25,16 +33,16 @@
       "quads",
       "glutes",
       "shoulders",
-      "core"
+      "forearms"
     ],
-    "reasoning": "Snatches and burpees heavily tax lower body and anterior chain; accessory work targets posterior chain for balance.",
+    "reasoning": "Prioritize pulling patterns and arm hypertrophy to balance pushing/leg dominance while preserving recovery.",
     "suggested_exercises": [
-      "Barbell Rows 3x6-8",
-      "Dumbbell Bicep Curls 3x8-10",
-      "Face Pulls 3x12-15",
-      "Single-Leg RDLs 3x8 per side"
+      "Barbell Rows 3x8",
+      "Incline Dumbbell Curls 3x10",
+      "Reverse Pec Deck 3x12",
+      "Chest-Supported T-Bar Rows 3x10"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 77.5%\n15:00 2 @ 77.5%\nWorkout | Every 90 seconds Until Bust\n8 Snatches @ 45/30kg\n1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees\nAdd 1 rep after every successful round to the burpees\nScore is total reps\nCan be Squat snatch, Muscle or Power",
-  "siri_text": "Monday's workout. Strength: Snatch, 2 by 2 at 75 percent. Metcon: Workout: 8 Snatches @ 45/30kg, 1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees, Can be Squat snatch, Muscle or Power. For hypertrophy, focus on back, biceps, rear delts."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 77.5%\n15:00 2 @ 77.5%\nWorkout | Every 90 seconds Until Bust\n8 Snatches @ 45/30kg\n1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees\nAdd 1 rep after every successful round to the burpees\nScore is total reps\nCan be Squat snatch, Muscle or Power\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
+  "siri_text": "Monday's workout. Strength: Snatch, 2 by 2 at 75 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: Workout: 8 Snatches @ 45/30kg, 1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees, Can be Squat snatch, Muscle or Power. For hypertrophy, focus on back, biceps, rear delts."
 }
