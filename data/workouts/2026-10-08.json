@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-08",
+  "day_name": "Thursday",
+  "warm_up": "Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world",
+  "strength": [
+    {
+      "name": "GHD Russian Twist",
+      "description": "3x10"
+    }
+  ],
+  "metcon": {
+    "name": "Handstand Hold",
+    "type": "Workout",
+    "description": "3x30seconds",
+    "time_cap": null
+  },
+  "gymnastics": [
+    "Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (6:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (11:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (16:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (21:00)\nLevel 1: Emerging Skill\nLevel 2: Can get into a freestanding handstand & take a step\nLevel 3: Can walk 5+ metres\nFor levels 2/3\nLevel 2: Walk to or away from wall focusing on stacked hands/shoulders/hips\nFor level 3 spend a few minutes on each drill then move onto building volume & practice walking / handstand Hold or Partner assisted walking\nT2B Bar Progression\nSpend 5 Minutes going through progressions (26:00-31:00)\nThen Build to;\n100 T2B for time\nFalse Grip on bar - focus on Knuckles Up\n10 x Beat Swing\nBigger Beat Swing - Push Down on Bar\nReach Long in the Arch not back - Dont bend the knees\nKnees to Chest - Aggressive & Pop - pause at the top\nAggressive Knees to chest - with toe flick",
+    "GHD Sit-ups"
+  ],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "Back (lats/mid-back)",
+      "Glutes",
+      "Hamstrings",
+      "Triceps"
+    ],
+    "avoid": [
+      "Shoulders",
+      "Core (rectus/obliques)",
+      "Chest",
+      "Forearms"
+    ],
+    "reasoning": "Today taxes shoulders, core, and grip heavily; build posterior chain and triceps for balance and injury prevention.",
+    "suggested_exercises": [
+      "Barbell Rows: 3x6-8",
+      "Bulgarian Split Squats: 3x8 each leg",
+      "Chest-Supported T-Bar Rows: 3x8-10",
+      "Lying Tricep Extensions: 3x10-12",
+      "Good Mornings: 3x8"
+    ]
+  },
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (6:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (11:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (16:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (21:00)\nLevel 1: Emerging Skill\nLevel 2: Can get into a freestanding handstand & take a step\nLevel 3: Can walk 5+ metres\nFor levels 2/3\nLevel 2: Walk to or away from wall focusing on stacked hands/shoulders/hips\nFor level 3 spend a few minutes on each drill then move onto building volume & practice walking / handstand Hold or Partner assisted walking\nT2B Bar Progression\nSpend 5 Minutes going through progressions (26:00-31:00)\nThen Build to;\n100 T2B for time\nFalse Grip on bar - focus on Knuckles Up\n10 x Beat Swing\nBigger Beat Swing - Push Down on Bar\nReach Long in the Arch not back - Dont bend the knees\nKnees to Chest - Aggressive & Pop - pause at the top\nAggressive Knees to chest - with toe flick\nWorkout | 100 T2B for time\ntime cap 10 mins\nScale to Knees to Elbow, V-ups or Tuck Sits\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+  "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 5 mins. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on Back (lats/mid-back), Glutes, Hamstrings."
+}

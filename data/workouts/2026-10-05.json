@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-05",
+  "day_name": "Monday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "Buy IN\n20 Thrusters @ 60/40\nThen 6 rounds;\n16 Push Ups\n8 Toes to bar\n4 Bear Complexes @ 60/40\n16 KB Snatches @ 24/16\n12 Pull Ups\n16 Box Jumps 24/20\"\n8 Power Cleans @ 60/40\n100m Run together\nBUY OUT\n2000m Row\nScale weight to 40/30\nScale T2B to V-Ups or Tuck Sits\nScale Push Ups to Knee Push Ups\nScale Pull Ups to Banded or Ring Rows\nPartition as Required",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "rear deltoids",
+      "back hyperextensors",
+      "biceps",
+      "core stability"
+    ],
+    "avoid": [
+      "quadriceps",
+      "shoulders",
+      "triceps",
+      "hip flexors"
+    ],
+    "reasoning": "Today hammers quads, shoulders, and triceps heavily via thrusters, push-ups, and gymnastics. Accessory work targets posterior chain balance and arm antagonists.",
+    "suggested_exercises": [
+      "Prone incline DB rows 3x8-10",
+      "Face pulls 3x12-15",
+      "Barbell bent-over rows 3x6-8",
+      "Dumbbell curls 3x10-12",
+      "Pallof press holds 3x30sec/side"
+    ]
+  },
+  "raw_text": "Workout | 200m Run\n30 second PVC/Banded Shoulder Opener\n10 Scap Push Ups\n10 Scap Pull Ups\n5 Box Step Ups\n10 Air Squats\n5 Push Ups\n5 KB C&J\nEmpty Bar\n5 Deadlifts\n5 Hang Power Cleans\n5 Front Squats\n5 Push Press\n3 Thrusters\n3 T2B\n3 Pull Ups\n3 Box Jumps\n1 Bear Complex\nWorkout | Buy IN\n20 Thrusters @ 60/40\nThen 6 rounds;\n16 Push Ups\n8 Toes to bar\n4 Bear Complexes @ 60/40\n16 KB Snatches @ 24/16\n12 Pull Ups\n16 Box Jumps 24/20\"\n8 Power Cleans @ 60/40\n100m Run together\nBUY OUT\n2000m Row\nScale weight to 40/30\nScale T2B to V-Ups or Tuck Sits\nScale Push Ups to Knee Push Ups\nScale Pull Ups to Banded or Ring Rows\nPartition as Required",
+  "siri_text": "Monday's workout. Metcon: Workout: Buy IN, 20 Thrusters @ 60/40, 16 Push Ups, 8 Toes to bar, 4 Bear Complexes @ 60/40. For hypertrophy, focus on rear deltoids, back hyperextensors, biceps."
+}

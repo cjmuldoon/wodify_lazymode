@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-06",
+  "day_name": "Tuesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL",
+  "strength": [
+    {
+      "name": "Deadlift",
+      "description": "3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%"
+    },
+    {
+      "name": "Split Jerk",
+      "description": "1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "upper back",
+      "biceps",
+      "shoulders (rear/lateral)"
+    ],
+    "avoid": [
+      "lower back",
+      "quadriceps",
+      "glutes",
+      "hamstrings"
+    ],
+    "reasoning": "Upper body pulling and arm work balances lower body dominance without interfering with CNS recovery from heavy deadlifts and metcon.",
+    "suggested_exercises": [
+      "Barbell Rows: 3x8",
+      "Face Pulls: 3x12",
+      "Barbell Curls: 3x10",
+      "Lateral Raises: 3x12"
+    ]
+  },
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nWorkout | 3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
+  "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 4 at 85 percent. Strength: Split Jerk, 1 by 3. Metcon: Rounds for Time: 400m Run, 10 Deadlifts @ 100/80, 10 Box Jumps. For hypertrophy, focus on upper back, biceps, shoulders (rear/lateral)."
+}
