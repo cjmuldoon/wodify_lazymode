@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T09:32:38",
+  "last_updated": "2026-10-04T15:13:04",
   "week_of": "2026-10-05",
   "workouts": {
     "2026-02-23": {
@@ -8314,33 +8314,35 @@
       ],
       "metcon": {
         "name": "Workout",
-        "type": "Rounds for Time",
-        "description": "3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
+        "type": "AMRAP",
+        "description": "8 min AMRAP\n30 Double Unders\n5 HSPU",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "upper back",
+          "back",
           "biceps",
-          "shoulders (rear/lateral)"
+          "hamstrings",
+          "core"
         ],
         "avoid": [
-          "lower back",
-          "quadriceps",
-          "glutes",
-          "hamstrings"
+          "shoulders",
+          "triceps",
+          "chest",
+          "quads"
         ],
-        "reasoning": "Upper body pulling and arm work balances lower body dominance without interfering with CNS recovery from heavy deadlifts and metcon.",
+        "reasoning": "Address posterior chain and arms to balance upper body pressing volume while avoiding CNS fatigue from shoulder/hip extension.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Face Pulls: 3x12",
-          "Barbell Curls: 3x10",
-          "Lateral Raises: 3x12"
+          "Bent-over barbell rows 3x6-8",
+          "Incline dumbbell curls 3x8-10",
+          "Nordic hamstring curls 3x4-6",
+          "Landmine rotations 3x10 per side",
+          "Seal rows 2x8"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nWorkout | 3 RFT\n400m Run\n10 Deadlifts @ 100/80\n10 Box Jumps",
-      "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 4 at 85 percent. Strength: Split Jerk, 1 by 3. Metcon: Rounds for Time: 400m Run, 10 Deadlifts @ 100/80, 10 Box Jumps. For hypertrophy, focus on upper back, biceps, shoulders (rear/lateral)."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nWorkout | 8 min AMRAP\n30 Double Unders\n5 HSPU",
+      "siri_text": "Tuesday's workout. Strength: Deadlift, 3 by 4 at 85 percent. Strength: Split Jerk, 1 by 3. Metcon: AMRAP 8 minutes: 30 Double Unders, 5 HSPU. For hypertrophy, focus on back, biceps, hamstrings."
     },
     "2026-10-07": {
       "date": "2026-10-07",
@@ -8362,34 +8364,35 @@
       ],
       "metcon": {
         "name": "Workout",
-        "type": "Workout",
-        "description": "Every 90 seconds Until Bust\n8 Snatches @ 45/30kg\n1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees\nAdd 1 rep after every successful round to the burpees\nScore is total reps\nCan be Squat snatch, Muscle or Power",
-        "time_cap": null
+        "type": "Rounds for Time",
+        "description": "5 RFT\n200m Run\n5 Squat Snatches @ 40/30\n8 Bar Facing Burpees\n15 min Time Cap",
+        "time_cap": "15 min"
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
           "back",
           "biceps",
-          "rear delts"
+          "rear delts",
+          "core"
         ],
         "avoid": [
           "quads",
           "glutes",
-          "hamstrings",
           "shoulders",
-          "core"
+          "chest"
         ],
-        "reasoning": "Lower body and anterior chain fatigued; build posterior chain and arms for balance.",
+        "reasoning": "Back/biceps work antagonistically to heavy pressing patterns; core stability supports snatches without additional leg fatigue.",
         "suggested_exercises": [
-          "Bent-over rows: 3x8-10",
-          "Barbell curls: 3x10-12",
-          "Face pulls: 3x12-15",
-          "Pendlay rows: 3x8-10"
+          "Barbell Rows: 3x8",
+          "Dumbbell Curls: 3x10",
+          "Face Pulls: 3x12",
+          "Pallof Press: 3x10/side",
+          "Reverse Pec Deck: 2x12"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 80%\n15:00 2 @ 80%\nWorkout | Every 90 seconds Until Bust\n8 Snatches @ 45/30kg\n1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees\nAdd 1 rep after every successful round to the burpees\nScore is total reps\nCan be Squat snatch, Muscle or Power\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
-      "siri_text": "Wednesday's workout. Strength: Snatch, 2 by 2 at 80 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: Workout: 8 Snatches @ 45/30kg, 1-2-3-4-5-6-7-8-9-10 Bar Facing Burpees, Can be Squat snatch, Muscle or Power. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 80%\n15:00 2 @ 80%\nWorkout | 5 RFT\n200m Run\n5 Squat Snatches @ 40/30\n8 Bar Facing Burpees\n15 min Time Cap\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
+      "siri_text": "Wednesday's workout. Strength: Snatch, 2 by 2 at 80 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: Rounds for Time: 200m Run, 5 Squat Snatches @ 40/30, 8 Bar Facing Burpees. For hypertrophy, focus on back, biceps, rear delts."
     },
     "2026-10-08": {
       "date": "2026-10-08",
@@ -8408,33 +8411,29 @@
         "time_cap": null
       },
       "gymnastics": [
-        "Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (6:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (11:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (16:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (21:00)\nLevel 1: Emerging Skill\nLevel 2: Can get into a freestanding handstand & take a step\nLevel 3: Can walk 5+ metres\nFor levels 2/3\nLevel 2: Walk to or away from wall focusing on stacked hands/shoulders/hips\nFor level 3 spend a few minutes on each drill then move onto building volume & practice walking / handstand Hold or Partner assisted walking\nT2B Bar Progression\nSpend 5 Minutes going through progressions (26:00-31:00)\nThen Build to;\n100 T2B for time\nFalse Grip on bar - focus on Knuckles Up\n10 x Beat Swing\nBigger Beat Swing - Push Down on Bar\nReach Long in the Arch not back - Dont bend the knees\nKnees to Chest - Aggressive & Pop - pause at the top\nAggressive Knees to chest - with toe flick",
         "GHD Sit-ups"
       ],
       "hypertrophy": {
         "recommended_muscles": [
-          "Back (lats/mid-back)",
-          "Glutes",
-          "Hamstrings",
-          "Triceps"
+          "back",
+          "hamstrings",
+          "glutes"
         ],
         "avoid": [
-          "Shoulders",
-          "Core (rectus/obliques)",
-          "Chest",
-          "Forearms"
+          "abs",
+          "obliques",
+          "shoulders"
         ],
-        "reasoning": "Today taxes shoulders, core, and grip heavily; build posterior chain and triceps for balance and injury prevention.",
+        "reasoning": "Today heavily taxes core and shoulders; accessorize posterior chain to balance and enhance recovery without competing for CNS resources.",
         "suggested_exercises": [
-          "Barbell Rows: 3x6-8",
-          "Bulgarian Split Squats: 3x8 each leg",
-          "Chest-Supported T-Bar Rows: 3x8-10",
-          "Lying Tricep Extensions: 3x10-12",
-          "Good Mornings: 3x8"
+          "Barbell Rows: 3x8",
+          "Romanian Deadlifts: 3x8",
+          "Leg Curls: 3x10",
+          "Glute Bridges: 3x12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGymnastics | Tabata 20 seconds on - 10 seconds off x 5 mins (00:00)\nHollow & Arch Hold\nHSW Progression\n5 mins - Handstand Kick Up 10 Reps (6:00)\nBeginners - Start from a Pike - Pop up with 1 foot only\nAim for soft feet onto wall\n5 mins - Nose & toes to wall - Keep in a hollow (11:00)\nAccumulate 2 mins total\n5 mins - Nose & toes Shoulder taps - (16:00)\nShift Weight between hands\n5 mins - HSW Attempts or stay with a prior progression (21:00)\nLevel 1: Emerging Skill\nLevel 2: Can get into a freestanding handstand & take a step\nLevel 3: Can walk 5+ metres\nFor levels 2/3\nLevel 2: Walk to or away from wall focusing on stacked hands/shoulders/hips\nFor level 3 spend a few minutes on each drill then move onto building volume & practice walking / handstand Hold or Partner assisted walking\nT2B Bar Progression\nSpend 5 Minutes going through progressions (26:00-31:00)\nThen Build to;\n100 T2B for time\nFalse Grip on bar - focus on Knuckles Up\n10 x Beat Swing\nBigger Beat Swing - Push Down on Bar\nReach Long in the Arch not back - Dont bend the knees\nKnees to Chest - Aggressive & Pop - pause at the top\nAggressive Knees to chest - with toe flick\nWorkout | 100 T2B for time\ntime cap 10 mins\nScale to Knees to Elbow, V-ups or Tuck Sits\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
-      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: Tabata 20 seconds on - 10 seconds off x 5 mins. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on Back (lats/mid-back), Glutes, Hamstrings."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back, hamstrings, glutes."
     },
     "2026-10-09": {
       "date": "2026-10-09",
@@ -8467,9 +8466,9 @@
         }
       ],
       "metcon": {
-        "name": "Hot & Heavy",
+        "name": "Workout",
         "type": "EMOM",
-        "description": "E4MOM X 4\nPartner Workout - 3 mins work - 1 mins rest\n20m Farmer Carry @ 80/50 (rx+ 100/70) ea\n20m Sandbag carry @ 70/45 (rx+ 80/50) ea\nScore Max Cals (AB) in time remaining\nrest 1 minute\n1 person working at a time",
+        "description": "E5MOM x 3\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks\nRest in time remaining",
         "time_cap": null
       },
       "gymnastics": [],
@@ -8477,26 +8476,25 @@
         "recommended_muscles": [
           "back",
           "biceps",
-          "rear delts",
-          "core"
+          "rear delts"
         ],
         "avoid": [
           "quads",
           "glutes",
           "chest",
-          "anterior delts"
+          "front delts",
+          "triceps"
         ],
-        "reasoning": "Lower body and pressing heavily taxed; target pulling/posterior chain to balance and aid recovery.",
+        "reasoning": "Today taxes lower body and pressing heavily; posterior chain accessory work balances fatigue and maintains shoulder health.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Face Pulls: 3x12",
-          "Dumbbell Curls: 3x10",
-          "Ab Wheel Rollouts: 3x8",
-          "Prone Cobra Hold: 3x20-30s"
+          "Barbell Rows 3x6-8",
+          "Incline Dumbbell Curls 3x8-10",
+          "Face Pulls 3x12-15",
+          "Seal Rows 3x10-12"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBB @ 30% B Squat\nDB 22,5/16kg\n2 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n15 face pull\n15 Goblet Squat\n14 Reverse Static Lunges\n10 30% BB B Squat\nBack Squat | 4x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 45%\n3:00 4 @ 55%\n6:00 4 @ 65%\nHOLD 3x4\n9:00 4 @ 75%\n12:00 4 @ 75%\n15:00 4 @ 75%\nShoulder Press | 2x3 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 3 @ 50%\n3:00 3 @ 60%\n6:00 3 @ 70%\nHOLD 2x3\n9:00 3 @ 80%\n12:00 3 @ 80%\nHot & Heavy | E4MOM X 4\nPartner Workout - 3 mins work - 1 mins rest\n20m Farmer Carry @ 80/50 (rx+ 100/70) ea\n20m Sandbag carry @ 70/45 (rx+ 80/50) ea\nScore Max Cals (AB) in time remaining\nrest 1 minute\n1 person working at a time\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s\nBench Press | 1x1",
-      "siri_text": "Friday's workout. Strength: Back Squat, 4 by 4 at 75 percent. Strength: Shoulder Press, 2 by 3 at 80 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. Strength: Bench Press, 1 by 1. Metcon: Hot & Heavy. EMOM 3 minutes: 20m Farmer Carry @ 80/50 (rx+ 100/70) ea, 20m Sandbag carry @ 70/45 (rx+ 80/50) ea, 1 person working at a time. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBB @ 30% B Squat\nDB 22,5/16kg\n2 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n15 face pull\n15 Goblet Squat\n14 Reverse Static Lunges\n10 30% BB B Squat\nBack Squat | 4x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 45%\n3:00 4 @ 55%\n6:00 4 @ 65%\nHOLD 3x4\n9:00 4 @ 75%\n12:00 4 @ 75%\n15:00 4 @ 75%\nShoulder Press | 2x3 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 3 @ 50%\n3:00 3 @ 60%\n6:00 3 @ 70%\nHOLD 2x3\n9:00 3 @ 80%\n12:00 3 @ 80%\nWorkout | E5MOM x 3\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks\nRest in time remaining\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s\nBench Press | 1x1",
+      "siri_text": "Friday's workout. Strength: Back Squat, 4 by 4 at 75 percent. Strength: Shoulder Press, 2 by 3 at 80 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. Strength: Bench Press, 1 by 1. Metcon: EMOM: 10 cal row, 6 BMU or C2B, 10 Cal Row, 6 Thrusters @ 60/40, 10 Cal Row. For hypertrophy, focus on back, biceps, rear delts."
     },
     "2026-10-11": {
       "date": "2026-10-11",
