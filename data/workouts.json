@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T14:17:14",
+  "last_updated": "2026-10-08T14:25:22",
   "week_of": "2026-10-12",
   "workouts": {
     "2026-02-23": {
@@ -8430,25 +8430,24 @@
       "hypertrophy": {
         "recommended_muscles": [
           "back",
-          "glutes",
           "hamstrings",
-          "chest"
+          "glutes"
         ],
         "avoid": [
-          "core",
-          "shoulders",
-          "triceps"
+          "abs",
+          "obliques",
+          "shoulders"
         ],
-        "reasoning": "GHD and handstand work exhaust core and shoulders; target posterior chain and chest for balanced development.",
+        "reasoning": "Today heavily taxes core and shoulders; train posterior chain to maintain balance and avoid CNS fatigue.",
         "suggested_exercises": [
           "Barbell Rows: 3x6-8",
-          "Bulgarian Split Squats: 3x8-10",
-          "Incline Dumbbell Press: 3x8-10",
-          "Glute-Ham Raises: 3x8-10"
+          "Romanian Deadlifts: 3x8-10",
+          "Glute-Ham Raises: 3x8-10",
+          "Seal Rows: 2x12-15"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nWorkout | EMOM x 5\nLow Bar – Inverted Bar Row\n3 reps – 2 second Pause – Horizontal Pull & Hold\nStart with your shoulders pulled back and down – Maintain this position throughout\n• Make sure that you are holding your sternum to the bar and elbows behind your back\n• Find a distance forward of the bar with your feet that you can hold for ideally 10 seconds\nEMOM x 5 Beat Swing – Start Very Small – tension in hollow AND arch!\nEMOM x 5 Jump into Hollow – Arch – Press Down –\nEMOM x 5 Glute Bridge on Ground – Aggressive Hip Pop\nEMOM x 5 Low Bar – Hip Pop to Bar – Power from Hips only – no legs or Arms - stay in your heels\nEMOM x 5 – 15 second Hold – Bar Dips – bar at sternum – keep shoulders back and down\nEMOM x 5 Low Bar Transitions – bar at sternum – Palms Open\n- Stay on your heels – start with hip pop – then Push Down on bar – aggressively find your feet\nEMOM x 6 Muscle Up Attempts or Jumping Bar Muscle Ups\nOR Weighted Bar Muscle Ups - Dont change your set up to get the weight\nWorkout | Metcon\nEMOM x 10\n10 AB Cals\n1 Bar Muscle Ups\nIncrease 1 Bar Muscle Up every minute Until Bust then start from 1 again\n- Scale to Chest to Bar/ Pull Ups Or Jumping Bar Muscle Ups\nScore is Highest Unbroken Round\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
-      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back, glutes, hamstrings."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nWorkout | EMOM x 5\nLow Bar – Inverted Bar Row\n3 reps – 2 second Pause – Horizontal Pull & Hold\nStart with your shoulders pulled back and down – Maintain this position throughout\n• Make sure that you are holding your sternum to the bar and elbows behind your back\n• Find a distance forward of the bar with your feet that you can hold for ideally 10 seconds\nEMOM x 5 Beat Swing – Start Very Small – tension in hollow AND arch!\nEMOM x 5 Jump into Hollow – Arch – Press Down –\nEMOM x 5 Glute Bridge on Ground – Aggressive Hip Pop\nEMOM x 5 Low Bar – Hip Pop to Bar – Power from Hips only – no legs or Arms - stay in your heels\nEMOM x 5 – 15 second Hold – Bar Dips – bar at sternum – keep shoulders back and down\nEMOM x 5 Low Bar Transitions – bar at sternum – Palms Open\n- Stay on your heels – start with hip pop – then Push Down on bar – aggressively find your feet\nEMOM x 6 Muscle Up Attempts or Jumping Bar Muscle Ups\nOR Weighted Bar Muscle Ups - Dont change your set up to get the weight\nWorkout | Metcon\nEMOM x 10\n8/6 AB Cals\n1 Bar Muscle Ups\nIncrease 1 Bar Muscle Up every minute Until Bust then start from 1 again\n- Scale to Chest to Bar/ Pull Ups Or Jumping Bar Muscle Ups\nScore is Highest Unbroken Round\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
+      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back, hamstrings, glutes."
     },
     "2026-10-09": {
       "date": "2026-10-09",
