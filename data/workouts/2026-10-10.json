@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-10",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Workout",
+    "type": "Rounds for Time",
+    "description": "Rest 3 minutes then\n8 RFT YGIG\n10 wall balls\n100m run",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts"
+    ],
+    "avoid": [
+      "quads",
+      "glutes",
+      "shoulders",
+      "calves"
+    ],
+    "reasoning": "Wall balls and running heavily tax lower body and anterior chain; accessorize posterior chain for balance.",
+    "suggested_exercises": [
+      "Barbell rows 3x6-8",
+      "Dumbbell curls 3x8-10",
+      "Face pulls 3x12-15",
+      "Seal rows 2x10-12"
+    ]
+  },
+  "raw_text": "Workout | 10 Band Row → Rotate → Press\n5e/s World’s Greatest Stretch\n10 Air Squats\n10 box overs\n3 synchro burpees\nJog 150m together\n10 scap push ups\nWorkout | 25-minute partner AMRAP\n300m run together\n12 synchro kettlebell box overs 24/20” & 24/16\n20 alternating sit-ups wall ball pass 9/6kg\n12 synchro burpees\nKB held on one arm, alternate hands every 6 reps\nStart round 1 at a controlled pace\nWorkout | Rest 3 minutes then\n8 RFT YGIG\n10 wall balls\n100m run",
+  "siri_text": "Saturday's workout. Metcon: Rounds for Time: 10 wall balls, 100m run. For hypertrophy, focus on back, biceps, rear delts."
+}

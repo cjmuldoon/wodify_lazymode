@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Deadlift",
-      "description": "3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%"
+      "description": "3x4 | 3x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%"
     },
     {
       "name": "Split Jerk",
@@ -14,8 +14,8 @@
   ],
   "metcon": {
     "name": "Workout",
-    "type": "EMOM",
-    "description": "E5MOM x 4\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks\nRest in time remaining",
+    "type": "Workout",
+    "description": "IGYG 20min\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks",
     "time_cap": null
   },
   "gymnastics": [],
@@ -24,23 +24,24 @@
       "rear delts",
       "biceps",
       "hamstrings",
-      "core"
+      "core stability"
     ],
     "avoid": [
       "quads",
       "glutes",
-      "chest",
       "anterior delts",
-      "triceps"
+      "triceps",
+      "lower back"
     ],
-    "reasoning": "Deadlifts and jerks hammer quads/glutes/chest/triceps; accessory work balances posterior chain and arms without CNS fatigue.",
+    "reasoning": "Address pulling/pressing imbalances from DL and jerk; build rear chain without compounding posterior chain fatigue.",
     "suggested_exercises": [
       "Face pulls: 3x12",
-      "Incline dumbbell curls: 3x10",
-      "Nordic curls or GHD sit-ups: 3x6-8",
-      "Reverse pec deck: 3x12"
+      "Dumbbell bicep curls: 3x10",
+      "Nordic hamstring curls: 3x5",
+      "Pallof press: 3x8 each side",
+      "Prone incline DB row: 3x10"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\nPaused at knee 2 count\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nWorkout | E5MOM x 4\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks\nRest in time remaining",
-  "siri_text": "Friday's workout. Strength: Deadlift, 3 by 4 at 85 percent. Strength: Split Jerk, 1 by 3. Metcon: EMOM: 10 cal row, 6 BMU or C2B, 10 Cal Row, 6 Thrusters @ 60/40, 10 Cal Row. For hypertrophy, focus on rear delts, biceps, hamstrings."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x4 | 3x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x4\n9:00 4 @ 85%\n12:00 4 @ 85%\n15:00 4 @ 85%\nSplit Jerk | 1x3 | 10 mins\nE2MOMx5\nWork Up To a Top Set of 2\n00:00 2\n02:00 2\n04:00 2\n06:00 2\n08:00 2\nWorkout | IGYG 20min\n10 cal row\n6 BMU or C2B\n10 Cal Row\n6 Thrusters @ 60/40\n10 Cal Row\n4 Wall Walks",
+  "siri_text": "Friday's workout. Strength: Deadlift, 3 by 4 at 85 percent. Strength: Split Jerk, 1 by 3. Metcon: Workout: 10 cal row, 6 BMU or C2B, 10 Cal Row, 6 Thrusters @ 60/40, 10 Cal Row. For hypertrophy, focus on rear delts, biceps, hamstrings."
 }
