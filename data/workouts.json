@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T09:51:04",
+  "last_updated": "2026-10-11T16:12:47",
   "week_of": "2026-10-12",
   "workouts": {
     "2026-02-23": {
@@ -8547,7 +8547,7 @@
       "strength": [
         {
           "name": "Snatch",
-          "description": "2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 80%\n15:00 2 @ 80%"
+          "description": "3x2 | paused at knee for 2 count | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 55%\n6:00 2 @ 65%\nHOLD 3x2\n9:00 2 @ 75%\n12:00 2 @ 75%\n15:00 2 @ 75%"
         },
         {
           "name": "Bulgarian Split Squat",
@@ -8569,24 +8569,26 @@
         "recommended_muscles": [
           "back",
           "biceps",
-          "rear delts"
-        ],
-        "avoid": [
-          "quads",
-          "glutes",
-          "shoulders",
+          "rear delts",
           "core"
         ],
-        "reasoning": "Lower body and overhead pressing heavily taxed today; prioritize pulling movements to balance and maintain posture integrity.",
+        "avoid": [
+          "quadriceps",
+          "glutes",
+          "shoulders",
+          "traps"
+        ],
+        "reasoning": "Today emphasizes lower body and overhead pressing; accessory work targets pulling muscles and posterior chain balance.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Face Pulls: 3x12",
-          "Dumbbell Curls: 3x10",
-          "Single-arm Landmine Rows: 3x8 each side"
+          "Barbell Rows 3x8",
+          "Face Pulls 3x12",
+          "Dumbbell Curls 3x10",
+          "Ab Wheel Rollouts 3x8",
+          "Reverse Pec Deck 3x12"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 2x2 | 18mins\nE3MOMx6\nBUILD 4 Set\n0:00 2@ 55%\n3:00 2 @ 65%\n6:00 2 @70%\n9:00 2 @ 75%\nHOLD 2x2\n12:00 2 @ 80%\n15:00 2 @ 80%\nWorkout | 16-minute AMRAP\nRX\n21 Box Jump Overs @ 24\"/20\"\n15 T2B\n9 Power Snatches @ 50/35kg\n6 Overhead Squats @ 50/35kg\nRX+\n27 Box Jump Overs 24\"/20\"\n21 T2B\n15 Power Snatches @ 60/40 kg\n9 Overhead Squats @ 60/40 kg\nscale T2B to Leg Raises Or V-ups/Tuck Sits\nScale Box Jump Overs to Box Step Overs\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
-      "siri_text": "Wednesday's workout. Strength: Snatch, 2 by 2 at 80 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: AMRAP 16 minutes: 21 Box Jump Overs @ 24\"/20\", 15 T2B, 9 Power Snatches @ 50/35kg, 6 Overhead Squats @ 50/35kg, 27 Box Jump Overs 24\"/20\". For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | 1 Tall Snatch > 1 High Hang Snatch > 1 Hang Snatch\nE2MOM x 12\nStart with empty Bar & make Small jumps or stick with the empty bar\nFinish Tall & Drop Fast\n2 good reps before you move up in weight\nSnatch | 3x2 | paused at knee for 2 count | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 55%\n6:00 2 @ 65%\nHOLD 3x2\n9:00 2 @ 75%\n12:00 2 @ 75%\n15:00 2 @ 75%\nWorkout | 16-minute AMRAP\nRX\n21 Box Jump Overs @ 24\"/20\"\n15 T2B\n9 Power Snatches @ 50/35kg\n6 Overhead Squats @ 50/35kg\nRX+\n27 Box Jump Overs 24\"/20\"\n21 T2B\n15 Power Snatches @ 60/40 kg\n9 Overhead Squats @ 60/40 kg\nscale T2B to Leg Raises Or V-ups/Tuck Sits\nScale Box Jump Overs to Box Step Overs\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
+      "siri_text": "Wednesday's workout. Strength: Snatch, 3 by 2 at 75 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: AMRAP 16 minutes: 21 Box Jump Overs @ 24\"/20\", 15 T2B, 9 Power Snatches @ 50/35kg, 6 Overhead Squats @ 50/35kg, 27 Box Jump Overs 24\"/20\". For hypertrophy, focus on back, biceps, rear delts."
     },
     "2026-10-10": {
       "date": "2026-10-10",
@@ -8630,7 +8632,7 @@
       "strength": [
         {
           "name": "Clean and Jerk",
-          "description": "3x2 | 3 x 2 | E3MOMx5\nBUILD 1 Set\n0:00 2 @ 55%\n3:00 2 @ 65%\nHOLD 3x2\n6:00 2 @ 75%\n9:00 2 @ 75%\n12:00 2 @ 75%"
+          "description": "2x2 | 3 x 2 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 2x2\n9:00 2 @ 80%\n12:00 2 @ 80%"
         }
       ],
       "metcon": {
@@ -8642,28 +8644,27 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (lats)",
+          "back (rows)",
           "biceps",
-          "rear delts",
-          "core (anti-rotation)"
+          "shoulders (rear delt)"
         ],
         "avoid": [
+          "legs",
+          "lower back",
           "quads",
           "glutes",
-          "hamstrings",
-          "shoulders (anterior/middle)"
+          "anterior core"
         ],
-        "reasoning": "Clean/jerk and deadlift dominate legs and front chain; bike adds quad fatigue. Target posterior chain and arms for balance.",
+        "reasoning": "Today heavily taxes lower body and anterior chain; accessory work targets posterior chain and arms to balance and promote hypertrophy without compounding fatigue.",
         "suggested_exercises": [
-          "Bent-over barbell rows 3x8-10",
-          "Dumbbell bicep curls 3x10-12",
-          "Face pulls 3x12-15",
-          "Pallof press 3x10 each side",
-          "Lat pulldowns 3x10-12"
+          "Barbell Rows 3x6-8",
+          "Incline Dumbbell Curls 3x8-10",
+          "Reverse Pec Deck Flyes 3x10-12",
+          "Seal Rows 3x8-10"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Tall Jerk\nTop set of 2\nStart with bar in front of your forehead with your hips/toes fully extended - drop fast aiming to be locked out as your feet are planted and the weight evenly distributed between both legs\nstart with the empty bar and slowly move up in weight\nClean and Jerk | 3x2 | 3 x 2 | E3MOMx5\nBUILD 1 Set\n0:00 2 @ 55%\n3:00 2 @ 65%\nHOLD 3x2\n6:00 2 @ 75%\n9:00 2 @ 75%\n12:00 2 @ 75%\nWorkout | Part A\nFit Wars Workout 2\n21-14-7\nBike Erg (AB)\nDeadlift\nOR\n7-14-21\nDeadlift\nBike Erg (AB)\n@ 110/80\nFit wars Athletes use Bike Erg\n15 min CAP",
-      "siri_text": "Monday's workout. Strength: Clean and Jerk, 3 by 2 at 75 percent. Metcon: Workout: Part A, 21-14-7, Bike Erg (AB), Deadlift, 7-14-21. For hypertrophy, focus on back (lats), biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Tall Jerk\nTop set of 2\nStart with bar in front of your forehead with your hips/toes fully extended - drop fast aiming to be locked out as your feet are planted and the weight evenly distributed between both legs\nstart with the empty bar and slowly move up in weight\nClean and Jerk | 2x2 | 3 x 2 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 2x2\n9:00 2 @ 80%\n12:00 2 @ 80%\nWorkout | Part A\nFit Wars Workout 2\n21-14-7\nBike Erg (AB)\nDeadlift\nOR\n7-14-21\nDeadlift\nBike Erg (AB)\n@ 110/80\nFit wars Athletes use Bike Erg\n15 min CAP",
+      "siri_text": "Monday's workout. Strength: Clean and Jerk, 2 by 2 at 80 percent. Metcon: Workout: Part A, 21-14-7, Bike Erg (AB), Deadlift, 7-14-21. For hypertrophy, focus on back (rows), biceps, shoulders (rear delt)."
     },
     "2026-10-13": {
       "date": "2026-10-13",
@@ -8672,7 +8673,7 @@
       "strength": [
         {
           "name": "Back Squat",
-          "description": "4x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 45%\n3:00 4 @ 55%\n6:00 4 @ 65%\nHOLD 3x4\n9:00 4 @ 75%\n12:00 4 @ 75%\n15:00 4 @ 75%"
+          "description": "3x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%"
         },
         {
           "name": "Shoulder Press",
@@ -8706,24 +8707,26 @@
         "recommended_muscles": [
           "back",
           "biceps",
-          "rear delts"
+          "rear delts",
+          "core"
         ],
         "avoid": [
           "quads",
           "glutes",
           "chest",
-          "shoulders"
+          "front delts"
         ],
-        "reasoning": "Back and arms balance quad/glute/chest dominance; rear delts support shoulder health without competing with pressing fatigue.",
+        "reasoning": "Targets posterior chain and arms to balance quad/glute dominance while avoiding CNS fatigue from metcon wall balls and runs.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Dumbbell Curls: 3x10",
-          "Face Pulls: 3x12",
-          "Seal Rows: 3x10"
+          "Barbell Rows: 3x6-8",
+          "Barbell Curls: 3x8-10",
+          "Face Pulls: 3x12-15",
+          "Pallof Press: 3x10e/s",
+          "Incline Bench Dumbbell Rows: 3x10"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBB @ 30% B Squat\nDB 22,5/16kg\n2 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n15 face pull\n15 Goblet Squat\n14 Reverse Static Lunges\n10 30% BB B Squat\nBack Squat | 4x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 45%\n3:00 4 @ 55%\n6:00 4 @ 65%\nHOLD 3x4\n9:00 4 @ 75%\n12:00 4 @ 75%\n15:00 4 @ 75%\nShoulder Press | 2x3 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 3 @ 50%\n3:00 3 @ 60%\n6:00 3 @ 70%\nHOLD 2x3\n9:00 3 @ 80%\n12:00 3 @ 80%\nWorkout | 500m Run\n50 Wall Balls\nRest 3 Mins\n50 Wall Balls\n500m Run\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s\nBench Press | 1x1",
-      "siri_text": "Tuesday's workout. Strength: Back Squat, 4 by 4 at 75 percent. Strength: Shoulder Press, 2 by 3 at 80 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. Strength: Bench Press, 1 by 1. Metcon: Workout: 500m Run, 50 Wall Balls, 50 Wall Balls, 500m Run. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nBB @ 30% B Squat\nDB 22,5/16kg\n2 round:\n30sec e/s PVC Shoulder Opener\n5 PVC Around the Worlds each way\n5 PVC Pass Throughs\n15 face pull\n15 Goblet Squat\n14 Reverse Static Lunges\n10 30% BB B Squat\nBack Squat | 3x4 | 3 x 4 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 50%\n3:00 4 @ 60%\n6:00 4 @ 70%\nHOLD 3x4\n9:00 4 @ 80%\n12:00 4 @ 80%\n15:00 4 @ 80%\nShoulder Press | 2x3 | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 3 @ 50%\n3:00 3 @ 60%\n6:00 3 @ 70%\nHOLD 2x3\n9:00 3 @ 80%\n12:00 3 @ 80%\nWorkout | 500m Run\n50 Wall Balls\nRest 3 Mins\n50 Wall Balls\n500m Run\nHack Squat | 3x10\nLateral Raise | 3x10 | Slight bend in elbows\nArms stay slightly in front\nPinkies up\nReach out to sides, not up\nWalking Lunge | 3x10 | 3x10e/s\nBench Press | 1x1",
+      "siri_text": "Tuesday's workout. Strength: Back Squat, 3 by 4 at 80 percent. Strength: Shoulder Press, 2 by 3 at 80 percent. Strength: Hack Squat, 3 by 10. Strength: Lateral Raise, 3 by 10. Strength: Walking Lunge, 3 by 10. Strength: Bench Press, 1 by 1. Metcon: Workout: 500m Run, 50 Wall Balls, 50 Wall Balls, 500m Run. For hypertrophy, focus on back, biceps, rear delts."
     },
     "2026-10-15": {
       "date": "2026-10-15",
