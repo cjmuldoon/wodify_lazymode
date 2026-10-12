@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-23",
+  "day_name": "Friday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat",
+  "strength": [
+    {
+      "name": "Front Squat",
+      "description": "3x4 | 3x4\nTEMPO 2,0,0 | 12mins\nE2MOMx6\nBUILD 2 Set\n0:00 6 @ 55%\n2:00 5 @ 65%\nHOLD 3x4\n4:00 4 @ 75%\n6:00 4 @ 75%\n8:00 4 @ 75%"
+    },
+    {
+      "name": "Paused Bench Press",
+      "description": "4x4 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 2 Set\n0:00 4 @ 55%\n2:00 4 @ 65%\nHOLD 4x4\n4:00 4 @ 77.5%\n6:00 4 @ 77.5%\n8:00 4 @ 77.5%\n10:00 4 @ 77.5%"
+    }
+  ],
+  "metcon": {
+    "name": "Workout",
+    "type": "Workout",
+    "description": "BUY-IN\n10 m Handstand Walk (or Bear Crawl)\nTHEN 3 ROUNDS\n20 Alternating DB Hang Snatches 22.5/15kg\n20 m Single-DB Overhead Walking Lunges 22.5/15kg\nBUY-OUT\n10 Ring Muscle-ups\nSub to a movment you can do as quick singles BMU/C2B/Pull Ups/Banded Pull Ups",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "hamstrings",
+      "rear delts"
+    ],
+    "avoid": [
+      "quads",
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "reasoning": "Balance anterior chain dominance; build posterior chain resilience without competing with today's heavy lower/upper push.",
+    "suggested_exercises": [
+      "Barbell Rows 3x6-8",
+      "Nordic Hamstring Curls 3x4-5",
+      "Face Pulls 3x12-15",
+      "Seal Rows 2x10-12"
+    ]
+  },
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 3x4 | 3x4\nTEMPO 2,0,0 | 12mins\nE2MOMx6\nBUILD 2 Set\n0:00 6 @ 55%\n2:00 5 @ 65%\nHOLD 3x4\n4:00 4 @ 75%\n6:00 4 @ 75%\n8:00 4 @ 75%\nPaused Bench Press | 4x4 | * 2 second Pause\n* Maintain tension in pause | 12mins\nE2MOMx5\nBUILD 2 Set\n0:00 4 @ 55%\n2:00 4 @ 65%\nHOLD 4x4\n4:00 4 @ 77.5%\n6:00 4 @ 77.5%\n8:00 4 @ 77.5%\n10:00 4 @ 77.5%\nWorkout | BUY-IN\n10 m Handstand Walk (or Bear Crawl)\nTHEN 3 ROUNDS\n20 Alternating DB Hang Snatches 22.5/15kg\n20 m Single-DB Overhead Walking Lunges 22.5/15kg\nBUY-OUT\n10 Ring Muscle-ups\nSub to a movment you can do as quick singles BMU/C2B/Pull Ups/Banded Pull Ups",
+  "siri_text": "Friday's workout. Strength: Front Squat, 3 by 4 at 75 percent. Strength: Paused Bench Press, 4 by 4 at 65 percent. Metcon: Workout: BUY-IN, 10 m Handstand Walk (or Bear Crawl), 20 Alternating DB Hang Snatches 22.5/15kg, 20 m Single-DB Overhead Walking Lunges 22.5/15kg, BUY-OUT. For hypertrophy, focus on back, hamstrings, rear delts."
+}
