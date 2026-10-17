@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T12:08:13",
+  "last_updated": "2026-10-17T11:27:48",
   "week_of": "2026-10-19",
   "workouts": {
     "2026-02-23": {
@@ -9065,27 +9065,28 @@
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "back (non-pulling)",
+          "rear delts",
+          "biceps",
           "hamstrings",
-          "glutes",
-          "core stability"
+          "core"
         ],
         "avoid": [
+          "chest",
           "shoulders",
-          "triceps",
           "quadriceps",
-          "grip/forearms"
+          "triceps"
         ],
-        "reasoning": "Power cleans and rope climbs tax shoulders/triceps heavily; burpees/running fatigue quads. Target posterior chain and anti-rotation work.",
+        "reasoning": "Power cleans and burpees heavily tax anterior chain; accessory work targets posterior chain and arms for balance.",
         "suggested_exercises": [
-          "Nordics or leg curls: 3 x 8-10",
-          "Paused back squats (tempo): 3 x 6-8",
+          "Face pulls: 3 x 12-15",
+          "Dumbbell curls: 3 x 10-12",
+          "Nordic hamstring curls: 3 x 5-6",
           "Pallof press: 3 x 10/side",
-          "GHD sit-ups or weighted carries: 3 x 8-12"
+          "Prone incline dumbbell curls: 3 x 12"
         ]
       },
-      "raw_text": "Partner workout | 30 min AMRAP\n300 m run together\nX power cleans\n2 rope climbs\n10 burpee over bar\nRound 1: 20 reps @ 40/30\nRound 2: 18 reps @ 50/35\nRound 3: 16 reps @ 60/40\nRound 4: 14 reps @ 70/45\nRound 5: 12 reps @ 80/50\nRound 6: 10 reps @ 90/55\nRound 7: 8 reps @ 100/60",
-      "siri_text": "Saturday's workout. Metcon: Partner workout. AMRAP 30 minutes: 300 m run together, X power cleans, 2 rope climbs, 10 burpee over bar. For hypertrophy, focus on back (non-pulling), hamstrings, glutes."
+      "raw_text": "Workout | 1 Round\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n1 Round:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\n300m Jog\n1 Rope Climb\nPartner workout | 30 min AMRAP\n300 m run together\nX power cleans\n2 rope climbs\n10 burpee over bar\nRound 1: 20 reps @ 40/30\nRound 2: 18 reps @ 50/35\nRound 3: 16 reps @ 60/40\nRound 4: 14 reps @ 70/45\nRound 5: 12 reps @ 80/50\nRound 6: 10 reps @ 90/55\nRound 7: 8 reps @ 100/60",
+      "siri_text": "Saturday's workout. Metcon: Partner workout. AMRAP 30 minutes: 300 m run together, X power cleans, 2 rope climbs, 10 burpee over bar. For hypertrophy, focus on rear delts, biceps, hamstrings."
     }
   }
 }
