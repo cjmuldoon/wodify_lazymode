@@ -9,9 +9,9 @@
     }
   ],
   "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "AMRAP x 15\n200m Easy Run\n10 Wall Balls\n10 Pull Ups\nRest 1min\nKipping or Strict Ring Rows -",
+    "name": "Cool Down",
+    "type": "Workout",
+    "description": "Foam Roll or Cool Down Static stretch as a group",
     "time_cap": null
   },
   "gymnastics": [
@@ -21,23 +21,23 @@
     "recommended_muscles": [
       "chest",
       "shoulders",
-      "triceps"
+      "biceps"
     ],
     "avoid": [
       "back",
-      "legs",
       "glutes",
-      "hamstrings"
+      "hamstrings",
+      "lats"
     ],
-    "reasoning": "Deadlift, rows, and pull-ups dominate posterior chain; horizontal pressing and shoulder work provide antagonistic balance without CNS fatigue.",
+    "reasoning": "Deadlifts and pull-ups heavily tax posterior chain; accessory work targets antagonists and underdeveloped pressing muscles.",
     "suggested_exercises": [
       "Dumbbell Bench Press: 3x8-10",
       "Incline Dumbbell Flyes: 3x10-12",
-      "Lateral Raises: 3x12-15",
-      "Rope Tricep Pushdowns: 3x10-12",
-      "Chest-Supported Dumbbell Rows (light): 2x10-12"
+      "Dumbbell Shoulder Press: 3x8-10",
+      "Barbell Curls: 3x8-10",
+      "Machine Chest Press: 2x10-12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nPull-ups | E2MOM x 4\nStrict Pull Ups\nBanded, Eccentric, or weighted\nWorkout | AMRAP x 15\n200m Easy Run\n10 Wall Balls\n10 Pull Ups\nRest 1min\nKipping or Strict Ring Rows -",
-  "siri_text": "Monday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Gymnastics: Pull-ups: E2MOM x 4. Metcon: AMRAP 1 minutes: 200m Easy Run, 10 Wall Balls, 10 Pull Ups, Kipping or Strict Ring Rows -. For hypertrophy, focus on chest, shoulders, triceps."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nPull-ups | E2MOM x 4\nStrict Pull Ups\nBanded, Eccentric, or weighted\nWorkout | AMRAP x 15\n200m Easy Run\n10 Wall Balls\n10 Pull Ups\nRest 1min\nKipping or Strict Ring Rows -\nCool Down | Foam Roll or Cool Down Static stretch as a group",
+  "siri_text": "Monday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Gymnastics: Pull-ups: E2MOM x 4. Metcon: Cool Down. Workout: Foam Roll or Cool Down Static stretch as a group. For hypertrophy, focus on chest, shoulders, biceps."
 }

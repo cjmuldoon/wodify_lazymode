@@ -9,9 +9,9 @@
     }
   ],
   "metcon": {
-    "name": "Workout",
-    "type": "Rounds for Time",
-    "description": "3 RFT\n30 Double unders\n6 C&J @ 60/40\n30 Double unders\nrest 2 mins between rounds",
+    "name": "Cool Down",
+    "type": "Workout",
+    "description": "Foam Roll or Cool Down Static stretch as a group",
     "time_cap": null
   },
   "gymnastics": [],
@@ -19,24 +19,23 @@
     "recommended_muscles": [
       "back",
       "biceps",
-      "rear delts",
-      "core"
+      "core stability"
     ],
     "avoid": [
       "shoulders",
+      "triceps",
       "legs",
-      "forearms",
-      "grip"
+      "lower back"
     ],
-    "reasoning": "C&J heavily taxed shoulders, legs, and grip; accessory work targets posterior chain and upper back to balance and support recovery.",
+    "reasoning": "Clean & jerk heavily taxes shoulders, triceps, and legs; accessory work targets pulling patterns and anti-rotation to build balanced strength.",
     "suggested_exercises": [
-      "Barbell rows 3x6-8",
-      "Dumbbell curls 3x8-10",
-      "Reverse pec deck 3x10-12",
-      "Ab wheel rollouts 3x8-10",
-      "Seal rows 2x12"
+      "Barbell Rows 3x6-8",
+      "Dumbbell Curls 3x8-10",
+      "Pallof Press 3x8 per side",
+      "Prone Cobra Holds 3x20-30 seconds",
+      "Pull-ups or Assisted Pull-ups 3x5-8"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Pause Jerk Dip\nTop set of 3\nWIth bar in your front rack\nSlowly dip keeping a proud chest with elbows high, pause in your dip position & explode up\nThe Bar stays on your front rack until you are fully extended\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 30%\n3:00 3 @ 40%\nHOLD 2x3\n6:00 3 @ 50%\n9:00 3 @ 50%\nWorkout | 3 RFT\n30 Double unders\n6 C&J @ 60/40\n30 Double unders\nrest 2 mins between rounds",
-  "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 2 by 3 at 50 percent. Metcon: Rounds for Time: 30 Double unders, 6 C&J @ 60/40, 30 Double unders. For hypertrophy, focus on back, biceps, rear delts."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Pause Jerk Dip\nTop set of 3\nWIth bar in your front rack\nSlowly dip keeping a proud chest with elbows high, pause in your dip position & explode up\nThe Bar stays on your front rack until you are fully extended\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 30%\n3:00 3 @ 40%\nHOLD 2x3\n6:00 3 @ 50%\n9:00 3 @ 50%\nWorkout | 3 RFT\n30 Double unders\n6 C&J @ 60/40\n30 Double unders\nrest 2 mins between rounds\nCool Down | Foam Roll or Cool Down Static stretch as a group",
+  "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 2 by 3 at 50 percent. Metcon: Cool Down. Workout: Foam Roll or Cool Down Static stretch as a group. For hypertrophy, focus on back, biceps, core stability."
 }
