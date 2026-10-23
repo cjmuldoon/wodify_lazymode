@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Partner workout",
+    "type": "AMRAP",
+    "description": "Guest programmer Shane\nPartner Workout (teams of 3)\n1 person working\n1 person holding\n1 person resting.\n*Reps only count when position is held*\n5 x 7min AMRAPs\n2 mins rest between. This is also the workout/equipment reset time.\n1. 7min AMRAP\n50 Cal Row/35 Cal Bike\n50 Wall Balls\nMax DB Clean & Jerk @22.5/15\n*Plank hold*\n2. 7min AMRAP\n100 Bar Over Hops (Double unders if space allows)\n50 KB OH swings @24/16\nMax Power snatch @40/30\n*Wall Sit Hold*\n3. 7min AMRAP\n200m Run - All\n60 Pull Ups\nMax Thrusters @40/30\n*DB Goblet Squat Hold*\n4. 7min AMRAP\n50 T2B\n50 Burpees\nMax Wall Walks\n*Plate Hold OH @15/10*\n5. 7min AMRAP\n100 Lunges\n50 HSPU/ HR Push Up\nMax Devils Press @22.5/15\n*Hold Top of Push Up*\nNotes\n-Only one DB used.\n-\"Holder\" must be holding before movements count.\n-Partners swap in/out as they see fit.\n-Score is only the max effort reps. All preceding reps are just a buy in to record a score.\nEquipment break down\n1. Rower/Bike, Wall ball, DB,  floor space.\n2. BB, KB, Wall space\n3. Pull up bar, BB, DB, for space.\n4. Pull up bar, floor space, Wall space, weight plate.\n5. Floor space, Wall space, DB.",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "hamstrings",
+      "rear delts"
+    ],
+    "avoid": [
+      "shoulders",
+      "quads",
+      "core",
+      "triceps"
+    ],
+    "reasoning": "Address posterior chain imbalances and pulling strength without fatiguing shoulders or taxing already-hammered pressing muscles.",
+    "suggested_exercises": [
+      "Bent-over barbell rows 3 x 6-8",
+      "Barbell curls 3 x 8-10",
+      "Nordic hamstring curls 3 x 5-6",
+      "Face pulls 3 x 12-15",
+      "Single-leg RDLs 3 x 8 per side"
+    ]
+  },
+  "raw_text": "Warm Up | Suggested warm up:\n200m run\n3 rounds\n5 push ups\n5 sit ups\n5 squats.\nPVC mobility\nBB bar path warm up\nPartner workout | Guest programmer Shane\nPartner Workout (teams of 3)\n1 person working\n1 person holding\n1 person resting.\n*Reps only count when position is held*\n5 x 7min AMRAPs\n2 mins rest between. This is also the workout/equipment reset time.\n1. 7min AMRAP\n50 Cal Row/35 Cal Bike\n50 Wall Balls\nMax DB Clean & Jerk @22.5/15\n*Plank hold*\n2. 7min AMRAP\n100 Bar Over Hops (Double unders if space allows)\n50 KB OH swings @24/16\nMax Power snatch @40/30\n*Wall Sit Hold*\n3. 7min AMRAP\n200m Run - All\n60 Pull Ups\nMax Thrusters @40/30\n*DB Goblet Squat Hold*\n4. 7min AMRAP\n50 T2B\n50 Burpees\nMax Wall Walks\n*Plate Hold OH @15/10*\n5. 7min AMRAP\n100 Lunges\n50 HSPU/ HR Push Up\nMax Devils Press @22.5/15\n*Hold Top of Push Up*\nNotes\n-Only one DB used.\n-\"Holder\" must be holding before movements count.\n-Partners swap in/out as they see fit.\n-Score is only the max effort reps. All preceding reps are just a buy in to record a score.\nEquipment break down\n1. Rower/Bike, Wall ball, DB,  floor space.\n2. BB, KB, Wall space\n3. Pull up bar, BB, DB, for space.\n4. Pull up bar, floor space, Wall space, weight plate.\n5. Floor space, Wall space, DB.",
+  "siri_text": "Saturday's workout. Metcon: Partner workout. AMRAP 7 minutes: Guest programmer Shane, 1 person working, *Reps only count when position is held*, 50 Cal Row/35 Cal Bike, 50 Wall Balls. For hypertrophy, focus on back, biceps, hamstrings."
+}
