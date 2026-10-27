@@ -6,35 +6,41 @@
     {
       "name": "Deadlift",
       "description": "2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%"
+    },
+    {
+      "name": "Extra Conditioning",
+      "description": "10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu"
     }
   ],
   "metcon": {
-    "name": "Workout",
-    "type": "AMRAP",
-    "description": "20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up",
+    "name": "Extra Conditioning",
+    "type": "EMOM",
+    "description": "10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
     "time_cap": null
   },
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "chest",
-      "shoulders",
-      "triceps"
+      "hamstrings",
+      "back",
+      "biceps",
+      "core"
     ],
     "avoid": [
-      "back",
-      "glutes",
-      "hamstrings",
-      "lats"
+      "shoulders",
+      "triceps",
+      "anterior delts",
+      "quads"
     ],
-    "reasoning": "Deadlift and pull-ups heavily tax posterior chain; train antagonists and vertical push muscles for balance.",
+    "reasoning": "Deadlift and HSPU heavily tax shoulders, triceps, and anterior chain; accessorize posterior chain and arms.",
     "suggested_exercises": [
-      "Incline Dumbbell Press 3x8-10",
-      "Lateral Raise 3x12-15",
-      "Dips 3x8-10",
-      "Cable Flyes 3x12-15"
+      "Nordic hamstring curls: 3x5",
+      "Barbell rows: 3x8",
+      "Dumbbell bicep curls: 3x10",
+      "Ab wheel rollouts: 3x8",
+      "Face pulls: 3x12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nWorkout | 20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up",
-  "siri_text": "Wednesday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Metcon: AMRAP 20 minutes: 1-2-3-4-5-6-7..etc, 75% BW Deadlift, Pull Up. For hypertrophy, focus on chest, shoulders, triceps."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nWorkout | 20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
+  "siri_text": "Wednesday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Strength: Extra Conditioning. Metcon: Extra Conditioning. EMOM 10 minutes: 1-5 Wall walks, 4-10 HSPU. For hypertrophy, focus on hamstrings, back, biceps."
 }

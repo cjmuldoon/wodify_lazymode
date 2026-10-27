@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T13:59:12",
+  "last_updated": "2026-10-27T13:01:43",
   "week_of": "2026-11-02",
   "workouts": {
     "2026-02-23": {
@@ -9178,13 +9178,13 @@
       "strength": [
         {
           "name": "Clean and Jerk",
-          "description": "2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 30%\n3:00 3 @ 40%\nHOLD 2x3\n6:00 3 @ 50%\n9:00 3 @ 50%"
+          "description": "2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 40%\n3:00 3 @ 50%\nHOLD 2x3\n6:00 3 @ 60%\n9:00 3 @ 60%"
         }
       ],
       "metcon": {
-        "name": "Cool Down",
+        "name": "Extra Conditioning",
         "type": "Workout",
-        "description": "Foam Roll or Cool Down Static stretch as a group",
+        "description": "Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
         "time_cap": null
       },
       "gymnastics": [],
@@ -9192,24 +9192,26 @@
         "recommended_muscles": [
           "back",
           "biceps",
-          "core stability"
+          "rear delts",
+          "core"
         ],
         "avoid": [
           "shoulders",
-          "quadriceps",
-          "glutes",
-          "triceps"
+          "legs",
+          "triceps",
+          "forearms"
         ],
-        "reasoning": "C&J heavily taxes shoulders, legs, and triceps; accessory work targets posterior chain and arm pulls for balanced development.",
+        "reasoning": "C&J taxes shoulders, legs, triceps heavily; accessory work builds complementary pulling strength without CNS interference.",
         "suggested_exercises": [
-          "Barbell Rows 3x6-8",
-          "Barbell Curls 3x8-10",
-          "Seal Rows 3x10-12",
-          "Ab Wheel Rollouts 3x8-10"
+          "Barbell rows 3 x 6-8",
+          "Weighted pull-ups 3 x 5-7",
+          "Dumbbell reverse flyes 3 x 10-12",
+          "Barbell curls 3 x 8-10",
+          "Dead bugs 3 x 12/side"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Pause Jerk Dip\nTop set of 3\nWIth bar in your front rack\nSlowly dip keeping a proud chest with elbows high, pause in your dip position & explode up\nThe Bar stays on your front rack until you are fully extended\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 30%\n3:00 3 @ 40%\nHOLD 2x3\n6:00 3 @ 50%\n9:00 3 @ 50%\nWorkout | 16 min AMRAP\nMin 1: DBL DB OH Press\nMin 2: Squat clean @ 60/40kg\nMin 3: Cal Bike\nMin 4: rest\n50 seconds work / 10 seconds rest\nScore is total reps\nCool Down | Foam Roll or Cool Down Static stretch as a group",
-      "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 2 by 3 at 50 percent. Metcon: Cool Down. Workout: Foam Roll or Cool Down Static stretch as a group. For hypertrophy, focus on back, biceps, core stability."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Pause Jerk Dip\nTop set of 3\nWIth bar in your front rack\nSlowly dip keeping a proud chest with elbows high, pause in your dip position & explode up\nThe Bar stays on your front rack until you are fully extended\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 40%\n3:00 3 @ 50%\nHOLD 2x3\n6:00 3 @ 60%\n9:00 3 @ 60%\nWorkout | 16 min AMRAP\nMin 1: DBL DB OH Press\nMin 2: Squat clean @ 60/40kg\nMin 3: Cal Bike\nMin 4: rest\n50 seconds work / 10 seconds rest\nScore is total reps\nCool Down | Foam Roll or Cool Down Static stretch as a group\nExtra Conditioning | Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
+      "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 2 by 3 at 60 percent. Metcon: Extra Conditioning. Workout: Tech play after your double under METCON!. For hypertrophy, focus on back, biceps, rear delts."
     },
     "2026-10-28": {
       "date": "2026-10-28",
@@ -9219,37 +9221,43 @@
         {
           "name": "Deadlift",
           "description": "2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%"
+        },
+        {
+          "name": "Extra Conditioning",
+          "description": "10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu"
         }
       ],
       "metcon": {
-        "name": "Workout",
-        "type": "AMRAP",
-        "description": "20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up",
+        "name": "Extra Conditioning",
+        "type": "EMOM",
+        "description": "10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
-          "chest",
-          "shoulders",
-          "triceps"
+          "hamstrings",
+          "back",
+          "biceps",
+          "core"
         ],
         "avoid": [
-          "back",
-          "glutes",
-          "hamstrings",
-          "lats"
+          "shoulders",
+          "triceps",
+          "anterior delts",
+          "quads"
         ],
-        "reasoning": "Deadlift and pull-ups heavily tax posterior chain; train antagonists and vertical push muscles for balance.",
+        "reasoning": "Deadlift and HSPU heavily tax shoulders, triceps, and anterior chain; accessorize posterior chain and arms.",
         "suggested_exercises": [
-          "Incline Dumbbell Press 3x8-10",
-          "Lateral Raise 3x12-15",
-          "Dips 3x8-10",
-          "Cable Flyes 3x12-15"
+          "Nordic hamstring curls: 3x5",
+          "Barbell rows: 3x8",
+          "Dumbbell bicep curls: 3x10",
+          "Ab wheel rollouts: 3x8",
+          "Face pulls: 3x12"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nWorkout | 20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up",
-      "siri_text": "Wednesday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Metcon: AMRAP 20 minutes: 1-2-3-4-5-6-7..etc, 75% BW Deadlift, Pull Up. For hypertrophy, focus on chest, shoulders, triceps."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 2x4 | 2x4\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 15mins\nE3MOMx5\nBUILD 3 Sets\n0:00 4 @ 40%\n3:00 4 @ 45%\n6:00 4 @ 50%\nHOLD 2x4\n9:00 4 @ 60%\n12:00 4 @ 60%\nWorkout | 20 min AMRAP\n1-2-3-4-5-6-7..etc\n75% BW Deadlift\nPull Up\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
+      "siri_text": "Wednesday's workout. Strength: Deadlift, 2 by 4 at 60 percent. Strength: Extra Conditioning. Metcon: Extra Conditioning. EMOM 10 minutes: 1-5 Wall walks, 4-10 HSPU. For hypertrophy, focus on hamstrings, back, biceps."
     },
     "2026-10-29": {
       "date": "2026-10-29",
@@ -9262,9 +9270,9 @@
         }
       ],
       "metcon": {
-        "name": "Handstand Hold",
-        "type": "Workout",
-        "description": "3x30seconds",
+        "name": "Extra Conditioning",
+        "type": "EMOM",
+        "description": "MYKKOS TRIANGLE TEST!\n40min EMOM\n1. X cal Row\n2. X cal Ski\n3. X cal Assault bike\n4. Rest\nNotes: first week of building this volume. Pick a number that you can hold for the whole time and for each machine",
         "time_cap": null
       },
       "gymnastics": [
@@ -9273,26 +9281,25 @@
       "hypertrophy": {
         "recommended_muscles": [
           "back",
+          "biceps",
           "glutes",
-          "hamstrings",
-          "chest"
+          "hamstrings"
         ],
         "avoid": [
-          "abs",
-          "obliques",
-          "shoulders",
-          "anterior core"
+          "core",
+          "quadriceps",
+          "shoulders"
         ],
-        "reasoning": "Today heavily fatigues core and shoulders; target posterior chain and chest for balanced development without CNS interference.",
+        "reasoning": "Rowing/skiing tax core and quads; build posterior chain and upper back pull to balance pressing-dominant MetCon.",
         "suggested_exercises": [
-          "Barbell Rows 3x6-8",
-          "Bulgarian Split Squats 3x8-10",
-          "Chest Flyes 3x10-12",
-          "Prone Hamstring Curls 3x10-12"
+          "Barbell Rows: 3x6-8",
+          "Barbell Glute Bridges: 3x8-10",
+          "Barbell Curls: 3x10-12",
+          "Prone Incline Hamstring Curls: 3x10-12"
         ]
       },
-      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nCool Down | Foam Roll or Cool Down Static stretch as a group\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
-      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back, glutes, hamstrings."
+      "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nCool Down | Foam Roll or Cool Down Static stretch as a group\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds\nExtra Conditioning | MYKKOS TRIANGLE TEST!\n40min EMOM\n1. X cal Row\n2. X cal Ski\n3. X cal Assault bike\n4. Rest\nNotes: first week of building this volume. Pick a number that you can hold for the whole time and for each machine",
+      "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Extra Conditioning. EMOM 40 minutes: MYKKOS TRIANGLE TEST!, 1. X cal Row, 2. X cal Ski, 3. X cal Assault bike. For hypertrophy, focus on back, biceps, glutes."
     },
     "2026-10-30": {
       "date": "2026-10-30",
@@ -9313,37 +9320,33 @@
         }
       ],
       "metcon": {
-        "name": "Cool Down",
+        "name": "Extra Conditioning",
         "type": "Workout",
-        "description": "Foam Roll or Cool Down Static stretch as a group",
+        "description": "4 sets\nMax strict T2B or Knee raise 20s rest Max Kipping T2B or Knee raise 2minutes rest. Keep score",
         "time_cap": null
       },
       "gymnastics": [],
       "hypertrophy": {
         "recommended_muscles": [
           "back",
-          "biceps",
-          "rear delts",
-          "core"
+          "chest",
+          "shoulders"
         ],
         "avoid": [
-          "quads",
-          "glutes",
-          "hamstrings",
-          "front delts",
+          "legs",
+          "core",
           "traps"
         ],
-        "reasoning": "Snatch and leg work dominate lower body and anterior chain; target posterior chain and arms for balanced development without interference.",
+        "reasoning": "Today heavily taxes legs and core; horizontal/vertical pulling and pressing restore balance without compounding fatigue.",
         "suggested_exercises": [
-          "Barbell Rows: 3x8",
-          "Barbell Curls: 3x10",
-          "Face Pulls: 3x12",
-          "Ab Wheel Rollouts: 3x8",
-          "Chest-Supported T-Bar Rows: 3x10"
+          "Barbell Row 3x8",
+          "Incline Dumbbell Bench Press 3x10",
+          "Face Pulls 3x12",
+          "Lat Pulldown 3x10"
         ]
       },
-      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | Snatch Progression\n1 Drop Snatch\n1 Snatch Balance\nStart with PVC Pipe for at least 1 round - MAKE it fast!! Fast drop, Fast Lockout - Only add weight when it's fast\nSnatch | 3x2 | paused at knee for 2 count | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 55%\n6:00 2 @ 65%\nHOLD 3x2\n9:00 2 @ 75%\n12:00 2 @ 75%\n15:00 2 @ 75%\nWorkout | E.5MOM\n30sec rounds, Rest in time remaining\n5 Rounds: 5 Power Snatch @50% 1 RM\n5 Rounds: 7-10 Knees 2 Elbows\n5 Rounds: 5 Power Snatch\n5 Rounds: 7-10 Knees 2 Elbows\nCool Down | Foam Roll or Cool Down Static stretch as a group\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12",
-      "siri_text": "Friday's workout. Strength: Snatch, 3 by 2 at 75 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: Cool Down. Workout: Foam Roll or Cool Down Static stretch as a group. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Barbell\n1x Dumbbell 10/5\n1 round:\n30sec e/s PVC Shoulder Opener\n3 PVC Pass Throughs\n3 PVC Around the Worlds each way\n5e/s DB Windmill 10/5\n5e/s WGS\n5e/s Squat Knee Taps\n10 Broad Jumps\n2 Rounds (Barbell):\n3 Muscle Snatch\n3 Snatch Pull\n3 Hang Power Snatch\n3 Full Snatch\n5 OH Squat\nSnatch Complex | Snatch Progression\n1 Drop Snatch\n1 Snatch Balance\nStart with PVC Pipe for at least 1 round - MAKE it fast!! Fast drop, Fast Lockout - Only add weight when it's fast\nSnatch | 3x2 | paused at knee for 2 count | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 55%\n6:00 2 @ 65%\nHOLD 3x2\n9:00 2 @ 75%\n12:00 2 @ 75%\n15:00 2 @ 75%\nWorkout | E.5MOM\n30sec rounds, Rest in time remaining\n5 Rounds: 5 Power Snatch @50% 1 RM\n5 Rounds: 7-10 Knees 2 Elbows\n5 Rounds: 5 Power Snatch\n5 Rounds: 7-10 Knees 2 Elbows\nCool Down | Foam Roll or Cool Down Static stretch as a group\nBulgarian Split Squat | 4x8\nLeg Extension | 3x12\nExtra Conditioning | 4 sets\nMax strict T2B or Knee raise 20s rest Max Kipping T2B or Knee raise 2minutes rest. Keep score",
+      "siri_text": "Friday's workout. Strength: Snatch, 3 by 2 at 75 percent. Strength: Bulgarian Split Squat, 4 by 8. Strength: Leg Extension, 3 by 12. Metcon: Extra Conditioning. Workout: 4 sets. For hypertrophy, focus on back, chest, shoulders."
     },
     "2026-10-31": {
       "date": "2026-10-31",

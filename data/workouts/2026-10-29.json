@@ -9,9 +9,9 @@
     }
   ],
   "metcon": {
-    "name": "Handstand Hold",
-    "type": "Workout",
-    "description": "3x30seconds",
+    "name": "Extra Conditioning",
+    "type": "EMOM",
+    "description": "MYKKOS TRIANGLE TEST!\n40min EMOM\n1. X cal Row\n2. X cal Ski\n3. X cal Assault bike\n4. Rest\nNotes: first week of building this volume. Pick a number that you can hold for the whole time and for each machine",
     "time_cap": null
   },
   "gymnastics": [
@@ -20,24 +20,23 @@
   "hypertrophy": {
     "recommended_muscles": [
       "back",
+      "biceps",
       "glutes",
-      "hamstrings",
-      "chest"
+      "hamstrings"
     ],
     "avoid": [
-      "abs",
-      "obliques",
-      "shoulders",
-      "anterior core"
+      "core",
+      "quadriceps",
+      "shoulders"
     ],
-    "reasoning": "Today heavily fatigues core and shoulders; target posterior chain and chest for balanced development without CNS interference.",
+    "reasoning": "Rowing/skiing tax core and quads; build posterior chain and upper back pull to balance pressing-dominant MetCon.",
     "suggested_exercises": [
-      "Barbell Rows 3x6-8",
-      "Bulgarian Split Squats 3x8-10",
-      "Chest Flyes 3x10-12",
-      "Prone Hamstring Curls 3x10-12"
+      "Barbell Rows: 3x6-8",
+      "Barbell Glute Bridges: 3x8-10",
+      "Barbell Curls: 3x10-12",
+      "Prone Incline Hamstring Curls: 3x10-12"
     ]
   },
-  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nCool Down | Foam Roll or Cool Down Static stretch as a group\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds",
-  "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Handstand Hold. Workout. For hypertrophy, focus on back, glutes, hamstrings."
+  "raw_text": "Warm-up | Activation & Mobilisation Drills:\n1 round\nWarm Up\n10 Scap Push Ups\n10 scap Pull ups\n10 x Inch Worms\n10 I-Y-T-W\n10 Leg Raise holding rig\nWrist Mobilisation\nBanded Pull Aparts x 10\n5 x PVC Pipe Around the world\nCool Down | Foam Roll or Cool Down Static stretch as a group\nGHD Russian Twist | 3x10\nHandstand Hold | 3x30seconds\nExtra Conditioning | MYKKOS TRIANGLE TEST!\n40min EMOM\n1. X cal Row\n2. X cal Ski\n3. X cal Assault bike\n4. Rest\nNotes: first week of building this volume. Pick a number that you can hold for the whole time and for each machine",
+  "siri_text": "Thursday's workout. Strength: GHD Russian Twist, 3 by 10. Gymnastics: GHD Sit-ups. Metcon: Extra Conditioning. EMOM 40 minutes: MYKKOS TRIANGLE TEST!, 1. X cal Row, 2. X cal Ski, 3. X cal Assault bike. For hypertrophy, focus on back, biceps, glutes."
 }
