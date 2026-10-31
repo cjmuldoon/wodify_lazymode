@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T13:53:42",
+  "last_updated": "2026-10-31T13:24:36",
   "week_of": "2026-11-02",
   "workouts": {
     "2026-02-23": {
@@ -9353,9 +9353,9 @@
       "warm_up": null,
       "strength": [],
       "metcon": {
-        "name": "Partner workout",
-        "type": "Workout",
-        "description": "Grave yard shift\nIGYG 8MIN\nsand bag/thing  20mtr\nKb farmers walk/plate hold 20mtrs\nbike cals  8/6\nRx 60,20*/35,10*\nRx+ 80,25 /45,15*\n3 MIN REST\nZombified\nIGYG 8min\nPwr clean 6\nOver head squat 6\nZombie f/squat 6\nRx 50/30\nRx+ 70/45\n3 min rest\nROW AWAY\n8min partition as required\n600mtr row\n31 DB cleans\n13 burpies Over DB\n6 box jumps\n22/15",
+        "name": "SPOOKY WOD",
+        "type": "AMRAP",
+        "description": "Grave yard shift\nIGYG 8MIN\n20mtr sand bag/thing 20mtr\n20mtrs Kb farmers walk/plate hold\n8/6 bike cals\nRx 60,20*/35,10*\nRx+ 80,25 /45,15*\n3 MIN REST\nZombified\nIGYG 8min\n6 DB Snatch\n6 DB push up\n6 Zombie Squat\n22/15\nROW AWAY\nAMRAP 8MIN\nPARTITION AS RQUIRED\n600MTR ROW\n31 DB Cleans\n13 Burp over DB\n6 Box jumps",
         "time_cap": null
       },
       "gymnastics": [],
@@ -9363,26 +9363,24 @@
         "recommended_muscles": [
           "back",
           "biceps",
-          "rear delts",
-          "core"
+          "rear delts"
         ],
         "avoid": [
           "quads",
           "glutes",
           "shoulders",
-          "forearms"
+          "core"
         ],
-        "reasoning": "Today emphasizes lower body (cleans, squats, rows) and grip; target posterior chain and arms for balanced development.",
+        "reasoning": "Today emphasizes lower body, pressing, and pulling; target antagonists and weak-point muscles for balance.",
         "suggested_exercises": [
-          "Barbell rows 3x6-8",
-          "Face pulls 3x12-15",
-          "Dumbbell curls 3x10-12",
-          "Ab wheel rollouts 3x8-10",
-          "Reverse pec deck 3x12-15"
+          "Incline DB rows 3x8-10",
+          "Barbell or DB curls 3x10-12",
+          "Reverse pec deck 3x12-15",
+          "Single-arm DB rows 3x10/side"
         ]
       },
-      "raw_text": "Warm Up | Suggested warm up:\n200m run\n3 rounds\n5 push ups\n5 sit ups\n5 squats.\nPVC mobility\nBB bar path warm up\nPartner workout | Grave yard shift\nIGYG 8MIN\nsand bag/thing  20mtr\nKb farmers walk/plate hold 20mtrs\nbike cals  8/6\nRx 60,20*/35,10*\nRx+ 80,25 /45,15*\n3 MIN REST\nZombified\nIGYG 8min\nPwr clean 6\nOver head squat 6\nZombie f/squat 6\nRx 50/30\nRx+ 70/45\n3 min rest\nROW AWAY\n8min partition as required\n600mtr row\n31 DB cleans\n13 burpies Over DB\n6 box jumps\n22/15",
-      "siri_text": "Saturday's workout. Metcon: Partner workout. Workout: Grave yard shift, Zombified, ROW AWAY, 600mtr row, 31 DB cleans. For hypertrophy, focus on back, biceps, rear delts."
+      "raw_text": "Warm Up | Suggested warm up:\n200m run\n3 rounds\n5 push ups\n5 sit ups\n5 squats.\nPVC mobility\nBB bar path warm up\nSPOOKY WOD | Grave yard shift\nIGYG 8MIN\n20mtr sand bag/thing 20mtr\n20mtrs Kb farmers walk/plate hold\n8/6 bike cals\nRx 60,20*/35,10*\nRx+ 80,25 /45,15*\n3 MIN REST\nZombified\nIGYG 8min\n6 DB Snatch\n6 DB push up\n6 Zombie Squat\n22/15\nROW AWAY\nAMRAP 8MIN\nPARTITION AS RQUIRED\n600MTR ROW\n31 DB Cleans\n13 Burp over DB\n6 Box jumps",
+      "siri_text": "Saturday's workout. Metcon: SPOOKY WOD. AMRAP 8 minutes: Grave yard shift, 20mtr sand bag/thing 20mtr, 8/6 bike cals, Zombified, 6 DB Snatch. For hypertrophy, focus on back, biceps, rear delts."
     }
   }
 }
