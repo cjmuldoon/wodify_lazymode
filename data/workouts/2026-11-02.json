@@ -21,7 +21,7 @@
   "gymnastics": [],
   "hypertrophy": {
     "recommended_muscles": [
-      "back (lats/rows)",
+      "back (rows)",
       "biceps",
       "core (anti-rotation)"
     ],
@@ -29,16 +29,16 @@
       "shoulders",
       "triceps",
       "posterior chain",
-      "legs"
+      "anterior core"
     ],
-    "reasoning": "Deadlifts and HSPUs heavily tax posterior chain and shoulders; target opposing/non-fatigued muscle groups for balanced development.",
+    "reasoning": "Deadlift and HSPU heavily tax posterior chain and shoulders; target opposing muscle groups to balance and support recovery.",
     "suggested_exercises": [
-      "Barbell Bent-Over Rows 3x6-8",
-      "Dumbbell Bicep Curls 3x8-10",
-      "Pallof Press 3x10 each side",
-      "Cable Rows 3x8-10"
+      "Barbell rows: 3x6-8",
+      "Dumbbell curls: 3x8-10",
+      "Pallof press (single-arm): 3x10 each side",
+      "Seal rows: 3x10-12"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x3 | 3x3\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18 mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x3\n9:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\nWorkout | 25 min Cap\nRound 1\n50 Double unders\n50 Alternating DB Snatches\n50 Double unders\nRest 2 mins\nRound 2\n50 Double unders\n50 T2B\n50 Double unders\nRest 2 mins\nRound 3\n50 Double unders\n50 Cal Row\n50 Double unders\nRest 2 mins\nRound 4\n50 Double unders\n50 Box Jump Overs (Step Down)\n50 Double unders\nRest 2 mins\nScale to 30 Dubs if they take more than 90 seconds\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
-  "siri_text": "Monday's workout. Strength: Deadlift, 3 by 3 at 85 percent. Strength: Extra Conditioning. Metcon: Extra Conditioning. EMOM 10 minutes: 1-5 Wall walks, 4-10 HSPU. For hypertrophy, focus on back (lats/rows), biceps, core (anti-rotation)."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nDL BAR WITH 35%\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n10 straight arm pull downs\n5-10 strict pull ups\n10 RDL BB/35% DL\nDeadlift | 3x3 | 3x3\n*Breathe in through a straw \n* Set The wedge \n* Push The floor away | 18 mins\nE3MOMx6\nBUILD 3 Sets\n0:00 4 @ 55%\n3:00 4 @ 65%\n6:00 4 @ 75%\nHOLD 3x3\n9:00 3 @ 85%\n12:00 3 @ 85%\n15:00 3 @ 85%\nWorkout | 25 min Cap\nRound 1\n40 Double unders\n40 Alternating DB Snatches\n40 Double unders\nRest 2 mins\nRound 2\n40 Double unders\n40 T2B\n40 Double unders\nRest 2 mins\nRound 3\n40 Double unders\n40 Cal Row\n40 Double unders\nRest 2 mins\nRound 4\n40 Double unders\n40 Box Jump Overs (Step Down)\n40 Double unders\nRest 2 mins\nScale to 25 Dubs if they take more than 90 seconds or singles\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu\nExtra Conditioning | 10 MIN EMOM\n1-5 Wall walks\n4-10 HSPU\nNote: shoulder burner, regress your hspu to box hspu",
+  "siri_text": "Monday's workout. Strength: Deadlift, 3 by 3 at 85 percent. Strength: Extra Conditioning. Metcon: Extra Conditioning. EMOM 10 minutes: 1-5 Wall walks, 4-10 HSPU. For hypertrophy, focus on back (rows), biceps, core (anti-rotation)."
 }

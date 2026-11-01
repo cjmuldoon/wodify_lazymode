@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Clean and Jerk",
-      "description": "2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 40%\n3:00 3 @ 50%\nHOLD 2x3\n6:00 3 @ 60%\n9:00 3 @ 60%"
+      "description": "3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 3x2 75-80%\n9:00 2 @ 80%\n12:00 2 @ 80%\n15:00 2 @ 80%"
     }
   ],
   "metcon": {
@@ -18,24 +18,25 @@
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "biceps",
-      "rear delts",
+      "glutes",
+      "hamstrings",
       "core"
     ],
     "avoid": [
       "shoulders",
-      "legs",
-      "grip",
+      "triceps",
+      "quadriceps",
       "forearms"
     ],
-    "reasoning": "C&J taxes shoulders/legs heavily; accessory work targets posterior chain and arms for balance without competing for CNS recovery.",
+    "reasoning": "Clean & Jerk heavily taxes shoulders, triceps, and quads; posterior chain and back are undertaxed and support recovery.",
     "suggested_exercises": [
-      "Barbell Rows 3x6-8",
-      "Barbell Curls 3x8-10",
-      "Reverse Pec Deck 3x10-12",
-      "Ab Wheel Rollouts 3x8-10"
+      "Bent-over barbell rows: 3x6-8",
+      "Bulgarian split squats: 3x8 per leg",
+      "Pendulum squats: 3x10-12",
+      "Weighted pull-ups: 3x6-8",
+      "Nordic curls: 3x5-6"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | Pause Jerk Dip\nTop set of 3\nWIth bar in your front rack\nSlowly dip keeping a proud chest with elbows high, pause in your dip position & explode up\nThe Bar stays on your front rack until you are fully extended\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 2x3 | 3 x 2 | 12mins\nE3MOMx4\nBUILD 2 Sets\n0:00 3 @ 40%\n3:00 3 @ 50%\nHOLD 2x3\n6:00 3 @ 60%\n9:00 3 @ 60%\nWorkout | 16 min AMRAP\nMin 1: DBL DB OH Press\nMin 2: Squat clean @ 60/40kg\nMin 3: Cal Bike\nMin 4: rest\n50 seconds work / 10 seconds rest\nScore is total reps\nCool Down | Foam Roll or Cool Down Static stretch as a group\nExtra Conditioning | Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
-  "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 2 by 3 at 60 percent. Metcon: Extra Conditioning. Workout: Tech play after your double under METCON!. For hypertrophy, focus on back, biceps, rear delts."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | E2MOM x 6\nClean Complex\nTall Clean\nHigh Hang Clean\nHang Clean\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 3x2 75-80%\n9:00 2 @ 80%\n12:00 2 @ 80%\n15:00 2 @ 80%\nWorkout | 4 RFT\n15/12 cal Row\n10 Bar Facing Burpees\n5 C&J @ 60/40\nWork-rest 1:1\nCool Down | Foam Roll or Cool Down Static stretch as a group\nExtra Conditioning | Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
+  "siri_text": "Tuesday's workout. Strength: Clean and Jerk, 3 by 2 at 80 percent. Metcon: Extra Conditioning. Workout: Tech play after your double under METCON!. For hypertrophy, focus on back, glutes, hamstrings."
 }
