@@ -1,0 +1,35 @@
+{
+  "date": "2026-11-07",
+  "day_name": "Saturday",
+  "warm_up": null,
+  "strength": [],
+  "metcon": {
+    "name": "Well, that escalated Chiefly",
+    "type": "AMRAP",
+    "description": "Partner Workout\nTeams of two IGYG each round\n5 x 4min AMRAP, 1min rest between\n1 round IGYG\n3 Cleans\n6 Push ups\n9 Air Squats\nThen tag in your partner\nMIN 0-4:: RX 40/30, RX+ 60/40  then 4:00-5:00rest\nMin 5-9:  RX 50/35, RX+ 70/45 then  9:00-10:00rest\nMIN 10-14: RX 60/40, RX+ 80/50 then 14:00-15:00rest\nMIN 15-19: RX 70/45, RX+ 90/55 then 19:00-20:00rest)\nMIN 20-24: RX 80/50, RX+ 100/60 then rest\nscore total reps\nscale last weight to be max 80% of 1RM and work backward",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts"
+    ],
+    "avoid": [
+      "quads",
+      "chest",
+      "shoulders",
+      "core"
+    ],
+    "reasoning": "Cleans and push-ups tax anterior chain; accessory work targets posterior chain and arm musculature for balance.",
+    "suggested_exercises": [
+      "Barbell rows: 3 x 8–10",
+      "Dumbbell bicep curls: 3 x 10–12",
+      "Face pulls: 3 x 12–15",
+      "Pendlay rows or seal rows: 3 x 8–10"
+    ]
+  },
+  "raw_text": "Warm Up | Suggested warm up:\n200m run\n3 rounds\n5 push ups\n5 sit ups\n5 squats.\nPVC mobility\nBB bar path warm up\nWell, that escalated Chiefly | Partner Workout\nTeams of two IGYG each round\n5 x 4min AMRAP, 1min rest between\n1 round IGYG\n3 Cleans\n6 Push ups\n9 Air Squats\nThen tag in your partner\nMIN 0-4:: RX 40/30, RX+ 60/40  then 4:00-5:00rest\nMin 5-9:  RX 50/35, RX+ 70/45 then  9:00-10:00rest\nMIN 10-14: RX 60/40, RX+ 80/50 then 14:00-15:00rest\nMIN 15-19: RX 70/45, RX+ 90/55 then 19:00-20:00rest)\nMIN 20-24: RX 80/50, RX+ 100/60 then rest\nscore total reps\nscale last weight to be max 80% of 1RM and work backward",
+  "siri_text": "Saturday's workout. Metcon: Well, that escalated Chiefly. AMRAP 4 minutes: Partner Workout, 3 Cleans, 6 Push ups, 9 Air Squats, Then tag in your partner. For hypertrophy, focus on back, biceps, rear delts."
+}

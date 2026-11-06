@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-11",
+  "day_name": "Wednesday",
+  "warm_up": "10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat",
+  "strength": [
+    {
+      "name": "Front Squat",
+      "description": "3x5 | 3x3 | 15mins\nE3MOMx5\nBUILD 2 Sets\n0:00 5 @ 55%\n3:00 5 @ 65%\nHOLD 3x5\n6:00 5 @ 75%\n9:00 5 @ 75%\n12:00 5 @ 75%"
+    },
+    {
+      "name": "Paused Bench Press",
+      "description": "3x5 | 4x4 | 15mins\nE3MOMx5\nBUILD 2 Sets\n0:00 5 @ 55%\n3:00 5 @ 65%\nHOLD 3x5\n6:00 5 @ 75%\n9:00 5 @ 75%\n12:00 5 @ 75%"
+    }
+  ],
+  "metcon": {
+    "name": "Cool Down",
+    "type": "Workout",
+    "description": "Foam Roll or Cool Down Static stretch as a group",
+    "time_cap": null
+  },
+  "gymnastics": [],
+  "hypertrophy": {
+    "recommended_muscles": [
+      "back",
+      "biceps",
+      "rear delts"
+    ],
+    "avoid": [
+      "quads",
+      "chest",
+      "triceps",
+      "front delts"
+    ],
+    "reasoning": "Front squats and bench press heavily tax legs and pressing muscles; back work provides antagonist balance and recovery stimulus.",
+    "suggested_exercises": [
+      "Barbell Rows 3x6-8",
+      "Face Pulls 3x12-15",
+      "Dumbbell Curls 3x8-10",
+      "Incline Bench Reverse Pec Deck 2x12-15"
+    ]
+  },
+  "raw_text": "Warm Up | 10 minute timer\nWarm Up Equipment:\nBlack/Green Band\nEmpty Bar\nDB 22.5/15\nPVC PIpe\nBB @ 30% F Squat\n2 Round:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 goblet squats\n14 DB Static Alt Lunges\n10 30% BB F Squat\nFront Squat | 3x5 | 3x3 | 15mins\nE3MOMx5\nBUILD 2 Sets\n0:00 5 @ 55%\n3:00 5 @ 65%\nHOLD 3x5\n6:00 5 @ 75%\n9:00 5 @ 75%\n12:00 5 @ 75%\nPaused Bench Press | 3x5 | 4x4 | 15mins\nE3MOMx5\nBUILD 2 Sets\n0:00 5 @ 55%\n3:00 5 @ 65%\nHOLD 3x5\n6:00 5 @ 75%\n9:00 5 @ 75%\n12:00 5 @ 75%\nWorkout | 15 min AMRAP\n100m Run\n1 Round of Cindy:\n5 Pull Ups\n10 Push Ups\n15 Air Squats\nCool Down | Foam Roll or Cool Down Static stretch as a group",
+  "siri_text": "Wednesday's workout. Strength: Front Squat, 3 by 5 at 75 percent. Strength: Paused Bench Press, 3 by 5 at 75 percent. Metcon: Cool Down. Workout: Foam Roll or Cool Down Static stretch as a group. For hypertrophy, focus on back, biceps, rear delts."
+}
