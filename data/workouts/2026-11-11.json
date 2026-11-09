@@ -5,7 +5,7 @@
   "strength": [
     {
       "name": "Clean and Jerk",
-      "description": "3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 3x2 75-80%\n9:00 2 @ 80%\n12:00 2 @ 80%\n15:00 2 @ 80%"
+      "description": "3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 40%\n3:00 2 @ 50%\n6:00 2 @ 60%\nHOLD 3x2\n9:00 2 @ 70%\n12:00 2 @ 70%\n15:00 2 @ 70%"
     }
   ],
   "metcon": {
@@ -18,25 +18,24 @@
   "hypertrophy": {
     "recommended_muscles": [
       "back",
-      "biceps",
-      "core stability",
-      "posterior chain"
+      "hamstrings",
+      "rear delts"
     ],
     "avoid": [
+      "quads",
+      "glutes",
       "shoulders",
-      "triceps",
-      "quadriceps",
-      "front delts"
+      "triceps"
     ],
-    "reasoning": "C&J taxed shoulders, triceps, and quads heavily; accessory work targets opposing and stabilizing muscles without competing for recovery.",
+    "reasoning": "Clean & Jerk heavily taxes quads, glutes, shoulders, triceps; accessory work targets posterior chain and upper back for balance.",
     "suggested_exercises": [
-      "Barbell rows 3x6-8",
-      "Barbell curls 3x8-10",
-      "Weighted chin-ups 3x6-8",
-      "Sled push (hamstring bias) 3x10",
-      "Pallof press 3x10/side"
+      "Pendulum rows 3x8-10",
+      "Nordic hamstring curls 3x5-6",
+      "Reverse pec deck 3x12-15",
+      "Seal rows 3x10-12",
+      "Single-leg deadlifts 3x8/side"
     ]
   },
-  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | E2MOM x 6\nClean Complex\nTall Clean\nHigh Hang Clean\nHang Clean\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 50%\n3:00 2 @ 60%\n6:00 2 @ 70%\nHOLD 3x2 75-80%\n9:00 2 @ 80%\n12:00 2 @ 80%\n15:00 2 @ 80%\nWorkout | 15 min AMRAP\n15/12 Cal Row\n12 Toes to Rings\n40 Double Unders\nOpen the rings on the arch and press back and down on the rings in the hollow\nCool Down | Foam Roll or Cool Down Static stretch as a group\nExtra Conditioning | Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
-  "siri_text": "Wednesday's workout. Strength: Clean and Jerk, 3 by 2 at 80 percent. Metcon: Extra Conditioning. Workout: Tech play after your double under METCON!. For hypertrophy, focus on back, biceps, core stability."
+  "raw_text": "Warm-up | 10 minute timer\nWarm Up Equipment:\nPVC Pipe\nRed Band\nEmpty Bar\n2 Rounds:\n30 sec e/s PVC Shoulder Opener\n5 e/s PVC Around The Worlds\n5 PVC Pass Through\n15 face pulls\n15 banded press\n2 Rounds:\n3 muscle Clean\n3 tall cleans\n3 hang cleans\n3 full cleans\nClean Complex | E2MOM x 6\nClean Complex\nTall Clean\nHigh Hang Clean\nHang Clean\nStart with a PVC Pipe and go up in weight slowly\nClean and Jerk | 3x2 | 3 x 2 | 18mins\nE3MOMx6\nBUILD 3 Sets\n0:00 2 @ 40%\n3:00 2 @ 50%\n6:00 2 @ 60%\nHOLD 3x2\n9:00 2 @ 70%\n12:00 2 @ 70%\n15:00 2 @ 70%\nWorkout | 15 min AMRAP\n15/12 Cal Row\n12 Toes to Rings\n40 Double Unders\nOpen the rings on the arch and press back and down on the rings in the hollow\nCool Down | Foam Roll or Cool Down Static stretch as a group\nExtra Conditioning | Tech play after your double under METCON!\nSet a 10minute timer and work on crossover singles, if these are good progress to crossover double unders!",
+  "siri_text": "Wednesday's workout. Strength: Clean and Jerk, 3 by 2 at 70 percent. Metcon: Extra Conditioning. Workout: Tech play after your double under METCON!. For hypertrophy, focus on back, hamstrings, rear delts."
 }
